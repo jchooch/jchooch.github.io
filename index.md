@@ -11,7 +11,7 @@ title: "Joe Choo-Choy"
 
 <div class="row">
   <div class="col-3">
-    <img src="{{site.photo}}" class="img-fluid rounded float-left" alt="my photo"/>
+    <img src="{{site.photo}}" class="img-fluid rounded float-left" alt="countenance"/>
   </div>
   <div class="col">
 <p>
@@ -147,22 +147,22 @@ My first full-time job, where I consolidated my knowledge of algorithms, program
 
       <tr>
         <td style="min-width:70px"> 2015-19 </td>
-        <td> <b>PhD Computational Neuroscience at École polytechnique fédérale de Lausanne ‐ EPFL, Switzerland</b> </td>
+        <td> <b>Doctorate in Something at Somewhere, Someplace</b> </td>
       </tr>
       <tr> <td/> <td>
-I was hired by the <a href="https://www.epfl.ch/research/domains/bluebrain/">Blue Brain Project</a> (BBP), directed by  <a href="https://en.wikipedia.org/wiki/Henry_Markram">Henry Markram </a> (the father of the <a href="https://en.wikipedia.org/wiki/Spike-timing-dependent_plasticity#:~:text=Spike%2Dtiming%2Ddependent%20plasticity%20(,action%20potentials%20(or%20spikes).">STDP</a> plasticity model), under the supervision of <a href="https://www.epfl.ch/research/domains/bluebrain/blue-brain/people/divisionleaders/felix-schurmann/">Felix Schuerman</a> (professor at EPFL), and <a href="https://en.wikipedia.org/wiki/Thomas_Sterling_(computing)">Thomas Sterling </a>(professor at Indiana University, winner of the <a href="https://en.wikipedia.org/wiki/Gordon_Bell_Prize">Gordon Bell prize</a> and inventor of the Beowulf cluster);
+      Project/Achievement 1;
       </td> </tr>
       <tr> <td/> <td>
-My research aimed at combining numerical methods, distributed computing, and neuroscience to discover new ways of performing <i>better</i> (ie faster, more accurate, more stable) simulations of detailed spiking neural networks. The numerical models followed the <a href="https://en.wikipedia.org/wiki/Hodgkin%E2%80%93Huxley_model">Hodgkin-Huxley</a> model (1963 Medicine Nobel Prize) with extensions for detailed branching and further ionic channels;
+      Project/Achievement 2;
       </td> </tr>
       <tr> <td/> <td>
-My thesis entitled <a href="https://infoscience.epfl.ch/record/268035?ln=en">Asynchronous Simulation of Neuronal Activity</a> was nominated for the EPFL doctoral program distinction award (best 8%) and for the IBM research award for the best thesis in computational sciences. The jury was composed by <a href="https://www.bsc.es/labarta-mancho-jesus">Jesus Labarta</a> (director of Barcelona Supercomputing Center), <a href="https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Diesmann_Markus.html?nn=724620">Markus Diesmann</a> (Director of Jullich Research Center) and <a href="https://people.epfl.ch/simone.deparis">Simone Deparis</a> (Professor at the dept. of Mathematics at EPFL);  
+      Project/Achievement 3;
       </td> </tr>
       <tr> <td/> <td>
-As part of the doctoral program I was trained on <a href="http://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2555928173&ww_x_anneeAcad=2020-2021&ww_i_section=2140391&ww_i_niveau=&ww_c_langue=en">cellular and circuit mechanisms in neuroscience</a>, <a href="https://edu.epfl.ch/coursebook/en/neuroscience-behavior-and-cognition-BIO-483">behavior and cognition in neuroscience</a>, <a href="https://edu.epfl.ch/coursebook/en/biological-modeling-of-neural-networks-BIO-465">biological modeling of neural networks</a>, <a href="https://edu.epfl.ch/coursebook/en/machine-learning-CS-433">machine learning</a>, <a href="https://edu.epfl.ch/coursebook/en/introduction-to-natural-language-processing-CS-431">natural language processing</a> and <a href="https://edu.epfl.ch/coursebook/en/statistics-for-data-science-MATH-413">statistics for data science</a>;
+      Project/Achievement 4;
       </td> </tr>
       <tr> <td/> <td>
-During the Summer periods of 2015, 2016 and 2017, I was a visiting researcher at the <a href="https://pti.iu.edu/centers/crest.html">Center for Research in Extreme Scale Technologies (CREST)</a> at Indiana University, working with the developers of HPX on benchmarking, profiling and finetuning the HPX runtime to our use case;
+      Project/Achievement 5.
       </td> </tr>
 
       <tr>
@@ -189,16 +189,8 @@ Between 2005 and 2006 I was an ERASMUS exchange student at the University of Mar
 Here's a list of my most relevant publications. In the following, I was the first author and publications were peer-reviewed, unless mentioned otherwise. Conference journals/proceedings required a presentation at the venue as well. For a more exhaustive list, see my [Google Scholar]({{ site.google_scholar }}) profile.
 
 |--- ||--- |
-|2020||[Fully-Asynchronous Fully-Implicit Variable-Order Variable-Timestep Simulation of Neural Networks](https://arxiv.org/abs/1907.00670), Proc. International Conference on Computational Science, Amsterdam, Holland (ICCS 2020)|
-|2020||[Efficient Distributed Transposition of Large-Scale Multigraphs And High-Cardinality Sparse Matrices](https://arxiv.org/abs/2012.06012), arXiv|
-|2019||[Asynchronous SIMD-Enabled Branch-Parallelism of Morphologically-Detailed Neuron Models](https://www.frontiersin.org/articles/10.3389/fninf.2019.00054/full), Frontiers in Neuroinformatics|
-|2019||[Asynchronous Simulation of Neuronal Activity](https://infoscience.epfl.ch/record/268035?ln=en), EPFL Scientific publications (PhD thesis)|
-|2019||[Fully-Asynchronous Cache-Efficient Simulation of Detailed Neural Networks](https://www.researchgate.net/publication/333664427_Fully-Asynchronous_Cache-Efficient_Simulation_of_Detailed_Neural_Networks), Proc.  International Conference on Computational Science (ICCS 2019), Faro, Portugal|
-|2019||[Exploiting Implicit Flow Graph of System of ODEs to Accelerate the Simulation of Neural Networks](https://ieeexplore.ieee.org/abstract/document/8821008), Proc. International Parallel and Distributed Processing Symposium (IPDPS 2019), Rio de Janeiro, Brazil|
-|2016||[An efficient parallel load-balancing strategy for orthogonal decomposition of geometrical data](http://link.springer.com/chapter/10.1007/978-3-319-41321-1_5), Proc. International Super Computing (ISC 2016), Frankfurt, Germany|
-|2015||(co-author) [Reconstruction and Simulation of Neocortical Microcircuitry](http://www.cell.com/abstract/S0092-8674(15)01191-5), Cell 163, 456–492.|
-|2010||[GPU-enabled steady-state solution of large Markov models](http://eprints.ma.man.ac.uk/1533/), Proc. International Workshop on the Numerical Solution of Markov Chains (NSMC 2010), Williamsburg, Virginia (MSc final project)|
-|ongoing||(arXiv) Distributed Async. Execution Speeds and Scales Up Over 100x The Detection Of Contacts Between Detailed Neuron Morphologies|
+|2027||In preparation: Sketchy Methods for Ill-Considered Objectives, Journal of Modesty, United Kingdom.|
+|1998||[Birth Certificate](https://en.wikipedia.org/wiki/Birth_certificate), British Birth Registry, United Kingdom.|
 
 
 <div class="noprint">

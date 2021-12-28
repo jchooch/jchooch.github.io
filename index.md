@@ -3,6 +3,8 @@ layout: default
 title: "Joe Choo-Choy"
 ---
 
+<!--- Comment out markdown like this FYI --->
+
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
 <p class="lead mb-4"><b>Duke University</b></p>
@@ -15,15 +17,9 @@ title: "Joe Choo-Choy"
 <p>
 Hello. This is a description of me.
 </p>
-
-<p>
-I work at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/">Microsoft Research Cambridge</a> as an AI researcher for <a href="https://www.microsoft.com/en-us/research/project/project-silica/">Project Silica</a>, where I create large computer vision models and ML pipelines for the cloud. Prior to this, I completed a PhD in Computational Neuroscience at the <a href="https://www.epfl.ch/en/">EPFL</a> in Switzerland, researching large-scale reconstruction and simulation of brain-inspired spiking neural networks. Before that, I was an HPC research engineer at the <a href="https://www.epfl.ch/research/domains/bluebrain/">Blue Brain Project</a>, working on large-scale distributed computing, storage and multicore/GPU algorithms.
-</p>
     
   </div>
 </div>
-
-
 
 <ul class="nav mt-3">
   <li class="nav-item">
@@ -38,6 +34,7 @@ I work at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-resear
   <li class="nav-item">
     <a class="btn btn-link" href="https://github.com/{{ site.github_username }}" class="btn btn-link"><i class="fab fa-fw fa-github" ></i>{{ site.github_username}}</a>
   </li>
+  <!--
   <li class="nav-item">
     <a class="btn btn-link" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-link"><i class="fab fa-linkedin" ></i> {{ site.linkedin_username }}</a>
   </li>
@@ -47,14 +44,15 @@ I work at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-resear
   <li class="nav-item">
     <a class="nav-item btn btn-link" href="{{ site.google_scholar }}" class="btn btn-link"><i class="ai ai-google-scholar ai-1x"  title="Google Scholar"></i> google scholar</a>
   </li>
+  -->
   <li class="nav-item">
     <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Lausanne"><i class="fa fa-home"  title="Home"></i> Lausanne, Switzerland</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Portugal"><i class="fas fa-passport"  title="Nationality"></i> Portuguese</a>
+    <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/United_Kingdom"><i class="fas fa-passport"  title="Nationality"></i> British</a>
   </li>
   <li class="nav-item">
-    <a class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> resume</a>
+    <a class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
   </li>
   <!--
   <div class="noprint">

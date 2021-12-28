@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Bruno Magalhaes"
+title: "Joe Choo-Choy"
 ---
 
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<p class="lead mb-4"><b>Research Engineer for Machine Learning and High Performance Computing</b></p>
+<p class="lead mb-4"><b>Duke University</b></p>
 
 <div class="row">
   <div class="col-3">
@@ -13,7 +13,7 @@ title: "Bruno Magalhaes"
   </div>
   <div class="col">
 <p>
-Hi! I'm a machine learning (ML) research engineer with a background on high performance computing (HPC). I'm interested in solving big engineering problems using either or both of these fields, with a sweet spot for neuromorphic computing and other brain-related technology.
+Hello. This is a description of me.
 </p>
 
 <p>

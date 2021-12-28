@@ -68,74 +68,58 @@ Hello. This is a description of me.
 
 <table class="mt-3">
       <tr>
-        <td style="min-width:70px"> 2019-present</td>
-        <td> <b> AI Researcher at Microsoft Research, Cambridge, UK </b> </td>
+        <td style="min-width:70px"> 0000-0000 </td>
+        <td> <b>Experience 5, Location 5</b> </td>
       </tr>
       <tr> <td/> <td>
-       I design computer vision models for object recognition and classification of information written on glass for <a href="https://www.microsoft.com/en-us/research/project/project-silica/">Project Silica</a>.  I also perform full-stack development of large data pipelines and scalable Machine Learning models on the cloud (AzureML), in order to handle the large amount of super-high resolution input data.
+      Project/Achievement 1;
       </td> </tr>
       <tr> <td/> <td>
-Previously, as an AI resident, I improved the CPU load balancing of email servers, based on an ML system that learnt time series from email usage patterns, using DNNs, RNNs, Encoder-Decoders, Bayesian linear regression (closed-form solution) and Bayesian neural nets (Variational Inference); 
+      Project/Achievement 2;  
       </td> </tr>
       <tr> <td/> <td>
-I also built a recommendation system using Graph Neural Nets to learn from related nodes on on very large (trillion edges) Meetings/Documents/Users/Emails graphs;
+      Project/Achievement 3.
+      </td> </tr>
+      <tr>
+        <td style="min-width:70px"> 0000-0000 </td>
+        <td> <b>Experience 4, Location 4</b> </td>
+      </tr>
+      <tr> <td/> <td>
+      Project/Achievement 1.
+      </td> </tr>
+      <tr>
+        <td style="min-width:70px"> 0000-0000 </td>
+        <td> <b> Experience 3, Location 3 </b> </td>
+      </tr>
+      <tr> <td/> <td>
+      Project/Achievement 1;
+      </td> </tr>
+      <tr> <td/> <td>
+      Project/Achievement 2.
+      </td> </tr>
+      <tr>
+        <td style="min-width:70px"> 0000-0000 </td>
+        <td> <b> Experience 2, Location 2 </b> </td>
+      </tr>
+      <tr> <td/> <td>
+      Project/Achievement 1;
+      </td> </tr>
+      <tr> <td/> <td>
+      Project/Achievement 2;
+      </td> </tr>
+      <tr> <td/> <td>
+      Project/Achievement 3;
+      </td> </tr>
+      <tr> <td/> <td>
+      Project/Achievement 4.
       </td> </tr>
 
       <tr>
-        <td style="min-width:70px"> 2015-19 </td>
-        <td> <b>PhD candidate at École polytechnique fédérale de Lausanne ‐ EPFL, Switzerland</b> </td>
+        <td style="min-width:70px"> 0000-0000 </td>
+        <td> <b> Experience 1, Location 1 </b> </td>
       </tr>
       <tr> <td/> <td>
-I researched, conceptualized, implementated and published new methods for the asynchronous variable-step simulation
-of detailed spiking neural networks on large networks of highly-heterogeneous compute nodes. My main contribution was the first ever fully-asynchronous execution model (with async. computation, communication and IO), demonstrated on our use case and yielding a much faster execution and a higher numerical accuracy and stability;
-      </td> </tr>
-      <tr> <td/> <td>
-I programmed in C and C++ on top of an asynchronous runtime system with global memory addressing (HPX) and implemented all the simulation logic (fixed and variable timestep interpolation) and the underlying HPC algorithms such as distributed task scheduling, multicore parallelism, concurrency, threading, dynamic load-balancing, vectorization and cache optimizations on four distinct Intel and compute AMD clusters. 
-      </td> </tr>
-      <tr> <td/> <td>
-Most of my work was implemented and validated on the <a href="https://neuron.yale.edu/neuron/">NEURON</a> and <a href="https://github.com/BlueBrain/CoreNeuron">CoreNeuron</a> open-source simulators, and has been executed full steam on several supercomputers with thousands of compute nodes processing terabytes of data.
-      </td> </tr>
-      <tr>
-        <td style="min-width:70px"> 2015-18 </td>
-        <td> <b>Teaching Assistant at École polytechnique fédérale de Lausanne ‐ EPFL, Switzerland</b> </td>
-      </tr>
-      <tr> <td/> <td>
-During my PhD, I performed 400h of teaching assistant duties for the courses of <a href="https://edu.epfl.ch/coursebook/en/unsupervised-reinforcement-learning-in-neural-networks-CS-434">unsupervised and reinforcement learning</a>, <a href="https://edu.epfl.ch/coursebook/en/project-in-informatics-CS-116">project in neuroinformatics</a> and <a href="https://edu.epfl.ch/coursebook/en/in-silico-neuroscience-BIOENG-450#:~:text=%22In%20silico%20Neuroscience%22%20introduces%20masters,management%2C%20modelling%20and%20computing%20technologies.">in silico neuroscience</a>, preparing exams, coursework, and tutorials;
-      </td> </tr>
-      <tr>
-        <td style="min-width:70px"> 2011-15 </td>
-        <td> <b> Research Engineer at Blue Brain Project, EPFL, Switzerland </b> </td>
-      </tr>
-      <tr> <td/> <td>
-Aiming at scaling up the largest ever digital reconstruction of a detailed mammal neocortex, I designed and developed several algorithms for efficient computation and storage on BlueGene/P, Bluegene/Q and SGI supercomputers. To name a few, parallel/distributed volumetric spatial decomposition, load balancing, spatial indexing, sorting, I/O, sparse matrix transpose, and graph navigation;
-      </td> </tr>
-      <tr> <td/> <td>
-My work led to the first ever digital reconstruction of detailed brain model at the scale of the mouse brain (80M neurons), and is the underlying technology supporting the lab's landmark <a href="http://www.cell.com/abstract/S0092-8674(15)01191-5">Cell paper</a>;
-      </td> </tr>
-
-      <tr>
-        <td style="min-width:70px"> 2009-11 </td>
-        <td> <b> Junior IT architect at Noble Group, London, UK </b> </td>
-      </tr>
-      <tr> <td/> <td>
-As part of an international traineeship, I did three rotational placements on different headquarters where I performed the following duties:
-      </td> </tr>
-      <tr> <td/> <td>
-(1) Network design and configuration for a backup data centre for EU Power & Gas trading infrastructure, London, UK;
-      </td> </tr>
-      <tr> <td/> <td>
-(2) Network configuration and infrastructure design for a port and warehouse for coffee and soy beans, Santos, Brazil;
-      </td> </tr>
-      <tr> <td/> <td>
-(3) Implementation of a web-based software for metals and coffee trading, New York, USA;
-      </td> </tr>
-
-      <tr>
-        <td style="min-width:70px"> 2007-08 </td>
-        <td> <b> Analyst Programmer at MSCI real estate, London, UK </b> </td>
-      </tr>
-      <tr> <td/> <td>
-My first full-time job, where I consolidated my knowledge of algorithms, programming and end-to-end development of software systems. I developed a web app, a windows app, and a search engine on C++, C# and ASP (.NET) that would allow efficient storage and gathering of analytics on financial data;
+      Project/Achievement 1.
       </td> </tr>
 
 </table>

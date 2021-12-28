@@ -193,9 +193,9 @@ When time allows, I post about HPC or ML projects I was involved in, or publicat
 I also maintain a <a href="{{ site.resources_permalink }}">resources page</a> where I keep track of several HPC and ML ebooks available online, used as reference on my posts. 
 </p>
 
-<h4 class="mt-5 mb-3">Misc</h4>
+<h4 class="mt-5 mb-3">Miscellaneous </h4>
 
 <p>
-I've been playing waterpolo for most of my life, the last 12 years with <a href="https://lausannenatation.ch/section/waterpolo/">Lausanne Natation</a> and <a href="https://uk.teamunify.com/SubTabGeneric.jsp?_stabid_=153844/">Cambridge City</a> clubs. I enjoy cooking and winter sports - particularly skiing - and I am a cryptocurrency enthusiast. As a general rule, I prefer not to be addressed by my academic title or surname, so addressing me simply by my first name (<i>"Hi Bruno"</i>) is perfectly fine :)
+Personal or random details.
 </p>
 </div> <!-- noprint -->

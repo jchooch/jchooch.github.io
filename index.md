@@ -46,7 +46,7 @@ Hello. This is a description of me.
   </li>
   -->
   <li class="nav-item">
-    <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Lausanne"><i class="fa fa-home"  title="Home"></i> Lausanne, Switzerland</a>
+    <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Durham,_North_Carolina"><i class="fa fa-home"  title="Home"></i> Durham, NC, USA</a>
   </li>
   <li class="nav-item">
     <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/United_Kingdom"><i class="fas fa-passport"  title="Nationality"></i> British</a>
@@ -68,7 +68,7 @@ Hello. This is a description of me.
 
 <table class="mt-3">
       <tr>
-        <td style="min-width:70px"> 0000-0000 </td>
+        <td style="min-width:90px"> 0000-0000 </td>
         <td> <b>Experience 5, Location 5</b> </td>
       </tr>
       <tr> <td/> <td>
@@ -81,14 +81,14 @@ Hello. This is a description of me.
       Project/Achievement 3.
       </td> </tr>
       <tr>
-        <td style="min-width:70px"> 0000-0000 </td>
+        <td style="min-width:90px"> 0000-0000 </td>
         <td> <b>Experience 4, Location 4</b> </td>
       </tr>
       <tr> <td/> <td>
       Project/Achievement 1.
       </td> </tr>
       <tr>
-        <td style="min-width:70px"> 0000-0000 </td>
+        <td style="min-width:90px"> 0000-0000 </td>
         <td> <b> Experience 3, Location 3 </b> </td>
       </tr>
       <tr> <td/> <td>
@@ -98,7 +98,7 @@ Hello. This is a description of me.
       Project/Achievement 2.
       </td> </tr>
       <tr>
-        <td style="min-width:70px"> 0000-0000 </td>
+        <td style="min-width:90px"> 0000-0000 </td>
         <td> <b> Experience 2, Location 2 </b> </td>
       </tr>
       <tr> <td/> <td>
@@ -113,7 +113,6 @@ Hello. This is a description of me.
       <tr> <td/> <td>
       Project/Achievement 4.
       </td> </tr>
-
       <tr>
         <td style="min-width:70px"> 0000-0000 </td>
         <td> <b> Experience 1, Location 1 </b> </td>
@@ -128,10 +127,9 @@ Hello. This is a description of me.
 <h4 class="mt-5 mb-3">Education</h4>
 
 <table class="mt-3">
-
       <tr>
         <td style="min-width:70px"> 2015-19 </td>
-        <td> <b>Doctorate in Something at Somewhere, Someplace</b> </td>
+        <td> <b> Subject Ph.D. at Somewhere, Someplace</b> </td>
       </tr>
       <tr> <td/> <td>
       Project/Achievement 1;
@@ -142,27 +140,19 @@ Hello. This is a description of me.
       <tr> <td/> <td>
       Project/Achievement 3;
       </td> </tr>
-      <tr> <td/> <td>
-      Project/Achievement 4;
-      </td> </tr>
-      <tr> <td/> <td>
-      Project/Achievement 5.
-      </td> </tr>
-
       <tr>
         <td style="min-width:70px"> 2009 </td>
-        <td> <b> MSc Advanced Computing at Imperial College London, UK </b> </td>
+        <td> <b> Subject M.Sc. at Somewhere, Someplace </b> </td>
       </tr>
       <tr> <td/> <td>
-I was trained on the theoretical aspects of computer science such as compilers, logic, computer vision, type systems, etc. My final project aimed at developing a distributed, multi-core CPU and GPU (CUDA) computation of large Markov models on a distributed network, was awarded distinction and was published as <a href="http://eprints.maths.manchester.ac.uk/1533/">GPU-enabled steady-state solution of large Markov models</a> at NSMC’10;
+      Description.
       </td> </tr>
-
       <tr>
         <td style="min-width:70px"> 2007 </td>
-        <td> <b> BSc Systems Engineering and Computer Science at University of Minho, Portugal </b> </td>
+        <td> <b> Systems Biology B.S. at Duke University, NC, USA </b> </td>
       </tr>
       <tr> <td/> <td>
-Between 2005 and 2006 I was an ERASMUS exchange student at the University of Maribor in Slovenia. I finished the degree with A (best 10%);
+      Description.
       </td> </tr>
 
 </table>
@@ -170,10 +160,10 @@ Between 2005 and 2006 I was an ERASMUS exchange student at the University of Mar
 
 <h4 class="mt-5 mb-3">Publications</h4>
 
-Here's a list of my most relevant publications. In the following, I was the first author and publications were peer-reviewed, unless mentioned otherwise. Conference journals/proceedings required a presentation at the venue as well. For a more exhaustive list, see my [Google Scholar]({{ site.google_scholar }}) profile.
+Here is a list of my (supposedly) scholarly publications.
 
 |--- ||--- |
-|2027||In preparation: Sketchy Methods for Ill-Considered Objectives, Journal of Modesty, United Kingdom.|
+|2027||<b><i>In preparation</i>: Sketchy Methods for Ill-Considered Objectives</b>, Journal of Modesty, United Kingdom.|
 |1998||[Birth Certificate](https://en.wikipedia.org/wiki/Birth_certificate), British Birth Registry, United Kingdom.|
 
 

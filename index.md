@@ -163,7 +163,7 @@ Hello. This is a description of me.
 Here is a list of my (supposedly) scholarly publications.
 
 |--- ||--- |
-|2027||<b><i>In preparation</i>: Sketchy Methods for Ill-Considered Objectives</b>, Journal of Modesty, United Kingdom.|
+|2027||<b>In preparation</b>: Sketchy Methods for Ill-Considered Objectives, <i>Journal of Modesty</i>.|
 |1998||[Birth Certificate](https://en.wikipedia.org/wiki/Birth_certificate), British Birth Registry, United Kingdom.|
 
 

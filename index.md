@@ -1,29 +1,23 @@
 ---
 layout: default
-title: "Bruno Magalhaes"
+title: "Joe Choo-Choy"
 ---
 
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<p class="lead mb-4"><b>Research Engineer for Machine Learning and High Performance Computing</b></p>
+<p class="lead mb-4"><b>Duke University</b></p>
 
 <div class="row">
   <div class="col-3">
-    <img src="{{site.photo}}" class="img-fluid rounded float-left" alt="my photo"/>
+    <img src="{{site.photo}}" class="img-fluid rounded float-left" alt="countenance"/>
   </div>
   <div class="col">
 <p>
-Hi! I'm a machine learning (ML) research engineer with a background on high performance computing (HPC). I'm interested in solving big engineering problems using either or both of these fields, with a sweet spot for neuromorphic computing and other brain-related technology.
-</p>
-
-<p>
-I work at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/">Microsoft Research Cambridge</a> as an AI researcher for <a href="https://www.microsoft.com/en-us/research/project/project-silica/">Project Silica</a>, where I create large computer vision models and ML pipelines for the cloud. Prior to this, I completed a PhD in Computational Neuroscience at the <a href="https://www.epfl.ch/en/">EPFL</a> in Switzerland, researching large-scale reconstruction and simulation of brain-inspired spiking neural networks. Before that, I was an HPC research engineer at the <a href="https://www.epfl.ch/research/domains/bluebrain/">Blue Brain Project</a>, working on large-scale distributed computing, storage and multicore/GPU algorithms.
+Hello. This is a description of me.
 </p>
     
   </div>
 </div>
-
-
 
 <ul class="nav mt-3">
   <li class="nav-item">

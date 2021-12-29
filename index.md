@@ -13,7 +13,10 @@ title: "Joe Choo-Choy"
   </div>
   <div class="col">
     <p>
-    Hello! Are you lost? I am...
+    Hello!
+    </p>
+    <p>
+      Are you lost? I am...
     </p>
     <p>
     In particular, I'm often confused by:

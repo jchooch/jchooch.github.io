@@ -154,10 +154,12 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 <h4 class="mt-5 mb-3">Misc</h4>
 
 <p>
-You can also check out my <a href="{{ site.resources_permalink }}">Resources page</a> or <a href="{{ site.jots_permalink }}">Joe's jots</a>. 
+You can also check out my <a href="{{ site.resources_permalink }}">resources</a> or lists. 
 </p>
 
 <p>
 Personal, random information. 
 </p>
-</div> <!-- noprint -->
+
+<!-- <a href="{{ site.jots_permalink }}">Joe's jots</a> -->
+

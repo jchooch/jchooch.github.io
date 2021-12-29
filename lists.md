@@ -3,7 +3,6 @@ layout: default
 title: Joe's Jots
 permalink: /lists/
 ---
-
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->
 <!-- <a href="#test_linked_text">Test link.</a> -->
 
@@ -161,34 +160,35 @@ permalink: /lists/
     - Safe House &#124; Daniel Espinosa
     - Taken &#124; Pierre Morel
     - The Equalizer &#124; Antoine Fuqua
-<!---
-* <b>Filmmakers/Musicians/Artists</b>
-    - Martin Scorsese
-    - Nicolas Winding Refn
-    - Bo Burnham
-    - Thom Yorke
-    - Aphex Twin
-    - Floating Points
-    - Young Fathers
-    - Massive Attack
-    - Flying Lotus
-    - Four Tet
-    - Boards of Canada
-    - Brian Eno
-* <b>Novelists/Playwrights/Narrativists</b>
-    - Kurt Vonnegut
-    - Margaret Atwood
-    - Karl Ove Knausgaard
-* <b>Journalists/Commentators/Critics</b>
-    - Christopher Hitchens
-    - Adam Gopnik
-    - Will Self
-* <b>Expositors/Scientists/Philosophers</b>
-    - Sam Harris
-    - Sean Carroll
-    - Ed Yong
-    - Carl Zimmer
-* <b>Researchers/Intellectuals I Find Impressive</b>
+
+<!--
+Filmmakers/Musicians/Artists
+    Martin Scorsese
+    Nicolas Winding Refn
+    Bo Burnham
+    Thom Yorke
+    Aphex Twin
+    Floating Points
+    Young Fathers
+    Massive Attack
+    Flying Lotus
+    Four Tet
+    Boards of Canada
+    Brian Eno
+Novelists/Playwrights/Narrativists
+    Kurt Vonnegut
+    Margaret Atwood
+    Karl Ove Knausgaard
+Journalists/Commentators/Critics
+    Christopher Hitchens
+    Adam Gopnik
+    Will Self
+Expositors/Scientists/Philosophers
+    Sam Harris
+    Sean Carroll
+    Ed Yong
+    Carl Zimmer
+Researchers/Intellectuals I Find Impressive
 Neuroscience
     Carsen Stringer
     Karl Friston
@@ -215,7 +215,7 @@ Cognitive Science / AI
 Social Science / Humanities
     Hayden Wilkinson
     Daniel Kahneman
---->
+-->
 
 <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>
 

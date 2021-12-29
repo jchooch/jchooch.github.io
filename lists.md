@@ -10,11 +10,13 @@ permalink: /lists/
 # Things which have influenced me 
 ## or which I'm pretty sure are great
 
+
 <b>N.B.</b> I would say I've consumed relatively many films, books, television shows, and so on. 
 Nonetheless, I have consumed a vanishing proportion of what is out there. 
 This being the case, what is listed below is significantly affected by what I have happened to sample from the world of stimuli.
 These are things which I have consumed and loved, or consumed and found affecting.
 This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
+
 
 
 * <b>Literature : Fiction</b>

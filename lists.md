@@ -80,24 +80,19 @@ permalink: /lists/
     - Armchair Apocrypha &#124; Andrew Bird
     - Random Access Memories &#124; Daft Punk
 * <b>Music : Bands/Artists</b>
-    - Pink Floyd
-    - Radiohead
-    - Massive Attack
-    - Amy Winehouse
-    - Arctic Monkeys
-    - Jeff Buckley
-    - Idles
-    - Eminem
-    - Nas
-    - Wu Tang Clan
-    - Linkin Park
-    - Audioslave
-    - Elton John
-    - The Beatles
-    - The Rolling Stones
-    - Kanye West
-    - Nina Simone
-    - Stevie Wonder
+    - Too many to name...
+        - Nina Simone, Amy Winehouse, Otis Redding, ...
+        - Radiohead, Jeff Buckley, Thom Yorke, ...
+        - Elton John, Stevie Wonder, ...
+        - Pink Floyd, The Beatles, The Rolling Stones, ...
+        - Massive Attack, Boards of Canada, Aphex Twin, Flying Lotus, ...
+        - Wu Tang Clan, Eminem, Nas, MF Doom, Notorious BIG, Kanye West, Kendrick Lamar, ...
+        - Linkin Park, Audioslave, ...
+        - Arctic Monkeys, ...
+        - Young Fathers, ...
+        - Keane, ...
+        - Idles, ...
+        - ...
 * <b>Screen : Serials</b>
     - Ray Donovan &#124; Ann Biderman
     - Hannibal &#124; Bryan Fuller
@@ -166,14 +161,8 @@ Filmmakers/Musicians/Artists
     Martin Scorsese
     Nicolas Winding Refn
     Bo Burnham
-    Thom Yorke
-    Aphex Twin
     Floating Points
-    Young Fathers
-    Massive Attack
-    Flying Lotus
     Four Tet
-    Boards of Canada
     Brian Eno
 Novelists/Playwrights/Narrativists
     Kurt Vonnegut

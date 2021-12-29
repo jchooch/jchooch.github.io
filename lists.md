@@ -161,6 +161,7 @@ permalink: /lists/
     - Safe House &#124; Daniel Espinosa
     - Taken &#124; Pierre Morel
     - The Equalizer &#124; Antoine Fuqua
+<!--
 * <b>Filmmakers/Musicians/Artists</b>
     - Martin Scorsese
     - Nicolas Winding Refn
@@ -187,30 +188,36 @@ permalink: /lists/
     - Sean Carroll
     - Ed Yong
     - Carl Zimmer
+-->
+<!--
 * <b>Researchers/Intellectuals I Find Impressive</b>
-    - <i>Natural Science and Engineering</i>
-        - Carsen Stringer
-        - Adam Marblestone
-        - Josh Tenenbaum
-        - Karl Deisseroth
-        - Sam Gershman
-        - Yann LeCun
-        - Geoffrey Hinton
-        - Yoshua Bengio
-        - Karl Friston
-        - Robert Plomin
-        - David Reich
-        - Pieter Abbeel
-        - Chris Eliasmith
-        - Christof Koch
-        - Stuart Russell
-        - Daphne Koller
-        - Terry Sejnowski
-        - Sebastian Seung
-    - <i>Social Science and Humanities</i>
-        - Hayden Wilkinson
-        - Daniel Kahneman
-
+Neuroscience
+    Carsen Stringer
+    Karl Friston
+    Christof Koch
+    Karl Deisseroth
+Genetics
+    Robert Plomin
+    David Reich
+Technology
+    Adam Marblestone
+    Sebastian Seung
+    Ed Boyden
+Cognitive Science / AI
+    Josh Tenenbaum
+    Sam Gershman
+    Yann LeCun
+    Geoffrey Hinton
+    Yoshua Bengio
+    Pieter Abbeel
+    Chris Eliasmith
+    Stuart Russell
+    Daphne Koller
+    Terry Sejnowski
+Social Science / Humanities
+    Hayden Wilkinson
+    Daniel Kahneman
+-->
 <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>
 
 <p size="-2" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>

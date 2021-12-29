@@ -127,7 +127,9 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 
 |--- ||--- |
 |0000||[Wikipedia](https://www.wikipedia.org/).|
-|1998||Birth certificate, United Kingdom. (Didn't actually write this, but performed necessary work. Well, I didn't really do the <i> work </i>, but I was generally around when the work was done.)|
+|1998||Birth certificate, United Kingdom.|
+|    ||(Didn't actually write this, but performed necessary work.)|
+|    ||(Well, I didn't really do the <i>work</i>, but I was generally present when the work was done.)|
 
 
 <!--

@@ -22,7 +22,7 @@ title: "Joe Choo-Choy"
     I am...
     </p>
     <p>
-    I'm particularly baffled by:
+    In particular, I'm often confused by:
     </p>
     <div class="row">
       <div class="column"></div>
@@ -31,13 +31,13 @@ title: "Joe Choo-Choy"
         </p>
       <div class="column"></div>
         <p>
-          Philosophy
+          Psychology / Cognitive science
         </p>
     </div>
     <div class="row">
       <div class="column"></div>
         <p>
-          Computer science
+          Computer science / Artificial intelligence
         </p>
       <div class="column"></div>
         <p>
@@ -48,6 +48,9 @@ title: "Joe Choo-Choy"
       <div class="column"></div>
         <p>
           <a href="https://www.effectivealtruism.org/">Effective altruism</a>
+        </p>
+        <p>
+          Philosophy
         </p>
     </div>
   </div>

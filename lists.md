@@ -19,53 +19,53 @@ These are things which I have consumed and loved, or consumed and found affectin
 This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
 
 * Literature : Fiction
-    - {Ulysses, A Portrait of the Artist as a Young Man} \| James Joyce
-    - {Lolita, Pale Fire} \| Vladimir Nabokov
-    - {The Corrections, Freedom} | Jonathan Franzen
-    - Brave New World | Aldous Huxley
-    - A Little Life | Hanya Yanagihara
-    - {Metamorphosis, The Trial} | Franz Kafka
-    - Middlemarch | George Eliot
-    - Permutation City | Greg Egan
-    - War and Peace | Leo Tolstoy
-    - A Suitable Boy | Vikram Seth
-    - The Call of the Wild | Jack London
-    - My Man Jeeves | P.G. Wodehouse
-    - Paradise Lost | John Milton
-    - {Infinite Jest, The Pale King} | David Foster Wallace
-    - Hitchhiker's Trilogy | Douglas Adams
-    - {Crime and Punishment, The Brothers Karamazov, Notes from the Underground} | Fyodor Dostoevsky
+    - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce
+    - {Lolita, Pale Fire} &#124; Vladimir Nabokov
+    - {The Corrections, Freedom} &#124; Jonathan Franzen
+    - Brave New World &#124; Aldous Huxley
+    - A Little Life &#124; Hanya Yanagihara
+    - {Metamorphosis, The Trial} &#124; Franz Kafka
+    - Middlemarch &#124; George Eliot
+    - Permutation City &#124; Greg Egan
+    - War and Peace &#124; Leo Tolstoy
+    - A Suitable Boy &#124; Vikram Seth
+    - The Call of the Wild &#124; Jack London
+    - My Man Jeeves &#124; P.G. Wodehouse
+    - Paradise Lost &#124; John Milton
+    - {Infinite Jest, The Pale King} &#124; David Foster Wallace
+    - Hitchhiker's Trilogy &#124; Douglas Adams
+    - {Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky
 * Literature : Non-Fiction
-    - A Treatise of Human Nature | David Hume
-    - Godel, Escher, Bach | Douglas Hofstadter
-    - On Having No Head | Douglas Harding
-    - {The Man Who Mistook His Wife For A Hat, Awakenings, On the Move, Seeing Voices, ...} | Oliver Sacks
-    - Superintelligence | Nick Bostrom
-    - The Organization of Learning | Randy Gallistel
-    - {How the Mind Works, The Stuff of Thought, The Better Angels of Our Nature, Enlightenment Now, ...} | Steven Pinker
-    - The Portable Atheist | Christopher Hitchens (ed.)
-    - {Tractatus Logico-Philosophicus, Philosophical Investigations} | Ludwig Wittgenstein
-    - The Principles of Psychology | William James
-    - {Confessions, City of God} | Augustine of Hippo
-    - Word and Object | W.V.O. Quine
-    - The Origins of Political Order | Francis Fukuyama
-    - Tribe | Sebastian Junger
-    - Reasons and Persons | Derek Parfit
-    - Coming Apart | Charles Murray
-    - Doing Good Better | William MacAskill
-    - The Undoing Project | Michael Lewis
-    - The Symbolic Species | Terrence Deacon
-    - {The Beginning of Infinity, The Fabric of Reality} | David Deutsch
-    - {Life on Earth, Sociobiology, Consilience} | E.O. Wilson
-    - The Conscious Mind | David Chalmers
-    - On Liberty | John Stuart Mill
+    - A Treatise of Human Nature &#124; David Hume
+    - Godel, Escher, Bach &#124; Douglas Hofstadter
+    - On Having No Head &#124; Douglas Harding
+    - {The Man Who Mistook His Wife For A Hat, Awakenings, On the Move, Seeing Voices, ...} &#124; Oliver Sacks
+    - Superintelligence &#124; Nick Bostrom
+    - The Organization of Learning &#124; Randy Gallistel
+    - {How the Mind Works, The Stuff of Thought, The Better Angels of Our Nature, Enlightenment Now, ...} &#124; Steven Pinker
+    - The Portable Atheist &#124; Christopher Hitchens (ed.)
+    - {Tractatus Logico-Philosophicus, Philosophical Investigations} &#124; Ludwig Wittgenstein
+    - The Principles of Psychology &#124; William James
+    - {Confessions, City of God} &#124; Augustine of Hippo
+    - Word and Object &#124; W.V.O. Quine
+    - The Origins of Political Order &#124; Francis Fukuyama
+    - Tribe &#124; Sebastian Junger
+    - Reasons and Persons &#124; Derek Parfit
+    - Coming Apart &#124; Charles Murray
+    - Doing Good Better &#124; William MacAskill
+    - The Undoing Project &#124; Michael Lewis
+    - The Symbolic Species &#124; Terrence Deacon
+    - {The Beginning of Infinity, The Fabric of Reality} &#124; David Deutsch
+    - {Life on Earth, Sociobiology, Consilience} &#124; E.O. Wilson
+    - The Conscious Mind &#124; David Chalmers
+    - On Liberty &#124; John Stuart Mill
 * Literature : Textbooks/Technical
-    - Explorations in Parallel Distributed Processing | McClelland et al.
-    - Deep Learning | Goodfellow et al.
-    - Theoretical Neuroscience | Dayan & Abbott
-    - Neuronal Dynamics | Gerstner et al.
-    - Principles of Neural Science | Kandel et al.
-    - Reinforcement Learning | Sutton & Barto
+    - Explorations in Parallel Distributed Processing &#124; McClelland et al.
+    - Deep Learning &#124; Goodfellow et al.
+    - Theoretical Neuroscience &#124; Dayan & Abbott
+    - Neuronal Dynamics &#124; Gerstner et al.
+    - Principles of Neural Science &#124; Kandel et al.
+    - Reinforcement Learning &#124; Sutton & Barto
 * Literature : Plays
     - {The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} | Martin McDonagh
     - Arcadia | Tom Stoppard

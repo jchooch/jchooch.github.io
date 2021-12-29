@@ -7,17 +7,18 @@ permalink: /lists/
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->
 <!-- <a href="#test_linked_text">Test link.</a> -->
 
+### <a href="https://jchooch.github.io/"> Joe Choo-Choy </a>
+
 # Things which have influenced me 
 ## or which I'm pretty sure are great
-
-
+<br>
 <b>N.B.</b> I would say I've consumed relatively many films, books, television shows, and so on. 
 Nonetheless, I have consumed a vanishing proportion of what is out there. 
 This being the case, what is listed below is significantly affected by what I have happened to sample from the world of stimuli.
 These are things which I have consumed and loved, or consumed and found affecting.
 This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
-
-
+<br>
+<br>
 
 * <b>Literature : Fiction</b>
     - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce

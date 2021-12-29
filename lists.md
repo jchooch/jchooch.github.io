@@ -4,21 +4,20 @@ title: Joe's Jots
 permalink: /lists/
 ---
 
-# Joe's Jots
-
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->
 <!-- <a href="#test_linked_text">Test link.</a> -->
 
-## Things which have influenced me 
+# Things which have influenced me 
 ## or which I'm pretty sure are great
 
-N.B. I would say I've consumed relatively many films, books, television shows, and so on. 
+<b>N.B.</b> I would say I've consumed relatively many films, books, television shows, and so on. 
 Nonetheless, I have consumed a vanishing proportion of what is out there. 
 This being the case, what is listed below is significantly affected by what I have happened to sample from the world of stimuli.
 These are things which I have consumed and loved, or consumed and found affecting.
 This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
 
-* Literature : Fiction
+
+* <b>Literature : Fiction</b>
     - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce
     - {Lolita, Pale Fire} &#124; Vladimir Nabokov
     - {The Corrections, Freedom} &#124; Jonathan Franzen
@@ -35,7 +34,7 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - {Infinite Jest, The Pale King} &#124; David Foster Wallace
     - Hitchhiker's Trilogy &#124; Douglas Adams
     - {Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky
-* Literature : Non-Fiction
+* <b>Literature : Non-Fiction</b>
     - A Treatise of Human Nature &#124; David Hume
     - Godel, Escher, Bach &#124; Douglas Hofstadter
     - On Having No Head &#124; Douglas Harding
@@ -59,19 +58,19 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - {Life on Earth, Sociobiology, Consilience} &#124; E.O. Wilson
     - The Conscious Mind &#124; David Chalmers
     - On Liberty &#124; John Stuart Mill
-* Literature : Textbooks/Technical
+* <b>Literature : Textbooks/Technical</b>
     - Explorations in Parallel Distributed Processing &#124; McClelland et al.
     - Deep Learning &#124; Goodfellow et al.
     - Theoretical Neuroscience &#124; Dayan & Abbott
     - Neuronal Dynamics &#124; Gerstner et al.
     - Principles of Neural Science &#124; Kandel et al.
     - Reinforcement Learning &#124; Sutton & Barto
-* Literature : Plays
+* <b>Literature : Plays</b>
     - {The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} | Martin McDonagh
     - Arcadia | Tom Stoppard
     - {...} | William Shakespeare
     - {Jerusalem, Mojo} | Jez Butterworth
-* Music : Albums
+* <b>Music : Albums</b>
     - Grace | Jeff Buckley
     - Hopes & Fears | Keane
     - {The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} | Radiohead
@@ -81,7 +80,7 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - {Holy Fire, What Went Down} | Foals
     - Armchair Apocrypha | Andrew Bird
     - Random Access Memories | Daft Punk
-* Music : Bands/Artists
+* <b>Music : Bands/Artists</b>
     - Pink Floyd
     - Radiohead
     - Massive Attack
@@ -100,7 +99,7 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - Kanye West
     - Nina Simone
     - Stevie Wonder
-* Screen : Serials
+* <b>Screen : Serials</b>
     - Ray Donovan | Ann Biderman
     - Hannibal | Bryan Fuller
     - The Wire | David Simon
@@ -112,7 +111,7 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - Fawlty Towers | John Cleese & Connie Booth
     - The Show About the Show | Caveh Zahedi
     - Rick and Morty | Justin Roiland & Dan Harmon
-* Screen : Films
+* <b>Screen : Films</b>
     - The Departed | Martin Scorsese
     - {In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} | Martin McDonagh
     - Calvary | John Michael McDonagh
@@ -131,7 +130,7 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - {...} | The Coen Brothers
     - Heat | Michael Mann
     - Her | Spike Jonze
-* Bonus : Actions Movies / Guilty Pleasures
+* <b>Bonus : Actions Movies / Guilty Pleasures</b>
     - John Wick | Chad Stahelski
     - Extraction | Sam Hargrave
     - Tropic Thunder | Ben Stiller
@@ -141,7 +140,7 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - Safe House | Daniel Espinosa
     - Taken | Pierre Morel
     - The Equalizer | Antoine Fuqua
-* Filmmakers/Musicians/Artists
+* <b>Filmmakers/Musicians/Artists</b>
     - Martin Scorsese
     - Nicolas Winding Refn
     - Bo Burnham
@@ -154,21 +153,21 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - Four Tet
     - Boards of Canada
     - Brian Eno
-* Novelists/Playwrights/Narrativists
+* <b>Novelists/Playwrights/Narrativists</b>
     - Kurt Vonnegut
     - Margaret Atwood
     - Karl Ove Knausgaard
-* Journalists/Commentators/Critics
+* <b>Journalists/Commentators/Critics</b>
     - Christopher Hitchens
     - Adam Gopnik
     - Will Self
-* Expositors/Scientists/Philosophers
+* <b>Expositors/Scientists/Philosophers</b>
     - Sam Harris
     - Sean Carroll
     - Ed Yong
     - Carl Zimmer
-* Researchers/Intellectuals I Find Impressive
-    - Natural Science and Engineering
+* <b>Researchers/Intellectuals I Find Impressive</b>
+    - <i>Natural Science and Engineering</i>
         - Carsen Stringer
         - Adam Marblestone
         - Josh Tenenbaum
@@ -187,7 +186,7 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
         - Daphne Koller
         - Terry Sejnowski
         - Sebastian Seung
-    - Social Science and Humanities
+    - <i>Social Science and Humanities</i>
         - Hayden Wilkinson
         - Daniel Kahneman
 

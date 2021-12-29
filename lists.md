@@ -9,7 +9,8 @@ permalink: /lists/
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->
 <!-- <a href="#test_linked_text">Test link.</a> -->
 
-## Things which have influenced me or which I'm pretty sure are great
+## Things which have influenced me 
+## or which I'm pretty sure are great
 
 N.B. I would say I've consumed relatively many films, books, television shows, and so on. 
 Nonetheless, I have consumed a vanishing proportion of what is out there. 

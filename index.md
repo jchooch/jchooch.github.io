@@ -25,33 +25,40 @@ title: "Joe Choo-Choy"
     In particular, I'm often confused by:
     </p>
     <div class="row">
-      <div class="column"></div>
+      <div class="column">
         <p>
           Neuroscience
         </p>
-      <div class="column"></div>
+      </div>
+      <div class="column">
         <p>
           Psychology / Cognitive science
         </p>
+      </div>
     </div>
     <div class="row">
-      <div class="column"></div>
+      <div class="column">
         <p>
-          Computer science / Artificial intelligence
+          Computer science / Machine learning
         </p>
-      <div class="column"></div>
+      </div>
+      <div class="column">
         <p>
           Biology
         </p>
+      </div>
     </div>
     <div class="row">
-      <div class="column"></div>
+      <div class="column">
         <p>
           <a href="https://www.effectivealtruism.org/">Effective altruism</a>
         </p>
+        </div>
+      <div class="column">
         <p>
           Philosophy
         </p>
+      </div>
     </div>
   </div>
 </div>

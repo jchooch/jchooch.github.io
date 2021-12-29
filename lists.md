@@ -131,6 +131,25 @@ permalink: /lists/
     - {...} &#124; The Coen Brothers
     - Heat &#124; Michael Mann
     - Her &#124; Spike Jonze
+* <b>Podcasts/Radio</b>
+    - <a href="https://www.samharris.org/podcasts">Making Sense</a> (Sam Harris) [general]
+    - <a href="https://www.nytimes.com/column/ezra-klein-podcast">The Ezra Klein Show</a> (... Ezra Klein) [general]
+    - <a href="https://conversationswithtyler.com/">Conversations with Tyler</a> (Tyler Cowen) [general]
+    - <a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — In Our Time</a> (Melvyn Bragg) [general]
+    - <a href="https://after-on.com/">After On</a> (Rob Reid) [general]
+    - <a href="https://www.preposterousuniverse.com/podcast/">Mindscape</a> (Sean Carroll) [general]
+    - <a href="https://www.intelligencesquared.com/podcasts/">Intelligence Squared</a> [general]
+    - <a href="https://www.bbc.co.uk/programmes/p029399x">BBC World Service — The Inquiry</a> [current affairs]
+    - <a href="https://80000hours.org/podcast/">80,000 Hours</a> (Rob Wiblin) [effective altruism]
+    - <a href="https://www.thebayesianconspiracy.com/">The Bayesian Conspiracy</a> (Zuber, Brodski & Dickey) [rationalism]
+    - <a href="https://philosophybites.com/">Philosophy Bites</a> (Nigel Warburton, David Edmonds) [philosophy]
+    - <a href="https://partiallyexaminedlife.com/">The Partially Examined Life</a> (Linsenmayer, Paskin, Alwan & Casey) [philosophy]
+    - <a href="https://www.verybadwizards.com/">Very Bad Wizards</a> (Tamler Sommers, David Pizarro) [philosophy, psychology]
+    - <a href="https://www.codykommers.com/podcast">Cognitive Revolution</a> (Cody Kommers) [psychology, academia]
+    - <a href="https://braininspired.co/">Brain Inspired</a> (Paul Middlebrooks) [neuroscience, AI]
+    - <a href="https://www.hoover.org/publications/uncommon-knowledge">Uncommon Knowledge</a> (Peter Robinson) [politics, economics]
+    - <a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — Desert Island Discs</a> (Lauren Laverne) [music, culture]
+    - <a href="https://www.trainingbeta.com/trainingbeta-podcast/">TrainingBeta</a> (Neely Quinn) [rock climbing]
 * <b>Bonus : Actions Movies / Guilty Pleasures</b>
     - John Wick &#124; Chad Stahelski
     - Extraction &#124; Sam Hargrave

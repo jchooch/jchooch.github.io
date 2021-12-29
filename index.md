@@ -22,19 +22,7 @@ title: "Joe Choo-Choy"
     I am...
     </p>
     <p>
-    Lost in *SCIENCE*, that is...!
-    </p>
-    <p>
-    But no... I really am lost.
-    </p>
-    <p>
-    In neuroscience and biology and computer science.
-    </p>
-    <p>
-    Also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a>.
-    </p>
-    <p>
-    ... Please send help.
+    I'm particularly baffled by neuroscience, biology, computer science, philosophy, and <a href="https://www.effectivealtruism.org/">effective altruism</a>.
     </p>
   </div>
 </div>
@@ -129,7 +117,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 |2082||<b>First Paper</b>, <i>The Predatory Journal of Preprints</i>, somewhere off the coast of Madagascar.|
 |1998||<b>Birth certificate</b>, United Kingdom.|
 |    ||(Didn't actually write this, but performed necessary work.)|
-|    ||(Well, I didn't really do the <i>work</i>, but I was generally present when the work was done.)|
+|    ||(Well, I didn't really <i>do</i> the work, but I was generally present when the work was done.)|
 
 
 <!--

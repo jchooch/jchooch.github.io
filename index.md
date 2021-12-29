@@ -12,12 +12,26 @@ title: "Joe Choo-Choy"
     <img src="{{site.photo}}" class="img-fluid rounded float-left" alt="countenance"/>
   </div>
   <div class="col">
+
 <p>
-Hello. 
+Hello.
+</p>
+<p>
 Are you lost?
+</p>
+<p>
 I am.
+</p>
+<p>
 Lost in SCIENCE!
-But no, I really am lost, in neuroscience and biology and computer science, but also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a> <a>.
+</p>
+<p>
+But no, I really am lost, in neuroscience and biology and computer science.
+</p>
+<p>
+Also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a> <a>.
+</p>
+<p>
 Please send help.
 </p>
     

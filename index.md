@@ -24,21 +24,25 @@ title: "Joe Choo-Choy"
     <p>
     I'm particularly baffled by:
     </p>
-    <p>
-      Neuroscience
-    </p>
-    <p>
-      Computer science
-    </p>
-    <p>
-      Biology
-    </p>
-    <p>
-      Philosophy
-    </p>
-    <p>
-      <a href="https://www.effectivealtruism.org/">Effective altruism</a>
-    </p>
+    <div class="row">
+      <div class="column"></div>
+        <p>
+          Neuroscience
+        </p>
+        <p>
+          Computer science
+        </p>
+        <p>
+          Biology
+        </p>
+      <div class="column"></div>
+      <p>
+        Philosophy
+      </p>
+      <p>
+        <a href="https://www.effectivealtruism.org/">Effective altruism</a>
+      </p>
+    </div>
   </div>
 </div>
 

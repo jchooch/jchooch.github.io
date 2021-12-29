@@ -4,9 +4,9 @@ assets: /assets/
 resume: /assets/cv.pdf
 photo: /assets/photo.jpeg
 resources_permalink: /resources/
-google_scholar: https://scholar.google.ch/citations?user=pirWLLgAAAAJ
+google_scholar: https://www.google.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://brunomaga.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jchooch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  joechoochoy
 github_username:   jchooch
 linkedin_username: joe-choo-choy

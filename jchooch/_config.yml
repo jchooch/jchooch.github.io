@@ -1,8 +1,8 @@
 title: "Joe Choo-Choy"
 email: joechoochoy@gmail.com
-assets: /assets/
-resume: /assets/cv.pdf
-photo: /assets/joetoon.jpeg
+assets: _site/assets/
+resume: _site/assets/cv.pdf
+photo: _site/assets/joetoon.jpeg
 resources_permalink: /resources/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jchooch.github.io" # the base hostname & protocol for your site, e.g. http://example.com

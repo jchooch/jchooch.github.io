@@ -19,8 +19,8 @@ These are things which I have consumed and loved, or consumed and found affectin
 This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
 
 * Literature : Fiction
-    - {Ulysses, A Portrait of the Artist as a Young Man} | James Joyce
-    - {Lolita, Pale Fire} | Vladimir Nabokov
+    - {Ulysses, A Portrait of the Artist as a Young Man} \| James Joyce
+    - {Lolita, Pale Fire} \| Vladimir Nabokov
     - {The Corrections, Freedom} | Jonathan Franzen
     - Brave New World | Aldous Huxley
     - A Little Life | Hanya Yanagihara

@@ -12,29 +12,27 @@ title: "Joe Choo-Choy"
     <img src="{{site.photo}}" class="img-fluid rounded float-left" alt="countenance"/>
   </div>
   <div class="col">
-
-<p>
-Hello.
-</p>
-<p>
-Are you lost?
-</p>
-<p>
-I am.
-</p>
-<p>
-Lost in SCIENCE!
-</p>
-<p>
-But no, I really am lost, in neuroscience and biology and computer science.
-</p>
-<p>
-Also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a> <a>.
-</p>
-<p>
-Please send help.
-</p>
-    
+    <p>
+    Hello.
+    </p>
+    <p>
+    Are you lost?
+    </p>
+    <p>
+    I am.
+    </p>
+    <p>
+    Lost in SCIENCE!
+    </p>
+    <p>
+    But no, I really am lost, in neuroscience and biology and computer science.
+    </p>
+    <p>
+    Also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a> <a>.
+    </p>
+    <p>
+    Please send help.
+    </p>
   </div>
 </div>
 
@@ -129,6 +127,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 |1998||Birth certificate, United Kingdom. (Didn't actually write this, but performed necessary work. Well, I didn't really do the <i> work </i>, but I was generally around when the work was done.)|
 
 
+<!--
 <div class="noprint">
 <h4 class="mt-5 mb-3">Posts</h4>
 
@@ -148,6 +147,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
   {% endfor %}
   </table>
 </p>
+-->
 
 <h4 class="mt-5 mb-3">Misc</h4>
 

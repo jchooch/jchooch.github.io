@@ -13,7 +13,12 @@ title: "Joe Choo-Choy"
   </div>
   <div class="col">
 <p>
-Hello. This is a description of me.
+Hello. 
+Are you lost?
+I am.
+Lost in SCIENCE!
+But no, I really am lost, in neuroscience and biology and computer science, but also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a> <a>.
+Please send help.
 </p>
     
   </div>

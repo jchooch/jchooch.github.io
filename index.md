@@ -29,16 +29,23 @@ title: "Joe Choo-Choy"
         <p>
           Neuroscience
         </p>
-        <p>
-          Computer science
-        </p>
-        <p>
-          Biology
-        </p>
       <div class="column"></div>
         <p>
           Philosophy
         </p>
+    </div>
+    <div class="row">
+      <div class="column"></div>
+        <p>
+          Computer science
+        </p>
+      <div class="column"></div>
+        <p>
+          Biology
+        </p>
+    </div>
+    <div class="row">
+      <div class="column"></div>
         <p>
           <a href="https://www.effectivealtruism.org/">Effective altruism</a>
         </p>

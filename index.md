@@ -40,7 +40,7 @@ Hello. This is a description of me.
   </li>
 </ul>
 
-
+<!--
 <h4 class="mt-5 mb-3">Professional Experience</h4>
 
 <table class="mt-3">
@@ -113,7 +113,7 @@ My first full-time job, where I consolidated my knowledge of algorithms, program
       </td> </tr>
 
 </table>
-
+-->
 
 <h4 class="mt-5 mb-3">Education</h4>
 

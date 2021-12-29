@@ -1,4 +1,8 @@
-<html lang="en">
+---
+layout: default
+title: Joe's Jots
+permalink: /jots/
+---
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -6,7 +10,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Joe's Jots</h1>
+    <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
     <a href="https://twitter.com/joechoochoy">Twitter</a>; <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>; <a href="#test_linked_text">Test link.</a>
     <h2>Things which have influenced me or which I'm pretty sure are great</h2>
     <h3>Literature</h3>

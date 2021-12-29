@@ -7,13 +7,13 @@ permalink: /lists/
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->
 <!-- <a href="#test_linked_text">Test link.</a> -->
 
-### __________________________________
+### _________________________
 # Things which have influenced me 
 ## or which I'm pretty sure are great
 <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
 <br>
-<b>N.B.</b> It's common for lists of favourites to basically just be lists of things people have consumed which weren't shit. I have tried to be selective here. I think I've consumed relatively many films, books, television shows, etc. Nonetheless, I have obviously consumed a vanishing proportion of what is out there, so the following lists are severely biased. I've never read Anna Karenina, but I'm pretty sure it would be listed below if I had. These are things which I have consumed and loved, or consumed and found affecting. This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
+<b>N.B.</b> It's common for lists of favourites to basically just be lists of things people have consumed which weren't shit. I have tried to be selective here. I think I've consumed relatively many films, books, television shows, etc. Nonetheless, I have obviously consumed a vanishing proportion of what is out there, so the following lists are severely biased. I've never read <i>Anna Karenina</i>, but I'm pretty sure it would be listed below if I had. These are things which I have consumed and loved, or consumed and found affecting. This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
 <br>
 <br>
 

@@ -1,0 +1,65 @@
+title: "Joe Choo-Choy"
+email: joechoochoy@gmail.com
+assets: _site/assets/
+resume: _site/assets/cv.pdf
+photo: _site/assets/joetoon.jpeg
+resources_permalink: /resources/
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jchooch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:  joechoochoy
+github_username:   jchooch
+linkedin_username: joe-choo-choy
+
+# for the links Statistics for Data Science at EPFL in the resources page
+statistics_lectures: https://github.com/brunomaga/Statistics_EPFL/raw/main/lecture-slides/lectureXXX.pdf
+statistics_exercises: https://github.com/brunomaga/Statistics_EPFL/raw/main/exercises/exercisesXXX.pdf
+statistics_solutions: https://github.com/brunomaga/Statistics_EPFL/raw/main/exercises/solutionsXXX.pdf
+statistics_distributions: https://github.com/brunomaga/Statistics_EPFL/raw/main/formula-sheet-XXX-distributions.pdf
+statistics_videos_preffix: https://www.youtube.com/watch?v=
+statistics_videos: {
+        '1' : UL3sbuoRdr4,
+        '2' : 17Cu_t3AlYE,
+        '3' : aBvCZIpa8_M,
+        '4a': Q9SeBF7qZ3M, '4b': qL8p_PJ3Oyg, '4c': O0Df2YKTEWU,
+        '5a': f_6yjyCNHHA, '5b': tv_SGJZpBwU, '5c': xe8gsdmD9Pg,
+        '6a': AY-r-pEJrl8, '6b': HoeVTGoJ4R8,
+        '7' : bKR4xEVy6OU,
+        '8' : Tz35WW5-Ssk,
+        '9' : LDOPp8TKpik,
+        '10': 1R80y3hoN7M,
+        '11': qojOhge0LmQ,
+        '12': aOXjJMyRhN0,
+        '13': wqAQ2438V-4,
+        '14': QpM2VVhXlkU,
+        '15': 6pg4Yra55e0,
+        '16': ehtVjfDdiN8,
+        '17': D93kbPIVgq0,
+        '18': KG-JtRg2vTk,
+        '19': TmXVMxcMLug,
+        '20': REQGAnbU3LQ,
+        '21': _Huuf8rIhNU,
+        '22': i1G4I38lClc,
+        '23': 2oAsWRTwBdw,
+        #'24': i1G4I38lClc,
+        #'25': 1YrxidM0tYE,
+}
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+permalink: /:title  #replaces folder structure /YY/mm/dd/categories/title by only /title
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

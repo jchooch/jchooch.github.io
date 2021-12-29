@@ -22,7 +22,19 @@ title: "Joe Choo-Choy"
     I am...
     </p>
     <p>
-    In particular, I'm often confused by neuroscience, psychology / cognitive science, computer science / machine learning, biology, philosophy, and <a href="https://www.effectivealtruism.org/">effective altruism</a>.
+    In particular, I'm often confused by:
+    </p>
+    <p>
+      Neuroscience | Psychology | Cognitive Science
+    </p>
+    <p>
+      Computer Science | Machine Learning | Artificial Intelligence
+    </p>
+    <p>
+      Biology | Evolution
+    </p>
+    <p>
+      Philosophy | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
     </p>
   </div>
 </div>

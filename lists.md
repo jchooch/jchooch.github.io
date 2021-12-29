@@ -13,7 +13,7 @@ permalink: /lists/
 <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
 <br>
-<b>N.B.</b> It's common for lists of favourites to basically just be lists of things people have consumed which weren't shit. I have tried to be selective here. I think I've consumed relatively many films, books, television shows, etc. Nonetheless, I have obviously consumed a vanishing proportion of what is out there, so the following lists are severely biased. I've never read <i>Anna Karenina</i>, but I'm pretty sure it would be listed below if I had. These are things which I have consumed and loved, or consumed and found affecting. This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
+<b>N.B.</b> It's common for lists of favourites to basically just be lists of things people have consumed which weren't shit. I have tried to be selective here. I think I've consumed relatively many films, books, television shows, etc. Nonetheless, I have obviously consumed a vanishing proportion of what's out there, so the following lists are severely biased. E.g. I've never read <i>Anna Karenina</i>, but I'm pretty sure it would be listed below if I had, and I know there are many, many more examples like this. These are things which I have consumed and loved, or consumed and found affecting. This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work. I'm sorry there are so many famous things here. One day I hope to throw out all the famous items and only include items which are unusual or with which I think people won't be familiar.
 <br>
 <br>
 
@@ -133,7 +133,7 @@ permalink: /lists/
     - Her &#124; Spike Jonze
 * <b>Podcasts/Radio</b>
     - <a href="https://www.samharris.org/podcasts">Making Sense</a> (Sam Harris) [general]
-    - <a href="https://www.nytimes.com/column/ezra-klein-podcast">The Ezra Klein Show</a> (... Ezra Klein) [general]
+    - <a href="https://www.nytimes.com/column/ezra-klein-podcast">The Ezra Klein Show</a> (... Ezra Klein?) [general]
     - <a href="https://conversationswithtyler.com/">Conversations with Tyler</a> (Tyler Cowen) [general]
     - <a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — In Our Time</a> (Melvyn Bragg) [general]
     - <a href="https://after-on.com/">After On</a> (Rob Reid) [general]

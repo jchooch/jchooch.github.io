@@ -132,13 +132,7 @@ Hello. This is a description of me.
         <td> <b> Subject Ph.D. at Somewhere, Someplace</b> </td>
       </tr>
       <tr> <td/> <td>
-      Project/Achievement 1;
-      </td> </tr>
-      <tr> <td/> <td>
-      Project/Achievement 2;
-      </td> </tr>
-      <tr> <td/> <td>
-      Project/Achievement 3;
+      Description.
       </td> </tr>
       <tr>
         <td style="min-width:70px"> 2009 </td>
@@ -170,7 +164,7 @@ Here is a list of my (supposedly) scholarly publications.
 <div class="noprint">
 <h4 class="mt-5 mb-3">Posts</h4>
 
-When time allows, I post about HPC or ML projects I was involved in, or publications and discussions I find interesting.
+A collection of notes and essays of varying lengths on topics I find interesting.
 
 <p>
   <table class="mt-3">

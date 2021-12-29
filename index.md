@@ -106,11 +106,11 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
       Description.
       </td> </tr>
       <tr>
-        <td style="min-width:70px"> 2007 </td>
+        <td style="min-width:70px"> 2017-2021 </td>
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
       <tr> <td/> <td>
-      Description.
+      Absolutely awful. Don't recommend it.
       </td> </tr>
 
 </table>

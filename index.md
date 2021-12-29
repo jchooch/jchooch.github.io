@@ -31,7 +31,7 @@ title: "Joe Choo-Choy"
     In neuroscience and biology and computer science.
     </p>
     <p>
-    Also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a> <a>.
+    Also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a>.
     </p>
     <p>
     Please send help.

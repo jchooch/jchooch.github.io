@@ -12,9 +12,12 @@ permalink: /lists/
 # Things which have influenced me 
 ## or which I'm pretty sure are great
 <br>
-<b>N.B.</b> I would say I've consumed relatively many films, books, television shows, and so on. 
-Nonetheless, I have consumed a vanishing proportion of what is out there. 
-This being the case, what is listed below is significantly affected by what I have happened to sample from the world of stimuli.
+<b>N.B.</b> 
+It's common for lists of favourites to basically just be lists of things people have consumed which weren't shit.
+I have tried to be selective here.  
+I think I've consumed relatively many films, books, television shows, etc. 
+Nonetheless, I have obviously consumed a vanishing proportion of what is out there, so the following lists are severely biased.
+I've never read Anna Karenina, but I'm pretty sure it would be listed below if I had.
 These are things which I have consumed and loved, or consumed and found affecting.
 This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work.
 <br>

@@ -66,20 +66,20 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - Principles of Neural Science &#124; Kandel et al.
     - Reinforcement Learning &#124; Sutton & Barto
 * <b>Literature : Plays</b>
-    - {The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} | Martin McDonagh
-    - Arcadia | Tom Stoppard
-    - {...} | William Shakespeare
-    - {Jerusalem, Mojo} | Jez Butterworth
+    - {The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} &#124; Martin McDonagh
+    - Arcadia &#124; Tom Stoppard
+    - {...} &#124; William Shakespeare
+    - {Jerusalem, Mojo} &#124; Jez Butterworth
 * <b>Music : Albums</b>
-    - Grace | Jeff Buckley
-    - Hopes & Fears | Keane
-    - {The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} | Radiohead
-    - Heligoland | Massive Attack
-    - {The Dark Side of the Moon, Wish You Were Here, The Wall, Meddle} | Pink Floyd
-    - Back to Black | Amy Winehouse
-    - {Holy Fire, What Went Down} | Foals
-    - Armchair Apocrypha | Andrew Bird
-    - Random Access Memories | Daft Punk
+    - Grace &#124; Jeff Buckley
+    - Hopes & Fears &#124; Keane
+    - {The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} &#124; Radiohead
+    - Heligoland &#124; Massive Attack
+    - {The Dark Side of the Moon, Wish You Were Here, The Wall, Meddle} &#124; Pink Floyd
+    - Back to Black &#124; Amy Winehouse
+    - {Holy Fire, What Went Down} &#124; Foals
+    - Armchair Apocrypha &#124; Andrew Bird
+    - Random Access Memories &#124; Daft Punk
 * <b>Music : Bands/Artists</b>
     - Pink Floyd
     - Radiohead
@@ -100,46 +100,48 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - Nina Simone
     - Stevie Wonder
 * <b>Screen : Serials</b>
-    - Ray Donovan | Ann Biderman
-    - Hannibal | Bryan Fuller
-    - The Wire | David Simon
-    - Euphoria | Sam Levinson
-    - Breaking Bad | Vince Gilligan
-    - Black Books | Graham Linehan
-    - House | David Shore
-    - Blackadder | Richard Curtis
-    - Fawlty Towers | John Cleese & Connie Booth
-    - The Show About the Show | Caveh Zahedi
-    - Rick and Morty | Justin Roiland & Dan Harmon
+    - Ray Donovan &#124; Ann Biderman
+    - Hannibal &#124; Bryan Fuller
+    - The Wire &#124; David Simon
+    - Barry &#124; Bill Hader & Alec Berg
+    - Euphoria &#124; Sam Levinson
+    - Breaking Bad &#124; Vince Gilligan
+    - Black Books &#124; Graham Linehan
+    - House &#124; David Shore
+    - Blackadder &#124; Richard Curtis
+    - Fawlty Towers &#124; John Cleese & Connie Booth
+    - The Show About the Show &#124; Caveh Zahedi
+    - Rick and Morty &#124; Justin Roiland & Dan Harmon
 * <b>Screen : Films</b>
-    - The Departed | Martin Scorsese
-    - {In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} | Martin McDonagh
-    - Calvary | John Michael McDonagh
-    - Synecdoche, New York | Charlie Kaufman
-    - Pride & Glory | Gavin O'Connor
-    - Eternal Sunshine of the Spotless Mind | Michel Gondry
-    - Training Day | Antoine Fuqua
-    - There Will Be Blood | Paul Thomas Anderson
-    - {Dune, Arrival} | Denis Villeneuve
-    - {Tenet, Inception, Dunkirk, Interstellar, The Prestige} | Christopher Nolan
-    - 2001: A Space Odyssey | Stanley Kubrick
-    - The Matrix | The Wachowskis
-    - The Revenant | Alejandro Iñárritu
-    - Drive | Nicolas Winding Refn
-    - Once Upon A Time In Hollywood | Quentin Tarantino
-    - {...} | The Coen Brothers
-    - Heat | Michael Mann
-    - Her | Spike Jonze
+    - The Departed &#124; Martin Scorsese
+    - {In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh
+    - Calvary &#124; John Michael McDonagh
+    - Synecdoche, New York &#124; Charlie Kaufman
+    - Pride & Glory &#124; Gavin O'Connor
+    - Eternal Sunshine of the Spotless Mind &#124; Michel Gondry
+    - Training Day &#124; Antoine Fuqua
+    - There Will Be Blood &#124; Paul Thomas Anderson
+    - {Dune, Arrival} &#124; Denis Villeneuve
+    - {Tenet, Inception, Dunkirk, Interstellar, The Prestige} &#124; Christopher Nolan
+    - 2001: A Space Odyssey &#124; Stanley Kubrick
+    - The Matrix &#124; The Wachowskis
+    - The Revenant &#124; Alejandro Iñárritu
+    - Drive &#124; Nicolas Winding Refn
+    - Once Upon A Time In Hollywood &#124; Quentin Tarantino
+    - {...} &#124; The Coen Brothers
+    - Heat &#124; Michael Mann
+    - Her &#124; Spike Jonze
 * <b>Bonus : Actions Movies / Guilty Pleasures</b>
-    - John Wick | Chad Stahelski
-    - Extraction | Sam Hargrave
-    - Tropic Thunder | Ben Stiller
-    - Collateral | Michael Mann
-    - Hall Pass | The Farrelly Brothers
-    - Sleepless | Baran bo Odar
-    - Safe House | Daniel Espinosa
-    - Taken | Pierre Morel
-    - The Equalizer | Antoine Fuqua
+    - John Wick &#124; Chad Stahelski
+    - Extraction &#124; Sam Hargrave
+    - Tropic Thunder &#124; Ben Stiller
+    - Step Brothers &#124; Adam McKay
+    - Collateral &#124; Michael Mann
+    - Hall Pass &#124; The Farrelly Brothers
+    - Sleepless &#124; Baran bo Odar
+    - Safe House &#124; Daniel Espinosa
+    - Taken &#124; Pierre Morel
+    - The Equalizer &#124; Antoine Fuqua
 * <b>Filmmakers/Musicians/Artists</b>
     - Martin Scorsese
     - Nicolas Winding Refn

@@ -161,7 +161,7 @@ permalink: /lists/
     - Safe House &#124; Daniel Espinosa
     - Taken &#124; Pierre Morel
     - The Equalizer &#124; Antoine Fuqua
-<!--
+<!---
 * <b>Filmmakers/Musicians/Artists</b>
     - Martin Scorsese
     - Nicolas Winding Refn
@@ -215,7 +215,8 @@ Cognitive Science / AI
 Social Science / Humanities
     Hayden Wilkinson
     Daniel Kahneman
--->
+--->
+
 <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>
 
 <p size="-2" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>

@@ -13,19 +13,19 @@ title: "Joe Choo-Choy"
   </div>
   <div class="col">
     <p>
-    Hello.
+    Hello, there!
     </p>
     <p>
     Are you lost?
     </p>
     <p>
-    I am.
+    I am...
     </p>
     <p>
-    Lost in SCIENCE!
+    Lost in *SCIENCE*, that is...!
     </p>
     <p>
-    But no, I really am lost.
+    But no... I really am lost.
     </p>
     <p>
     In neuroscience and biology and computer science.
@@ -34,7 +34,7 @@ title: "Joe Choo-Choy"
     Also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a>.
     </p>
     <p>
-    Please send help.
+    ... Please send help.
     </p>
   </div>
 </div>

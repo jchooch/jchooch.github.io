@@ -13,7 +13,7 @@ title: "Joe Choo-Choy"
   </div>
   <div class="col">
     <p>
-    Hello, there!
+    Hello!
     </p>
     <p>
     Are you lost?
@@ -22,7 +22,22 @@ title: "Joe Choo-Choy"
     I am...
     </p>
     <p>
-    I'm particularly baffled by neuroscience, biology, computer science, philosophy, and <a href="https://www.effectivealtruism.org/">effective altruism</a>.
+    I'm particularly baffled by:
+    </p>
+    <p>
+      Neuroscience
+    </p>
+    <p>
+      Computer science
+    </p>
+    <p>
+      Biology
+    </p>
+    <p>
+      Philosophy
+    </p>
+    <p>
+      <a href="https://www.effectivealtruism.org/">Effective altruism</a>
     </p>
   </div>
 </div>

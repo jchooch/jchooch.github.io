@@ -19,37 +19,6 @@ Some books freely available online, and related to the topics discussed:
 </ul>
 
 <br/>
-Material for the course <a href="https://edu.epfl.ch/coursebook/en/statistics-for-data-science-MATH-413">Statistics for data Science</a> at EPFL:
-<ul>
-<li>lecture slides:
-  {% for i in (1..23) %}
-    <a href="{{ site.statistics_lectures | replace: 'XXX', i }}"> {{i}} </a>
-  {% endfor %}
-</li>
-<li>lecture videos:
-  {% for keyval in site.statistics_videos %}
-      <a href="{{site.statistics_videos_preffix}}{{ keyval[1] }}">{{ keyval[0] }}</a>
-  {% endfor %}
-</li>
-<li>exercises:
-  {% for i in (1..12) %}
-    <a href="{{ site.statistics_exercises | replace: 'XXX', i }}"> {{i}} </a>
-  {% endfor %}
-</li>
-<li>solutions:
-  {% for i in (1..12) %}
-    <a href="{{ site.statistics_solutions | replace: 'XXX', i }}"> {{i}} </a>
-  {% endfor %}
-</li>
-<li>probabilistic density, distribution and parameters for 
-    <a href="{{ site.statistics_distributions | replace: 'XXX', 'CONTINUOUS' }}"> continuous </a>
-    and
-    <a href="{{ site.statistics_distributions | replace: 'XXX', 'DISCRETE' }}"> discrete </a> 
-    distributions
-</li>
-</ul>
-
-<br/>
 Other useful resources:
 <ul>
           <li><a href="{{ site.assets }}/latex_math_symbols.pdf">Latex Mathematical Symbols</a></li>

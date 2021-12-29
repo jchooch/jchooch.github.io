@@ -86,27 +86,14 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 
 <table class="mt-3">
       <tr>
-        <td style="min-width:70px"> 2015-19 </td>
-        <td> <b>Education 3</b> </td>
-      </tr>
-      <tr> <td/> <td>
-      Description (a);
-      </td> </tr>
-      <tr> <td/> <td>
-      Description (b);
-      </td> </tr>
-      <tr> <td/> <td>
-      Description (c).
-      </td> </tr>
-      <tr>
-        <td style="min-width:70px"> 2009 </td>
-        <td> <b> Education 2 </b> </td>
+        <td style="min-width:90px"> 0000-0000 </td>
+        <td> <b> Round Two? </b> </td>
       </tr>
       <tr> <td/> <td>
       Description.
       </td> </tr>
       <tr>
-        <td style="min-width:70px"> 2017-2021 </td>
+        <td style="min-width:90px"> 2017-2021 </td>
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
       <tr> <td/> <td>

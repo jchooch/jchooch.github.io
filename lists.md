@@ -7,10 +7,10 @@ permalink: /lists/
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->
 <!-- <a href="#test_linked_text">Test link.</a> -->
 
-###                                    
+### __________________________________________________
 # Things which have influenced me 
 ## or which I'm pretty sure are great
-### <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
+<i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
 <b>N.B.</b> 
 It's common for lists of favourites to basically just be lists of things people have consumed which weren't shit.

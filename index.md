@@ -182,11 +182,11 @@ Between 2005 and 2006 I was an ERASMUS exchange student at the University of Mar
   </table>
 </p>
 
-<p>
-You can also check out my <a href="{{ site.resources_permalink }}">resources page</a> . 
-</p>
-
 <h4 class="mt-5 mb-3">Misc</h4>
+
+<p>
+You can also check out my <a href="{{ site.resources_permalink }}">resources page</a> or <a href="{{ site.jots_permalink }}">Joe's jots</a>. 
+</p>
 
 <p>
 Personal, random information. 

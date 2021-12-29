@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Joe's Jots
+title: Joe's Lists
 permalink: /lists/
 ---
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->

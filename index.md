@@ -91,14 +91,14 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 
 <table class="mt-3">
       <tr>
-        <td style="min-width:90px"> 0000-0000 </td>
+        <td style="min-width:100px"> 0000-0000 </td>
         <td> <b> Round Two? </b> </td>
       </tr>
       <tr> <td/> <td>
       Description.
       </td> </tr>
       <tr>
-        <td style="min-width:90px"> 2017-2021 </td>
+        <td style="min-width:100px"> 2017-2021 </td>
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
       <tr> <td/> <td>
@@ -112,7 +112,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 
 |--- ||--- |
 |0000||[Wikipedia](https://www.wikipedia.org/).|
-|1998||Birth certificate, United Kingdom.|
+|1998||Birth certificate, United Kingdom. (Didn't actually write this, but performed necessary work. Well, I didn't really do the <i> work </i>, but I was generally around when the work was done.)|
 
 
 <div class="noprint">
@@ -126,7 +126,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
         {%- assign date_format = site.minima.date_format | default: "%Y" -%}
         {{ post.date | date: date_format }}
       </td>
-      <td><span style="display:inline-block; width:0.2cm;"></span></td>
+      <td><span style="display:inline-block; width:0.3cm;"></span></td>
       <td class="align-top">
       <a href="{{ post.url }}">{{ post.title }}</a>
       </td>

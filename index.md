@@ -25,7 +25,10 @@ title: "Joe Choo-Choy"
     Lost in SCIENCE!
     </p>
     <p>
-    But no, I really am lost, in neuroscience and biology and computer science.
+    But no, I really am lost.
+    </p>
+    <p>
+    In neuroscience and biology and computer science.
     </p>
     <p>
     Also in philosophy and <a href="https://www.effectivealtruism.org/">effective altruism</a> <a>.

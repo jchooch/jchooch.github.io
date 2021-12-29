@@ -69,26 +69,6 @@ Hello. This is a description of me.
 <table class="mt-3">
       <tr>
         <td style="min-width:90px"> 0000-0000 </td>
-        <td> <b>Experience 5, Location 5</b> </td>
-      </tr>
-      <tr> <td/> <td>
-      Project/Achievement 1;
-      </td> </tr>
-      <tr> <td/> <td>
-      Project/Achievement 2;  
-      </td> </tr>
-      <tr> <td/> <td>
-      Project/Achievement 3.
-      </td> </tr>
-      <tr>
-        <td style="min-width:90px"> 0000-0000 </td>
-        <td> <b>Experience 4, Location 4</b> </td>
-      </tr>
-      <tr> <td/> <td>
-      Project/Achievement 1.
-      </td> </tr>
-      <tr>
-        <td style="min-width:90px"> 0000-0000 </td>
         <td> <b> Experience 3, Location 3 </b> </td>
       </tr>
       <tr> <td/> <td>
@@ -109,9 +89,6 @@ Hello. This is a description of me.
       </td> </tr>
       <tr> <td/> <td>
       Project/Achievement 3;
-      </td> </tr>
-      <tr> <td/> <td>
-      Project/Achievement 4.
       </td> </tr>
       <tr>
         <td style="min-width:70px"> 0000-0000 </td>

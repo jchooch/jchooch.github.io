@@ -38,13 +38,6 @@ Hello. This is a description of me.
   <li class="nav-item">
     <a class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
   </li>
-  <!--
-  <div class="noprint">
-    <li class="nav-item">
-      <a class="btn btn-link" href="javascript:window.print()"><i class="fas fa-download" title="download this page"></i> Download this page</a>
-    </li>
-  </div>
-  -->
 </ul>
 
 

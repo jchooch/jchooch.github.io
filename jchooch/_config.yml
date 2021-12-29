@@ -1,54 +1,64 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: "Joe Choo-Choy"
+email: joechoochoy@gmail.com
+assets: /assets/
+resume: /assets/cv.pdf
+photo: /assets/joetoon.jpeg
+resources_permalink: /resources/
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://jchooch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:  joechoochoy
+github_username:   jchooch
+linkedin_username: joe-choo-choy
+
+# for the links Statistics for Data Science at EPFL in the resources page
+statistics_lectures: https://github.com/brunomaga/Statistics_EPFL/raw/main/lecture-slides/lectureXXX.pdf
+statistics_exercises: https://github.com/brunomaga/Statistics_EPFL/raw/main/exercises/exercisesXXX.pdf
+statistics_solutions: https://github.com/brunomaga/Statistics_EPFL/raw/main/exercises/solutionsXXX.pdf
+statistics_distributions: https://github.com/brunomaga/Statistics_EPFL/raw/main/formula-sheet-XXX-distributions.pdf
+statistics_videos_preffix: https://www.youtube.com/watch?v=
+statistics_videos: {
+        '1' : UL3sbuoRdr4,
+        '2' : 17Cu_t3AlYE,
+        '3' : aBvCZIpa8_M,
+        '4a': Q9SeBF7qZ3M, '4b': qL8p_PJ3Oyg, '4c': O0Df2YKTEWU,
+        '5a': f_6yjyCNHHA, '5b': tv_SGJZpBwU, '5c': xe8gsdmD9Pg,
+        '6a': AY-r-pEJrl8, '6b': HoeVTGoJ4R8,
+        '7' : bKR4xEVy6OU,
+        '8' : Tz35WW5-Ssk,
+        '9' : LDOPp8TKpik,
+        '10': 1R80y3hoN7M,
+        '11': qojOhge0LmQ,
+        '12': aOXjJMyRhN0,
+        '13': wqAQ2438V-4,
+        '14': QpM2VVhXlkU,
+        '15': 6pg4Yra55e0,
+        '16': ehtVjfDdiN8,
+        '17': D93kbPIVgq0,
+        '18': KG-JtRg2vTk,
+        '19': TmXVMxcMLug,
+        '20': REQGAnbU3LQ,
+        '21': _Huuf8rIhNU,
+        '22': i1G4I38lClc,
+        '23': 2oAsWRTwBdw,
+        #'24': i1G4I38lClc,
+        #'25': 1YrxidM0tYE,
+}
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
+permalink: /:title  #replaces folder structure /YY/mm/dd/categories/title by only /title
+
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules/
+#   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/

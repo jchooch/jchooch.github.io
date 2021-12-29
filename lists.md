@@ -8,7 +8,6 @@ permalink: /lists/
 
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->
 <!-- <a href="#test_linked_text">Test link.</a> -->
-<a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>
 
 ## Things which have influenced me or which I'm pretty sure are great
 
@@ -190,6 +189,8 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
     - Social Science and Humanities
         - Hayden Wilkinson
         - Daniel Kahneman
+
+<a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>
 
 <p size="-2" style="color:red">An Idle Brain Is Satan’s Shoppe</p>
 <p size="-2" style="color:red">"...continue to work out your salvation with fear and trembling", Philippians 2:12 </p>

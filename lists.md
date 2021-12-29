@@ -188,8 +188,6 @@ permalink: /lists/
     - Sean Carroll
     - Ed Yong
     - Carl Zimmer
--->
-<!--
 * <b>Researchers/Intellectuals I Find Impressive</b>
 Neuroscience
     Carsen Stringer

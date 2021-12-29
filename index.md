@@ -36,12 +36,12 @@ title: "Joe Choo-Choy"
           Biology
         </p>
       <div class="column"></div>
-      <p>
-        Philosophy
-      </p>
-      <p>
-        <a href="https://www.effectivealtruism.org/">Effective altruism</a>
-      </p>
+        <p>
+          Philosophy
+        </p>
+        <p>
+          <a href="https://www.effectivealtruism.org/">Effective altruism</a>
+        </p>
     </div>
   </div>
 </div>

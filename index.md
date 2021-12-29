@@ -126,8 +126,8 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 <h4 class="mt-5 mb-3">Publications</h4>
 
 |--- ||--- |
-|0000||[Wikipedia](https://www.wikipedia.org/).|
-|1998||Birth certificate, United Kingdom.|
+|2082||<b>First Paper</b>, <i>The Predatory Journal of Preprints</i>, somewhere off the coast of Madagascar.|
+|1998||<b>Birth certificate</b>, United Kingdom.|
 |    ||(Didn't actually write this, but performed necessary work.)|
 |    ||(Well, I didn't really do the <i>work</i>, but I was generally present when the work was done.)|
 

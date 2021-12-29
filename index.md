@@ -57,7 +57,6 @@ Previously, as an AI resident, I improved the CPU load balancing of email server
       <tr> <td/> <td>
 I also built a recommendation system using Graph Neural Nets to learn from related nodes on on very large (trillion edges) Meetings/Documents/Users/Emails graphs;
       </td> </tr>
-
       <tr>
         <td style="min-width:70px"> 2015-19 </td>
         <td> <b>PhD candidate at École polytechnique fédérale de Lausanne ‐ EPFL, Switzerland</b> </td>
@@ -89,7 +88,6 @@ Aiming at scaling up the largest ever digital reconstruction of a detailed mamma
       <tr> <td/> <td>
 My work led to the first ever digital reconstruction of detailed brain model at the scale of the mouse brain (80M neurons), and is the underlying technology supporting the lab's landmark <a href="http://www.cell.com/abstract/S0092-8674(15)01191-5">Cell paper</a>;
       </td> </tr>
-
       <tr>
         <td style="min-width:70px"> 2009-11 </td>
         <td> <b> Junior IT architect at Noble Group, London, UK </b> </td>
@@ -106,7 +104,6 @@ As part of an international traineeship, I did three rotational placements on di
       <tr> <td/> <td>
 (3) Implementation of a web-based software for metals and coffee trading, New York, USA;
       </td> </tr>
-
       <tr>
         <td style="min-width:70px"> 2007-08 </td>
         <td> <b> Analyst Programmer at MSCI real estate, London, UK </b> </td>
@@ -121,7 +118,6 @@ My first full-time job, where I consolidated my knowledge of algorithms, program
 <h4 class="mt-5 mb-3">Education</h4>
 
 <table class="mt-3">
-
       <tr>
         <td style="min-width:70px"> 2015-19 </td>
         <td> <b>PhD Computational Neuroscience at École polytechnique fédérale de Lausanne ‐ EPFL, Switzerland</b> </td>
@@ -141,7 +137,6 @@ As part of the doctoral program I was trained on <a href="http://isa.epfl.ch/imo
       <tr> <td/> <td>
 During the Summer periods of 2015, 2016 and 2017, I was a visiting researcher at the <a href="https://pti.iu.edu/centers/crest.html">Center for Research in Extreme Scale Technologies (CREST)</a> at Indiana University, working with the developers of HPX on benchmarking, profiling and finetuning the HPX runtime to our use case;
       </td> </tr>
-
       <tr>
         <td style="min-width:70px"> 2009 </td>
         <td> <b> MSc Advanced Computing at Imperial College London, UK </b> </td>
@@ -149,7 +144,6 @@ During the Summer periods of 2015, 2016 and 2017, I was a visiting researcher at
       <tr> <td/> <td>
 I was trained on the theoretical aspects of computer science such as compilers, logic, computer vision, type systems, etc. My final project aimed at developing a distributed, multi-core CPU and GPU (CUDA) computation of large Markov models on a distributed network, was awarded distinction and was published as <a href="http://eprints.maths.manchester.ac.uk/1533/">GPU-enabled steady-state solution of large Markov models</a> at NSMC’10;
       </td> </tr>
-
       <tr>
         <td style="min-width:70px"> 2007 </td>
         <td> <b> BSc Systems Engineering and Computer Science at University of Minho, Portugal </b> </td>

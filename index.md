@@ -124,8 +124,8 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 
 |--- ||--- |
 |2082||<b>First Paper</b>, <i>The Predatory Journal of Preprints</i>, somewhere off the coast of Madagascar.|
-|1998||<b>Birth certificate</b>, United Kingdom.|
-|    ||(Didn't actually write this, but performed necessary work.)|
+|1998||<b>Birth Certificate</b>, United Kingdom.|
+|    ||(Didn't actually write this, but performed central work.)|
 |    ||(Well, I didn't really <i>do</i> the work, but I was generally present when the work was done.)|
 
 
@@ -154,7 +154,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 <h4 class="mt-5 mb-3">Misc</h4>
 
 <p>
-You can also check out my <a href="{{ site.resources_permalink }}">resources page</a> or <a href="{{ site.jots_permalink }}">Joe's jots</a>. 
+You can also check out my <a href="{{ site.resources_permalink }}">Resources page</a> or <a href="{{ site.jots_permalink }}">Joe's jots</a>. 
 </p>
 
 <p>

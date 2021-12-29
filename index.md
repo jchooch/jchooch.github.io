@@ -13,13 +13,7 @@ title: "Joe Choo-Choy"
   </div>
   <div class="col">
     <p>
-    Hello!
-    </p>
-    <p>
-    Are you lost?
-    </p>
-    <p>
-    I am...
+    Hello! Are you lost? I am...
     </p>
     <p>
     In particular, I'm often confused by:
@@ -32,6 +26,9 @@ title: "Joe Choo-Choy"
     </p>
     <p>
       Philosophy | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
+    </p>
+    <p>
+      This site is a work-in-progress.
     </p>
   </div>
 </div>
@@ -107,7 +104,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
         <td> <b> Round Two? </b> </td>
       </tr>
       <tr> <td/> <td>
-      Description.
+      We shall see.
       </td> </tr>
       <tr>
         <td style="min-width:100px"> 2017-2021 </td>
@@ -154,11 +151,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 <h4 class="mt-5 mb-3">Misc</h4>
 
 <p>
-You can also check out my <a href="{{ site.resources_permalink }}">resources</a> or lists. 
-</p>
-
-<p>
-Personal, random information. 
+You can also check out my <a href="{{ site.lists_permalink }}">lists</a>. 
 </p>
 
 <!-- <a href="{{ site.jots_permalink }}">Joe's jots</a> -->

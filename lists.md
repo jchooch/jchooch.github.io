@@ -7,10 +7,10 @@ permalink: /lists/
 <!-- <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1> -->
 <!-- <a href="#test_linked_text">Test link.</a> -->
 
-### <a href="https://jchooch.github.io/"> Joe Choo-Choy </a>
-
+###                                    
 # Things which have influenced me 
 ## or which I'm pretty sure are great
+### <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
 <b>N.B.</b> 
 It's common for lists of favourites to basically just be lists of things people have consumed which weren't shit.
@@ -200,7 +200,7 @@ This list is bound to be perpetually out-of-date, but I hope it's interesting an
 
 <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>
 
-<p size="-2" style="color:red">An Idle Brain Is Satan’s Shoppe</p>
+<p size="-2" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>
 <p size="-2" style="color:red">"...continue to work out your salvation with fear and trembling", Philippians 2:12 </p>
  
 <!-- <a id="test_linked_text">Test linked text.</a> -->

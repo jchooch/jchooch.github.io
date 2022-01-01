@@ -103,18 +103,11 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 
 <table class="mt-3">
       <tr>
-        <td style="min-width:100px"> 0000-0000 </td>
-        <td> <b> Round Two? </b> </td>
-      </tr>
-      <tr> <td/> <td>
-      We shall see.
-      </td> </tr>
-      <tr>
         <td style="min-width:100px"> 2017-2021 </td>
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
       <tr> <td/> <td>
-      Absolutely awful. Don't recommend it.
+      Absolutely awful. Don't necessarily recommend it.
       </td> </tr>
 
 </table>
@@ -123,10 +116,10 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 <h4 class="mt-5 mb-3">Publications</h4>
 
 |--- ||--- |
-|2082||<b>First Paper</b>, <i>The Predatory Journal of Preprints</i>, somewhere off the coast of Madagascar.|
+|2082||<b>First Paper</b>, <i>The Predatory Journal of Preprints</i>, a small island somewhere in the Indian Ocean.|
 |1998||<b>Birth Certificate</b>, United Kingdom.|
 |    ||(Didn't actually write this, but performed central work.)|
-|    ||(Well, I didn't really <i>do</i> the work, but I was generally present when the work was done.)|
+|    ||(Well, I didn't really <i>do</i> the work, but I was generally involved in the work.)|
 
 
 <!--

@@ -150,7 +150,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 You can also check out my <a href="{{ site.lists_permalink }}">lists</a>. 
 </p>
 
-This blog's design was inspired by the blog of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.
+This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.
 
 <!-- <a href="{{ site.jots_permalink }}">Joe's jots</a> -->
 

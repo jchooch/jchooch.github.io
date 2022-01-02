@@ -25,10 +25,10 @@ title: "Joe Choo-Choy"
       Neuroscience | Biology | Evolution | Psychology
     </p>
     <p>
-      Cognitive Science | Artificial Intelligence | Machine Learning | Statistics
+      Artificial Intelligence | Machine Learning | Statistics
     </p>
     <p>
-      Philosophy | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
+      Cognitive Science | Philosophy | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
     </p>
     <p>
       This site is a work-in-progress.

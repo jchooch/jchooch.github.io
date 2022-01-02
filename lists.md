@@ -78,7 +78,7 @@ permalink: /lists/
     - Back to Black &#124; Amy Winehouse
     - {Holy Fire, What Went Down} &#124; Foals
     - Armchair Apocrypha &#124; Andrew Bird
-    - Random Access Memories &#124; Daft Punk
+    - Random Access Memories &#124; Daft Punk ?
 * <b>Music : Bands/Artists</b>
     - Too difficult to group, too numerous to name...
         - Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, ...
@@ -90,6 +90,22 @@ permalink: /lists/
         - Linkin Park, Muse, Audioslave, IDLES, Foals, ...
         - Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...
         - ...
+* Some of My Favourite Songs of All Time (max 3 from a single artist)
+    - Mookid &#124; Aphex Twin
+    - Everything In Its Right Place &#124; Radiohead
+    - Don't Let the Sun Go Down On Me &#124; Elton John, George Michael
+    - Try A Little Tenderness &#124; Otis Redding
+    - I Like It &#124; DeBarge
+    - She Has No Time &#124; Keane
+    - Late Night &#124; Foals
+    - Lately &#124; Stevie Wonder
+    - Instant Crush &#124; Daft Punk, Julian Casablancas
+    - Armchairs &#124; Andrew Bird
+    - How Much A Dollar Cost &#124; Kendrick Lamar
+    - Comfortably Numb &#124; Pink Floyd
+    - Shine On You Crazy Diamond &#124; Pink Floyd
+    - Lover, You Should've Come Over &#124; Jeff Buckley
+    - ...
 * <b>Screen : Serials</b>
     - Ray Donovan &#124; Ann Biderman
     - Hannibal &#124; Bryan Fuller
@@ -103,6 +119,7 @@ permalink: /lists/
     - Fawlty Towers &#124; John Cleese & Connie Booth
     - The Show About the Show &#124; Caveh Zahedi
     - Rick and Morty &#124; Justin Roiland & Dan Harmon
+    - Twin Peaks &#124; David Lynch, Mark Frost
 * <b>Screen : Films</b>
     - The Departed &#124; Martin Scorsese
     - {In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh
@@ -141,6 +158,73 @@ permalink: /lists/
     - <a href="https://www.hoover.org/publications/uncommon-knowledge">Uncommon Knowledge</a> (Peter Robinson) [politics, economics]
     - <a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — Desert Island Discs</a> (Lauren Laverne) [music, culture]
     - <a href="https://www.trainingbeta.com/trainingbeta-podcast/">TrainingBeta</a> (Neely Quinn) [rock climbing]
+
+<!--
+* Some of My Favourite Songs of All Time : Possible Candidates
+    - The Unforgiven &#124; Metallica
+    - Hotel California &#124; Eagles
+    - Grace &#124; Jeff Buckley
+    - Hallelujah &#124; Jeff Buckley
+    - Analyse &#124; Thom Yorke
+    - Mojo Pin &#124; Jeff Buckley
+    - Dream Brother &#124; Jeff Buckley
+    - Astral Weeks &#124; Van Morrison
+    - Helplessly Hoping &#124; Crosby, Stills & Nash
+    - Feeling Good &#124; Nina Simone
+    - The Raven That Refused To Sing &#124; Steven Wilson
+    - Fade to Black &#124; Metallica
+    - Hurt &#124; Johnny Cash
+    - Don't Stop Me Now &#124; Queen
+    - It's Different for Girls &#124; Joe Jackson
+    - My Father's Eyes (Live at Staples Center, Los Angeles, on _One More Car, One More Rider_) &#124; Eric Clapton ()
+    - Someone New &#124; Hozier
+    - As It Was &#124; Hozier
+* Some of My Favourite Songs of All Time : Possible Sources
+    - Amy Winehouse?
+    - Queen?
+    - Billy Joel?
+    - Paolo Nutini? Iron Sky? Jenny, Don't Be Hasty?
+    - Led Zeppelin?
+    - Idles?
+    - Massive Attack?
+    - Bee Gees?
+    - Jefferson Airplane?
+    - The Strokes?
+    - Oasis?
+    - Aerosmith?
+    - REM?
+    - Bob Dylan?
+    - Red Hot Chili Peppers?
+    - Eric Clapton?
+    - The Rolling Stones?
+    - The Beatles?
+    - David Bowie?
+    - Nine Inch Nails?
+    - Eurythmics?
+    - Nas?
+    - Wu Tang Clan?
+    - Aretha Franklin?
+    - Kanye West?
+    - Eminem? Sing for the Moment?
+    - Still Woozy?
+    - Tame Impala?
+    - STRFKR?
+    - Portishead?
+    - John Cage?
+    - Philip Glass?
+    - Brian Eno?
+    - Audioslave?
+    - Linkin Park?
+    - Pet Shop Boys?
+    - 
+* Coming Soon
+    - Ray Donovan: The Movie
+    - 
+* Great Outdoors Films
+    - The Alpinist
+    - Meru
+    - Free Solo
+    - 
 * <b>Bonus : Actions Movies / Guilty Pleasures</b>
     - John Wick &#124; Chad Stahelski
     - Extraction &#124; Sam Hargrave
@@ -152,8 +236,6 @@ permalink: /lists/
     - Safe House &#124; Daniel Espinosa
     - Taken &#124; Pierre Morel
     - The Equalizer &#124; Antoine Fuqua
-
-<!--
 Filmmakers/Musicians/Artists
     Martin Scorsese
     Nicolas Winding Refn

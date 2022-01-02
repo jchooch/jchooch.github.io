@@ -177,8 +177,21 @@ permalink: /lists/
     - Don't Stop Me Now &#124; Queen
     - It's Different for Girls &#124; Joe Jackson
     - My Father's Eyes (Live at Staples Center, Los Angeles, on _One More Car, One More Rider_) &#124; Eric Clapton ()
-    - Someone New &#124; Hozier
-    - As It Was &#124; Hozier
+    - Someone New &#124; Hozier [MAYBE NOT]
+    - Jackie & Wilson &#124; Hozier
+    - As It Was &#124; Hozier [SO GOOD]
+    - Movies &#124; Weyes Blood
+    - Last Nite &#124; The Strokes
+    - Rolling in the Deep &#124; Adele
+    - Wish You Were Here &#124; Pink Floyd
+    - Time &#124; Pink Floyd
+    - High Hopes &#124; Pink Floyd
+    - California Dreamin' &#124; The Mamas & the Papas
+    - Nutshell &#124; Alice in Chains
+    - No. 1 Party Anthem &#124; Arctic Monkeys
+    - When the Lights Come On &#124; IDLES
+    - Astral Weeks &#124; Van Morrison
+    - 
 * Some of My Favourite Songs of All Time : Possible Sources
     - Amy Winehouse?
     - Queen?
@@ -205,7 +218,7 @@ permalink: /lists/
     - Wu Tang Clan?
     - Aretha Franklin?
     - Kanye West?
-    - Eminem? Sing for the Moment?
+    - Eminem? Sing for the Moment? Lose Yourself?
     - Still Woozy?
     - Tame Impala?
     - STRFKR?

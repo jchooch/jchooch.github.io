@@ -90,21 +90,22 @@ permalink: /lists/
         - Linkin Park, Muse, Audioslave, IDLES, Foals, ...
         - Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...
         - ...
-* Some of My Favourite Songs of All Time (max 3 from a single artist)
-    - Mookid &#124; Aphex Twin
-    - Everything In Its Right Place &#124; Radiohead
-    - Don't Let the Sun Go Down On Me &#124; Elton John, George Michael
-    - Try A Little Tenderness &#124; Otis Redding
-    - I Like It &#124; DeBarge
-    - She Has No Time &#124; Keane
-    - Late Night &#124; Foals
-    - Lately &#124; Stevie Wonder
-    - Instant Crush &#124; Daft Punk, Julian Casablancas
+* <b>Some of My Favourite Songs of All Time (max 3 from a single artist)</b>
     - Armchairs &#124; Andrew Bird
+    - Mookid &#124; Aphex Twin
+    - Instant Crush &#124; Daft Punk, Julian Casablancas
+    - I Like It &#124; DeBarge
+    - Don't Let the Sun Go Down On Me &#124; Elton John, George Michael
+    - Late Night &#124; Foals
+    - Grace &#124; Jeff Buckley
+    - Lover, You Should've Come Over &#124; Jeff Buckley
+    - She Has No Time &#124; Keane
     - How Much A Dollar Cost &#124; Kendrick Lamar
+    - Try A Little Tenderness &#124; Otis Redding
     - Comfortably Numb &#124; Pink Floyd
     - Shine On You Crazy Diamond &#124; Pink Floyd
-    - Lover, You Should've Come Over &#124; Jeff Buckley
+    - Everything In Its Right Place &#124; Radiohead
+    - Lately &#124; Stevie Wonder
     - ...
 * <b>Screen : Serials</b>
     - Ray Donovan &#124; Ann Biderman
@@ -163,7 +164,6 @@ permalink: /lists/
 * Some of My Favourite Songs of All Time : Possible Candidates
     - The Unforgiven &#124; Metallica
     - Hotel California &#124; Eagles
-    - Grace &#124; Jeff Buckley
     - Hallelujah &#124; Jeff Buckley
     - Analyse &#124; Thom Yorke
     - Mojo Pin &#124; Jeff Buckley

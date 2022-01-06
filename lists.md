@@ -12,7 +12,17 @@ permalink: /lists/
 <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
 <br>
-<b>N.B.</b> It's common for lists of favourites to basically just be lists of things people have consumed which weren't shit. I have tried to be selective here. I think I've consumed relatively many films, books, television shows, etc. Nonetheless, I have obviously consumed a vanishing proportion of what's out there, so the following lists are severely biased. E.g. I've never read <i>Anna Karenina</i>, but I'm pretty sure it would be listed below if I had, and I know there are many, many more examples like this. These are things which I have consumed and loved, or consumed and found affecting. This list is bound to be perpetually out-of-date, but I hope it's interesting and points people to great work. I'm sorry there are so many famous things here. One day I hope to throw out all the famous items and only include items which are unusual or with which I think people won't be familiar.
+<b>A couple of notes:</b>
+* It's common for lists of favourites to basically just be lists of things people have consumed which <i>weren't shit</i>. I have tried to be selective here, but it's nonetheless clear to me that my selections are in some sense obvious given what I've seen. Hopefully, my more unusual inclusions will point people to good work they would not find otherwise and my more commonplace inclusions will remind people to keep exploring.
+* I think I've consumed relatively many films, books, and television shows. Nonetheless, I have obviously consumed a vanishing proportion of what's out there, so the following lists are severely biased by what I've been exposed to. There are many artworks out there which I think I would love.
+    - E.g. I strongly suspect I should watch Rear Window or Casablanca.
+    - E.g. I strongly suspect I should read Anna Karenina or Mrs Dalloway.
+    - E.g. I strongly suspect I should listen to Nick Cave and the Bad Seeds or Ella Fitzgerald. 
+    - And the list goes on...
+* I think that putative "great art", e.g. the films of Orson Welles or the music of The Beatles, is almost always <i>actually amazing</i>, even if personal taste still provides independent degrees of freedom. Much of the value of art is in its ability to illustrate new ways of thinking, feeling, perceiving, and understanding. But my favourite art also seems to be that which I find most gripping, exciting, profound, and emotional. Anyway, there are too many famously great artworks to list, so one has to follow one's own nose in constructing a short list of favourites in any space.
+* So I think that, in the appreciation of great art, the problem is very rarely <i>finding</i> great art, as opposed to actually consuming and analysing and <i>savouring</i> it. Of course, it is a difficult feat of willpower to watch a Fellini instead of the newest Avengers film when the former may require more energy to consume than the other. But thinking about the art here and how much joy it has brought me crysallises (in my mind) the importance of always seeking out great art, and never pretending that I don't know where to find it. Maybe Martin Scorsese has seen all the famously great films so has to go looking for obscure inspiration, but Sight & Sound is useful enough for me. 
+* These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and of what I personally love.
+* This list is bound to be often out-of-date, but I hope it's interesting and points people to great work. 
 <br>
 <br>
 
@@ -183,6 +193,7 @@ permalink: /lists/
     - Movies &#124; Weyes Blood
     - Last Nite &#124; The Strokes
     - Rolling in the Deep &#124; Adele
+    - Crazy &#124; Gnarls Barkley
     - Wish You Were Here &#124; Pink Floyd
     - Time &#124; Pink Floyd
     - High Hopes &#124; Pink Floyd
@@ -191,7 +202,7 @@ permalink: /lists/
     - No. 1 Party Anthem &#124; Arctic Monkeys
     - When the Lights Come On &#124; IDLES
     - Astral Weeks &#124; Van Morrison
-    - 
+    - The Scientist &#124; Coldplay
 * Some of My Favourite Songs of All Time : Possible Sources
     - Amy Winehouse?
     - Queen?

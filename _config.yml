@@ -5,6 +5,7 @@ resume: /assets/cv.pdf
 photo: /assets/photo.jpeg
 resources_permalink: /resources/
 lists_permalink: /lists/
+recent_reading_permalink: /recent_reading/
 google_scholar: https://www.google.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jchooch.github.io" # the base hostname & protocol for your site, e.g. http://example.com

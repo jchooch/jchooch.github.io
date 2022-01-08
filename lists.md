@@ -317,7 +317,6 @@ Social Science / Humanities
 <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>
 
 <p size="-2" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>
-<p size="-2" style="color:red">"...continue to work out your salvation with fear and trembling", Philippians 2:12 </p>
  
 <!-- <a id="test_linked_text">Test linked text.</a> -->
 

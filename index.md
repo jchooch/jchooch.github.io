@@ -119,7 +119,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 |2082||<b>First Paper</b>, <i>The Predatory Journal of Preprints</i>, a small island somewhere in the Indian Ocean.|
 |1998||<b>Birth Certificate</b>, United Kingdom.|
 |    ||(Didn't actually write this, but performed central work.)|
-|    ||(Well, I didn't really <i>do</i> the work, but I was generally involved in the work.)|
+|    ||(Well, didn't really <i>do</i> the work, but was generally involved.)|
 
 
 <!--
@@ -147,7 +147,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 <h4 class="mt-5 mb-3">Misc</h4>
 
 <p>
-You can also check out my <a href="{{ site.lists_permalink }}">lists</a>. 
+You can also check out my <a href="{{ site.lists_permalink }}">lists</a> and <a href="{{ site.recent_reading_permalink }}">what I've been reading recently</a>.
 </p>
 
 This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.

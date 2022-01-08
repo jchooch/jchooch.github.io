@@ -25,7 +25,13 @@ permalink: /lists/
 <br>
 <br>
 
-* <b>Literature : Fiction</b>
+![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2") ![Tux, the Linux mascot](/assets/images/tux.png) 
+<img src="drawing.jpg" alt="drawing" width="200" height="600"/>
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+The image will float to the right of the text.</p>
+
+* <b>Literature : Fiction [<a href="">view on Goodreads</a>]</b>
     - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce
     - {Lolita, Pale Fire} &#124; Vladimir Nabokov
     - {The Corrections, Freedom} &#124; Jonathan Franzen
@@ -42,7 +48,7 @@ permalink: /lists/
     - {Infinite Jest, The Pale King} &#124; David Foster Wallace
     - Hitchhiker's Trilogy &#124; Douglas Adams
     - {Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky
-* <b>Literature : Non-Fiction</b>
+* <b>Literature : Non-Fiction [<a href="">view on Goodreads</a>]</b>
     - A Treatise of Human Nature &#124; David Hume
     - Godel, Escher, Bach &#124; Douglas Hofstadter
     - On Having No Head &#124; Douglas Harding
@@ -130,7 +136,7 @@ permalink: /lists/
     - The Show About the Show &#124; Caveh Zahedi
     - Rick and Morty &#124; Justin Roiland & Dan Harmon
     - Twin Peaks &#124; David Lynch, Mark Frost
-* <b>Screen : Films</b>
+* <b>Screen : Films [<a href="https://boxd.it/eOVNm">view on Letterboxd</a>]</b>
     - The Departed &#124; Martin Scorsese
     - {In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh
     - Calvary &#124; John Michael McDonagh

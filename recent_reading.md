@@ -13,7 +13,7 @@ permalink: /recent_reading/
 
 |--- ||--- |
 |<b><i>Date Read</i></b>||<b><i>Format Where Applicable: Title, Author, Year Published</i></b>|
-|2021-01-08|||<a>My first impressions of web3</a>, Moxie Marlinspike, 2021.
+|2021-01-08||<a>My first impressions of web3</a>, Moxie Marlinspike, 2021.|
 
 <br>
 You can also see what books I've been reading recently on my <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, although my Currently Reading is often out-of-date.

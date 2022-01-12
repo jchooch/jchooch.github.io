@@ -25,11 +25,13 @@ permalink: /lists/
 <br>
 <br>
 
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2") ![Tux, the Linux mascot](/assets/images/tux.png) 
-<img src="drawing.jpg" alt="drawing" width="200" height="600"/>
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
-<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
-The image will float to the right of the text.</p>
+<!--
+    ![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2") ![Tux, the Linux mascot](/assets/images/tux.png) 
+    <img src="drawing.jpg" alt="drawing" width="200" height="600"/>
+    <img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+    <p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+    The image will float to the right of the text.</p>
+-->
 
 * <b>Literature : Fiction [<a href="">view on Goodreads</a>]</b>
     - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce
@@ -314,7 +316,7 @@ Social Science / Humanities
     Daniel Kahneman
 -->
 
-<a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>
+In general, I track some of my consumption/favourites using Letterboxd, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>, ...
 
 <p size="-2" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>
  

@@ -14,7 +14,7 @@ permalink: /recent_reading/
 |--- ||--- |
 |<b><i>Date Read</i></b>||<b><i>Format, Where Applicable: Title, Author (Venue, Year)</i></b>|
 |2021-01-10||<a href="https://www.ft.com/content/1270ee18-3ee0-4939-98a8-c4f40940e644?fbclid=IwAR14t_M5Nwwq59YIPuys2TWtP7HhPm7pjUdy6RCZpZUSZU-jdPUu_rWG2zE">Reddit ‘antiwork’ forum booms as millions of Americans quit jobs</a>, Taylor Nicole Rogers (FT, 2021).|
-|2021-01-09||<a href="https://www.lesswrong.com/posts/puYfAEJJomeodeSsi/an-observation-of-vavilov-day">An Observation of Vavilov Day</a>, Elizabeth (LessWrong, 2022)|
+|2021-01-09||<a href="https://www.lesswrong.com/posts/puYfAEJJomeodeSsi/an-observation-of-vavilov-day">An Observation of Vavilov Day</a>, Elizabeth (LessWrong, 2022).|
 |2021-01-08||<a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3</a>, Moxie Marlinspike (2021).|
 
 <br>

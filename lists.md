@@ -269,43 +269,24 @@ permalink: /lists/
     - The Equalizer &#124; Antoine Fuqua
 Filmmakers/Musicians/Artists
     Martin Scorsese
-    Nicolas Winding Refn
     Bo Burnham
     Floating Points
     Four Tet
     Brian Eno
+    Jimmy Chin
 Novelists/Playwrights/Narrativists
     Kurt Vonnegut
     Margaret Atwood
-    Karl Ove Knausgaard
 Journalists/Commentators/Critics
     Christopher Hitchens
-    Adam Gopnik
-    Will Self
 Expositors/Scientists/Philosophers
     Sam Harris
     Sean Carroll
-    Ed Yong
-    Carl Zimmer
-Researchers/Intellectuals I Find Impressive
 Neuroscience
-    Carsen Stringer
     Karl Friston
     Christof Koch
-    Karl Deisseroth
-Genetics
-    Robert Plomin
-    David Reich
-Technology
-    Adam Marblestone
-    Sebastian Seung
-    Ed Boyden
+    Karl Deisseroth    
 Cognitive Science / AI
-    Josh Tenenbaum
-    Sam Gershman
-    Yann LeCun
-    Geoffrey Hinton
-    Yoshua Bengio
     Pieter Abbeel
     Chris Eliasmith
     Stuart Russell
@@ -314,6 +295,30 @@ Cognitive Science / AI
 Social Science / Humanities
     Hayden Wilkinson
     Daniel Kahneman
+
+People all of whose work I _wish_ I could follow and consume:
+    * Geoffrey Hinton
+    * Yoshua Bengio
+    * Eric Kaufmann
+    * Josh Tenenbaum
+    * Sam Gershman
+    * Adam Marblestone
+    * Sebastian Seung
+    * Ed Boyden
+    * Hayden Wilkinson
+    * Will Self
+    * George Packer
+    * Carsen Stringer
+    * Rachel Cusk
+    * Karl Ove Knausgaard
+    * Adam Gopnik
+    * Robert Plomin
+    * David Reich
+    * Nicolas Winding Refn
+    * Martin Scorsese
+    * Ed Yong
+    * Carl Zimmer
+    * Andrew Solomon
 -->
 
 In general, I track some of my consumption/favourites using Letterboxd, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>, ... I'm considering using <a href="https://insp.re/">Insp.re</a>.

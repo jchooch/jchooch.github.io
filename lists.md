@@ -297,28 +297,46 @@ Social Science / Humanities
     Daniel Kahneman
 
 People all of whose work I _wish_ I could follow and consume:
-    * Geoffrey Hinton
-    * Yoshua Bengio
-    * Eric Kaufmann
-    * Josh Tenenbaum
-    * Sam Gershman
-    * Adam Marblestone
-    * Sebastian Seung
-    * Ed Boyden
-    * Hayden Wilkinson
-    * Will Self
-    * George Packer
-    * Carsen Stringer
-    * Rachel Cusk
-    * Karl Ove Knausgaard
-    * Adam Gopnik
-    * Robert Plomin
-    * David Reich
-    * Nicolas Winding Refn
-    * Martin Scorsese
-    * Ed Yong
-    * Carl Zimmer
-    * Andrew Solomon
+    - Cognitive science
+        * Geoffrey Hinton
+        * Yoshua Bengio
+        * Josh Tenenbaum
+        * Sam Gershman
+        * Tom Griffiths
+    - Biology and anthropology
+        * Carsen Stringer
+        * David Reich
+        * 
+    - Technology / engineering
+        * Adam Marblestone
+        * Sebastian Seung
+        * Ed Boyden
+        * George Church
+    - The arts
+        * Martin McDonagh
+        * Rachel Cusk
+        * Nicolas Winding Refn
+        * Josh and Benny Safdie
+        * Martin Scorsese
+        * Zadie Smith
+        * Jane Smiley
+        * Jonathan Franzen
+    - Philosophy
+        * Hayden Wilkinson
+        * Gualtiero Piccinini
+        * LA Paul
+    - Social science
+        * Eric Kaufmann
+        * Robert Plomin
+    - Journalism, criticism, and essayism
+        * Will Self
+        * George Packer
+        * Karl Ove Knausgaard
+        * Adam Gopnik
+        * Ed Yong
+        * Carl Zimmer
+        * Andrew Solomon
+        * David Sedaris
 -->
 
 In general, I track some of my consumption/favourites using Letterboxd, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>, ... I'm considering using <a href="https://insp.re/">Insp.re</a>.

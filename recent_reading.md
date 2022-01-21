@@ -7,7 +7,7 @@ permalink: /recent_reading/
 ### —————————————————————————————————————————————
 # Things I've been reading recently 
 ## which I've found notably interesting
-## (but don't necessary endorse, agree with, etc.)
+## (but don't necessarily endorse)
 <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
 <br>

@@ -33,6 +33,17 @@ permalink: /lists/
     The image will float to the right of the text.</p>
 -->
 
+<details>
+  <summary>Writers</summary>
+    ```{r, echo=FALSE, eval=TRUE}
+    - Joyce
+    - Nabokov
+    - Franzen
+    - Morrison
+    - ...
+    ```
+</details> 
+
 * <b>Literature : Fiction [<a href="">view on Goodreads</a>]</b>
     - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce
     - {Lolita, Pale Fire} &#124; Vladimir Nabokov
@@ -48,6 +59,7 @@ permalink: /lists/
     - My Man Jeeves &#124; P.G. Wodehouse
     - Paradise Lost &#124; John Milton
     - {Infinite Jest, The Pale King} &#124; David Foster Wallace
+    - Underworld | Don DeLillo
     - Hitchhiker's Trilogy &#124; Douglas Adams
     - {Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky
 * <b>Literature : Non-Fiction [<a href="">view on Goodreads</a>]</b>

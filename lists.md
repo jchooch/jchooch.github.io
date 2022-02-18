@@ -33,7 +33,6 @@ permalink: /lists/
     The image will float to the right of the text.</p>
 -->
 
-<br>
 <details>
 <summary><b>Literature : Fiction [<a href="">view on Goodreads</a>]</b></summary>
 <ul>
@@ -86,19 +85,23 @@ permalink: /lists/
 </details>
 <details>
 <summary><b>Literature : Textbooks/Technical</b></summary>
-    - Explorations in Parallel Distributed Processing &#124; McClelland et al.
-    - Deep Learning &#124; Goodfellow et al.
-    - Theoretical Neuroscience &#124; Dayan & Abbott
-    - Neuronal Dynamics &#124; Gerstner et al.
-    - Principles of Neural Science &#124; Kandel et al.
-    - Reinforcement Learning &#124; Sutton & Barto
+<ul>
+    <li>Explorations in Parallel Distributed Processing &#124; McClelland et al.</li>
+    <li>Deep Learning &#124; Goodfellow et al.</li>
+    <li>Theoretical Neuroscience &#124; Dayan & Abbott</li>
+    <li>Neuronal Dynamics &#124; Gerstner et al.</li>
+    <li>Principles of Neural Science &#124; Kandel et al.</li>
+    <li>Reinforcement Learning &#124; Sutton & Barto</li>
+</ul>
 </details>
 <details>
 <summary><b>Literature : Plays</b></summary>
-    - {The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} &#124; Martin McDonagh
-    - Arcadia &#124; Tom Stoppard
-    - {...} &#124; William Shakespeare
-    - {Jerusalem, Mojo} &#124; Jez Butterworth
+<ul>
+    <li>{The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} &#124; Martin McDonagh</li>
+    <li>Arcadia &#124; Tom Stoppard</li>
+    <li>{...} &#124; William Shakespeare</li>
+    <li>{Jerusalem, Mojo} &#124; Jez Butterworth</li>
+</ul>
 </details>
 <details>
 <summary><b>Music : Albums</b></summary>

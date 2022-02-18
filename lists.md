@@ -115,6 +115,7 @@ permalink: /lists/
     <li>{Holy Fire, What Went Down} &#124; Foals</li>
     <li>Kintsugi &#124; Death Cab for Cutie</li>
     <li>Random Access Memories &#124; Daft Punk</li>
+    <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
 </ul>
 </details>
 <details>

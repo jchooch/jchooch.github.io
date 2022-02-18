@@ -42,7 +42,8 @@ permalink: /lists/
     - ...
 </details>
 
-* <b>Literature : Fiction [<a href="">view on Goodreads</a>]</b>
+<details>
+<summary><b>Literature : Fiction [<a href="">view on Goodreads</a>]</b></summary>
     - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce
     - {Lolita, Pale Fire} &#124; Vladimir Nabokov
     - {The Corrections, Freedom} &#124; Jonathan Franzen
@@ -60,7 +61,7 @@ permalink: /lists/
     - Underworld | Don DeLillo
     - Hitchhiker's Trilogy &#124; Douglas Adams
     - {Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky
-* <b>Literature : Non-Fiction [<a href="">view on Goodreads</a>]</b>
+<summary><b>Literature : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary>
     - A Treatise of Human Nature &#124; David Hume
     - Godel, Escher, Bach &#124; Douglas Hofstadter
     - On Having No Head &#124; Douglas Harding
@@ -187,6 +188,7 @@ permalink: /lists/
     - <a href="https://www.hoover.org/publications/uncommon-knowledge">Uncommon Knowledge</a> (Peter Robinson) [politics, economics]
     - <a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — Desert Island Discs</a> (Lauren Laverne) [music, culture]
     - <a href="https://www.trainingbeta.com/trainingbeta-podcast/">TrainingBeta</a> (Neely Quinn) [rock climbing]
+</details>
 
 <!--
 * Some of My Favourite Songs of All Time : Possible Candidates

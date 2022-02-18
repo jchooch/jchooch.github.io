@@ -36,8 +36,19 @@ permalink: /lists/
 purple radio, orange books, green music, blue films
 <p style="color:orange">Literature</p>
 <p style="color:green;">Music</p>
-<p style="color:blue;">Screen</p>
+<p style="color:dodgerblue;">Screen</p>
 <p style="color:blueviolet;">Podcasts/Radio</p>
+<p style="color:crimson;">Test</p>
+<p style="color:firebrick;">Test</p>
+<p style="color:forestgreen;">Test</p>
+<p style="color:gold;">Test</p>
+<p style="color:hotpink;">Test</p>
+<p style="color:lightcoral;">Test</p>
+<p style="color:lightseagreen;">Test</p>
+<p style="color:lightsteelblue;">Test</p>
+<p style="color:lightpink;">Test</p>
+<p style="color:lightsalmon;">Test</p>
+
 
 <details>
 <summary><b>Literature : Fiction [<a href="">view on Goodreads</a>]</b></summary>

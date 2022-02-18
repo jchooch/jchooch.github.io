@@ -183,7 +183,7 @@ permalink: /lists/
 </details>
 
 <details>
-<summary><b><span style="color:dodgerblue;">Screen</span> : Films [<a href="https://boxd.it/eOVNm">view on Letterboxd</a>]</b></summary>
+<summary><b><span style="color:dodgerblue;">Screen</span> : Films</b></summary>
 <ul>
     <li>The Departed &#124; Martin Scorsese</li>
     <li>{In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh</li>
@@ -397,7 +397,7 @@ People all of whose work I _wish_ I could follow and consume:
         * David Sedaris
 -->
 <br>
-In general, I track some of my consumption/favourites using Letterboxd, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>, ... I'm considering using <a href="https://insp.re/">Insp.re</a>.
+In general, I track some of my consumption/favourites using <a href="https://boxd.it/eOVNm">Letterboxd</a>, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>, ... I'm considering using <a href="https://insp.re/">Insp.re</a>.
 
 <p size="-2" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>
  

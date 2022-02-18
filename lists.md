@@ -52,7 +52,6 @@ purple radio, orange books, green music, blue films
 
 <p><span style="background-color:powderblue;">Test highlighted text.</span> Test unhighlighted adjacent text.</p>
 
-
 <details>
 <span style="background-color:lightyellow;"><summary><b><span style="color:orange">Literature</span> : Fiction [<a href="">view on Goodreads</a>]</b></summary></span>
 <ul>

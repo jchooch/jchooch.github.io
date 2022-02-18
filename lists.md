@@ -33,60 +33,56 @@ permalink: /lists/
     The image will float to the right of the text.</p>
 -->
 
-<details>
-<summary>Writers</summary>
-    * Joyce <br>
-    * Nabokov <br>
-    * Franzen <br>
-    * Morrison <br>
-    * ... 
-</details>
 <br>
 <details>
 <summary><b>Literature : Fiction [<a href="">view on Goodreads</a>]</b></summary>
-    - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce
-    - {Lolita, Pale Fire} &#124; Vladimir Nabokov
-    - {The Corrections, Freedom} &#124; Jonathan Franzen
-    - Brave New World &#124; Aldous Huxley
-    - A Little Life &#124; Hanya Yanagihara
-    - {Metamorphosis, The Trial} &#124; Franz Kafka
-    - Middlemarch &#124; George Eliot
-    - Permutation City &#124; Greg Egan
-    - War and Peace &#124; Leo Tolstoy
-    - A Suitable Boy &#124; Vikram Seth
-    - The Call of the Wild &#124; Jack London
-    - My Man Jeeves &#124; P.G. Wodehouse
-    - Paradise Lost &#124; John Milton
-    - {Infinite Jest, The Pale King} &#124; David Foster Wallace
-    - Underworld | Don DeLillo
-    - Hitchhiker's Trilogy &#124; Douglas Adams
-    - {Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky
+<ul>
+    <li>{Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce</li>
+    <li>{Lolita, Pale Fire} &#124; Vladimir Nabokov</li>
+    <li>{The Corrections, Freedom} &#124; Jonathan Franzen</li>
+    <li>Brave New World &#124; Aldous Huxley</li>
+    <li>A Little Life &#124; Hanya Yanagihara</li>
+    <li>{Metamorphosis, The Trial} &#124; Franz Kafka</li>
+    <li>Middlemarch &#124; George Eliot</li>
+    <li>Permutation City &#124; Greg Egan</li>
+    <li>War and Peace &#124; Leo Tolstoy</li>
+    <li>A Suitable Boy &#124; Vikram Seth</li>
+    <li>The Call of the Wild &#124; Jack London</li>
+    <li>My Man Jeeves &#124; P.G. Wodehouse</li>
+    <li>Paradise Lost &#124; John Milton</li>
+    <li>{Infinite Jest, The Pale King} &#124; David Foster Wallace</li>
+    <li>Underworld | Don DeLillo</li>
+    <li>Hitchhiker's Trilogy &#124; Douglas Adams</li>
+    <li>{Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky</li>
+</ul>
 </details>
 <details>
 <summary><b>Literature : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary>
-    - A Treatise of Human Nature &#124; David Hume
-    - Godel, Escher, Bach &#124; Douglas Hofstadter
-    - On Having No Head &#124; Douglas Harding
-    - {The Man Who Mistook His Wife For A Hat, Awakenings, On the Move, Seeing Voices, ...} &#124; Oliver Sacks
-    - Superintelligence &#124; Nick Bostrom
-    - The Organization of Learning &#124; Randy Gallistel
-    - {How the Mind Works, The Stuff of Thought, The Better Angels of Our Nature, Enlightenment Now, ...} &#124; Steven Pinker
-    - The Portable Atheist &#124; Christopher Hitchens (ed.)
-    - {Tractatus Logico-Philosophicus, Philosophical Investigations} &#124; Ludwig Wittgenstein
-    - The Principles of Psychology &#124; William James
-    - {Confessions, City of God} &#124; Augustine of Hippo
-    - Word and Object &#124; W.V.O. Quine
-    - The Origins of Political Order &#124; Francis Fukuyama
-    - Tribe &#124; Sebastian Junger
-    - Reasons and Persons &#124; Derek Parfit
-    - Coming Apart &#124; Charles Murray
-    - Doing Good Better &#124; William MacAskill
-    - The Undoing Project &#124; Michael Lewis
-    - The Symbolic Species &#124; Terrence Deacon
-    - {The Beginning of Infinity, The Fabric of Reality} &#124; David Deutsch
-    - {Life on Earth, Sociobiology, Consilience} &#124; E.O. Wilson
-    - The Conscious Mind &#124; David Chalmers
-    - On Liberty &#124; John Stuart Mill
+<ul>
+    <li>A Treatise of Human Nature &#124; David Hume</li>
+    <li>Godel, Escher, Bach &#124; Douglas Hofstadter</li>
+    <li>On Having No Head &#124; Douglas Harding</li>
+    <li>{The Man Who Mistook His Wife For A Hat, Awakenings, On the Move, Seeing Voices, ...} &#124; Oliver Sacks</li>
+    <li>Superintelligence &#124; Nick Bostrom</li>
+    <li>The Organization of Learning &#124; Randy Gallistel</li>
+    <li>{How the Mind Works, The Stuff of Thought, The Better Angels of Our Nature, Enlightenment Now, ...} &#124; Steven Pinker</li>
+    <li>The Portable Atheist &#124; Christopher Hitchens (ed.)</li>
+    <li>{Tractatus Logico-Philosophicus, Philosophical Investigations} &#124; Ludwig Wittgenstein</li>
+    <li>The Principles of Psychology &#124; William James</li>
+    <li>{Confessions, City of God} &#124; Augustine of Hippo</li>
+    <li>Word and Object &#124; W.V.O. Quine</li>
+    <li>The Origins of Political Order &#124; Francis Fukuyama</li>
+    <li>Tribe &#124; Sebastian Junger</li>
+    <li>Reasons and Persons &#124; Derek Parfit</li>
+    <li>Coming Apart &#124; Charles Murray</li>
+    <li>Doing Good Better &#124; William MacAskill</li>
+    <li>The Undoing Project &#124; Michael Lewis</li>
+    <li>The Symbolic Species &#124; Terrence Deacon</li>
+    <li>{The Beginning of Infinity, The Fabric of Reality} &#124; David Deutsch</li>
+    <li>{Life on Earth, Sociobiology, Consilience} &#124; E.O. Wilson</li>
+    <li>The Conscious Mind &#124; David Chalmers</li>
+    <li>On Liberty &#124; John Stuart Mill</li>
+</ul>
 </details>
 <details>
 <summary><b>Literature : Textbooks/Technical</b></summary>
@@ -130,7 +126,7 @@ permalink: /lists/
         - ...
 </details>
 <details>
-<summary><b>Some of My Favourite Songs of All Time (max 3 from a single artist)</b></summary>
+<summary><b>Music : Songs (Approximate Answer to an Impossible Question)</b></summary>
     - Armchairs &#124; Andrew Bird
     - Mookid &#124; Aphex Twin
     - Instant Crush &#124; Daft Punk, Julian Casablancas

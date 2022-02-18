@@ -110,7 +110,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b><p style="color:red">Music</p> : Albums</b></summary>
+<summary><b><span style="color:red">Music</span> : Albums</b></summary>
 <ul>
     <li>Grace &#124; Jeff Buckley</li>
     <li>{Hopes & Fears, Under the Iron Sea} &#124; Keane</li>

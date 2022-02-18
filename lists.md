@@ -50,6 +50,8 @@ purple radio, orange books, green music, blue films
 <p style="color:lightpink;">Test</p>
 <p style="color:lightsalmon;">Test</p>
 
+<p><span style="background-color:powderblue;">Test highlighted text.</span> Test unhighlighted adjacent text.</p>
+
 
 <details>
 <summary><b><span style="color:orange">Literature</span> : Fiction [<a href="">view on Goodreads</a>]</b></summary>
@@ -406,7 +408,7 @@ People all of whose work I _wish_ I could follow and consume:
         * Andrew Solomon
         * David Sedaris
 -->
-
+<br>
 In general, I track some of my consumption/favourites using Letterboxd, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>, ... I'm considering using <a href="https://insp.re/">Insp.re</a>.
 
 <p size="-2" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>

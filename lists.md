@@ -104,7 +104,7 @@ permalink: /lists/
 </ul>
 </details>
 <details>
-<summary><b>Music : Albums</b></summary>
+<summary><b><p style="color:red">Music</p> : Albums</b></summary>
 <ul>
     <li>Grace &#124; Jeff Buckley</li>
     <li>{Hopes & Fears, Under the Iron Sea} &#124; Keane</li>

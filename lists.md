@@ -55,6 +55,7 @@ permalink: /lists/
     <li>{Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky</li>
 </ul>
 </details>
+
 <details>   
 <summary><b><span style="color:orange">Literature</span> : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary>
 <ul>
@@ -83,6 +84,7 @@ permalink: /lists/
     <li>On Liberty &#124; John Stuart Mill</li>
 </ul>
 </details>
+
 <details>
 <summary><b><span style="color:orange">Literature</span> : Textbooks/Technical</b></summary>
 <ul>
@@ -94,6 +96,7 @@ permalink: /lists/
     <li>Reinforcement Learning &#124; Sutton & Barto</li>
 </ul>
 </details>
+
 <details>
 <summary><b><span style="color:orange">Literature</span> : Plays</b></summary>
 <ul>
@@ -103,6 +106,7 @@ permalink: /lists/
     <li>{Jerusalem, Mojo} &#124; Jez Butterworth</li>
 </ul>
 </details>
+
 <details>
 <summary><b><span style="color:forestgreen;">Music</span> : Albums</b></summary>
 <ul>
@@ -118,6 +122,7 @@ permalink: /lists/
     <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
 </ul>
 </details>
+
 <details>
 <summary><b><span style="color:forestgreen;">Music</span> : Bands/Artists</b></summary>
 <ul>
@@ -135,6 +140,7 @@ permalink: /lists/
     </ul>
 </ul>
 </details>
+
 <details>
 <summary><b><span style="color:forestgreen;">Music</span> : Songs &#65039;</b></summary>
 <ul>
@@ -157,6 +163,7 @@ permalink: /lists/
     <li>...</li>
 </ul>
 </details>
+
 <details>
 <summary><b><span style="color:dodgerblue;">Screen</span> : Serials</b></summary>
 <ul>
@@ -175,6 +182,7 @@ permalink: /lists/
     <li>Twin Peaks &#124; David Lynch, Mark Frost</li>
 </ul>
 </details>
+
 <details>
 <summary><b><span style="color:dodgerblue;">Screen</span> : Films [<a href="https://boxd.it/eOVNm">view on Letterboxd</a>]</b></summary>
 <ul>
@@ -198,6 +206,7 @@ permalink: /lists/
     <li>Her &#124; Spike Jonze</li>
 </ul>
 </details>
+
 <details>
 <summary><b><span style="color:blueviolet;">Podcasts/Radio</span></b></summary>
 <ul>

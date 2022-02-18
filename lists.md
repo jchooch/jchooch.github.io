@@ -136,81 +136,89 @@ permalink: /lists/
 </details>
 <details>
 <summary><b>Music : Songs (Approximate Answer to an Impossible Question)</b></summary>
-    - Armchairs &#124; Andrew Bird
-    - Mookid &#124; Aphex Twin
-    - Instant Crush &#124; Daft Punk, Julian Casablancas
-    - I Like It &#124; DeBarge
-    - Don't Let the Sun Go Down On Me &#124; Elton John, George Michael
-    - Late Night &#124; Foals
-    - Grace &#124; Jeff Buckley
-    - Lover, You Should've Come Over &#124; Jeff Buckley
-    - She Has No Time &#124; Keane
-    - How Much A Dollar Cost &#124; Kendrick Lamar
-    - Try A Little Tenderness &#124; Otis Redding
-    - Comfortably Numb &#124; Pink Floyd
-    - Shine On You Crazy Diamond &#124; Pink Floyd
-    - Everything In Its Right Place &#124; Radiohead
-    - Lately &#124; Stevie Wonder
-    - Ocean &#124; John Butler
-    - ...
+<ul>
+    <li>Armchairs &#124; Andrew Bird</li>
+    <li>Mookid &#124; Aphex Twin</li>
+    <li>Instant Crush &#124; Daft Punk, Julian Casablancas</li>
+    <li>I Like It &#124; DeBarge</li>
+    <li>Don't Let the Sun Go Down On Me &#124; Elton John, George Michael</li>
+    <li>Late Night &#124; Foals</li>
+    <li>Grace &#124; Jeff Buckley</li>
+    <li>Lover, You Should've Come Over &#124; Jeff Buckley</li>
+    <li>She Has No Time &#124; Keane</li>
+    <li>How Much A Dollar Cost &#124; Kendrick Lamar</li>
+    <li>Try A Little Tenderness &#124; Otis Redding</li>
+    <li>Comfortably Numb &#124; Pink Floyd</li>
+    <li>Shine On You Crazy Diamond &#124; Pink Floyd</li>
+    <li>Everything In Its Right Place &#124; Radiohead</li>
+    <li>Lately &#124; Stevie Wonder</li>
+    <li>Ocean &#124; John Butler</li>
+    <li>...</li>
+</ul>
 </details>
 <details>
 <summary><b>Screen : Serials</b></summary>
-    - Ray Donovan &#124; Ann Biderman
-    - Hannibal &#124; Bryan Fuller
-    - The Wire &#124; David Simon
-    - Barry &#124; Bill Hader & Alec Berg
-    - Euphoria &#124; Sam Levinson
-    - Breaking Bad &#124; Vince Gilligan
-    - Black Books &#124; Graham Linehan
-    - House &#124; David Shore
-    - Blackadder &#124; Richard Curtis
-    - Fawlty Towers &#124; John Cleese & Connie Booth
-    - The Show About the Show &#124; Caveh Zahedi
-    - Rick and Morty &#124; Justin Roiland & Dan Harmon
-    - Twin Peaks &#124; David Lynch, Mark Frost
+<ul>
+    <li>Ray Donovan &#124; Ann Biderman</li>
+    <li>Hannibal &#124; Bryan Fuller</li>
+    <li>The Wire &#124; David Simon</li>
+    <li>Barry &#124; Bill Hader & Alec Berg</li>
+    <li>Euphoria &#124; Sam Levinson</li>
+    <li>Breaking Bad &#124; Vince Gilligan</li>
+    <li>Black Books &#124; Graham Linehan</li>
+    <li>House &#124; David Shore</li>
+    <li>Blackadder &#124; Richard Curtis</li>
+    <li>Fawlty Towers &#124; John Cleese & Connie Booth</li>
+    <li>The Show About the Show &#124; Caveh Zahedi</li>
+    <li>Rick and Morty &#124; Justin Roiland & Dan Harmon</li>
+    <li>Twin Peaks &#124; David Lynch, Mark Frost</li>
+</ul>
 </details>
 <details>
 <summary><b>Screen : Films [<a href="https://boxd.it/eOVNm">view on Letterboxd</a>]</b></summary>
-    - The Departed &#124; Martin Scorsese
-    - {In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh
-    - Calvary &#124; John Michael McDonagh
-    - Synecdoche, New York &#124; Charlie Kaufman
-    - Pride & Glory &#124; Gavin O'Connor
-    - Eternal Sunshine of the Spotless Mind &#124; Michel Gondry
-    - Training Day &#124; Antoine Fuqua
-    - There Will Be Blood &#124; Paul Thomas Anderson
-    - {Dune, Arrival} &#124; Denis Villeneuve
-    - {Tenet, Inception, Dunkirk, Interstellar, The Prestige} &#124; Christopher Nolan
-    - 2001: A Space Odyssey &#124; Stanley Kubrick
-    - The Matrix &#124; The Wachowskis
-    - The Revenant &#124; Alejandro Iñárritu
-    - Drive &#124; Nicolas Winding Refn
-    - Once Upon A Time In Hollywood &#124; Quentin Tarantino
-    - {...} &#124; The Coen Brothers
-    - Heat &#124; Michael Mann
-    - Her &#124; Spike Jonze
+<ul>
+    <li>The Departed &#124; Martin Scorsese</li>
+    <li>{In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh</li>
+    <li>Calvary &#124; John Michael McDonagh</li>
+    <li>Synecdoche, New York &#124; Charlie Kaufman</li>
+    <li>Pride & Glory &#124; Gavin O'Connor</li>
+    <li>Eternal Sunshine of the Spotless Mind &#124; Michel Gondry</li>
+    <li>Training Day &#124; Antoine Fuqua</li>
+    <li>There Will Be Blood &#124; Paul Thomas Anderson</li>
+    <li>{Dune, Arrival} &#124; Denis Villeneuve</li>
+    <li>{Tenet, Inception, Dunkirk, Interstellar, The Prestige} &#124; Christopher Nolan</li>
+    <li>2001: A Space Odyssey &#124; Stanley Kubrick</li>
+    <li>The Matrix &#124; The Wachowskis</li>
+    <li>The Revenant &#124; Alejandro Iñárritu</li>
+    <li>Drive &#124; Nicolas Winding Refn</li>
+    <li>Once Upon A Time In Hollywood &#124; Quentin Tarantino</li>
+    <li>{...} &#124; The Coen Brothers</li>
+    <li>Heat &#124; Michael Mann</li>
+    <li>Her &#124; Spike Jonze</li>
+</ul>
 </details>
 <details>
 <summary><b>Podcasts/Radio</b></summary>
-    - <a href="https://www.samharris.org/podcasts">Making Sense</a> (Sam Harris) [general]
-    - <a href="https://www.nytimes.com/column/ezra-klein-podcast">The Ezra Klein Show</a> (... Ezra Klein?) [general]
-    - <a href="https://conversationswithtyler.com/">Conversations with Tyler</a> (Tyler Cowen) [general]
-    - <a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — In Our Time</a> (Melvyn Bragg) [general]
-    - <a href="https://after-on.com/">After On</a> (Rob Reid) [general]
-    - <a href="https://www.preposterousuniverse.com/podcast/">Mindscape</a> (Sean Carroll) [general]
-    - <a href="https://www.intelligencesquared.com/podcasts/">Intelligence Squared</a> [general]
-    - <a href="https://www.bbc.co.uk/programmes/p029399x">BBC World Service — The Inquiry</a> [current affairs]
-    - <a href="https://80000hours.org/podcast/">80,000 Hours</a> (Rob Wiblin) [effective altruism]
-    - <a href="https://www.thebayesianconspiracy.com/">The Bayesian Conspiracy</a> (Zuber, Brodski & Dickey) [rationalism]
-    - <a href="https://philosophybites.com/">Philosophy Bites</a> (Nigel Warburton, David Edmonds) [philosophy]
-    - <a href="https://partiallyexaminedlife.com/">The Partially Examined Life</a> (Linsenmayer, Paskin, Alwan & Casey) [philosophy]
-    - <a href="https://www.verybadwizards.com/">Very Bad Wizards</a> (Tamler Sommers, David Pizarro) [philosophy, psychology]
-    - <a href="https://www.codykommers.com/podcast">Cognitive Revolution</a> (Cody Kommers) [psychology, academia]
-    - <a href="https://braininspired.co/">Brain Inspired</a> (Paul Middlebrooks) [neuroscience, AI]
-    - <a href="https://www.hoover.org/publications/uncommon-knowledge">Uncommon Knowledge</a> (Peter Robinson) [politics, economics]
-    - <a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — Desert Island Discs</a> (Lauren Laverne) [music, culture]
-    - <a href="https://www.trainingbeta.com/trainingbeta-podcast/">TrainingBeta</a> (Neely Quinn) [rock climbing]
+<ul>
+    <li><a href="https://www.samharris.org/podcasts">Making Sense</a> (Sam Harris) [general]</li>
+    <li><a href="https://www.nytimes.com/column/ezra-klein-podcast">The Ezra Klein Show</a> (... Ezra Klein?) [general]</li>
+    <li><a href="https://conversationswithtyler.com/">Conversations with Tyler</a> (Tyler Cowen) [general]</li>
+    <li><a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — In Our Time</a> (Melvyn Bragg) [general]</li>
+    <li><a href="https://after-on.com/">After On</a> (Rob Reid) [general]</li>
+    <li><a href="https://www.preposterousuniverse.com/podcast/">Mindscape</a> (Sean Carroll) [general]</li>
+    <li><a href="https://www.intelligencesquared.com/podcasts/">Intelligence Squared</a> [general]</li>
+    <li><a href="https://www.bbc.co.uk/programmes/p029399x">BBC World Service — The Inquiry</a> [current affairs]</li>
+    <li><a href="https://80000hours.org/podcast/">80,000 Hours</a> (Rob Wiblin) [effective altruism]</li>
+    <li><a href="https://www.thebayesianconspiracy.com/">The Bayesian Conspiracy</a> (Zuber, Brodski & Dickey) [rationalism]</li>
+    <li><a href="https://philosophybites.com/">Philosophy Bites</a> (Nigel Warburton, David Edmonds) [philosophy]</li>
+    <li><a href="https://partiallyexaminedlife.com/">The Partially Examined Life</a> (Linsenmayer, Paskin, Alwan & Casey) [philosophy]</li>
+    <li><a href="https://www.verybadwizards.com/">Very Bad Wizards</a> (Tamler Sommers, David Pizarro) [philosophy, psychology]</li>
+    <li><a href="https://www.codykommers.com/podcast">Cognitive Revolution</a> (Cody Kommers) [psychology, academia]</li>
+    <li><a href="https://braininspired.co/">Brain Inspired</a> (Paul Middlebrooks) [neuroscience, AI]</li>
+    <li><a href="https://www.hoover.org/publications/uncommon-knowledge">Uncommon Knowledge</a> (Peter Robinson) [politics, economics]</li>
+    <li><a href="https://www.bbc.co.uk/programmes/b006qnmr">BBC Radio 4 — Desert Island Discs</a> (Lauren Laverne) [music, culture]</li>
+    <li><a href="https://www.trainingbeta.com/trainingbeta-podcast/">TrainingBeta</a> (Neely Quinn) [rock climbing]</li>
+</ul>
 </details>
 
 <!--

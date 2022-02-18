@@ -122,7 +122,6 @@ purple radio, orange books, green music, blue films
     <li>{Jerusalem, Mojo} &#124; Jez Butterworth</li>
 </ul>
 </details>
-<br>
 <details>
 <summary><b><span style="color:forestgreen;">Music</span> : Albums</b></summary>
 <ul>

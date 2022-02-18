@@ -21,7 +21,7 @@ permalink: /lists/
     - And the list goes on...
 * I think that putative "great art", e.g. the films of <a href="https://en.wikipedia.org/wiki/Orson_Welles">Orson Welles</a> or the music of <a href="https://en.wikipedia.org/wiki/The_Beatles">The Beatles</a>, is almost always <i>actually amazing</i>, even if personal taste still provides independent degrees of freedom. Much of the value of art is in its ability to illustrate new ways of thinking, feeling, perceiving, and understanding, some of which are objective in some respects. In any case, there are too many famously great artworks to list, so one has to follow one's own nose in constructing a short list of favourites in any space.
 * So I think that, in the appreciation of great art, the problem is very rarely <i>finding</i> great art, as opposed to actually consuming and analysing and <i>savouring</i> it. Of course, it is a difficult feat of willpower to watch a <a href="https://en.wikipedia.org/wiki/Federico_Fellini">Fellini</a> instead of the newest <a href="https://en.wikipedia.org/wiki/Avengers_(Marvel_Cinematic_Universe)">Avengers</a> film when the former may require more energy to consume than the other. (I think this is significantly a matter of habit, like so many things.) But thinking about the art here and how much joy it has brought me crysallises (in my mind) the importance of always seeking out great art, and never pretending that I don't know where to find it. Maybe <a href="https://www.youtube.com/watch?v=YWyC3Ik2L_o">Martin Scorsese</a> has seen all the famously great films so has to go looking for obscure inspiration, but <a href="https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time">Sight & Sound's 100 Greatest Films</a> or <a href="https://www.imdb.com/chart/top/">IMDb's Top 250 Films</a> are instructive enough for me. 
-* These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and of what I personally love. This list is bound to be often out-of-date, but I hope it's interesting!
+* These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and what I personally love. This list is bound to be often out-of-date, but I hope it's interesting!
 <br>
 <br>
 
@@ -35,11 +35,11 @@ permalink: /lists/
 
 <details>
   <summary>Writers</summary>
-    - Joyce
-    - Nabokov
-    - Franzen
-    - Morrison
-    - ...
+    * Joyce <br>
+    * Nabokov <br>
+    * Franzen <br>
+    * Morrison <br>
+    * ... 
 </details>
 
 <details>

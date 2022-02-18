@@ -33,7 +33,7 @@ permalink: /lists/
 -->
 
 <details>
-<summary><b><span style="color:orange">Literature</span> : Fiction [<a href="">view on Goodreads</a>]</b></summary>
+<summary><b><span style="color:orange">Literature</span> : Fiction</b></summary>
 <ul>
     <li>{Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce</li>
     <li>{Lolita, Pale Fire} &#124; Vladimir Nabokov</li>
@@ -56,7 +56,7 @@ permalink: /lists/
 </details>
 
 <details>   
-<summary><b><span style="color:orange">Literature</span> : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary>
+<summary><b><span style="color:orange">Literature</span> : Non-Fiction</b></summary>
 <ul>
     <li>A Treatise of Human Nature &#124; David Hume</li>
     <li>Godel, Escher, Bach &#124; Douglas Hofstadter</li>

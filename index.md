@@ -116,7 +116,6 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 <h4 class="mt-5 mb-3">Publications</h4>
 
 |--- ||--- |
-|2082||<b>First Paper</b>, <i>The Predatory Journal of Premature Post-Preprints</i>, a small island somewhere in the Indian Ocean.|
 |2022||Jacobs et al. <b>Predicting connectivity of motion-processing neurons with recurrent neural networks</b>, <i>COSYNE</i>.|
 
 <!--

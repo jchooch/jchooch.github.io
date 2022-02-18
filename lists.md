@@ -155,7 +155,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b><span style="color:forestgreen;">Music</span> : Songs (Approximate Answer to an Impossible Question)</b></summary>
+<summary><b><span style="color:forestgreen;">Music</span> : Songs &#9888; Songs &#65039;</b></summary>
 <ul>
     <li>Armchairs &#124; Andrew Bird</li>
     <li>Mookid &#124; Aphex Twin</li>

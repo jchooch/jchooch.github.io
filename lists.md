@@ -43,6 +43,7 @@ purple radio, orange books, green music, blue films
 <p style="color:forestgreen;">Test</p>
 <p style="color:gold;">Test</p>
 <p style="color:hotpink;">Test</p>
+
 <p style="color:lightcoral;">Test</p>
 <p style="color:lightseagreen;">Test</p>
 <p style="color:lightsteelblue;">Test</p>
@@ -51,7 +52,7 @@ purple radio, orange books, green music, blue films
 
 
 <details>
-<summary><b>Literature : Fiction [<a href="">view on Goodreads</a>]</b></summary>
+<summary><b><span style="color:orange">Literature</span> : Fiction [<a href="">view on Goodreads</a>]</b></summary>
 <ul>
     <li>{Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce</li>
     <li>{Lolita, Pale Fire} &#124; Vladimir Nabokov</li>
@@ -73,7 +74,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b>Literature : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary>
+<summary><b><span style="color:orange">Literature</span> : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary>
 <ul>
     <li>A Treatise of Human Nature &#124; David Hume</li>
     <li>Godel, Escher, Bach &#124; Douglas Hofstadter</li>
@@ -101,7 +102,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b>Literature : Textbooks/Technical</b></summary>
+<summary><b><span style="color:orange">Literature</span> : Textbooks/Technical</b></summary>
 <ul>
     <li>Explorations in Parallel Distributed Processing &#124; McClelland et al.</li>
     <li>Deep Learning &#124; Goodfellow et al.</li>
@@ -112,7 +113,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b>Literature : Plays</b></summary>
+<summary><b><span style="color:orange">Literature</span> : Plays</b></summary>
 <ul>
     <li>{The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} &#124; Martin McDonagh</li>
     <li>Arcadia &#124; Tom Stoppard</li>
@@ -121,7 +122,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b><span style="color:red">Music</span> : Albums</b></summary>
+<summary><b><span style="color:forestgreen;">Music</span> : Albums</b></summary>
 <ul>
     <li>Grace &#124; Jeff Buckley</li>
     <li>{Hopes & Fears, Under the Iron Sea} &#124; Keane</li>
@@ -136,7 +137,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b>Music : Bands/Artists</b></summary>
+<summary><b><span style="color:forestgreen;">Music</span> : Bands/Artists</b></summary>
 <ul>
     <li>Too difficult to group, too numerous to name...</li>
     <ul>
@@ -153,7 +154,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b>Music : Songs (Approximate Answer to an Impossible Question)</b></summary>
+<summary><b><span style="color:forestgreen;">Music</span> : Songs (Approximate Answer to an Impossible Question)</b></summary>
 <ul>
     <li>Armchairs &#124; Andrew Bird</li>
     <li>Mookid &#124; Aphex Twin</li>
@@ -175,7 +176,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b>Screen : Serials</b></summary>
+<summary><b><span style="color:dodgerblue;">Screen</span> : Serials</b></summary>
 <ul>
     <li>Ray Donovan &#124; Ann Biderman</li>
     <li>Hannibal &#124; Bryan Fuller</li>
@@ -193,7 +194,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b>Screen : Films [<a href="https://boxd.it/eOVNm">view on Letterboxd</a>]</b></summary>
+<summary><b><span style="color:dodgerblue;">Screen</span> : Films [<a href="https://boxd.it/eOVNm">view on Letterboxd</a>]</b></summary>
 <ul>
     <li>The Departed &#124; Martin Scorsese</li>
     <li>{In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh</li>
@@ -216,7 +217,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<summary><b>Podcasts/Radio</b></summary>
+<summary><b><span style="color:blueviolet;">Podcasts/Radio</span></b></summary>
 <ul>
     <li><a href="https://www.samharris.org/podcasts">Making Sense</a> (Sam Harris) [general]</li>
     <li><a href="https://www.nytimes.com/column/ezra-klein-podcast">The Ezra Klein Show</a> (... Ezra Klein?) [general]</li>
@@ -240,6 +241,11 @@ purple radio, orange books, green music, blue films
 </details>
 
 <!--
+* Favourite Music Videos:
+    - Angel
+    - Climbing Up the Walls
+    - Voodoo Rosamund Pike
+    - 
 * Some of My Favourite Songs of All Time : Possible Candidates
     - The Unforgiven &#124; Metallica
     - Hotel California &#124; Eagles

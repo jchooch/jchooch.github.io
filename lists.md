@@ -34,14 +34,14 @@ permalink: /lists/
 -->
 
 <details>
-  <summary>Writers</summary>
+<summary>Writers</summary>
     * Joyce <br>
     * Nabokov <br>
     * Franzen <br>
     * Morrison <br>
     * ... 
 </details>
-
+<br>
 <details>
 <summary><b>Literature : Fiction [<a href="">view on Goodreads</a>]</b></summary>
     - {Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce

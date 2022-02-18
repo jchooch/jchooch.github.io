@@ -105,15 +105,17 @@ permalink: /lists/
 </details>
 <details>
 <summary><b>Music : Albums</b></summary>
-    - Grace &#124; Jeff Buckley
-    - {Hopes & Fears, Under the Iron Sea} &#124; Keane
-    - {The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} &#124; Radiohead
-    - Heligoland &#124; Massive Attack
-    - {The Dark Side of the Moon, Wish You Were Here, The Wall, Meddle} &#124; Pink Floyd
-    - Back to Black &#124; Amy Winehouse
-    - {Holy Fire, What Went Down} &#124; Foals
-    - Armchair Apocrypha &#124; Andrew Bird
-    - Random Access Memories &#124; Daft Punk ?
+<ul>
+    <li>Grace &#124; Jeff Buckley</li>
+    <li>{Hopes & Fears, Under the Iron Sea} &#124; Keane</li>
+    <li>{The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} &#124; Radiohead</li>
+    <li>Heligoland &#124; Massive Attack</li>
+    <li>{The Dark Side of the Moon, Wish You Were Here, The Wall, Meddle} &#124; Pink Floyd</li>
+    <li>Back to Black &#124; Amy Winehouse</li>
+    <li>{Holy Fire, What Went Down} &#124; Foals</li>
+    <li>Kintsugi &#124; Death Cab for Cutie</li>
+    <li>Random Access Memories &#124; Daft Punk</li>
+</ul>
 </details>
 <details>
 <summary><b>Music : Bands/Artists</b></summary>

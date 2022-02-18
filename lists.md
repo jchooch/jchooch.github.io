@@ -75,6 +75,7 @@ purple radio, orange books, green music, blue films
     <li>{Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky</li>
 </ul>
 </details>
+<br>
 <details>
 <summary><b><span style="color:orange">Literature</span> : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary>
 <ul>
@@ -103,6 +104,7 @@ purple radio, orange books, green music, blue films
     <li>On Liberty &#124; John Stuart Mill</li>
 </ul>
 </details>
+<br>
 <details>
 <summary><b><span style="color:orange">Literature</span> : Textbooks/Technical</b></summary>
 <ul>
@@ -114,6 +116,7 @@ purple radio, orange books, green music, blue films
     <li>Reinforcement Learning &#124; Sutton & Barto</li>
 </ul>
 </details>
+<br>
 <details>
 <summary><b><span style="color:orange">Literature</span> : Plays</b></summary>
 <ul>
@@ -123,6 +126,7 @@ purple radio, orange books, green music, blue films
     <li>{Jerusalem, Mojo} &#124; Jez Butterworth</li>
 </ul>
 </details>
+<br>
 <details>
 <summary><b><span style="color:forestgreen;">Music</span> : Albums</b></summary>
 <ul>

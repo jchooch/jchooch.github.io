@@ -33,6 +33,12 @@ permalink: /lists/
     The image will float to the right of the text.</p>
 -->
 
+purple radio, orange books, green music, blue films
+<p style="color:orange">Literature</p>
+<p style="color:green;">Music</p>
+<p style="color:blue;">Screen</p>
+<p style="color:blueviolet;">Podcasts/Radio</p>
+
 <details>
 <summary><b>Literature : Fiction [<a href="">view on Goodreads</a>]</b></summary>
 <ul>

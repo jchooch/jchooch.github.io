@@ -53,7 +53,6 @@ purple radio, orange books, green music, blue films
 <p><span style="background-color:powderblue;">Test highlighted text.</span> Test unhighlighted adjacent text.</p>
 
 
-<span style="margin-bottom:3cm;">
 <details>
 <span style="background-color:lightyellow;"><summary><b><span style="color:orange">Literature</span> : Fiction [<a href="">view on Goodreads</a>]</b></summary></span>
 <ul>
@@ -76,8 +75,6 @@ purple radio, orange books, green music, blue films
     <li>{Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky</li>
 </ul>
 </details>
-</span>
-<span style="margin-bottom:3cm;">
 <details>   
 <span style="background-color:linen;"><summary><b><span style="color:orange">Literature</span> : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary></span>
 <ul>
@@ -106,7 +103,6 @@ purple radio, orange books, green music, blue films
     <li>On Liberty &#124; John Stuart Mill</li>
 </ul>
 </details>
-</span>
 <details>
 <span style="background-color:mintcream;"><summary><b><span style="color:orange">Literature</span> : Textbooks/Technical</b></summary></span>
 <ul>
@@ -118,7 +114,6 @@ purple radio, orange books, green music, blue films
     <li>Reinforcement Learning &#124; Sutton & Barto</li>
 </ul>
 </details>
-<br>
 <details>
 <summary><b><span style="color:orange">Literature</span> : Plays</b></summary>
 <ul>

@@ -53,7 +53,7 @@ purple radio, orange books, green music, blue films
 <p><span style="background-color:powderblue;">Test highlighted text.</span> Test unhighlighted adjacent text.</p>
 
 <details>
-<span style="background-color:lightyellow;"><summary><b><span style="color:orange">Literature</span> : Fiction [<a href="">view on Goodreads</a>]</b></summary></span>
+<summary><span style="background-color:lightyellow;"><b><span style="color:orange">Literature</span> : Fiction [<a href="">view on Goodreads</a>]</b></span></summary>
 <ul>
     <li>{Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce</li>
     <li>{Lolita, Pale Fire} &#124; Vladimir Nabokov</li>
@@ -75,7 +75,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>   
-<span style="background-color:linen;"><summary><b><span style="color:orange">Literature</span> : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary></span>
+<summary><span style="background-color:linen;"><b><span style="color:orange">Literature</span> : Non-Fiction [<a href="">view on Goodreads</a>]</b></span></summary>
 <ul>
     <li>A Treatise of Human Nature &#124; David Hume</li>
     <li>Godel, Escher, Bach &#124; Douglas Hofstadter</li>
@@ -103,7 +103,7 @@ purple radio, orange books, green music, blue films
 </ul>
 </details>
 <details>
-<span style="background-color:mintcream;"><summary><b><span style="color:orange">Literature</span> : Textbooks/Technical</b></summary></span>
+<summary><span style="background-color:mintcream;"><b><span style="color:orange">Literature</span> : Textbooks/Technical</b></span></summary>
 <ul>
     <li>Explorations in Parallel Distributed Processing &#124; McClelland et al.</li>
     <li>Deep Learning &#124; Goodfellow et al.</li>

@@ -61,6 +61,8 @@ permalink: /lists/
     - Underworld | Don DeLillo
     - Hitchhiker's Trilogy &#124; Douglas Adams
     - {Crime and Punishment, The Brothers Karamazov, Notes from the Underground} &#124; Fyodor Dostoevsky
+</details>
+<details>
 <summary><b>Literature : Non-Fiction [<a href="">view on Goodreads</a>]</b></summary>
     - A Treatise of Human Nature &#124; David Hume
     - Godel, Escher, Bach &#124; Douglas Hofstadter
@@ -85,19 +87,25 @@ permalink: /lists/
     - {Life on Earth, Sociobiology, Consilience} &#124; E.O. Wilson
     - The Conscious Mind &#124; David Chalmers
     - On Liberty &#124; John Stuart Mill
-* <b>Literature : Textbooks/Technical</b>
+</details>
+<details>
+<summary><b>Literature : Textbooks/Technical</b></summary>
     - Explorations in Parallel Distributed Processing &#124; McClelland et al.
     - Deep Learning &#124; Goodfellow et al.
     - Theoretical Neuroscience &#124; Dayan & Abbott
     - Neuronal Dynamics &#124; Gerstner et al.
     - Principles of Neural Science &#124; Kandel et al.
     - Reinforcement Learning &#124; Sutton & Barto
-* <b>Literature : Plays</b>
+</details>
+<details>
+<summary><b>Literature : Plays</b></summary>
     - {The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} &#124; Martin McDonagh
     - Arcadia &#124; Tom Stoppard
     - {...} &#124; William Shakespeare
     - {Jerusalem, Mojo} &#124; Jez Butterworth
-* <b>Music : Albums</b>
+</details>
+<details>
+<summary><b>Music : Albums</b></summary>
     - Grace &#124; Jeff Buckley
     - {Hopes & Fears, Under the Iron Sea} &#124; Keane
     - {The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} &#124; Radiohead
@@ -107,7 +115,9 @@ permalink: /lists/
     - {Holy Fire, What Went Down} &#124; Foals
     - Armchair Apocrypha &#124; Andrew Bird
     - Random Access Memories &#124; Daft Punk ?
-* <b>Music : Bands/Artists</b>
+</details>
+<details>
+<summary><b>Music : Bands/Artists</b></summary>
     - Too difficult to group, too numerous to name...
         - Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, ...
         - Nina Simone, Amy Winehouse, Otis Redding, Paolo Nutini, Hozier, Joni Mitchell, Bob Dylan, Benjamin Clementine, ...
@@ -118,7 +128,9 @@ permalink: /lists/
         - Linkin Park, Muse, Audioslave, IDLES, Foals, ...
         - Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...
         - ...
-* <b>Some of My Favourite Songs of All Time (max 3 from a single artist)</b>
+</details>
+<details>
+<summary><b>Some of My Favourite Songs of All Time (max 3 from a single artist)</b></summary>
     - Armchairs &#124; Andrew Bird
     - Mookid &#124; Aphex Twin
     - Instant Crush &#124; Daft Punk, Julian Casablancas
@@ -136,7 +148,9 @@ permalink: /lists/
     - Lately &#124; Stevie Wonder
     - Ocean &#124; John Butler
     - ...
-* <b>Screen : Serials</b>
+</details>
+<details>
+<summary><b>Screen : Serials</b></summary>
     - Ray Donovan &#124; Ann Biderman
     - Hannibal &#124; Bryan Fuller
     - The Wire &#124; David Simon
@@ -150,7 +164,9 @@ permalink: /lists/
     - The Show About the Show &#124; Caveh Zahedi
     - Rick and Morty &#124; Justin Roiland & Dan Harmon
     - Twin Peaks &#124; David Lynch, Mark Frost
-* <b>Screen : Films [<a href="https://boxd.it/eOVNm">view on Letterboxd</a>]</b>
+</details>
+<details>
+<summary><b>Screen : Films [<a href="https://boxd.it/eOVNm">view on Letterboxd</a>]</b></summary>
     - The Departed &#124; Martin Scorsese
     - {In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh
     - Calvary &#124; John Michael McDonagh
@@ -169,7 +185,9 @@ permalink: /lists/
     - {...} &#124; The Coen Brothers
     - Heat &#124; Michael Mann
     - Her &#124; Spike Jonze
-* <b>Podcasts/Radio</b>
+</details>
+<details>
+<summary><b>Podcasts/Radio</b></summary>
     - <a href="https://www.samharris.org/podcasts">Making Sense</a> (Sam Harris) [general]
     - <a href="https://www.nytimes.com/column/ezra-klein-podcast">The Ezra Klein Show</a> (... Ezra Klein?) [general]
     - <a href="https://conversationswithtyler.com/">Conversations with Tyler</a> (Tyler Cowen) [general]

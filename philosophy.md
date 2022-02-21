@@ -36,3 +36,5 @@ permalink: /philosophy/
 * Rationality and epistemology are important
 * Lots of philosophy is rubbish, but the best stuff is outstanding
 
+<p size="-2" style="color:red"><i>"I am studying that mystery because I want to be a human being." – Fyodor Dostoyevsky</i></p>
+

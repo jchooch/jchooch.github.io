@@ -14,7 +14,8 @@ permalink: /recent_reading/
 
 |--- ||--- |
 |<b><i>Date Read</i></b>||<b><i>Format, Where Applicable: Title, Author (Venue, Year)</i></b>|
-|2022-02-04||<a href="https://www.nature.com/articles/d41586-022-00018-5">Unblock research bottlenecks with non-profit start-ups</a>, Marblestone et al. (2022)|
+|2022-02-10||More Is Different for AI [<a href="https://www.lesswrong.com/posts/Lp4Q9kSGsJHLfoHX3/more-is-different-for-ai">Intro</a>, <a href="https://www.lesswrong.com/posts/pZaPhGg2hmmPwByHc/future-ml-systems-will-be-qualitatively-different">Part 1</a>, <a href="https://www.lesswrong.com/posts/tcyvthAkAtQ72P7Qd/thought-experiments-provide-a-third-anchor">Part 2</a>, <a href="https://www.lesswrong.com/posts/ncQoyxtqmBPLftwYR/ml-systems-will-have-weird-failure-modes">Part 3</a>, <a href="https://www.lesswrong.com/posts/ekFMGpsfhfWQzMW2h/empirical-findings-generalize-surprisingly-far">Part 4</a>, <a href="https://bounded-regret.ghost.io/appendix-more-is-different-in-related-fields/">Appendix</a>], Steinhardt (LessWrong, 2022)|
+|2022-02-04||<a href="https://www.nature.com/articles/d41586-022-00018-5">Unblock research bottlenecks with non-profit start-ups</a>, Marblestone et al. (Nature, 2022)|
 |2022-01-31||<a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The Bitter Lesson</a>, Richard Sutton (2019)|
 |2022-01-20||<a href="https://pages.jh.edu/jhumag/0499web/ortho.html">Aiming High</a>, Melissa Hendricks (Johns Hopkins Magazine, 1999)|
 |2022-01-19||<a href="https://write.as/harold-lee/theres-a-phrase-going-around-that-you-should-buy-experiences-not-things?fbclid=IwAR1E5n05_lptr06a23jpVQ5sHeMXgvEkMCNrI9It55OjsBU7GHy1Ak-N8ns">Buy Things, Not Experiences</a>, Harold Lee (2022)|

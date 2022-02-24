@@ -231,6 +231,27 @@ permalink: /lists/
 </details>
 
 <!--
+* Bonus: Fantasy Dinner Party
+    1. Joe Choo-Choy
+    2. Samantha Power / Anne Applebaum / Kate Adie               
+    3. Ada Lovelace / Alan Turing / 
+    4. Rachel Cusk / Jane Smiley / Margaret Atwood / David Sedaris / Denis Diderot / James Joyce
+    5. Jane Addams / Donald Henderson / 
+    6. Barack Obama / Nick Clegg / 
+    7. Adam Marblestone / George Church / EO Wilson / 
+    8. David Hume / Derek Parfit / Adam Smith / 
+    9. Oliver Sacks / Pierre-Simon Laplace / 
+    10. Larry David / Martin Scorsese / Bo Burnham / Brian Eno / Thom Yorke
+* Bonus: My favourite Onion pieces of all time:
+    - <a href="https://www.youtube.com/watch?v=8d6cdcNKJRY">Friends Don't Understand How Man Not Depressed</a>
+    - <a href="https://www.youtube.com/watch?v=D_5nLxZVoPo">Anonymous Hero Donates Hospital 200 Human Kidneys</a>
+    - <a href="https://www.youtube.com/watch?v=9BnLbv6QYcA">Apple Introduces Revolutionary New Laptop With No Keyboard</a>
+    - <a href="https://www.youtube.com/watch?v=I2OObOM3R_U">Child Bankrupts Make-A-Wish Foundation</a>
+    - <a href="https://www.youtube.com/watch?v=mSt1m4NFUl8">World's Oldest Neurosurgeon Turns 100</a>
+* Some of my favourite poems:
+    - Dulce et decorum est, Wilfred Owen (1920)
+    - Something by Emily Dickinson!
+    - 
 * Favourite Music Videos:
     - Angel
     - Climbing Up the Walls

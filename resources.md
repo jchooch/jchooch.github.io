@@ -26,3 +26,9 @@ Other useful resources:
           <li><a href="{{ site.assets }}/the_matrix_cookbook.pdf">The Matrix Cookbook</a></li>
 </ul>
 
+<!--
+* Amazing historical video/audio online:
+  - Chamberlain resignation speech
+  - Saddam Hussein's 1979 Ba'ath party purge
+  - 
+-->

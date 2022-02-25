@@ -231,17 +231,31 @@ permalink: /lists/
 </details>
 
 <!--
-* Bonus: Fantasy Dinner Party
-    1. Joe Choo-Choy
-    2. Samantha Power / Anne Applebaum / Kate Adie               
-    3. Ada Lovelace / Alan Turing / 
-    4. Rachel Cusk / Jane Smiley / Margaret Atwood / David Sedaris / Denis Diderot / James Joyce
-    5. Jane Addams / Donald Henderson / 
-    6. Barack Obama / Nick Clegg / 
-    7. Adam Marblestone / George Church / EO Wilson / 
-    8. David Hume / Derek Parfit / Adam Smith / 
-    9. Oliver Sacks / Pierre-Simon Laplace / 
-    10. Larry David / Martin Scorsese / Bo Burnham / Brian Eno / Thom Yorke
+* Bonus: Fantasy Dinner
+    [Desiderata: intelligent, charismatic, funny, curious, specialised, renaissance, ...]
+    [Ideas: artists, writers, journalists, scientists, engineers, technologists, 
+        philanthropists, entrepreneurs, lawmakers, politicians, philosophers, ...]
+    1. (Joe Choo-Choy) [nepotistic obligation]
+
+    2. JOURNALIST
+        Samantha Power / Anne Applebaum / Kate Adie / Denis Diderot / Hannah Arendt
+    3. SCIENTIST
+        Pierre-Simon Laplace / David Marr / EO Wilson / Donald Henderson / Marie Curie / Francis Crick / Jane Goodall
+    4. PHILOSOPHER
+        David Hume / Adam Smith / Derek Parfit / Benjamin Franklin / Mary Wollstonecraft
+    5. WRITER
+        Oliver Sacks / Fyodor Dostoevsky / David Sedaris / Rachel Cusk / James Joyce / Thomas Pynchon / George Eliot / Charlotte Bronte
+    6. PHILANTHROPIST
+        Norman Borlaug / Jane Addams / Donald Henderson / Florence Nightingale / 
+    7. TECHNOLOGIST
+        George Church / Ada Lovelace / Adam Marblestone / John Von Neumann / Alan Turing
+    8. ARTIST
+        Bo Burnham / Brian Eno / Thom Yorke / George Carlin / Joni Mitchell / Martin Scorsese / Larry David / Billie Holliday / Nina Simone / Toni Morrison
+    9. POLITICIAN/GOVERNOR
+        Barack Obama / Condoleezza Rice / Madeleine Albright / Margaret Thatcher / Rosa Luxemburg
+    10. ENTREPRENEUR
+        Jeffrey Bezos / Elon Musk / 
+
 * Bonus: My favourite Onion pieces of all time:
     - <a href="https://www.youtube.com/watch?v=8d6cdcNKJRY">Friends Don't Understand How Man Not Depressed</a>
     - <a href="https://www.youtube.com/watch?v=D_5nLxZVoPo">Anonymous Hero Donates Hospital 200 Human Kidneys</a>

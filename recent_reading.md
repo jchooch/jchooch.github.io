@@ -6,7 +6,7 @@ permalink: /recent_reading/
 
 ### —————————————————————————————————————————————
 # Things I've been reading recently 
-## which I've found notably interesting
+## which I've found interesting
 ## (but don't necessarily endorse)
 <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
@@ -14,14 +14,21 @@ permalink: /recent_reading/
 
 |--- ||--- |
 |<b><i>Date Read</i></b>||<b><i>Format, Where Applicable: Title, Author (Venue, Year)</i></b>|
+<!--|2022-03-01||<a>Title</a>, Author (Venue, Year)|-->
+<!--|2022-02-28||<a>Title</a>, Author (Venue, Year)|-->
+<!--|2022-02-27||<a>Title</a>, Author (Venue, Year)|-->
+<!--|2022-02-26||<a>Title</a>, Author (Venue, Year)|-->
+<!--|2022-02-25||<a>Title</a>, Author (Venue, Year)|-->
+<!--|2022-02-24||<a>Title</a>, Author (Venue, Year)|-->
+<!--|2022-02-23||<a>Title</a>, Author (Venue, Year)|-->
 <!--|2022-02-22||<a>Title</a>, Author (Venue, Year)|-->
 <!--|2022-02-21||<a>Title</a>, Author (Venue, Year)|-->
-<!--|2022-02-20||<a>Title</a>, Author (Venue, Year)|-->
-<!--|2022-02-19||<a>Title</a>, Author (Venue, Year)|-->
-<!--|2022-02-18||<a>Title</a>, Author (Venue, Year)|-->
-<!--|2022-02-17||<a>Title</a>, Author (Venue, Year)|-->
-<!--|2022-02-16||<a>Title</a>, Author (Venue, Year)|-->
-<!--|2022-02-15||<a>Title</a>, Author (Venue, Year)|-->
+|2022-02-20||<a>Title</a>, Author (Venue, Year)|
+|2022-02-19||<a href="https://forum.effectivealtruism.org/posts/rjFJYREBZZscvDwLu/a-framework-for-technical-progress-on-biosecurity">A Framework for Technical Progress on Biosecurity</a>, Kyle Fish (EA Forum, 2021)|
+|2022-02-18||<a href="https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/">Computer Scientists Prove Why Bigger Neural Networks Do Better</a>, Mordechai Rorvig (Quanta, 2022)|
+|2022-02-17||<a href="https://forum.effectivealtruism.org/posts/67awq5ozeYSjsYchk/announcing-alvea-an-ea-covid-vaccine-project">Announcing Alvea—An EA COVID Vaccine Project</a>, Kyle Fish (EA Forum, 2022)|
+|2022-02-16||<a href="https://mbernste.github.io/posts/cell_types_cell_states/">On Cell Types and Cell States</a>, Matthew Bernstein (2021)|
+|2022-02-15||Demystifying measure-theoretic probability theory [<a href="https://mbernste.github.io/posts/measure_theory_1/">Part 1</a>, <a href="https://mbernste.github.io/posts/measure_theory_2/">Part 2</a>, <a href="https://mbernste.github.io/posts/measure_theory_3/">Part 3</a>], Matthew Bernstein (2019)|
 |2022-02-14||<a href="https://www.overcomingbias.com/2008/12/i-heart-cyc.html">I Heart CYC</a>, Robin Hanson (Overcoming Bias, 2008)|
 |2022-02-13||<a href="https://forum.effectivealtruism.org/posts/u5JesqQ3jdLENXBtB/concrete-biosecurity-projects-some-of-which-could-be-big-1">Concrete biosecurity projects (some of which could be big)</a>, Snyder-Beattie & Alley (EA Forum, 2022)|
 |2022-02-11||<a href="https://milan.cvitkovic.net/writing/market_failures_in_science/#fn:1">Market Failures in Science</a>, Milan Cvitkovic (2021)|

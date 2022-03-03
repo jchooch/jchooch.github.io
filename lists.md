@@ -119,6 +119,7 @@ permalink: /lists/
     <li>Kintsugi &#124; Death Cab for Cutie</li>
     <li>Random Access Memories &#124; Daft Punk</li>
     <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
+    <li>Rumours &#124; Fleetwood Mac</li>
 </ul>
 </details>
 

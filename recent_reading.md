@@ -31,7 +31,7 @@ permalink: /recent_reading/
 |2022-02-15||Demystifying measure-theoretic probability theory [<a href="https://mbernste.github.io/posts/measure_theory_1/">Part 1</a>, <a href="https://mbernste.github.io/posts/measure_theory_2/">Part 2</a>, <a href="https://mbernste.github.io/posts/measure_theory_3/">Part 3</a>], Matthew Bernstein (2019)|
 |2022-02-14||<a href="https://www.overcomingbias.com/2008/12/i-heart-cyc.html">I Heart CYC</a>, Robin Hanson (Overcoming Bias, 2008)|
 |2022-02-13||<a href="https://forum.effectivealtruism.org/posts/u5JesqQ3jdLENXBtB/concrete-biosecurity-projects-some-of-which-could-be-big-1">Concrete biosecurity projects (some of which could be big)</a>, Snyder-Beattie & Alley (EA Forum, 2022)|
-|2022-02-11||<a href="https://milan.cvitkovic.net/writing/market_failures_in_science/#fn:1">Market Failures in Science</a>, Milan Cvitkovic (2021)|
+|2022-02-11||<a href="https://milan.cvitkovic.net/writing/market_failures_in_science/">Market Failures in Science</a>, Milan Cvitkovic (2021)|
 |2022-02-11||<a href="https://milan.cvitkovic.net/writing/the_goals_of_neurotechnology/">The Goals of Neurotechnology</a>, Milan Cvitkovic (2022)|
 |2022-02-10||More Is Different for AI [<a href="https://www.lesswrong.com/posts/Lp4Q9kSGsJHLfoHX3/more-is-different-for-ai">Intro</a>, <a href="https://www.lesswrong.com/posts/pZaPhGg2hmmPwByHc/future-ml-systems-will-be-qualitatively-different">Part 1</a>, <a href="https://www.lesswrong.com/posts/tcyvthAkAtQ72P7Qd/thought-experiments-provide-a-third-anchor">Part 2</a>, <a href="https://www.lesswrong.com/posts/ncQoyxtqmBPLftwYR/ml-systems-will-have-weird-failure-modes">Part 3</a>, <a href="https://www.lesswrong.com/posts/ekFMGpsfhfWQzMW2h/empirical-findings-generalize-surprisingly-far">Part 4</a>, <a href="https://bounded-regret.ghost.io/appendix-more-is-different-in-related-fields/">Appendix</a>], Jacob Steinhardt (LessWrong, 2022)|
 |2022-02-05||<a href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode">Competitive programming with AlphaCode</a>, The AlphaCode team (DeepMind Research Blog, 2022)|
@@ -50,6 +50,18 @@ Some of my favourite regular essay venues include:
 * Science/technology magazines: Quanta, WIRED, Nature, Science, ...
 * Blogs/newsletters: ACX, <a href="https://dominiccummings.substack.com/">Dominic Cummings</a>, 
 * Fora: Alignment Forum, EA Forum, ...
+
+
+
+FAVOURITE BLOGPOSTS/ESSAYS:
+(Tech, ethics, EA, rationality, epistemology, philosophy of science, futurism, finance, 
+	social science, psychology, neuroscience, AI, culture, ...)
+* Things you're allowed to do: https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/
+* My impressions of web3
+* Reality is Very Weird and You Need to be Prepared for That
+* 
+* 
+- 
 --->
 
 <br>

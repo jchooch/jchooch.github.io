@@ -31,4 +31,7 @@ Other useful resources:
   - Chamberlain resignation speech
   - Saddam Hussein's 1979 Ba'ath party purge
   - 
+* Graduate school advice:
+  - David Rolnick: https://davidrolnick.com/wp-content/uploads/2018/11/Advice-for-PhD-students.pdf
+  - 
 -->

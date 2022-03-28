@@ -146,6 +146,7 @@ permalink: /lists/
 <ul>
     <li>Armchairs &#124; Andrew Bird</li>
     <li>Mookid &#124; Aphex Twin</li>
+    <li>I Wish I Knew How It Would Feel To Be Free &#124; Nina Simone</li>
     <li>Instant Crush &#124; Daft Punk, Julian Casablancas</li>
     <li>I Like It &#124; DeBarge</li>
     <li>Don't Let the Sun Go Down On Me &#124; Elton John, George Michael</li>

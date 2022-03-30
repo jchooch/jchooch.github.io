@@ -12,14 +12,7 @@ permalink: /tidbytes/
 Timeless ~~bits~~ bytes of information, curious factoids encountered in daily life.
 <br>
 * Over 80% of cells in the human body are red blood cells! 
-<img src="{{ /assets/human_cells.png }}" class="img-fluid rounded float-left" alt="countenance"/>
-<!--![Human Cells](human_cells.png)-->
+<img src="{{ /assets/human_cells.png }}" class="img-fluid rounded float-left"/>
+* Another cell picture
+![Human Cells](/assets/human_cells.png)
 * 
-* 
-<!-- <a id="test_linked_text">Test linked text.</a> -->
-
-
-
-
-
-

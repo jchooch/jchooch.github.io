@@ -146,5 +146,4 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 You can also check out my <a href="{{ site.lists_permalink }}">lists</a> and <a href="{{ site.tidbytes_permalink }}">tidbytes</a>.
 </p>
 
-<br>
 <p size="-5" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>

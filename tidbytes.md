@@ -8,11 +8,10 @@ permalink: /tidbytes/
 
 ### —————————————————————————————————————————————
 # Tidbytes
-<i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i><br>
-Timeless ~~bits~~ bytes of information, curious factoids encountered in daily life.
+<i>Timeless ~~bits~~ bytes of information, curious factoids encountered in daily life.</i><br>
+<i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
-* Over 80% of cells in the human body are red blood cells! 
-<img src="{{ /assets/human_cells.png }}"/>
-* Another cell picture
+* Over 80% of cells in the human body are red blood cells! [<a href="http://book.bionumbers.org/how-many-cells-are-there-in-an-organism/">Milo & Phillips (2016)</a>]
+<img src="/assets/human_cells.png" alt="human cells" width="100"/>
 ![Human Cells](/assets/human_cells.png)
-* 
+* The ratio of bacteria to human cells in the human body is not 10:1 unless you only count human cells with nuclei (thereby excluding RBCs). If you include RBCs, the ratio is more like 1.5:1. [<a hef="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533">Sender et al. (2016), PLoS Biology</a>]

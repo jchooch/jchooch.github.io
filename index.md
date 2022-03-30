@@ -143,7 +143,7 @@ During my PhD, I performed 400h of teaching assistant duties for the courses of 
 <h4 class="mt-5 mb-3">Misc</h4>
 
 <p>
-You can also check out my <a href="{{ site.lists_permalink }}">lists</a>.
+You can also check out my <a href="{{ site.lists_permalink }}">lists</a> and <a href="{{ site.tidbytes_permalink }}">tidbytes</a>.
 </p>
 
 This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.

@@ -159,8 +159,14 @@ permalink: /lists/
     <li>Comfortably Numb &#124; Pink Floyd</li>
     <li>Shine On You Crazy Diamond &#124; Pink Floyd</li>
     <li>Everything In Its Right Place &#124; Radiohead</li>
+    <li>Pyramid Song &#124; Radiohead</li>
     <li>Lately &#124; Stevie Wonder</li>
     <li>Ocean &#124; John Butler</li>
+    <li>Paradise Circus &#124; Massive Attack</li>
+    <li>Glory Box &#124; Portishead</li>
+    <li>Where Is My Mind? &#124; Pixies</li>
+    <li>I Will Survive &#124; Gloria Gaynor</li>
+    <li>The Chain &#124; Fleetwood Mac</li>
     <li>...</li>
 </ul>
 </details>

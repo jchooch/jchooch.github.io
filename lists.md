@@ -368,60 +368,72 @@ permalink: /lists/
     - Safe House &#124; Daniel Espinosa
     - Taken &#124; Pierre Morel
     - The Equalizer &#124; Antoine Fuqua
-Filmmakers/Musicians/Artists
-    Martin Scorsese
-    Bo Burnham
-    Floating Points
-    Four Tet
-    Brian Eno
-    Jimmy Chin
-Novelists/Playwrights/Narrativists
-    Kurt Vonnegut
-    Margaret Atwood
-Journalists/Commentators/Critics
-    Christopher Hitchens
-Expositors/Scientists/Philosophers
-    Sam Harris
-    Sean Carroll
-Neuroscience
-    Karl Friston
-    Christof Koch
-    Karl Deisseroth    
-Cognitive Science / AI
-    Pieter Abbeel
-    Chris Eliasmith
-    Stuart Russell
-    Daphne Koller
-    Terry Sejnowski
-Social Science / Humanities
-    Hayden Wilkinson
-    Daniel Kahneman
+
+People Who Have Influenced Me / Who I Look Up To
+    Filmmakers/Musicians/Artists
+        Martin Scorsese
+        Bo Burnham
+        Floating Points
+        Four Tet
+        Jeff Buckley
+        Martin Scorsese
+        Josh and Benny Safdie
+        Brian Eno
+        Thom Yorke
+        Nicolas Winding Refn
+        Jimmy Chin
+    Novelists/Playwrights/Narrativists
+        Kurt Vonnegut
+        Margaret Atwood
+        David Foster Wallace
+        Rachel Cusk
+        Zadie Smith
+        Jane Smiley
+        Don DeLillo
+        Jonathan Franzen
+        Martin McDonagh
+    Journalists/Commentators/Critics
+        Christopher Hitchens
+    Expositors/Scientists/Philosophers
+        Sam Harris
+        Sean Carroll
+        Gilbert Strang
+        Steve Brunton
+        Eliezer Yudkowsky   
+    Neuroscience / Cognitive Science / AI
+        Pieter Abbeel
+        Chris Eliasmith
+        Yoshua Bengio
+        Stuart Russell
+        Karl Deisseroth
+        Christof Koch
+        Karl Friston
+        Jay McLelland
+        Tom Griffiths
+        Eric Baum
+        Carsen Stringer
+        Geoffrey Hinton
+        Sam Gershman
+        Josh Tenenbaum
+        Daphne Koller
+        Terry Sejnowski
+    Social Science / Humanities
+        Hayden Wilkinson
+        Daniel Kahneman
+        Robin Hanson
+        David Reich
+    Technology/Engineering
+        Adam Marblestone
+        Sebastian Seung
+        Ed Boyden
+        George Church
+
 
 People all of whose work I _wish_ I could follow and consume:
-    - Cognitive science
-        * Geoffrey Hinton
-        * Yoshua Bengio
-        * Josh Tenenbaum
-        * Sam Gershman
-        * Tom Griffiths
-    - Biology and anthropology
-        * Carsen Stringer
-        * David Reich
-        * 
-    - Technology / engineering
-        * Adam Marblestone
-        * Sebastian Seung
-        * Ed Boyden
-        * George Church
     - The arts
-        * Martin McDonagh
-        * Rachel Cusk
-        * Nicolas Winding Refn
-        * Josh and Benny Safdie
-        * Martin Scorsese
-        * Zadie Smith
-        * Jane Smiley
-        * Jonathan Franzen
+        * 
+        * 
+        * 
     - Philosophy
         * Hayden Wilkinson
         * Gualtiero Piccinini
@@ -440,7 +452,7 @@ People all of whose work I _wish_ I could follow and consume:
         * David Sedaris
 -->
 <br>
-In general, I track some of my consumption/favourites using <a href="https://boxd.it/eOVNm">Letterboxd</a>, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>, ... I'm considering using <a href="https://insp.re/">Insp.re</a>.
+In general, I try to track some of my consumption/favourites using <a href="https://boxd.it/eOVNm">Letterboxd</a>, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>.
 
 <p size="-5" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>
  

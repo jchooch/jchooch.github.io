@@ -13,7 +13,7 @@ title: "Joe Choo-Choy"
 <div class="row">
   <div class="col-3">
     <!--<img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/>-->
-    <script src="/images/random.js" type="text/javascript"></script>
+    <!--<script src="/images/random.js" type="text/javascript"></script>-->
     <img src="/images/random.js" type="text/javascript" class="img-fluid rounded float-left" alt="countenance"/>
   </div>
   <div class="col">

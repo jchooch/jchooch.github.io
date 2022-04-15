@@ -7,7 +7,7 @@ title: "Joe Choo-Choy"
 
 <p class="lead mb-4"><b>Duke University</b></p>
 
-<script src="change_image.js"></script>
+<script language="javascript" src="change_image.js"></script>
 
 <div class="row">
   <div class="col-3">

@@ -1,6 +1,7 @@
 //random.js
 
-function random_text(){
+function random_text()
+{};
 var random_text = new random_text();
 // Set the number of text strings to zero to start
 var number = 0;
@@ -13,7 +14,6 @@ random_text[number++] = "<img src='{{site.photo_5}}' class='img-fluid rounded fl
 random_text[number++] = "<img src='{{site.photo_6}}' class='img-fluid rounded float-left' alt='countenance'>";
 random_text[number++] = "<img src='{{site.photo_7}}' class='img-fluid rounded float-left' alt='countenance'>";
 random_text[number++] = "<img src='{{site.photo_8}}' class='img-fluid rounded float-left' alt='countenance'>";
-}
 // Create a random number with limits based on the number
 // of possible random text strings
 function getRandom(){

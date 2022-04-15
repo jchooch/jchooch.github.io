@@ -59,7 +59,6 @@ title: "Joe Choo-Choy"
   </li>
 </ul>
 
-<!--
 <h4 class="mt-5 mb-3">Professional Experience</h4>
 
 <table class="mt-3">
@@ -84,7 +83,6 @@ title: "Joe Choo-Choy"
       Example project.
       </td> </tr>
 </table>
--->
 
 <h4 class="mt-5 mb-3">Education</h4>
 

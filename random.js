@@ -7,6 +7,7 @@ var random_text = new random_text();
 var number = 0;
 // Incremental list of all possible Text
 random_text[number++] = "<img src='/assets/photo_1.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_1_moustache.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
 random_text[number++] = "<img src='/assets/photo_2.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
 random_text[number++] = "<img src='/assets/photo_3.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
 random_text[number++] = "<img src='/assets/photo_4.jpeg' class='img-fluid rounded float-left' alt='countenance'>"

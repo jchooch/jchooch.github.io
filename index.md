@@ -7,9 +7,39 @@ title: "Joe Choo-Choy"
 
 <p class="lead mb-4"><b>Duke University</b></p>
 
+<script language="javascript">
+    function changeImage() {
+
+        if (document.getElementById("imgClickAndChange").src == "{{site.photo_1}}") 
+        {
+            document.getElementById("imgClickAndChange").src = "{{site.photo_2}}";
+        }
+        elif (document.getElementById("imgClickAndChange").src == "{{site.photo_2}}")
+        {
+            document.getElementById("imgClickAndChange").src == "{{site.photo_3}}"
+        }
+        elif (document.getElementById("imgClickAndChange").src == "{{site.photo_3}}")
+        {
+            document.getElementById("imgClickAndChange").src == "{{site.photo_4}}"
+        }
+        elif (document.getElementById("imgClickAndChange").src == "{{site.photo_4}}")
+        {
+            document.getElementById("imgClickAndChange").src == "{{site.photo_5}}"
+        }
+        elif (document.getElementById("imgClickAndChange").src == "{{site.photo_5}}")
+        {
+            document.getElementById("imgClickAndChange").src == "{{site.photo_6}}"
+        } 
+        elif (document.getElementById("imgClickAndChange").src == "{{site.photo_6}}")
+        {
+            document.getElementById("imgClickAndChange").src == "{{site.photo_7}}"
+        } 
+    }
+</script>
+
 <div class="row">
   <div class="col-3">
-    <img src="{{site.photo}}" class="img-fluid rounded float-left" alt="countenance"/>
+    <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/>
   </div>
   <div class="col">
     <p>

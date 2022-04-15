@@ -63,7 +63,7 @@ title: "Joe Choo-Choy"
 
 <table class="mt-3">
       <tr>
-        <td style="min-width:70px"> 0000-0000</td>
+        <td style="min-width:100px"> 0000-0000</td>
         <td> <b> Example experience. </b> </td>
       </tr>
       <tr> <td/> <td>
@@ -73,7 +73,7 @@ title: "Joe Choo-Choy"
       Example project.
       </td> </tr>
       <tr>
-        <td style="min-width:70px"> 0000-0000 </td>
+        <td style="min-width:100px"> 0000-0000 </td>
         <td> <b>Example experience.</b> </td>
       </tr>
       <tr> <td/> <td>

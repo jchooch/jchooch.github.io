@@ -7,13 +7,13 @@ var random_text = new random_text();
 var number = 0;
 // Incremental list of all possible Text
 random_text[number++] = "<img src='/assets/photo_1.jpeg' class='img-fluid rounded float-left' alt='business'>"
-random_text[number++] = "<img src='/assets/photo_1_moustache.jpeg' class='img-fluid rounded float-left' alt='monsieur business'>"
-random_text[number++] = "<img src='/assets/photo_2.jpeg' class='img-fluid rounded float-left' alt='nyc'>"
-random_text[number++] = "<img src='/assets/photo_3.jpeg' class='img-fluid rounded float-left' alt='blue'>"
-random_text[number++] = "<img src='/assets/photo_4.jpeg' class='img-fluid rounded float-left' alt='joshua tree'>"
-random_text[number++] = "<img src='/assets/photo_5.jpeg' class='img-fluid rounded float-left' alt='tent'>"
-random_text[number++] = "<img src='/assets/photo_6.jpeg' class='img-fluid rounded float-left' alt='pandemic couture'>"
-random_text[number++] = "<img src='/assets/photo_7.jpeg' class='img-fluid rounded float-left' alt='asheville'>"
+random_text[number++] = "<img src='/assets/photo_2.jpeg' class='img-fluid rounded float-left' alt='monsieur'>"
+random_text[number++] = "<img src='/assets/photo_3.jpeg' class='img-fluid rounded float-left' alt='nyc'>"
+random_text[number++] = "<img src='/assets/photo_4.jpeg' class='img-fluid rounded float-left' alt='blue'>"
+random_text[number++] = "<img src='/assets/photo_5.jpeg' class='img-fluid rounded float-left' alt='joshua tree'>"
+random_text[number++] = "<img src='/assets/photo_6.jpeg' class='img-fluid rounded float-left' alt='tent'>"
+random_text[number++] = "<img src='/assets/photo_7.jpeg' class='img-fluid rounded float-left' alt='pandemic couture'>"
+random_text[number++] = "<img src='/assets/photo_8.jpeg' class='img-fluid rounded float-left' alt='asheville'>"
 // Create a random number with limits based on the number
 // of possible random text strings
 function getRandom(){

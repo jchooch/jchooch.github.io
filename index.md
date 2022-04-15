@@ -97,7 +97,7 @@ title: "Joe Choo-Choy"
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
       <tr> <td/> <td>
-      Apparently it's called "higher education"... Lol!
+      Apparently it's called "higher education"... Don't necessarily recommend it.
       </td> </tr>
 
 </table>

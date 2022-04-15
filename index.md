@@ -5,7 +5,7 @@ title: "Joe Choo-Choy"
 
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<p class="lead mb-4"><b>Duke University BOOOM</b></p>
+<p class="lead mb-4"><b>Duke University B00M</b></p>
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 

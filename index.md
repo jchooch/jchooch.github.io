@@ -11,8 +11,10 @@ title: "Joe Choo-Choy"
 
 <div class="row">
   <div class="col-3">
-    <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/>
-    <!--<script src="/random.js" type="text/javascript"></script>-->
+    <!-- ok this def works -->
+    <!-- <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/> -->
+    <!-- this does not work --> 
+    <script src="/random.js" type="text/javascript"></script>
   </div>
   <div class="col">
     <p>

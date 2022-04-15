@@ -4,13 +4,13 @@ function random_text()
 {};
 var random_text = new random_text();
 var number = 0;
-random_text[number++] = "<img src='{{site.photo_1}}' class='img-fluid rounded float-left' alt='countenance'>"
-random_text[number++] = "<img src='{{site.photo_2}}' class='img-fluid rounded float-left' alt='countenance'>"
-random_text[number++] = "<img src='{{site.photo_3}}' class='img-fluid rounded float-left' alt='countenance'>"
-random_text[number++] = "<img src='{{site.photo_4}}' class='img-fluid rounded float-left' alt='countenance'>"
-random_text[number++] = "<img src='{{site.photo_5}}' class='img-fluid rounded float-left' alt='countenance'>"
-random_text[number++] = "<img src='{{site.photo_6}}' class='img-fluid rounded float-left' alt='countenance'>"
-random_text[number++] = "<img src='{{site.photo_7}}' class='img-fluid rounded float-left' alt='countenance'>"
-random_text[number++] = "<img src='{{site.photo_8}}' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_1.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_2.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_3.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_4.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_5.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_6.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_7.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
+random_text[number++] = "<img src='/assets/photo_8.jpeg' class='img-fluid rounded float-left' alt='countenance'>"
 var random_number = Math.floor(Math.random() * number);
 document.write(random_text[random_number]);

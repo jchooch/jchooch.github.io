@@ -357,17 +357,19 @@ permalink: /lists/
     - Meru
     - Free Solo
     - 
-* <b>Bonus : Actions Movies / Guilty Pleasures</b>
+* <b>Bonus : Guilty Pleasure: Action Movies</b>
     - John Wick &#124; Chad Stahelski
     - Extraction &#124; Sam Hargrave
-    - Tropic Thunder &#124; Ben Stiller
-    - Step Brothers &#124; Adam McKay
     - Collateral &#124; Michael Mann
-    - Hall Pass &#124; The Farrelly Brothers
     - Sleepless &#124; Baran bo Odar
     - Safe House &#124; Daniel Espinosa
     - Taken &#124; Pierre Morel
     - The Equalizer &#124; Antoine Fuqua
+* <b>Bonus : Guilty Pleasure: Action Movies</b>
+    - Dodgeball: A True Underdog Story &#124; Rawson Marshall Thurber
+    - Step Brothers &#124; Adam McKay
+    - Tropic Thunder &#124; Ben Stiller
+    - Hall Pass &#124; The Farrelly Brothers
 
 People Who Have Influenced Me / Who I Look Up To
     Filmmakers/Musicians/Artists
@@ -427,8 +429,16 @@ People Who Have Influenced Me / Who I Look Up To
         Sebastian Seung
         Ed Boyden
         George Church
-
-
+My Teachers
+- David Thorburn
+- Herb Gross
+- Gilbert Strang
+- Sam Harris
+- Steven Pinker
+- WOMEN?
+- BEST ONLINE LECTURES I'VE SEEN?
+- BEST GREAT COURSES I'VE LISTENED TO?
+- ...
 People all of whose work I _wish_ I could follow and consume:
     - The arts
         * 

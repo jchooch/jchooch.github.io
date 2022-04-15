@@ -18,13 +18,13 @@ random_text[number++] = "<img src='{{site.photo_8}}' class='img-fluid rounded fl
 // of possible random text strings
 function getRandom(){
   var num = Math.random();
-  if (num < 0.175) return 1;
-  else if (num < 0.350) return 2;
-  else if (num < 0.500) return 3;
-  else if (num < 0.650) return 4;
-  else if (num < 0.725) return 5;
-  else if (num < 0.825) return 6;
-  else if (num < 0.900) return 7;
+  if(num < 0.175) return 1;
+  else if(num < 0.350) return 2;
+  else if(num < 0.500) return 3;
+  else if(num < 0.650) return 4;
+  else if(num < 0.725) return 5;
+  else if(num < 0.825) return 6;
+  else if(num < 0.900) return 7;
   else return 8;
 }
 var rand_num = getRandom();

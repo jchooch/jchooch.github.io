@@ -17,15 +17,15 @@ random_text[number++] = "<img src='{{site.photo_8}}' class='img-fluid rounded fl
 // Create a random number with limits based on the number
 // of possible random text strings
 function getRandom(){
-  var num=Math.random();
-  if (num < 0.175) return 1;	
-  elif (num < 0.350) return 2;
-  elif (num < 0.500) return 3;
-  elif (num < 0.650) return 4;
-  elif (num < 0.725) return 5;
-  elif (num < 0.825) return 6;
-  elif (num < 0.900) return 7;
-  elif (num < 1.000) return 8;
+  var num = Math.random();
+  if (num < 0.175) return 1;
+  else if (num < 0.350) return 2;
+  else if (num < 0.500) return 3;
+  else if (num < 0.650) return 4;
+  else if (num < 0.725) return 5;
+  else if (num < 0.825) return 6;
+  else if (num < 0.900) return 7;
+  else return 8;
 }
 var rand_num = getRandom();
 var random_number = Math.floor(Math.random() * number);

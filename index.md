@@ -5,14 +5,14 @@ title: "Joe Choo-Choy"
 
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<p class="lead mb-4"><b>Duke University TESTING</b></p>
+<p class="lead mb-4"><b>Duke University TEST</b></p>
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 
 <div class="row">
   <div class="col-3">
     <!--<img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/>-->
-    <script src="/random.js" type="text/javascript"></script>
+    <script src="random.js" type="text/javascript"></script>
   </div>
   <div class="col">
     <p>

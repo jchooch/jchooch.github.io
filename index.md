@@ -5,10 +5,9 @@ title: "Joe Choo-Choy"
 
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<p class="lead mb-4"><b>Duke University BOOM</b></p>
+<p class="lead mb-4"><b>Duke University BOOOM</b></p>
 
-<script language="javascript" src="change_image.js"></script>
-<script src="/images/random.js" type="text/javascript"></script>
+<!--<script language="javascript" src="change_image.js"></script>-->
 
 <div class="row">
   <div class="col-3">

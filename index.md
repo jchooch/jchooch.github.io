@@ -30,10 +30,7 @@ title: "Joe Choo-Choy"
       Neurobiology | Cognitive Science | Machine Learning
     </p>
     <p>
-      Philosophy | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
-    </p>
-    <p>
-      Film | Literature | Myself | Others
+      Philosophy | <a href="https://www.effectivealtruism.org/">Effective Altruism</a> | Art
     </p>
     <p>
       This site is a work-in-progress.

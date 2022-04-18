@@ -27,13 +27,13 @@ title: "Joe Choo-Choy"
     In particular, I'm often confused by:
     </p>
     <p>
-      Neuroscience | Biology | Evolution | Psychology
+      Neurobiology | Cognitive Science | Machine Learning
     </p>
     <p>
-      Artificial Intelligence | Machine Learning | Statistics
+      Philosophy | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
     </p>
     <p>
-      Cognitive Science | Philosophy | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
+      Film | Literature | Myself | Others
     </p>
     <p>
       This site is a work-in-progress.

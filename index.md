@@ -97,9 +97,8 @@ title: "Joe Choo-Choy"
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
       <tr> <td/> <td>
-      Apparently it's called "higher education"... Don't necessarily recommend it.
+      Apparently it's called "higher education"...! Don't necessarily recommend it.
       </td> </tr>
-
 </table>
 
 
@@ -136,6 +135,6 @@ title: "Joe Choo-Choy"
 You can also check out my <a href="{{ site.lists_permalink }}">lists</a> and <a href="{{ site.tidbytes_permalink }}">tidbytes</a>.
 </p>
 
-<p size="10" style="color:palevioletred;"><i>Nullius in verba</i></p>
+<!--<p size="10" style="color:palevioletred;"><i>Nullius in verba</i></p>-->
 
 <p size="6" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>

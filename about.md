@@ -1,26 +1,27 @@
 ---
 layout: default
-title: "About Joe Choo-Choy"
+title: "About"
 permalink: /about/
 ---
 
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<p class="lead mb-4"><b>Duke University</b></p>
+<i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 
 <div class="row">
   <div class="col-3">
-    <!-- ok this def works -->
-    <!-- <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/> -->
-    <!-- this does not work --> 
-    <script src="/javascript/random.js" type="text/javascript"></script>
+    <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/>
   </div>
   <div class="col">
     <p>
-    
-    </p>
+    I just finished my undergraduate degree in Systems Biology at Duke University, which ended up being a mix of computational biology and neuroscience. 
+    I have longstanding interests in philosophy and psychology, but am now especially interested in cognitive science, including its overlap with theoretical neurobiology and artificial intelligence.
+    I have found few subjects which cohere so well theoretically but which also envelope so many diverse lines of empirical enquiry, and it's this consilience and interdisciplinarity which I find fascinating, especially when quantitative theory is brought to bear.
+    I am currently working the Naumann Lab in the Neurobiology department at Duke, but hope to pursue graduate study in computational cognitive science broadly construed. 
+    I also love travelling to new places, rock climbing and alpinism, literature of all sorts, comedy, film, and all the other good things in life. 
+  </p>
   </div>
 </div>
 
@@ -44,10 +45,6 @@ permalink: /about/
     <a class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
   </li>
 </ul>
-
-<p>
-You can also read more <a href="/about.md">about me</a>, check out my <a href="{{ site.lists_permalink }}">lists</a>, check out my <a href="{{ site.tidbytes_permalink }}">tidbytes</a>, or do something more valuable with your time. 
-</p>
 
 <!--
 <h4 class="mt-5 mb-3">Professional Experience</h4>

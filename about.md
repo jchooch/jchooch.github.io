@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About Joe Choo-Choy"
+permalink: /about/
 ---
 
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>

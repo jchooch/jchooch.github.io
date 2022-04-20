@@ -13,6 +13,7 @@ resources_permalink: /resources/
 tidbytes_permalink: /tidbytes/
 lists_permalink: /lists/
 cog_permalink: /cog/
+about_permalink: /about/
 recent_reading_permalink: /recent_reading/
 google_scholar: https://www.google.com
 baseurl: "" # the subpath of your site, e.g. /blog

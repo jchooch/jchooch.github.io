@@ -357,7 +357,7 @@ permalink: /lists/
     - Meru
     - Free Solo
     - 
-* <b>Bonus : Guilty Pleasure: Action Movies</b>
+* <b>Bonus : Guilty Pleasures: Action </b>
     - John Wick &#124; Chad Stahelski
     - Extraction &#124; Sam Hargrave
     - Collateral &#124; Michael Mann
@@ -365,11 +365,21 @@ permalink: /lists/
     - Safe House &#124; Daniel Espinosa
     - Taken &#124; Pierre Morel
     - The Equalizer &#124; Antoine Fuqua
-* <b>Bonus : Guilty Pleasure: Action Movies</b>
+* <b>Bonus : Guilty Pleasures: Comedy </b>
     - Dodgeball: A True Underdog Story &#124; Rawson Marshall Thurber
     - Step Brothers &#124; Adam McKay
     - Tropic Thunder &#124; Ben Stiller
     - Hall Pass &#124; The Farrelly Brothers
+    - Tenacious D in The Pick of Destiny &#124; Liam Lynch ???
+    - Dhoom 2 &#124; Sanjay Gadhvi ??? 
+
+* Musical Comedians
+    - Tim Minchin
+    - Bo Burnham
+    - Tom Lehrer
+    - George Formby
+    - Bill Bailey
+    - Tenacious D
 
 People Who Have Influenced Me / Who I Look Up To
     Filmmakers/Musicians/Artists

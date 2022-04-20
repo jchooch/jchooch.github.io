@@ -14,7 +14,7 @@ title: "Joe Choo-Choy"
     <!-- ok this def works -->
     <!-- <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/> -->
     <!-- this does not work --> 
-    <script src="/random.js" type="text/javascript"></script>
+    <script src="/javascript/random.js" type="text/javascript"></script>
   </div>
   <div class="col">
     <p>

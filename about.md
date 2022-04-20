@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Joe Choo-Choy"
+title: "About Joe Choo-Choy"
 ---
 
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -11,27 +11,14 @@ title: "Joe Choo-Choy"
 
 <div class="row">
   <div class="col-3">
+    <!-- ok this def works -->
     <!-- <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/> -->
+    <!-- this does not work --> 
     <script src="/javascript/random.js" type="text/javascript"></script>
   </div>
   <div class="col">
     <p>
-    Hello!
-    </p>
-    <p>
-      Are you lost? I am...
-    </p>
-    <p>
-    In particular, I'm often confused by:
-    </p>
-    <p>
-      Neurobiology | Cognitive Science | Machine Learning
-    </p>
-    <p>
-      Philosophy | Art | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
-    </p>
-    <p>
-      This site is a work-in-progress.
+    
     </p>
   </div>
 </div>
@@ -62,25 +49,47 @@ You can also read more <a href="/about.md">about me</a>, check out my <a href="{
 </p>
 
 <!--
-<div class="noprint">
-<h4 class="mt-5 mb-3">Posts</h4>
+<h4 class="mt-5 mb-3">Professional Experience</h4>
 
-<p>
-  <table class="mt-3">
-  {% for post in site.posts %}
+<table class="mt-3">
       <tr>
-      <td class="align-top">
-        {%- assign date_format = site.minima.date_format | default: "%Y" -%}
-        {{ post.date | date: date_format }}
-      </td>
-      <td><span style="display:inline-block; width:0.3cm;"></span></td>
-      <td class="align-top">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      </td>
+        <td style="min-width:100px"> 0000-0000</td>
+        <td> <b> Example experience. </b> </td>
       </tr>
-  {% endfor %}
-  </table>
-</p>
+      <tr> <td/> <td>
+       Example project.
+      </td> </tr>
+      <tr> <td/> <td>
+      Example project.
+      </td> </tr>
+      <tr>
+        <td style="min-width:100px"> 0000-0000 </td>
+        <td> <b>Example experience.</b> </td>
+      </tr>
+      <tr> <td/> <td>
+      Example project.
+      </td> </tr>
+      <tr> <td/> <td>
+      Example project.
+      </td> </tr>
+</table>
 -->
 
-<p size="6" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>
+<h4 class="mt-5 mb-3">Education</h4>
+
+<table class="mt-3">
+      <tr>
+        <td style="min-width:100px"> 2017-2021 </td>
+        <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
+      </tr>
+      <tr> <td/> <td>
+      Apparently it's called "higher education"...! Don't necessarily recommend it.
+      </td> </tr>
+</table>
+
+
+<h4 class="mt-5 mb-3">Publications</h4>
+
+|--- ||--- |
+|2022||Jacobs et al. <b>Predicting connectivity of motion-processing neurons with recurrent neural networks</b>, <i>COSYNE</i>.|
+

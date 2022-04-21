@@ -19,8 +19,8 @@ permalink: /about/
     I just finished my undergraduate degree in Systems Biology at Duke University, which ended up being a mix of computational biology and neuroscience. 
     I have longstanding interests in philosophy and psychology, but am now especially interested in cognitive science, including its overlap with theoretical neurobiology and artificial intelligence.
     I have found few subjects which cohere so well theoretically but which also envelope so many diverse lines of empirical enquiry, and it's this consilience and interdisciplinarity which I find fascinating, especially when quantitative theory is brought to bear.
-    I am currently working the Naumann Lab in the Neurobiology department at Duke, but hope to pursue graduate study in computational cognitive science broadly construed. 
-    I also love travelling to new places, rock climbing and alpinism, literature of all sorts, comedy, film, and all the other good things in life. 
+    I am currently working at the Naumann Lab in the Neurobiology department at Duke, but hope to pursue graduate study in computational cognitive science broadly construed. 
+    I also love rock climbing and alpinism, travelling to new places, literature of all sorts, comedy, film, and all the other good things in life. 
   </p>
   </div>
 </div>

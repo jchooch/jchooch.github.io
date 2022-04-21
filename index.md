@@ -83,4 +83,4 @@ You can also read more <a href="{{ site.about_permalink }}">about me</a>, check 
 </p>
 -->
 
-<p size="6" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>
+<p size="4" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>

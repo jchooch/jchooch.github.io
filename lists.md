@@ -21,7 +21,7 @@ permalink: /lists/
     - And the list goes on...
 * I think that putative "great art", e.g. the films of <a href="https://en.wikipedia.org/wiki/Orson_Welles">Orson Welles</a> or the music of <a href="https://en.wikipedia.org/wiki/The_Beatles">The Beatles</a>, is almost always <i>actually amazing</i>, even if personal taste still provides independent degrees of freedom. Much of the value of art is in its ability to illustrate new ways of thinking, feeling, perceiving, and understanding, some of which are objective in some respects. In any case, there are too many famously great artworks to list, so one has to follow one's own nose in constructing a short list of favourites in any space.
 * So I think that, in the appreciation of great art, the problem is very rarely <i>finding</i> great art, as opposed to actually consuming and analysing and <i>savouring</i> it. Of course, it is a difficult feat of willpower to watch a <a href="https://en.wikipedia.org/wiki/Federico_Fellini">Fellini</a> instead of the newest <a href="https://en.wikipedia.org/wiki/Avengers_(Marvel_Cinematic_Universe)">Avengers</a> film when the former may require more energy to consume than the other. (I think this is significantly a matter of habit, like so many things.) But thinking about the art here and how much joy it has brought me crysallises (in my mind) the importance of always seeking out great art, and never pretending that I don't know where to find it. Maybe <a href="https://www.youtube.com/watch?v=YWyC3Ik2L_o">Martin Scorsese</a> has seen all the famously great films so has to go looking for obscure inspiration, but <a href="https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time">Sight & Sound's 100 Greatest Films</a> or <a href="https://www.imdb.com/chart/top/">IMDb's Top 250 Films</a> are instructive enough for me. 
-* These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and what I personally love. This list is bound to be often out-of-date, but I hope it's interesting! Especially noisy lists are labelled with &#9888;, and should be taken with many pinches of salt.
+* These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and what I personally love. This list is bound to be often out-of-date, but I hope it's interesting! Especially noisy lists are labelled with &#9888;, and should be taken with a bucket of salt.
 <br>
 
 <!--
@@ -45,6 +45,7 @@ permalink: /lists/
     <li>Permutation City &#124; Greg Egan</li>
     <li>War and Peace &#124; Leo Tolstoy</li>
     <li>A Suitable Boy &#124; Vikram Seth</li>
+    <li>Outline Trilogy &#124; Rachel Cusk</li>
     <li>The Call of the Wild &#124; Jack London</li>
     <li>My Man Jeeves &#124; P.G. Wodehouse</li>
     <li>Paradise Lost &#124; John Milton</li>
@@ -81,6 +82,8 @@ permalink: /lists/
     <li>{Life on Earth, Sociobiology, Consilience} &#124; E.O. Wilson</li>
     <li>The Conscious Mind &#124; David Chalmers</li>
     <li>On Liberty &#124; John Stuart Mill</li>
+    <li>How to Measure Anything &#124; Douglas Hubbard</li>
+    <li>{Far From the Tree, The Noonday Demon} &#124; Andrew Solomon
 </ul>
 </details>
 
@@ -100,9 +103,11 @@ permalink: /lists/
 <summary><b><span style="color:orange">Literature</span> : Plays</b></summary>
 <ul>
     <li>{The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} &#124; Martin McDonagh</li>
-    <li>Arcadia &#124; Tom Stoppard</li>
+    <li>{Arcadia, Rosencrantz and Guildenstern Are Dead} &#124; Tom Stoppard</li>
     <li>{...} &#124; William Shakespeare</li>
     <li>{Jerusalem, Mojo} &#124; Jez Butterworth</li>
+    <li>Who's Afraid of Virginia Woolf? &#124; Edward Albee</li>
+    <li>Death of a Salesman &#124; Arthur Miller</li>
 </ul>
 </details>
 
@@ -470,6 +475,35 @@ People all of whose work I _wish_ I could follow and consume:
         * Carl Zimmer
         * Andrew Solomon
         * David Sedaris
+
+Information Theory, Inference and Learning Algorithms
+How To Build a Brain: A Neural Architecture for Biological Cognition
+Sparse Distributed Memory
+Reframing Super-Intelligence: Comprehensive AI services as general intelligence
+The Physics of Information Technology
+Biological Physics: Entropy, Information, Life
+The Quest for Consciousness: A Neurobiological Approach
+Inadequate Equilibria
+Quantum Information and Quantum Computation
+The Computational Beauty of Nature
+Spacetime and Geometry: An Introduction to General Relativity
+Spacetime Physics: Introduction to Special Relativity
+The Feynman Lectures on Computation
+The Feynman Lectures on Physics
+Godel’s Proof
+Godel Escher Bach
+A New Kind Of Science
+The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind
+How the Mind Works
+The Mind's I: Fantasies and Reflections on Self and Soul
+The Conscious Mind: In Search of a Fundamental Theory
+Thinking in Java
+The Selfish Gene
+Engines of Creation
+The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics
+Calculus Made Easy
+What is Mathematics?
+
 -->
 <br>
 In general, I try to track some of my consumption/favourites using <a href="https://boxd.it/eOVNm">Letterboxd</a>, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>.

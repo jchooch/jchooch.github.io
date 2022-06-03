@@ -386,7 +386,14 @@ permalink: /lists/
     - Bill Bailey
     - Tenacious D
 
+Best Comedy Sketches
+    - Dr Spooner Revisited: https://www.youtube.com/watch?v=ksIjcjF8c_Y
+    - 
+
 People Who Have Influenced Me / Who I Look Up To
+    Comedians
+        Fry & Laurie (Stephen Fry & Hugh Laurie)
+        The Two Ronnies (Ronnie Barker & Ronnie Corbett)
     Filmmakers/Musicians/Artists
         Martin Scorsese
         Bo Burnham

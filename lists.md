@@ -83,7 +83,7 @@ permalink: /lists/
     <li>The Conscious Mind &#124; David Chalmers</li>
     <li>On Liberty &#124; John Stuart Mill</li>
     <li>How to Measure Anything &#124; Douglas Hubbard</li>
-    <li>{Far From the Tree, The Noonday Demon} &#124; Andrew Solomon
+    <li>{Far From the Tree, The Noonday Demon} &#124; Andrew Solomon</li>
 </ul>
 </details>
 

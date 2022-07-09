@@ -50,7 +50,7 @@ title: "Joe Choo-Choy"
     <a class="btn btn-link" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-link"><i class="fab fa-linkedin" ></i> {{ site.linkedin_username }}</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Durham,_North_Carolina"><i class="fa fa-home"  title="Home"></i> Durham, NC, USA</a>
+    <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Durham,_North_Carolina"><i class="fa fa-home"  title="Home"></i> London, UK</a>
   </li>
   <li class="nav-item">
     <a class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
@@ -58,7 +58,7 @@ title: "Joe Choo-Choy"
 </ul>
 
 <p>
-You can also read more <a href="{{ site.about_permalink }}">about me</a>, check out my <a href="{{ site.lists_permalink }}">lists</a>, check out my <a href="{{ site.tidbytes_permalink }}">tidbytes</a>, or do something more valuable with your time...! 
+You can also read more <a href="{{ site.about_permalink }}">about me</a>, check out my <a href="{{ site.lists_permalink }}">lists</a>, check out my <a href="{{ site.tidbytes_permalink }}">tidbytes</a>, check out my <a href="">blog</a> or do something more valuable with your time...! 
 </p>
 
 <!--

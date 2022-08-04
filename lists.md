@@ -385,6 +385,7 @@ permalink: /lists/
     - George Formby
     - Bill Bailey
     - Tenacious D
+    - Bette Midler
 
 Best Comedy Sketches
     - Dr Spooner Revisited: https://www.youtube.com/watch?v=ksIjcjF8c_Y
@@ -394,6 +395,9 @@ People Who Have Influenced Me / Who I Look Up To
     Comedians
         Fry & Laurie (Stephen Fry & Hugh Laurie)
         The Two Ronnies (Ronnie Barker & Ronnie Corbett)
+        George Carlin
+        Rhod Gilbert
+
     Filmmakers/Musicians/Artists
         Martin Scorsese
         Bo Burnham

@@ -16,11 +16,7 @@ permalink: /about/
   </div>
   <div class="col">
     <p>
-    I just finished my undergraduate degree in Systems Biology at Duke University, which ended up being a mix of computational biology and neuroscience. 
-    I have longstanding interests in philosophy and psychology, but am now especially interested in cognitive science, including its overlap with theoretical neurobiology and artificial intelligence.
-    I have found few subjects which cohere so well theoretically but which also envelope so many diverse lines of empirical enquiry, and it's this consilience and interdisciplinarity which I find fascinating, especially when quantitative theory is brought to bear.
-    I am currently working at the Naumann Lab in the Neurobiology department at Duke, but hope to pursue graduate study in computational cognitive science broadly construed. 
-    I also love rock climbing and alpinism, travelling to new places, literature of all sorts, comedy, film, and all the other good things in life. 
+    I just finished my undergraduate degree in Systems Biology at Duke University, which ended up being a mix of computational biology and neuroscience. I am currently working at the Naumann Lab in the Neurobiology department at Duke, and most preoccupied in my own time by cognitive science broadly construed. I hope to pursue graduate study in computational neuro-/cognitive science soon. My longest standing interests are probably in philosophy and psychology. I do feel as though my mind bears the marks of one whose first intellectual engagement was with philosophy and psychology. In philosophy, I was first moved by questions in metaphysics, philosophy of mind, and ethics. Over time, I have become more interested in formal epistemology, philosophy of language, and philosophy of science in its various forms. In psychology, I was  first gripped by case studies in psychiatry and clinical neuropsychology, especially those due to Hervey Cleckley, Alexander Luria, and Oliver Sacks. I have come to believe that the most profound science is philosophically consequential, and that psychology, at its best, interacts with neurobiology, computer science, statistics, and so on. My primary interests are now in cognitive science, theoretical neurobiology, and artificial intelligence. I have found few subjects which cohere so well but which also envelope so many diverse lines of empirical enquiry, and it's this consilience and interdisciplinarity which I find so stimulating, especially when quantitative theory is brought to bear. I also love rock climbing and alpinism, travelling to new places, literature of all sorts, comedy, film, and all the other good things in life.
   </p>
   </div>
 </div>
@@ -73,6 +69,7 @@ permalink: /about/
 </table>
 -->
 
+<!--
 <h4 class="mt-5 mb-3">Education</h4>
 
 <table class="mt-3">
@@ -90,4 +87,6 @@ permalink: /about/
 
 |--- ||--- |
 |2022||Jacobs et al. <b>Predicting connectivity of motion-processing neurons with recurrent neural networks</b>, <i>COSYNE</i>.|
+
+-->
 

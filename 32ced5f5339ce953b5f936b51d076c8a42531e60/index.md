@@ -58,7 +58,7 @@ title: "Joe Choo-Choy"
 </ul>
 
 <p>
-You can also read more <a href="{{ site.about_permalink }}">about me</a>, check out my <a href="{{ site.lists_permalink }}">lists</a>, check out my <a href="{{ site.tidbytes_permalink }}">tidbytes</a>, check out my <a href="{{ site.blog_permalink }}">blog</a> or do something more valuable with your time...! 
+You can also read more <a href="{{ site.about_permalink }}">about me</a>, check out my <a href="{{ site.lists_permalink }}">lists</a>, check out my <a href="{{ site.tidbytes_permalink }}">tidbytes</a>, check out my <a href="{{ site.blog_permalink }}">blog</a>, or do something more valuable with your time...! 
 </p>
 
 <!--

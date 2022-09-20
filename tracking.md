@@ -33,7 +33,7 @@ table, th, td {
 
 <table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">
       <tr>
-      	<td>🎥</td>
+      	<td style="min-width:30px">🎥</td>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:red;"> ★★★★★★ </td>
         <td><a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </td>

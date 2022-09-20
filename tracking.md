@@ -24,6 +24,7 @@ live-show=🎭 &nbsp;&nbsp;&nbsp;
 album=💽 &nbsp;&nbsp;&nbsp;
 <br>
 
+<html>
 <style>
 table, th, td {
   border: 1px grey;
@@ -104,6 +105,7 @@ table, th, td {
         <td> ... </td>
       </tr>
 </table>
+</html>
 
 <br>
 <br>

@@ -86,3 +86,16 @@ table, th, td {
 |2022-09-20||Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart? ★★★★|
 |2022-09-20||[Kanwisher (MIT, 2019)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) The Human Brain. Started: Aug 2022. Finished: Sep 2022. ★★★★★|
 |2022-09-20||Smith (2000) White Teeth ★★★★★|
+
+<br>
+<br>
+
+| --- || --- || --- |
+|2022-09-20||★★★★★||[Watson & Crick (Nature, 1953)](https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf) A Structure for Deoxyribose Nucleic Acid|
+|2022-09-20||★★★★★★||[Terrence Malick (1998)](https://www.imdb.com/title/tt0120863/) The Thin Red Line|
+|||||Where do I even begin? The grass! Oh my god. And the Japanese are ghosts in the first half of the film. And then as soon as we meet them they are the human source of the horror, dehumanised and hyperhumanised at once. A terrifying, beautiful film. Clearly preoccupied with nature and with philosophical questions. The editing is absolutely stunning, although its very occasional, very slight flaws are perhaps one of the only limitations of the film. Where it is very slightly clunky. But the editing is absolutely outstanding, and the film is almost perfect.|
+|2022-09-20||★★★★||Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness")|
+|2022-09-20||★★★★||[Roadkill S1 (BBC, 2020)](https://www.imdb.com/title/tt10846250/). Started: Aug 2022. Finished: Sep 2022.|
+|2022-09-20||★★★★||Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart?|
+|2022-09-20||★★★★★||[Kanwisher (MIT, 2019)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) The Human Brain. Started: Aug 2022. Finished: Sep 2022.|
+|2022-09-20||★★★★★||Smith (2000) White Teeth|

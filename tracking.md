@@ -14,16 +14,9 @@ permalink: /tracking/
 
 This is an experiment in tracking my consumption habits.
 
-| AUTHORS | YEAR | TITLE | VENUE | TYPE | DATE READ | RATING/5 | NOTES |
+| Authors | Year | Title | Venue | Type | Date Read | Rating (/5) | Notes |
 | ------- | --- | ---------- | ----- | --- | ---- | ---- | -------- |
 | [Crick & Watson](https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf) | 1953 | A Structure for Deoxyribose Nucleic Acid | Nature | RES | 20.09.2022 | 5 | ... |
-
-
-| HEADING  |  HEADING |  HEADING |  HEADING |  HEADING |  HEADING | HEADING  |  HEADING |
-|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
 
 
 <html>
@@ -34,17 +27,18 @@ table, th, td {
 </style>
 <body>
 
-<h2>TD elements define table cells</h2>
-
 <table style="width:100%">
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
+    <td> <a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Crick & Watson</a></td>
+    <td>1953</td>
+    <td>A Structure for Deoxyribose Nucleic Acid</td>
+    <td>Nature</td>
+    <td>RES</td>
+    <td>20.09.2022</td>
+    <td>5/5</td>
+    <td>...</td>
   </tr>
 </table>
-
-<p>To understand the example better, we have added borders to the table.</p>
 
 </body>
 </html>

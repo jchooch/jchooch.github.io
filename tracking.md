@@ -61,14 +61,13 @@ table, th, td {
 
 <h4 class="mt-5 mb-3">Education</h4>
 
-<span style="font-family:georgia,serif; font-size:12px;">
-<table class="mt-3">
+<table class="mt-3" style="font-family:georgia,serif; font-size:12px;">
       <tr>
         <td style="min-width:100px"> 2017-2021 </td>
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
       <tr> 
-      	<td></td>
+      	<td style="min-width:100px"></td>
       	<td> Apparently it's called "higher education"...! Don't necessarily recommend it. </td>
       </tr>
 </table>

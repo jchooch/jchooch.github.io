@@ -91,6 +91,8 @@ table, th, td {
 <br>
 <br>
 
+<span style="font-family:georgia,serif; font-size:12px;">
+
 | --- || --- || --- |
 |2022-09-20||★★★★★||[Watson & Crick (Nature, 1953)](https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf) A Structure for Deoxyribose Nucleic Acid|
 |2022-09-20||★★★★★★||[Terrence Malick (1998)](https://www.imdb.com/title/tt0120863/) The Thin Red Line|
@@ -101,3 +103,5 @@ table, th, td {
 |2022-09-20||★★★★★||[Kanwisher (MIT, 2019)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) The Human Brain. Started: Aug 2022. Finished: Sep 2022.|
 |2022-09-20||★★★★★||Smith (2000) White Teeth|
 |2022-09-20||★★★★★||Funkadelic (1974) Standing On the Verge of Getting It On|
+
+</span>

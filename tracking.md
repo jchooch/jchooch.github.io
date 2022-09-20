@@ -78,7 +78,7 @@ album=💽 &nbsp;&nbsp;&nbsp;&nbsp;
         <td><b> 🎥 <a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </b></td>
       </tr>
       <tr> 
-      	<td style="min-width:100px"></td>
+      	<td style="min-width:80px"></td>
 	    <td style="min-width:80px;color:gold;"></td>
       	<td>Where do I even begin? The grass! Oh my god. And the Japanese are ghosts in the first half of the film. And then as soon as we meet them they are the human source of the horror, dehumanised and hyperhumanised at once. A terrifying, beautiful film. Clearly preoccupied with nature and with philosophical questions. The editing is absolutely stunning, although its very occasional, very slight flaws are perhaps one of the only limitations of the film. Where it is very slightly clunky. But the editing is absolutely outstanding, and the film is almost perfect.</td>
       </tr>

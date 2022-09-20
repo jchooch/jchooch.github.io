@@ -95,11 +95,51 @@ Album: 💽
       </tr>
       <tr>
         <td style="min-width:80px">20.09.2022</td>
+        <td style="min-width:80px;color:yellow;">★★★★</td>
+        <td> 📺 <a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a> Started: Aug 2022. Finished: Sep 2022.</td>
+      </tr>
+      <tr>
+        <td style="min-width:80px">20.09.2022</td>
+        <td style="min-width:80px;color:yellow;">★★★★</td>
+        <td> 📊 Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart?</td>
+      </tr>
+      <tr>
+        <td style="min-width:80px">20.09.2022</td>
+        <td style="min-width:80px;color:gold;">★★★★★</td>
+        <td> 🎓 <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">Kanwisher (MIT, 2019)</a> The Human Brain. Started: Aug 2022. Finished: Sep 2022.</td>
+      </tr>
+      <tr>
+        <td style="min-width:80px">20.09.2022</td>
+        <td style="min-width:80px;color:gold;">★★★★★</td>
+        <td> 📖 Smith (2000) White Teeth</td>
+      </tr>
+      <tr>
+        <td style="min-width:80px">20.09.2022</td>
+        <td style="min-width:80px;color:yellow;">★★★★</td>
+        <td> 💽 Funkadelic (1974) Standing On the Verge of Getting It On</td>
+      </tr>
+      <tr>
+        <td style="min-width:80px">00.00.0000</td>
         <td style="min-width:80px;color:yellow;"></td>
         <td></td>
       </tr>
       <tr>
-        <td style="min-width:80px">20.09.2022</td>
+        <td style="min-width:80px">00.00.0000</td>
+        <td style="min-width:80px;color:yellow;"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td style="min-width:80px">00.00.0000</td>
+        <td style="min-width:80px;color:yellow;"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td style="min-width:80px">00.00.0000</td>
+        <td style="min-width:80px;color:yellow;"></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td style="min-width:80px">00.00.0000</td>
         <td style="min-width:80px;color:yellow;"></td>
         <td></td>
       </tr>
@@ -112,11 +152,4 @@ Album: 💽
 
 <br>
 <br>
-
-||
-|★★★★||[Roadkill S1 (BBC, 2020)](https://www.imdb.com/title/tt10846250/). Started: Aug 2022. Finished: Sep 2022.|
-|★★★★||Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart?|
-|★★★★★||[Kanwisher (MIT, 2019)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) The Human Brain. Started: Aug 2022. Finished: Sep 2022.|
-|★★★★★||Smith (2000) White Teeth|
-|★★★★★||Funkadelic (1974) Standing On the Verge of Getting It On|
 

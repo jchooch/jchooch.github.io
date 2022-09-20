@@ -134,12 +134,12 @@ permalink: /lists/
     <li>Too difficult to group, too numerous to name...</li>
     <ul>
         <li>Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, ...</li>
-        <li>Nina Simone, Amy Winehouse, Otis Redding, Paolo Nutini, Hozier, Joni Mitchell, Bob Dylan, Benjamin Clementine, ...</li>
+        <li>Nina Simone, Amy Winehouse, Otis Redding, Paolo Nutini, Hozier, Joni Mitchell, Bob Dylan, Benjamin Clementine, Van Morrison, ...</li>
         <li>Radiohead, Jeff Buckley, Thom Yorke, Portishead, Tricky, ...</li>
         <li>Bee Gees, Elton John, Stevie Wonder, David Bowie, Michael Jackson, ...</li>
         <li>Massive Attack, Boards of Canada, Aphex Twin, Flying Lotus, Four Tet, ...</li>
         <li>Wu Tang Clan, Eminem, Nas, MF Doom, Notorious BIG, Kanye West, Kendrick Lamar, Aesop Rock, ...</li>
-        <li>Linkin Park, Muse, Audioslave, IDLES, Foals, ...</li>
+        <li>Linkin Park, Muse, Audioslave, IDLES, Foals, Gang of Youths, ...</li>
         <li>Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...</li>
         <li>...</li>
     </ul>
@@ -516,8 +516,12 @@ Calculus Made Easy
 What is Mathematics?
 
 -->
+<!--
 <br>
 In general, I try to track some of my consumption/favourites using <a href="https://boxd.it/eOVNm">Letterboxd</a>, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>.
+-->
+<br>
+As an experiment, I am tracking my consumption of films, books, podcasts, MOOCs, papers, and the like <a href="{{ site.tracking_permalink }}">here</a>.
 
 <p size="-5" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>
  

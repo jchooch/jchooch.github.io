@@ -11,3 +11,6 @@ permalink: /tracking/
 <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
 <br>
 <br>
+| AUTHORS | YEAR | TITLE | VENUE | TYPE | DATE READ | RATING/5 | NOTES |
+| ------- | --- | ---------- | ----- | --- | ---- | ---- | -------- |
+| [Crick & Watson](https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf) | 1953 | A Structure for Deoxyribose Nucleic Acid | Nature | RES | 20.09.2022 | 5 | ... |

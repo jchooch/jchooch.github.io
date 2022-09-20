@@ -99,3 +99,4 @@ table, th, td {
 |2022-09-20||★★★★||Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart?|
 |2022-09-20||★★★★★||[Kanwisher (MIT, 2019)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) The Human Brain. Started: Aug 2022. Finished: Sep 2022.|
 |2022-09-20||★★★★★||Smith (2000) White Teeth|
+|2022-09-20||★★★★★||Funkadelic (1974) Standing On the Verge of Getting It On|

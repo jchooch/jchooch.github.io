@@ -71,9 +71,9 @@ live-show=🎭 &nbsp;&nbsp;&nbsp;&nbsp;
 album=💽 &nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
-<table class="mt-3" style="font-family:georgia,serif; font-size:12px;">
+<table class="mt-3" style="font-family:tahoma,sans-serif; font-size:12px;">
       <tr>
-        <td style="min-width:80px"> 20.09.2022 </td>
+        <td style="min-width:80px"> <b>20.09.2022</b> </td>
         <td style="min-width:80px;color:red;"> ★★★★★★ </td>
         <td> 🎥 <a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </td>
       </tr>

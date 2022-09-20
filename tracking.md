@@ -66,9 +66,9 @@ table, th, td {
         <td style="min-width:100px"> 2017-2021 </td>
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
-      <tr> <td/> <td>
-      Apparently it's called "higher education"...! Don't necessarily recommend it.
-      </td> </tr>
+      <tr> 
+      	<td> Apparently it's called "higher education"...! Don't necessarily recommend it. </td>
+      </tr>
 </table>
 
 <br>
@@ -77,9 +77,10 @@ table, th, td {
 
 <h4 class="mt-5 mb-3">Publications</h4>
 
-|--- ||--- |
+| --- || --- |
 |2022-09-20||[Watson & Crick (Nature, 1953)](https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf) A Structure for Deoxyribose Nucleic Acid ★★★★★|
 |2022-09-20||[Terrence Malick (1998)](https://www.imdb.com/title/tt0120863/) The Thin Red Line ★★★★★★|
+|||Where do I even begin? The grass! Oh my god. And the Japanese are ghosts in the first half of the film. And then as soon as we meet them they are the human source of the horror, dehumanised and hyperhumanised at once. A terrifying, beautiful film. Clearly preoccupied with nature and with philosophical questions. The editing is absolutely stunning, although its very occasional, very slight flaws are perhaps one of the only limitations of the film. Where it is very slightly clunky. But the editing is absolutely outstanding, and the film is almost perfect.|
 |2022-09-20||Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness") ★★★★|
 |2022-09-20||[Roadkill S1 (BBC, 2020)](https://www.imdb.com/title/tt10846250/). Started: Aug 2022. Finished: Sep 2022. ★★★★|
 |2022-09-20||Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart? ★★★★|

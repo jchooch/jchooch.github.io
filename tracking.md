@@ -75,7 +75,7 @@ album=💽 &nbsp;&nbsp;&nbsp;&nbsp;
       <tr>
         <td style="min-width:80px"> <b>20.09.2022</b> </td>
         <td style="min-width:80px;color:red;"> ★★★★★★ </td>
-        <td> 🎥 <a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </td>
+        <td><b> 🎥 <a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </b></td>
       </tr>
       <tr> 
       	<td style="min-width:100px"></td>
@@ -85,67 +85,52 @@ album=💽 &nbsp;&nbsp;&nbsp;&nbsp;
       <tr>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:orange;">★★★★★</td>
-        <td> 📄 <a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Watson & Crick (Nature, 1953)</a> A Structure for Deoxyribose Nucleic Acid</td>
+        <td><b> 📄 <a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Watson & Crick (Nature, 1953)</a> A Structure for Deoxyribose Nucleic Acid </b></td>
       </tr>
       <tr>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:gold;">★★★★</td>
-        <td> 🎙️ Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness")</td>
+        <td><b> 🎙️ Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness") </b></td>
       </tr>
       <tr>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:gold;">★★★★</td>
-        <td> 📺 <a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a> Started: Aug 2022. Finished: Sep 2022.</td>
+        <td><b> 📺 <a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a> Started: Aug 2022. Finished: Sep 2022. </b></td>
       </tr>
       <tr>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:gold;">★★★★</td>
-        <td> 📊 Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart?</td>
+        <td><b> 📊 Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart? </b></td>
       </tr>
       <tr>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:orange;">★★★★★</td>
-        <td> 🎓 <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">Kanwisher (MIT, 2019)</a> The Human Brain. Started: Aug 2022. Finished: Sep 2022.</td>
+        <td><b> 🎓 <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">Kanwisher (MIT, 2019)</a> The Human Brain. Started: Aug 2022. Finished: Sep 2022.</b></td>
       </tr>
       <tr>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:orange;">★★★★★</td>
-        <td> 📖 Smith (2000) White Teeth</td>
+        <td><b> 📖 Smith (2000) White Teeth </b></td>
       </tr>
       <tr>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:gold;">★★★★</td>
-        <td> 💽 Funkadelic (1974) Standing On the Verge of Getting It On</td>
+        <td><b> 💽 Funkadelic (1974) Standing On the Verge of Getting It On </b></td>
       </tr>
       <tr>
         <td style="min-width:80px">00.00.0000</td>
         <td style="min-width:80px;color:gold;"></td>
-        <td></td>
+        <td><b> ... </b></td>
       </tr>
       <tr>
         <td style="min-width:80px">00.00.0000</td>
         <td style="min-width:80px;color:gold;"></td>
-        <td></td>
+        <td><b> ... </b></td>
       </tr>
       <tr>
         <td style="min-width:80px">00.00.0000</td>
         <td style="min-width:80px;color:gold;"></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td style="min-width:80px">00.00.0000</td>
-        <td style="min-width:80px;color:gold;"></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td style="min-width:80px">00.00.0000</td>
-        <td style="min-width:80px;color:gold;"></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td style="min-width:80px">00.00.0000</td>
-        <td style="min-width:80px;color:yellow;"></td>
-        <td></td>
+        <td><b> ... </b></td>
       </tr>
 </table>
 

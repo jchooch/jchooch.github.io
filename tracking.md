@@ -36,8 +36,8 @@ table, th, td {
       <tr>
       	<td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">20.09.2022</td>
-        <td style="min-width:80px;color:red;"> ★★★★★★ </td>
-        <td><a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </td>
+        <td style="min-width:80px;color:red;">&nbsp;★★★★★★ </td>
+        <td>&nbsp;<a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </td>
       </tr>
       <tr> 
       	<td></td>
@@ -55,7 +55,7 @@ table, th, td {
       	<td>&nbsp;🎙️&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td> &nbsp;Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness") </td>
+        <td>&nbsp; Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness") </td>
       </tr>
       <tr>
       	<td>&nbsp;📺&nbsp;</td>

@@ -71,7 +71,6 @@ table, th, td {
       	<td> Apparently it's called "higher education"...! Don't necessarily recommend it. </td>
       </tr>
 </table>
-</span>
 
 <br>
 <br>

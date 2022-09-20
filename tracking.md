@@ -59,18 +59,17 @@ table, th, td {
 <br>
 
 
-<h4 class="mt-5 mb-3">Education</h4>
+<h4 class="mt-5 mb-3">Consumption</h4>
 
-Paper: 📄
-Lecture: 📊
-Lecture: 📜
-Podcast/Talk: 🎙️
-TV Show: 📺
-Course: 🎓
-Book: 📖
-Live Show: 🎭
-Album: 💽
-
+paper=📄 &nbsp;&nbsp;&nbsp;&nbsp;
+lecture=📊 &nbsp;&nbsp;&nbsp;&nbsp;
+podcast/talk=🎙️ &nbsp;&nbsp;&nbsp;&nbsp;
+tv-show=📺 &nbsp;&nbsp;&nbsp;&nbsp;
+course=🎓 &nbsp;&nbsp;&nbsp;&nbsp;
+book=📖 &nbsp;&nbsp;&nbsp;&nbsp;
+live-show=🎭 &nbsp;&nbsp;&nbsp;&nbsp;
+album=💽 &nbsp;&nbsp;&nbsp;&nbsp;
+<br>
 
 <table class="mt-3" style="font-family:georgia,serif; font-size:12px;">
       <tr>

@@ -133,7 +133,7 @@ permalink: /lists/
 <ul>
     <li>Too difficult to group, too numerous to name...</li>
     <ul>
-        <li>Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, ...</li>
+        <li>Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, Talking Heads, ...</li>
         <li>Nina Simone, Amy Winehouse, Otis Redding, Paolo Nutini, Hozier, Joni Mitchell, Bob Dylan, Benjamin Clementine, Van Morrison, ...</li>
         <li>Radiohead, Jeff Buckley, Thom Yorke, Portishead, Tricky, ...</li>
         <li>Bee Gees, Elton John, Stevie Wonder, David Bowie, Michael Jackson, ...</li>

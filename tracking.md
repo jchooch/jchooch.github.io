@@ -61,6 +61,7 @@ table, th, td {
 
 <h4 class="mt-5 mb-3">Education</h4>
 
+<span style="font-family:georgia,serif; font-size:12px;">
 <table class="mt-3">
       <tr>
         <td style="min-width:100px"> 2017-2021 </td>
@@ -71,6 +72,7 @@ table, th, td {
       	<td> Apparently it's called "higher education"...! Don't necessarily recommend it. </td>
       </tr>
 </table>
+</span>
 
 <br>
 <br>

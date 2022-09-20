@@ -17,8 +17,8 @@ This is an experiment in tracking my consumption habits. My hope is to notice ex
 paper=📄 &nbsp;&nbsp;&nbsp;
 lecture=📊 &nbsp;&nbsp;&nbsp;
 podcast/talk=🎙️ &nbsp;&nbsp;&nbsp;
-tv-show=📺 &nbsp;&nbsp;&nbsp;
-course=🎓 &nbsp;&nbsp;&nbsp;
+<b>tv-show</b>=📺 &nbsp;&nbsp;&nbsp;
+<b>course</b>=🎓 &nbsp;&nbsp;&nbsp;
 book=📖 &nbsp;&nbsp;&nbsp;
 live-show=🎭 &nbsp;&nbsp;&nbsp;
 album=💽 &nbsp;&nbsp;&nbsp;
@@ -59,7 +59,7 @@ table, th, td {
       	<td>📺</td>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:gold;">★★★★</td>
-        <td> <a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a> Started: Aug 2022. Finished: Sep 2022. </td>
+        <td> <b><a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a></b>Started: Aug 2022. Finished: Sep 2022. </td>
       </tr>
       <tr>
       	<td>📊</td>
@@ -71,7 +71,7 @@ table, th, td {
       	<td>🎓</td>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:orange;">★★★★★</td>
-        <td> <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">Kanwisher (MIT, 2019)</a> The Human Brain. Started: Aug 2022. Finished: Sep 2022.</td>
+        <td> <b><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">Kanwisher (MIT, 2019)</a> The Human Brain. </b>Started: Aug 2022. Finished: Sep 2022.</td>
       </tr>
       <tr>
       	<td>📖</td>

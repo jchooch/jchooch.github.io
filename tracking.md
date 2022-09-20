@@ -36,7 +36,7 @@ table, th, td {
       <tr>
       	<td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">20.09.2022</td>
-        <td style="min-width:80px;color:red;">&nbsp;★★★★★★ </td>
+        <td style="min-width:80px;color:red;">&nbsp;★★★★★★&nbsp;</td>
         <td>&nbsp;<a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </td>
       </tr>
       <tr> 
@@ -49,61 +49,61 @@ table, th, td {
       	<td>&nbsp;📄&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp; <a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Watson & Crick (Nature, 1953)</a> A Structure for Deoxyribose Nucleic Acid </td>
+        <td>&nbsp;<a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Watson & Crick (Nature, 1953)</a> A Structure for Deoxyribose Nucleic Acid </td>
       </tr>
       <tr>
       	<td>&nbsp;🎙️&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp; Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness") </td>
+        <td>&nbsp;Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness") </td>
       </tr>
       <tr>
       	<td>&nbsp;📺&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp; <b><a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a></b> Started: Aug 2022. Finished: Sep 2022. </td>
+        <td>&nbsp;<b><a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a></b> Started: Aug 2022. Finished: Sep 2022. </td>
       </tr>
       <tr>
       	<td>&nbsp;📊&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp; Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart? </td>
+        <td>&nbsp;Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart? </td>
       </tr>
       <tr>
       	<td>&nbsp;🎓&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp; <b><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">Kanwisher (MIT, 2019)</a> The Human Brain. </b>Started: Aug 2022. Finished: Sep 2022.</td>
+        <td>&nbsp;<b><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">Kanwisher (MIT, 2019)</a> The Human Brain. </b>Started: Aug 2022. Finished: Sep 2022.</td>
       </tr>
       <tr>
       	<td>&nbsp;📖&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp; Smith (2000) White Teeth </td>
+        <td>&nbsp;Smith (2000) White Teeth </td>
       </tr>
       <tr>
       	<td>&nbsp;💽&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp; Funkadelic (1974) Standing On the Verge of Getting It On </td>
+        <td>&nbsp;Funkadelic (1974) Standing On the Verge of Getting It On </td>
       </tr>
       <tr>
       	<td>&nbsp;❔&nbsp;</td>
         <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;</td>
-        <td> &nbsp; ... </td>
+        <td> &nbsp;... </td>
       </tr>
       <tr>
       	<td>&nbsp;❔&nbsp;</td>
         <td style="min-width:80px">00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;</td>
-        <td> &nbsp; ... </td>
+        <td> &nbsp;... </td>
       </tr>
       <tr>
       	<td>&nbsp;❔&nbsp;</td>
         <td style="min-width:80px">00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;</td>
-        <td> &nbsp; ... </td>
+        <td> &nbsp;... </td>
       </tr>
 </table>
 </html>

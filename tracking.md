@@ -71,7 +71,7 @@ live-show=🎭 &nbsp;&nbsp;&nbsp;&nbsp;
 album=💽 &nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
-<table class="mt-3" style="font-family:tahoma,sans-serif; font-size:12px;">
+<table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">
       <tr>
       	<td>🎥</td>
         <td style="min-width:80px"><b>20.09.2022</b></td>

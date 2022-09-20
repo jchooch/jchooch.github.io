@@ -27,7 +27,8 @@ album=💽 &nbsp;&nbsp;&nbsp;
 <html>
 <style>
 table, th, td {
-  border: 1px grey;
+  border: 2px solid gray;
+  border-collapse: collapse;
 }
 </style>
 
@@ -60,7 +61,7 @@ table, th, td {
       	<td>📺</td>
         <td style="min-width:80px">20.09.2022</td>
         <td style="min-width:80px;color:gold;">★★★★</td>
-        <td> <b><a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a></b>Started: Aug 2022. Finished: Sep 2022. </td>
+        <td> <b><a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a></b> Started: Aug 2022. Finished: Sep 2022. </td>
       </tr>
       <tr>
       	<td>📊</td>

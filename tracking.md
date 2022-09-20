@@ -24,7 +24,12 @@ live-show=🎭 &nbsp;&nbsp;&nbsp;
 album=💽 &nbsp;&nbsp;&nbsp;
 <br>
 
-<html>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+
 <table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">
       <tr>
       	<td>🎥</td>
@@ -99,7 +104,6 @@ album=💽 &nbsp;&nbsp;&nbsp;
         <td> ... </td>
       </tr>
 </table>
-</html>
 
 <br>
 <br>

@@ -67,6 +67,7 @@ table, th, td {
         <td> <b> Systems Biology B.S., Department of Computer Science, Duke University </b> </td>
       </tr>
       <tr> 
+      	<td></td>
       	<td> Apparently it's called "higher education"...! Don't necessarily recommend it. </td>
       </tr>
 </table>

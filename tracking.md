@@ -12,63 +12,16 @@ permalink: /tracking/
 <br>
 <br>
 
-This is an experiment in tracking my consumption habits.
+This is an experiment in tracking my consumption habits. My hope is to notice excesses and imbalances in my intake, but it's also a way for me to record things I've liked and loved, and occasionally some casual thoughts. 
 
-| Authors | Year | Title | Venue | Type | Date Read | Rating (/5) | Notes |
-| ------- | --- | ---------- | ----- | --- | ---- | ---- | -------- |
-| [Crick & Watson](https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf) | 1953 | A Structure for Deoxyribose Nucleic Acid | Nature | RES | 20.09.2022 | 5 | ... |
-
-<br>
-<br>
-
-<html>
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-<body>
-
-<table style="width:100%">
-  <tr>
-    <td>  <a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Crick & Watson</a>  </td>
-    <td>  1953  </td>
-    <td>  A Structure for Deoxyribose Nucleic Acid  </td>
-    <td>  Nature  </td>
-    <td>  RES  </td>
-    <td>  20.09.2022  </td>
-    <td>  5/5  </td>
-    <td>  ...  </td>
-  </tr>
-  <tr>
-  	<td></td>
-  	<td></td>
-  	<td></td>
-  	<td></td>
-  	<td></td>
-  	<td></td>
-  	<td></td>
-  	<td></td>
-  </tr>
-</table>
-
-</body>
-</html>
-
-<br>
-<br>
-
-
-<h4 class="mt-5 mb-3">Consumption</h4>
-
-paper=📄 &nbsp;&nbsp;&nbsp;&nbsp;
-lecture=📊 &nbsp;&nbsp;&nbsp;&nbsp;
-podcast/talk=🎙️ &nbsp;&nbsp;&nbsp;&nbsp;
-tv-show=📺 &nbsp;&nbsp;&nbsp;&nbsp;
-course=🎓 &nbsp;&nbsp;&nbsp;&nbsp;
-book=📖 &nbsp;&nbsp;&nbsp;&nbsp;
-live-show=🎭 &nbsp;&nbsp;&nbsp;&nbsp;
-album=💽 &nbsp;&nbsp;&nbsp;&nbsp;
+paper=📄 &nbsp;&nbsp;&nbsp;
+lecture=📊 &nbsp;&nbsp;&nbsp;
+podcast/talk=🎙️ &nbsp;&nbsp;&nbsp;
+tv-show=📺 &nbsp;&nbsp;&nbsp;
+course=🎓 &nbsp;&nbsp;&nbsp;
+book=📖 &nbsp;&nbsp;&nbsp;
+live-show=🎭 &nbsp;&nbsp;&nbsp;
+album=💽 &nbsp;&nbsp;&nbsp;
 <br>
 
 <table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">

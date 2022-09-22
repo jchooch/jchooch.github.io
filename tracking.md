@@ -33,23 +33,41 @@ table, th, td {
 </style>
 
 <table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">
+	<tr> 
+      	<td>&nbsp;🎥&nbsp;</td>
+      	<td style="min-width:80px">22.09.2022</td>
+	    <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+      	<td>&nbsp;Alfred Hitchcock (1935) The 39 Steps</td>
+      </tr>
+      <tr>
+      	<td>&nbsp;📖&nbsp;</td>
+        <td style="min-width:80px">&nbsp;21.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;John Kaag (2021) Sick Souls, Healthy Minds: How William James Can Save Your Life</td>
+      </tr>			
+      <tr>
+      	<td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;21.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Talking Heads (1983) Speaking in Tongues (Deluxe Edition)</td>
+      </tr>
       <tr>
       	<td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">20.09.2022</td>
-        <td style="min-width:80px;color:red;">&nbsp;★★★★★★&nbsp;</td>
-        <td>&nbsp;<a href="https://www.imdb.com/title/tt0120863/">Terrence Malick (1998)</a> The Thin Red Line </td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★&nbsp;</td>
+        <td>&nbsp;Cameron Crowe (2001) Vanilla Sky</td>
       </tr>
-      <tr> 
-      	<td></td>
-      	<td style="min-width:80px"></td>
-	    <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
-      	<td>Where do I even begin? The grass! Oh my god. And the Japanese are ghosts in the first half of the film. And then as soon as we meet them they are the human source of the horror, dehumanised and hyperhumanised at once. A terrifying, beautiful film. Clearly preoccupied with nature and with philosophical questions. The editing is absolutely stunning, although its very occasional, very slight flaws are perhaps one of the only limitations of the film. Where it is very slightly clunky. But the editing is absolutely outstanding, and the film is almost perfect.</td>
+      <tr>
+      	<td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;20.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Funkadelic (1974) Standing On the Verge of Getting It On</td>
       </tr>
       <tr>
       	<td>&nbsp;📄&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp;<a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Watson & Crick (Nature, 1953)</a> A Structure for Deoxyribose Nucleic Acid </td>
+        <td>&nbsp;<a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Watson & Crick (Nature, 1953)</a> A Structure for Deoxyribose Nucleic Acid</td>
       </tr>
       <tr>
       	<td>&nbsp;🎙️&nbsp;</td>
@@ -76,34 +94,16 @@ table, th, td {
         <td>&nbsp;<b>Professor (Insitution, Year) Example Course. </b>Started: Mon 0000. Finished: Mon 0000.</td>
       </tr>
       <tr>
-      	<td>&nbsp;📖&nbsp;</td>
-        <td style="min-width:80px">&nbsp;00.00.0000</td>
-        <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp;Author (Year) Example Book.</td>
-      </tr>
-      <tr>
-      	<td>&nbsp;💽&nbsp;</td>
-        <td style="min-width:80px">&nbsp;00.00.0000</td>
-        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Artist (Year) Example Album.</td>
-      </tr>
-      <tr>
       	<td>&nbsp;❔&nbsp;</td>
         <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;</td>
         <td> &nbsp;... </td>
       </tr>
-      <tr>
-      	<td>&nbsp;❔&nbsp;</td>
-        <td style="min-width:80px">&nbsp;00.00.0000</td>
-        <td style="min-width:80px;color:gold;">&nbsp;</td>
-        <td> &nbsp;... </td>
-      </tr>
-      <tr>
-      	<td>&nbsp;❔&nbsp;</td>
-        <td style="min-width:80px">&nbsp;00.00.0000</td>
-        <td style="min-width:80px;color:gold;">&nbsp;</td>
-        <td> &nbsp;... </td>
+          <tr> 
+      	<td></td>
+      	<td style="min-width:80px">00.00.0000</td>
+	    <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+      	<td>Example notes.</td>
       </tr>
 </table>
 </html>

@@ -40,11 +40,29 @@ table, th, td {
       	<td>&nbsp;Alfred Hitchcock (1935) The 39 Steps</td>
       </tr>
       <tr>
+      	<td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;22.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Today, Explained (Vox) (2018) The Quiet War on Obamacare</td>
+      </tr>
+      <tr>
+      	<td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;22.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Minutes With Podcast (LADbible) (2022) Breaking The World Record For Longest Kill And Battling PTSD</td>
+      </tr>
+      <tr>
       	<td>&nbsp;📖&nbsp;</td>
         <td style="min-width:80px">&nbsp;21.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
-        <td>&nbsp;John Kaag (2021) Sick Souls, Healthy Minds: How William James Can Save Your Life</td>
-      </tr>			
+        <td>&nbsp;John Kaag (2021) <i>Sick Souls, Healthy Minds: How William James Can Save Your Life</i></td>
+      </tr>
+      <tr>
+      	<td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;21.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Naked Neuroscience (20202) Honing in on Headaches</td>
+      </tr>
       <tr>
       	<td>&nbsp;💽&nbsp;</td>
         <td style="min-width:80px">&nbsp;21.09.2022</td>
@@ -68,12 +86,6 @@ table, th, td {
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
         <td>&nbsp;<a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Watson & Crick (Nature, 1953)</a> A Structure for Deoxyribose Nucleic Acid</td>
-      </tr>
-      <tr>
-      	<td>&nbsp;🎙️&nbsp;</td>
-        <td style="min-width:80px">&nbsp;00.00.0000</td>
-        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Show (Year) Example Podcast.</td>
       </tr>
       <tr>
       	<td>&nbsp;📺&nbsp;</td>

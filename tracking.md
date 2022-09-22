@@ -12,7 +12,7 @@ permalink: /tracking/
 <br>
 <br>
 
-This is an experiment in tracking my consumption habits. My hope is to notice excesses and imbalances in my intake, but it's also a way for me to record things I've liked and loved, and occasionally some casual thoughts. 
+This is an experiment in tracking my consumption habits. My hope is to notice excesses and imbalances in my intake, but it's also a way for me to record things I've liked and loved, and occasionally some casual thoughts. I have been tracking since early 2021, but am only beginning to record consumption here as of late 2022. I am presently trying to read at least five papers a week.
 
 paper=📄 &nbsp;&nbsp;&nbsp;
 lecture=📊 &nbsp;&nbsp;&nbsp;
@@ -53,39 +53,39 @@ table, th, td {
       </tr>
       <tr>
       	<td>&nbsp;🎙️&nbsp;</td>
-        <td style="min-width:80px">&nbsp;20.09.2022</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Very Bad Wizards (2020) Is Mental Illness a Myth? (Thomas Szasz's "The Myth of Mental Illness") </td>
+        <td>&nbsp;Show (Year) Example Podcast.</td>
       </tr>
       <tr>
       	<td>&nbsp;📺&nbsp;</td>
-        <td style="min-width:80px">&nbsp;20.09.2022</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;<b><a href="https://www.imdb.com/title/tt10846250/">Roadkill S1 (BBC, 2020)</a></b> Started: Aug 2022. Finished: Sep 2022. </td>
+        <td>&nbsp;<b>Example TV Show (Studio, Year)</b> Started: Mon 0000. Finished: Mon 0000.</td>
       </tr>
       <tr>
       	<td>&nbsp;📊&nbsp;</td>
-        <td style="min-width:80px">&nbsp;20.09.2022</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Gershman (TU Dresden Psychology Colloquium, 2022) What Makes Us Smart? </td>
+        <td>&nbsp;Example lecture. </td>
       </tr>
       <tr>
       	<td>&nbsp;🎓&nbsp;</td>
-        <td style="min-width:80px">&nbsp;20.09.2022</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp;<b><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">Kanwisher (MIT, 2019)</a> The Human Brain. </b>Started: Aug 2022. Finished: Sep 2022.</td>
+        <td>&nbsp;<b>Professor (Insitution, Year) Example Course. </b>Started: Mon 0000. Finished: Mon 0000.</td>
       </tr>
       <tr>
       	<td>&nbsp;📖&nbsp;</td>
-        <td style="min-width:80px">&nbsp;20.09.2022</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp;Smith (2000) White Teeth </td>
+        <td>&nbsp;Author (Year) Example Book.</td>
       </tr>
       <tr>
       	<td>&nbsp;💽&nbsp;</td>
-        <td style="min-width:80px">&nbsp;20.09.2022</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Funkadelic (1974) Standing On the Verge of Getting It On </td>
+        <td>&nbsp;Artist (Year) Example Album.</td>
       </tr>
       <tr>
       	<td>&nbsp;❔&nbsp;</td>
@@ -95,13 +95,13 @@ table, th, td {
       </tr>
       <tr>
       	<td>&nbsp;❔&nbsp;</td>
-        <td style="min-width:80px">00.00.0000</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;</td>
         <td> &nbsp;... </td>
       </tr>
       <tr>
       	<td>&nbsp;❔&nbsp;</td>
-        <td style="min-width:80px">00.00.0000</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;</td>
         <td> &nbsp;... </td>
       </tr>

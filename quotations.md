@@ -7,8 +7,17 @@ permalink: /quotations/
 ### —————————————————————————————————————————————
 # Quotations 
 <i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
+I'm only a little embarassed that I love these famous excerpts and aphorisms.
 <br>
 <br>
+<p>
+“We read many books, because we cannot know enough people.”<br>
+― T. S. Eliot
+</p>
+<p>
+“Great writers supply us with the strengths to measure their weaknesses.”<br>
+Clive James, <i>Cultural Amnesia</i>
+</p>
 <p>
 “The soul environs itself with friends, that it may enter into a grander self-acquaintance or solitude; and it goes alone for a season, that it may exalt its conversation or society.”<br>
 – Ralph Waldo Emerson
@@ -18,6 +27,47 @@ permalink: /quotations/
 – Winston Churchill
 </p>
 <p>
+"Don’t be so humble - you are not that great."<br>
+– Golda Meir
+</p>
+<p>
 “Or is it, that as in essence whiteness is not so much a color as the visible absence of color, and at the same time the concrete of all colors; is it for these reasons that there is such a dumb blankness, full of meaning, in a wide landscape of snows - a colorless, all-color of atheism from which we shrink?” <br>
 – Herman Melville, Moby-Dick
 </p>
+<p>
+“All bad poetry springs from genuine feeling.”<br>
+– Oscar Wilde
+</p>
+<p>
+“Let us record the atoms as they fall upon the mind in the order in which they fall, let us trace the pattern, however disconnected and incoherent in appearance, which each sight or incident scores upon the consciousness. Let us not take it for granted that life exists more fully in what is commonly thought big than in what is commonly thought small.”<br>
+― Virginia Woolf, The Common Reader
+</p>
+<p>
+“Behind every successful man, there is a surprised woman.”<br>
+– Anonymous
+</p>
+<p>
+"He lived at a little distance from his body, regarding his own acts with doubtful side-glances. He had an odd autobiographical habit which led him to compose in his mind from time to time a short sentence about himself containing a subject in the third person and a verb in the past tense."<br>
+– James Joyce, A Painful Case, <i>Dubliners</i>
+</p>
+<p>
+“The future is not what it used to be.”<br>
+– Yogi Berra
+</p>
+<p>
+“Great things are done when men and mountains meet.”<br>
+– William Blake
+</p>
+<p>
+“Every act of perception, is to some degree an act of creation, and every act of memory is to some degree an act of imagination.”<br>
+― Oliver Sacks, <i>Musicophilia</i>
+</p>
+<p>
+"I can resist everything except temptation."<br>
+– Oscar Wilde
+</p>
+
+
+
+
+

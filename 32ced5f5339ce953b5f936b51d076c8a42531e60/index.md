@@ -19,7 +19,7 @@ title: "Joe Choo-Choy"
     Hello!
     </p>
     <p>
-      Are you lost? I am...
+      You must be lost! Me too...
     </p>
     <p>
     <a href="{{ site.about_permalink }}">About</a><br>

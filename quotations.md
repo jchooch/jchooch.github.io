@@ -6,8 +6,7 @@ permalink: /quotations/
 
 ### —————————————————————————————————————————————
 # Quotations 
-<i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
-I'm only a little embarassed that I love these famous excerpts and aphorisms.
+<i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i><br>
 <br>
 <br>
 <p>
@@ -16,7 +15,7 @@ I'm only a little embarassed that I love these famous excerpts and aphorisms.
 </p>
 <p>
 “Great writers supply us with the strengths to measure their weaknesses.”<br>
-Clive James, <i>Cultural Amnesia</i>
+– Clive James, <i>Cultural Amnesia</i>
 </p>
 <p>
 “The soul environs itself with friends, that it may enter into a grander self-acquaintance or solitude; and it goes alone for a season, that it may exalt its conversation or society.”<br>

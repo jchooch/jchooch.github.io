@@ -66,7 +66,18 @@ Clive James, <i>Cultural Amnesia</i>
 "I can resist everything except temptation."<br>
 – Oscar Wilde
 </p>
-
+<p>
+“I only went out for a walk and finally concluded to stay out till sundown, for going out, I found, was really going in.”<br>
+– John Muir
+</p>
+<p>
+"There is something inside of me. What is it?"<br>
+– Vincent van Gogh
+</p>
+<p>
+“The cynic knows the price of everything and the value of nothing.”<br>
+– Oscar Wilde
+</p>
 
 
 

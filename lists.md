@@ -520,9 +520,6 @@ What is Mathematics?
 <br>
 In general, I try to track some of my consumption/favourites using <a href="https://boxd.it/eOVNm">Letterboxd</a>, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>.
 -->
-<br>
-As an experiment, I am tracking my consumption of films, books, podcasts, MOOCs, papers, and the like <a href="{{ site.tracking_permalink }}">here</a>.
-
 <p size="-5" style="color:red"><i>An Idle Brain Is Satan’s Shoppe</i></p>
  
 <!-- <a id="test_linked_text">Test linked text.</a> -->

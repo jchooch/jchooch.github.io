@@ -61,7 +61,7 @@ title: "Joe Choo-Choy"
 <p>
 <a href="{{ site.about_permalink }}">About</a><br>
 <a href="{{ site.lists_permalink }}">Lists</a><br>
-<a href="{{ site.tracking_permalink }}">Consumption</a><br>
+<a href="{{ site.tracking_permalink }}">Tracking</a><br>
 <a href="{{ site.tidbytes_permalink }}">Tidbytes</a><br>
 <a href="{{ site.blog_permalink }}">Blog</a><br>
 <a href="{{ site.quotations_permalink }}">Quotations</a><br>

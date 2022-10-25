@@ -57,6 +57,7 @@ title: "Joe Choo-Choy"
   </li>
 </ul>
 
+<br>
 <p>
 <a href="{{ site.about_permalink }}">About</a><br>
 <a href="{{ site.lists_permalink }}">Lists</a><br>

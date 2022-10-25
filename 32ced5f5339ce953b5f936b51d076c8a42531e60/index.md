@@ -22,13 +22,14 @@ title: "Joe Choo-Choy"
       Are you lost? I am...
     </p>
     <p>
-    In particular, I'm often confused by:
-    </p>
-    <p>
-      Neurobiology | Cognitive Science | Machine Learning
-    </p>
-    <p>
-      Philosophy | Art | <a href="https://www.effectivealtruism.org/">Effective Altruism</a>
+    <a href="{{ site.about_permalink }}">About</a><br>
+    <a href="{{ site.lists_permalink }}">Lists</a><br>
+    <a href="{{ site.tracking_permalink }}">Tracking</a><br>
+    <a href="{{ site.tidbytes_permalink }}">Tidbytes</a><br>
+    <a href="{{ site.blog_permalink }}">Blog</a><br>
+    <a href="{{ site.quotations_permalink }}">Quotations</a><br>
+    <a href="{{ site.resources_permalink }}">Resources</a><br>
+    <a href="https://www.effectivealtruism.org/">Effective Altruism</a><br>
     </p>
     <p>
       This site is a work-in-progress.
@@ -56,17 +57,6 @@ title: "Joe Choo-Choy"
     <a class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
   </li>
 </ul>
-
-<br>
-<p>
-<a href="{{ site.about_permalink }}">About</a><br>
-<a href="{{ site.lists_permalink }}">Lists</a><br>
-<a href="{{ site.tracking_permalink }}">Tracking</a><br>
-<a href="{{ site.tidbytes_permalink }}">Tidbytes</a><br>
-<a href="{{ site.blog_permalink }}">Blog</a><br>
-<a href="{{ site.quotations_permalink }}">Quotations</a><br>
-<a href="{{ site.resources_permalink }}">Resources</a><br>
-</p>
 
 <!--
 <div class="noprint">

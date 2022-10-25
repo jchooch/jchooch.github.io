@@ -57,26 +57,16 @@ title: "Joe Choo-Choy"
   </li>
 </ul>
 
+<br>
+<br>
 <p>
-<a href="{{ site.about_permalink }}">About</a>
-</p>
-<p>
-<a href="{{ site.lists_permalink }}">Lists</a>
-</p>
-<p>
-<a href="{{ site.tracking_permalink }}">Consumption</a>
-</p>
-<p>
-<a href="{{ site.tidbytes_permalink }}">Tidbytes</a>
-</p>
-<p>
-<a href="{{ site.blog_permalink }}">Blog</a>
-</p>
-<p>
-Quotations
-</p>
-<p>
-Resources
+<a href="{{ site.about_permalink }}">About</a><br>
+<a href="{{ site.lists_permalink }}">Lists</a><br>
+<a href="{{ site.tracking_permalink }}">Consumption</a><br>
+<a href="{{ site.tidbytes_permalink }}">Tidbytes</a><br>
+<a href="{{ site.blog_permalink }}">Blog</a><br>
+Quotations<br>
+Resources<br>
 </p>
 
 <!--

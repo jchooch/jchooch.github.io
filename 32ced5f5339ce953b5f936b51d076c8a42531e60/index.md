@@ -16,10 +16,7 @@ title: "Joe Choo-Choy"
   </div>
   <div class="col">
     <p>
-    Hello!
-    </p>
-    <p>
-      You must be lost! Me too...
+      Hi, there. You must be lost! Me too...
     </p>
     <p>
     <a href="{{ site.about_permalink }}">About</a><br>

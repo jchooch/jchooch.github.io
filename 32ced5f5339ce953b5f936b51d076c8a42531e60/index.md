@@ -27,8 +27,8 @@ title: "Joe Choo-Choy"
     <a href="{{ site.quotations_permalink }}">Quotations</a><br>
     <a href="{{ site.resources_permalink }}">Resources</a><br>
     <a href="https://www.effectivealtruism.org/">Effective Altruism</a><br>
-    Notes on the Formal Sciences<br>
-    Notes on the Cognitive Sciences
+    Notes on Formal Sciences<br>
+    Notes on Cognitive Sciences
     </p>
     <p>
       This site is a work-in-progress.

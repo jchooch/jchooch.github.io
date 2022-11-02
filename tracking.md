@@ -33,28 +33,94 @@ table, th, td {
 </style>
 
 <table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">
-     <tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
-        <td style="min-width:80px">00.09.2022</td>
-      <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Director (Year) Title</td>
+        <td style="min-width:80px">01.11.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Mel Gibson (2016) Hacksaw Ridge</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
-        <td style="min-width:80px">10.09.2022</td>
-      <td style="min-width:80px;color:orange;">&nbsp;★★★★★<div style="color:orange">+</div></td>
+        <td style="min-width:80px">31.10.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;Tony Kaye (2011) Detachment</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">30.10.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;Alejandro Iñárritu (2003) 21 Grams</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">28.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Boaz Yakin (2012) Safe</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">27.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
+        <td>&nbsp;David O. Russell (2010) The Fighter</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">26.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
+        <td>&nbsp;Orson Welles (1947) The Lady from Shanghai</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">23.10.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;Martin McDonagh (2022) The Banshees of Inisherin</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">20.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
+        <td>&nbsp;Martin Scorsese (1973) Mean Streets</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">19.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Bill Condon (2019) The Good Liar</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">15.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Olivia Wilde (2022) Don't Worry, Darling</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">13.10.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;Oliver Stone (1994) Natural Born Killers</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">11.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★</td>
+        <td>&nbsp;Simon West (2011) The Mechanic</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">10.10.2022</td>
+      <td style="min-width:80px;">&nbsp;<span style="color:orange">★★★★★</span><span style="color:red">+</span></td>
         <td>&nbsp;Francis Ford Coppola (1974) The Godfather Part II</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">09.10.2022</td>
-      <td style="min-width:80px;color:gold;">&nbsp;★★★★★★</td>
+      <td style="min-width:80px;color:red;">&nbsp;★★★★★★</td>
         <td>&nbsp;Francis Ford Coppola (1972) The Godfather</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">08.10.2022</td>
-      <td style="min-width:80px;color:darkred;">&nbsp;★★★★★★</td>
+      <td style="min-width:80px;color:red;">&nbsp;★★★★★★</td>
         <td>&nbsp;Alfred Hitchcock (1954) Rear Window</td>
       </tr>
       <tr>
@@ -72,7 +138,7 @@ table, th, td {
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">03.10.2022</td>
-      <td style="min-width:80px;color:darkred;">&nbsp;★★★★★★</td>
+      <td style="min-width:80px;color:red;">&nbsp;★★★★★★</td>
         <td>&nbsp;Terry Gilliam (1985) Brazil</td>
       </tr>
       <tr>
@@ -114,7 +180,7 @@ table, th, td {
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">24.09.2022</td>
-      <td style="min-width:80px;color:darkred;">&nbsp;★★★★★★</td>
+      <td style="min-width:80px;color:red;">&nbsp;★★★★★★</td>
         <td>&nbsp;Bong Joon-ho (2019) Parasite</td>
       </tr>
       <tr>

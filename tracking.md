@@ -466,6 +466,18 @@ table, th, td {
         <td>&nbsp;Terry Gilliam (1985) Brazil</td>
       </tr>
       <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;03.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;Jones & Love (BBS, 2011) <a href="http://matt.colorado.edu/papers/jones-love-BBS.pdf">Bayesian Fundamentalism or Enlightenment? On the explanatory status and theoretical contributions of Bayesian models of cognition</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;02.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;Pang et al. (Current Biology, 2016) <a href="https://www.cell.com/action/showPdf?pii=S0960-9822%2816%2930487-0">Dimensionality reduction in neuroscience</a></td>
+      </tr>
+      <tr>
         <td>&nbsp;💽&nbsp;</td>
         <td style="min-width:80px">&nbsp;01.10.2022</td>
         <td style="min-width:80px;color:red">&nbsp;★★★★★★</td>
@@ -473,7 +485,7 @@ table, th, td {
       </tr>
       <tr> 
         <td></td>
-        <td style="min-width:80px">00.00.0000</td>
+        <td style="min-width:80px"></td>
       <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
         <td>Underrated: the mouth sounds of You Took the Words Right Out of My Mouth. And of course Bat Out of Hell is just perfect. I really remember when I first heard this album, when I was very small, and I was utterly shocked that the protagonist of Bat Out of Hell died. I couldn't believe it, and I couldn't believe that Meatloaf sung triumphantly about it. Maybe that was my first exposure to that sort of heroic aestheticisation of tragedy. What better introduction could one possibly find?</td>
       </tr>
@@ -490,10 +502,28 @@ table, th, td {
         <td>&nbsp;Kogonada (2021) After Yang</td>
       </tr>
       <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;01.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;Douglas & Martin (Current Biology, 2007) <a href="https://www.cell.com/action/showPdf?pii=S0960-9822%2807%2901265-1">Recurrent neuronal circuits in the neocortex</a></td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">30.09.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
         <td>&nbsp;Mel Gibson (1995) Braveheart</td>
+      </tr>
+      <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;30.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★+</td>
+        <td>&nbsp;Bekkers (Current Biology, 2011) <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(11)01198-5">Pyramidal neurons</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;29.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Masland (Current Biology, 2004) <a href="https://www.cell.com/action/showPdf?pii=S0960-9822%2804%2900440-3">Neuronal cell types</a></td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -508,10 +538,22 @@ table, th, td {
         <td>When Tony's friend tells Frank that he got his girlfriend pregnant, Frank is visibly gripped with feeling and pathos. Tony's other friends just laugh at this poor guy's luck. I think that's maybe when we realise why Tony is on the dancefoor: he dances to escape his surroundings and his circumstances without following the Church (like his brother) or losing his sincerity (like his friends). Throughout the film, Tony's sincerity is overwhelming. He is mean even to his dance partners when his passion for dance, and for perfection in dance, overcomes the softer side of his nature.</td>
       </tr>
       <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;28.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;Levi (Current Biology, 2011) <a href="https://www.cell.com/current-biology/pdf/S0960-9822(11)00824-4.pdf">Visual crowding</a></td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">27.09.2022</td>
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
         <td>&nbsp;Charles Crichton (1988) A Fish Called Wanda</td>
+      </tr>
+      <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;27.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Hinton et al. (ICANN, 2011) <a href="http://www.cs.toronto.edu/~fritz/absps/transauto6.pdf">Transforming Auto-Encoders</a></td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -532,10 +574,22 @@ table, th, td {
         <td>&nbsp;Christopher Lydon (Radio Open Source, 2011) Harold Bloom's Moby Dick</td>
       </tr>
       <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;26.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Santoro et al. (arXiv, 2022) <a href="https://arxiv.org/pdf/2102.03406.pdf">Symbolic Behaviour in Artificial Intelligence</a></td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">25.09.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
         <td>&nbsp;Joel Coen (1987) Raising Arizona</td>
+      </tr>
+      <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;25.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Love et al. (Psychological Review, 2004) <a href="http://gureckislab.org/publications/love_etal_2004.pdf">SUSTAIN: A Network Model of Category Learning</a></td>
       </tr>
       <tr>
         <td>&nbsp;🎙️&nbsp;</td>
@@ -548,6 +602,12 @@ table, th, td {
         <td style="min-width:80px">&nbsp;24.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
         <td>&nbsp;Charlie Rose (1994) Harold Bloom on "The Western Canon"</td>
+      </tr>
+      <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;24.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★+</td>
+        <td>&nbsp;D'Avila Garcez et al. (AAAI Symposium, 2015) <a href="https://www.aaai.org/ocs/index.php/SSS/SSS15/paper/view/10281/10029">Neural-Symbolic Learning and Reasoning: Contributions and Challenges</a></td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -579,6 +639,12 @@ table, th, td {
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
         <td>&nbsp;Bradley Love (CNS, 2020) <a href="https://www.youtube.com/watch?v=UQ1VWNbVyUk">Category Learning As Compression</a>.</td>
       </tr>
+      <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;23.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Shanahan (SEP, 2016) <a href="https://plato.stanford.edu/entries/frame-problem/">The Frame Problem</a></td>
+      </tr>
      <tr>
       	<td>&nbsp;🎥&nbsp;</td>
       	<td style="min-width:80px">22.09.2022</td>
@@ -604,6 +670,12 @@ table, th, td {
         <td>&nbsp;Minutes With Podcast (LADbible) (2022) Breaking The World Record For Longest Kill And Battling PTSD</td>
       </tr>
       <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;22.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Bricken et al. (Submitted to ICLR 2023, 2022) Noise Transforms Feedforward Networks Into Sparse Coding Networks</td>
+      </tr>
+      <tr>
       	<td>&nbsp;📖&nbsp;</td>
         <td style="min-width:80px">&nbsp;21.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
@@ -620,6 +692,12 @@ table, th, td {
         <td style="min-width:80px">&nbsp;21.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
         <td>&nbsp;Talking Heads (1983) Speaking in Tongues (Deluxe Edition)</td>
+      </tr>
+      <tr>
+        <td>&nbsp;📄&nbsp;</td>
+        <td style="min-width:80px">&nbsp;21.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Bricken et al. (Submitted to ICLR 2023, 2022) Sparse Distributed Memory Is A Continual Learner</td>
       </tr>
       <tr>
       	<td>&nbsp;🎥&nbsp;</td>

@@ -33,7 +33,103 @@ table, th, td {
 </style>
 
 <table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">
-	<tr> 
+     <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">00.09.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Director (Year) Title</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">10.09.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★<div style="color:orange">+</div></td>
+        <td>&nbsp;Francis Ford Coppola (1974) The Godfather Part II</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">09.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★★★</td>
+        <td>&nbsp;Francis Ford Coppola (1972) The Godfather</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">08.10.2022</td>
+      <td style="min-width:80px;color:darkred;">&nbsp;★★★★★★</td>
+        <td>&nbsp;Alfred Hitchcock (1954) Rear Window</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">06.10.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;Terrence Malick (2019) A Hidden Life</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">05.10.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;Kenneth Lonergan (2016) Manchester By the Sea</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">03.10.2022</td>
+      <td style="min-width:80px;color:darkred;">&nbsp;★★★★★★</td>
+        <td>&nbsp;Terry Gilliam (1985) Brazil</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">01.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
+        <td>&nbsp;Kogonada (2021) After Yang</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">30.09.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Mel Gibson (1995) Braveheart</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">28.09.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;Saturday Night Fever (1977) John Badham</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">27.09.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;Charles Crichton (1988) A Fish Called Wanda</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">26.09.2022</td>
+      <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;William Friedkin (1971) The French Connection</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">25.09.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Joel Coen (1987) Raising Arizona</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">24.09.2022</td>
+      <td style="min-width:80px;color:darkred;">&nbsp;★★★★★★</td>
+        <td>&nbsp;Bong Joon-ho (2019) Parasite</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">23.09.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
+        <td>&nbsp;Kevin Macdonald (2006) The Last King of Scotland</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎥&nbsp;</td>
+        <td style="min-width:80px">23.09.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Martin Campbell (2022) Memory</td>
+      </tr>
+     <tr>
       	<td>&nbsp;🎥&nbsp;</td>
       	<td style="min-width:80px">22.09.2022</td>
 	    <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>

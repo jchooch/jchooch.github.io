@@ -39,6 +39,12 @@ table, th, td {
       <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
         <td>&nbsp;Mel Gibson (2016) Hacksaw Ridge</td>
       </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>Strongest performance was from Hugo Weaving, I think. Apparently the film was "critically acclaimed". I am pretty surprised, to be honest. The narrative didn’t really have the right emotional beats for me, and the cinematography was mostly unremarkable except for a few shots and showing much violence, which seemed gratuitous.</td>
+      </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">31.10.2022</td>
@@ -51,11 +57,23 @@ table, th, td {
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
         <td>&nbsp;Alejandro Iñárritu (2003) 21 Grams</td>
       </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>What a brilliant cast. Don't forget Melissa Leo, Eddie Marsan, Charlotte Gainsbourg, … Not sure what to think about it in general though. I am sure it is very, very good. But I am not sure if it is amazing. Whereas when I watched Crash, which is a similar sort of film with a similar sort of philosophy and style, I was sure I had seen a masterpiece. I loved that film more at the time because I think the writing was more compelling. I realise now that 21 Grams is perhaps more philosophical, because its lessons are even more ethereal and distributed and hard to grapple with.</td>
+      </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">28.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
         <td>&nbsp;Boaz Yakin (2012) Safe</td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>Surprisingly well done for the genre. Fun but not much originality here.</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -63,11 +81,23 @@ table, th, td {
       <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
         <td>&nbsp;David O. Russell (2010) The Fighter</td>
       </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>The plus is for the acting. A good film overall.</td>
+      </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">26.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
         <td>&nbsp;Orson Welles (1947) The Lady from Shanghai</td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>The plot is very good, and some moments, like the final scene, are particularly visually exciting, although I think there are editing moments which are imperfect. </td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -75,17 +105,35 @@ table, th, td {
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
         <td>&nbsp;Martin McDonagh (2022) The Banshees of Inisherin</td>
       </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>Could be even better than five stars. A fascinatingly simple premise which raises fascinatingly complex questions and results in compelling consequences. Strong characters, even if the plot feels like it drags very slightly in the middle, as we wonder why Colin Farrell still persists in his pursuit of Gleeson. But this is significantly vindicated in the end when we realise that McDonagh is emphasising Farrell's mythic obsession as his final, victorious escape from "dullness". As ever, McDonagh's preoccupation with mutilation is effectively haunting, and some of the cinematography is very beautiful though it is all quite simple.</td>
+      </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">20.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
         <td>&nbsp;Martin Scorsese (1973) Mean Streets</td>
       </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>Captivating characters and rich environments, and beautifully long, chaotic brawls of course. And the second-person, wobbling shot of Harvey Keitel walking through that veteran's coming-home party is fantastic.</td>
+      </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">19.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
         <td>&nbsp;Bill Condon (2019) The Good Liar</td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>Disappointingly, surprisingly (and abruptly) implausible, almost silly, plot. Nothing else in the film compensates, unfortunately, even if McKellen's performance is especially good in many places.</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -98,6 +146,12 @@ table, th, td {
         <td style="min-width:80px">13.10.2022</td>
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
         <td>&nbsp;Oliver Stone (1994) Natural Born Killers</td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>I feel like I see bits of David Lynch all over the place. Wonderfully mad film.</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -129,6 +183,12 @@ table, th, td {
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
         <td>&nbsp;Terrence Malick (2019) A Hidden Life</td>
       </tr>
+      <tr> 
+        <td>One of the most moving scenes, for me, was when Franz's newfound, long-lost friend in Berlin jail speaks of how he wishes he had had a farm and a wife and a cherry tree and grapevines, to make white wine in the summer and red wine in the winter. But, he says, he would have worked hard and prayed, only drinking sometimes. And, most movingly, I think, sometimes he would go to church, but sometimes he would not go to church, and he would stay home and make music with his family. I think this is one of many moments in the film, but perhaps the most potent, where we see that Franz and Fani and their kindred friends and family are not zealous by nature. They are not unthinking overpious drones. But nor are they cowards. Their zealotry – if one can call it that – or, rather, their steadfastness, their faith.. is a calm, rational, circumspect, fearful, sincere commitment, not robotic but as humane as humans are capable of. Moreover, I think that the film shows the difficulty of remaining steadfast under Franz's and Fani's conditions, albeit for different reasons. I think Franz is challenged the most, especially in an epistemic sort of way. One is tempted to say that, once Franz has understood the way his world is changing for the worse, he would be better off not thinking. Not listening to the pleas of others at all. Not actively intellectually engaging with the claims and arguments of others. Because it would be too much to bear – psychologically, epistemologically, soteriologically. To be strong, his anti-Hiterlian principle must be absolute. It must be a foregone conclusion. The film shows all of this and more, and in patient but gripping series of vignettes and moments and imaginings, which I think reflect the fractured state of a mind – and a social life – in crisis. The cognitive aspect of Franz and Fani's anxiety shows itself in every scene. I think it is a very beautiful film.</td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td></td>
+      </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">05.10.2022</td>
@@ -157,7 +217,13 @@ table, th, td {
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">28.09.2022</td>
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp;Saturday Night Fever (1977) John Badham</td>
+        <td>&nbsp;John Badham (1977) Saturday Night Fever</td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>When Tony's friend tells Frank that he got his girlfriend pregnant, Frank is visibly gripped with feeling and pathos. Tony's other friends just laugh at this poor guy's luck. I think that's maybe when we realise why Tony is on the dancefoor: he dances to escape his surroundings and his circumstances without following the Church (like his brother) or losing his sincerity (like his friends). Throughout the film, Tony's sincerity is overwhelming. He is mean even to his dance partners when his passion for dance, and for perfection in dance, overcomes the softer side of his nature.</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -171,6 +237,12 @@ table, th, td {
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
         <td>&nbsp;William Friedkin (1971) The French Connection</td>
       </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>When the film started out, my chief fascination was just with Popeye. But it eventually won me over. The story is gripping, with a real sense of mystery and pursuit about it. Popeye is equally exciting to watch give chase and frightening in his casual, brutish nature. The setting is unmistakeably New York, and the whole film is layered with the intensity and grim of the Big Apple. It probably is one of the best hard-boiled cop movies I've seen, very gritty without being particularly violent or sexual, which is how many more modern cop films acquire their putative grittiness. And there are some memorable set pieces: Popeye's chase of Charnier in the subway, Popeye's chase of the rooftop sniper (the car-train chase!), the up-close and in-the-guts disassembly of the drug-laden car (which first finds nothing, but later finds the cocaine behind the rocker panels) ... Somehow the innards of the car feel like the innards of a city, with all its crevices and crannies and dirty mechanisms. Still, it is less squalid than Taxi Driver or The King of Comedy. Unlike other New York films, and unlike even many hard-boiled films, The French Connection also induces attention in the viewer more than most films. The mystery is not over-mystery; it is just right. In this respect, it rather reminds me of Tinker, Tailor, Soldier, Spy.</td>
+      </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">25.09.2022</td>
@@ -182,6 +254,12 @@ table, th, td {
         <td style="min-width:80px">24.09.2022</td>
       <td style="min-width:80px;color:red;">&nbsp;★★★★★★&nbsp;</td>
         <td>&nbsp;Bong Joon-ho (2019) Parasite</td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>Wow. So coherent and whole. So well put-together. I am really just overwhelmed by the feeling of completeness, not overburdened either by plot or by symbolism. It almost feels like a paradigm example of narrative art.</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>

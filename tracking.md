@@ -34,6 +34,12 @@ table, th, td {
 
 <table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">
       <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;01.11.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Deep Dive with Ali Abdaal (2022) Moral Philosopher Will MacAskill on What We Owe the Future</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">01.11.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
@@ -66,7 +72,7 @@ table, th, td {
       <tr>
         <td>&nbsp;💽&nbsp;</td>
         <td style="min-width:80px">&nbsp;31.10.2022</td>
-        <td style="min-width:80px;color:gold">&nbsp;★★★★+</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
         <td>&nbsp;Lou Donaldson (1995) Everything I Play Is Funky</td>
       </tr>
       <tr>
@@ -130,6 +136,12 @@ table, th, td {
         <td>Surprisingly well done for the genre. Fun but not much originality here.</td>
       </tr>
       <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;27.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;C-SPAN (1998) Panel on Consilience: Steven Pinker and EO Wilson</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">27.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
@@ -160,6 +172,12 @@ table, th, td {
         <td>&nbsp;Arctic Monkeys (2022) The Car</td>
       </tr>
       <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;24.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;Philosophize This! (2020) #138: Robert Nozick – The Minimal State</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">23.10.2022</td>
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
@@ -172,6 +190,24 @@ table, th, td {
         <td>Could be even better than five stars. A fascinatingly simple premise which raises fascinatingly complex questions and results in compelling consequences. Strong characters, even if the plot feels like it drags very slightly in the middle, as we wonder why Colin Farrell still persists in his pursuit of Gleeson. But this is significantly vindicated in the end when we realise that McDonagh is emphasising Farrell's mythic obsession as his final, victorious escape from "dullness". As ever, McDonagh's preoccupation with mutilation is effectively haunting, and some of the cinematography is very beautiful though it is all quite simple.</td>
       </tr>
       <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;22.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★</td>
+        <td>&nbsp;HARDtalk (BBC World Service, 2022) Amin Salam: Is Lebanon heading for meltdown?</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;20.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;Classical Stuff You Should Know (2017) 2: Homer</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;20.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Classical Stuff You Should Know (2017) 1: The Tripartite Soul</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">20.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
@@ -182,6 +218,24 @@ table, th, td {
         <td style="min-width:80px"></td>
       <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
         <td>Captivating characters and rich environments, and beautifully long, chaotic brawls of course. And the second-person, wobbling shot of Harvey Keitel walking through that veteran's coming-home party is fantastic.</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;19.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
+        <td>&nbsp;Bookclub (BBC Radio 4, 2004) Will Self</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;19.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
+        <td>&nbsp;Bookclub (BBC Radio 4, 2005) Zadie Smith</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;19.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;The Inquiry (BBC Radio 4, 2022) What's the future of the Commonwealth under King Charles III?</td>
       </tr>
       <tr>
         <td>&nbsp;💽&nbsp;</td>
@@ -202,6 +256,30 @@ table, th, td {
         <td>Disappointingly, surprisingly (and abruptly) implausible, almost silly, plot. Nothing else in the film compensates, unfortunately, even if McKellen's performance is especially good in many places.</td>
       </tr>
       <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;18.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Bunk Bed (BBC Radio 4, 2019) Citizen Kane and Virginia Woolf</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;18.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Bookclub (BBC Radio 4, 2000) Geoffrey Chaucer</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;18.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Generally Intelligent #17 (2022) Andrew Lampinen, DeepMind, on symbolic behavior mental time travel, and insights from psychology</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;18.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;The Ezra Klein Show (2021) Why Adults Lose the "Beginner's Mind" (w/ Alison Gopnik)</td>
+      </tr>
+      <tr>
         <td>&nbsp;💽&nbsp;</td>
         <td style="min-width:80px">&nbsp;18.10.2022</td>
         <td style="min-width:80px;color:orange">&nbsp;★★★★★</td>
@@ -212,6 +290,42 @@ table, th, td {
         <td style="min-width:80px">&nbsp;18.10.2022</td>
         <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
         <td>&nbsp;Suede (1993) Suede (25th Anniversary Edition)</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;17.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;The Inquiry (BBC Radio 4, 2022) Is inflation out of control?</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;17.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Analysis (BBC Radio 4, 2022) Germany and Russia: it's complicated</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;17.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Analysis (BBC Radio 4, 2022) Is the UK the new sick man of Europe?</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;17.10.2022</td>
+        <td style="min-width:80px;color:red;">&nbsp;★★★★★</td>
+        <td>&nbsp;James Flynn (TED, 2013) Why our IQ levels are higher than our grandparents'</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;17.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★+</td>
+        <td>&nbsp;Talks at Google (2007) Christopher Hitchens: God Is Not Great</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;16.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Steven Strogatz (The Joy of Why, 2022) What Is Quantum Field Theory and Why Is It Incomplete?</td>
       </tr>
       <tr>
         <td>&nbsp;🎙️&nbsp;</td>

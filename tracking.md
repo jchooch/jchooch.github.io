@@ -114,13 +114,13 @@ table, th, td {
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">09.10.2022</td>
-      <td style="min-width:80px;color:red;">&nbsp;★★★★★★</td>
+      <td style="min-width:80px;color:red;">&nbsp;★★★★★★&nbsp;</td>
         <td>&nbsp;Francis Ford Coppola (1972) The Godfather</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">08.10.2022</td>
-      <td style="min-width:80px;color:red;">&nbsp;★★★★★★</td>
+      <td style="min-width:80px;color:red;">&nbsp;★★★★★★&nbsp;</td>
         <td>&nbsp;Alfred Hitchcock (1954) Rear Window</td>
       </tr>
       <tr>
@@ -138,7 +138,7 @@ table, th, td {
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">03.10.2022</td>
-      <td style="min-width:80px;color:red;">&nbsp;★★★★★★</td>
+      <td style="min-width:80px;color:red;">&nbsp;★★★★★★&nbsp;</td>
         <td>&nbsp;Terry Gilliam (1985) Brazil</td>
       </tr>
       <tr>
@@ -180,7 +180,7 @@ table, th, td {
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">24.09.2022</td>
-      <td style="min-width:80px;color:red;">&nbsp;★★★★★★</td>
+      <td style="min-width:80px;color:red;">&nbsp;★★★★★★&nbsp;</td>
         <td>&nbsp;Bong Joon-ho (2019) Parasite</td>
       </tr>
       <tr>

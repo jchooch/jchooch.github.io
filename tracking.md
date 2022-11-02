@@ -49,19 +49,19 @@ table, th, td {
         <td>&nbsp;🎓&nbsp;</td>
         <td style="min-width:80px">--.10.2022</td>
       <td style="min-width:80px;color:red;">&nbsp;★★★★★</td>
-        <td>&nbsp;<b>Timothy Taylor (Macalester, 1996) A History of the US Economy in the 20th Century.</b><br>(The Great Courses) Started: 10.2022. Finished: 10.2022.</td>
+        <td>&nbsp;<b>Timothy Taylor (Macalester, 1996) A History of the US Economy in the 20th Century.</b><br>&nbsp;(The Great Courses) Started: 10.2022. Finished: 10.2022.</td>
       </tr>
       <tr>
         <td>&nbsp;🎓&nbsp;</td>
         <td style="min-width:80px">--.10.2022</td>
       <td style="min-width:80px;color:red;">&nbsp;★★★★★</td>
-        <td>&nbsp;<b>Nancy Kanwisher (MIT, 2019) <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">The Human Brain</a>.</b><br>Started: 08.2022. Finished: 10.2022.</td>
+        <td>&nbsp;<b>Nancy Kanwisher (MIT, 2019) <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP">The Human Brain</a>.</b><br>&nbsp;Started: 08.2022. Finished: 10.2022.</td>
       </tr>
       <tr>
         <td>&nbsp;🎓&nbsp;</td>
         <td style="min-width:80px">--.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;<b>Peter Vishton (William & Mary, 2011) Understanding the Secrets of Human Perception.</b><br>(The Great Courses) Started: 05.2022. Finished: 10.2022.</td>
+        <td>&nbsp;<b>Peter Vishton (William & Mary, 2011) Understanding the Secrets of Human Perception.</b><br>&nbsp;(The Great Courses) Started: 05.2022. Finished: 10.2022.</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -80,6 +80,24 @@ table, th, td {
         <td style="min-width:80px"></td>
       <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
         <td>What a brilliant cast. Don't forget Melissa Leo, Eddie Marsan, Charlotte Gainsbourg, … Not sure what to think about it in general though. I am sure it is very, very good. But I am not sure if it is amazing. Whereas when I watched Crash, which is a similar sort of film with a similar sort of philosophy and style, I was sure I had seen a masterpiece. I loved that film more at the time because I think the writing was more compelling. I realise now that 21 Grams is perhaps more philosophical, because its lessons are even more ethereal and distributed and hard to grapple with.</td>
+      </tr>
+      <tr>
+        <td>&nbsp;📊&nbsp;</td>
+        <td style="min-width:80px">&nbsp;28.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Joshua Tenenbaum (CBMM 2.3, 2015) <a href="https://www.youtube.com/watch?v=dfsPKoHv_F4">Computational Cognitive Science Part 3</a>.</td>
+      </tr>
+      <tr>
+        <td>&nbsp;📊&nbsp;</td>
+        <td style="min-width:80px">&nbsp;28.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Joshua Tenenbaum (CBMM 2.2, 2015) <a href="https://www.youtube.com/watch?v=hfryF7_QU2c">Computational Cognitive Science Part 2</a>.</td>
+      </tr>
+      <tr>
+        <td>&nbsp;📊&nbsp;</td>
+        <td style="min-width:80px">&nbsp;28.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Joshua Tenenbaum (CBMM 2.1, 2015) <a href="https://www.youtube.com/watch?v=Pwm6DqdC4pU">Computational Cognitive Science Part 1</a>.</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -291,6 +309,12 @@ table, th, td {
       <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
         <td>&nbsp;Martin Campbell (2022) Memory</td>
       </tr>
+      <tr>
+        <td>&nbsp;📊&nbsp;</td>
+        <td style="min-width:80px">&nbsp;23.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Bradley Love (CNS, 2020) <a href="https://www.youtube.com/watch?v=UQ1VWNbVyUk">Category Learning As Compression</a>.</td>
+      </tr>
      <tr>
       	<td>&nbsp;🎥&nbsp;</td>
       	<td style="min-width:80px">22.09.2022</td>
@@ -356,12 +380,6 @@ table, th, td {
         <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
         <td>&nbsp;<b>Example TV Show (Studio, Year)</b> Started: Mon 0000. Finished: Mon 0000.</td>
-      </tr>
-      <tr>
-      	<td>&nbsp;📊&nbsp;</td>
-        <td style="min-width:80px">&nbsp;00.00.0000</td>
-        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Example lecture. </td>
       </tr>
       <tr>
       	<td>&nbsp;❔&nbsp;</td>

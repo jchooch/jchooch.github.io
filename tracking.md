@@ -64,10 +64,28 @@ table, th, td {
         <td>&nbsp;<b>Peter Vishton (William & Mary, 2011) Understanding the Secrets of Human Perception.</b><br>&nbsp;(The Great Courses) Started: 05.2022. Finished: 10.2022.</td>
       </tr>
       <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;31.10.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★+</td>
+        <td>&nbsp;Lou Donaldson (1995) Everything I Play Is Funky</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;31.10.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
+        <td>&nbsp;Nat King Cole (1957) This Is Nat King Cole</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">31.10.2022</td>
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
         <td>&nbsp;Tony Kaye (2011) Detachment</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;30.10.2022</td>
+        <td style="min-width:80px;color:orange">&nbsp;★★★★★</td>
+        <td>&nbsp;Lou Donaldson (1958) Blues Walk</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -85,19 +103,19 @@ table, th, td {
         <td>&nbsp;📊&nbsp;</td>
         <td style="min-width:80px">&nbsp;28.10.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Joshua Tenenbaum (CBMM 2.3, 2015) <a href="https://www.youtube.com/watch?v=dfsPKoHv_F4">Computational Cognitive Science Part 3</a>.</td>
+        <td>&nbsp;Joshua Tenenbaum (CBMM 2.3, 2015) <a href="https://www.youtube.com/watch?v=dfsPKoHv_F4">Computational Cognitive Science Part 3</a></td>
       </tr>
       <tr>
         <td>&nbsp;📊&nbsp;</td>
         <td style="min-width:80px">&nbsp;28.10.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Joshua Tenenbaum (CBMM 2.2, 2015) <a href="https://www.youtube.com/watch?v=hfryF7_QU2c">Computational Cognitive Science Part 2</a>.</td>
+        <td>&nbsp;Joshua Tenenbaum (CBMM 2.2, 2015) <a href="https://www.youtube.com/watch?v=hfryF7_QU2c">Computational Cognitive Science Part 2</a></td>
       </tr>
       <tr>
         <td>&nbsp;📊&nbsp;</td>
         <td style="min-width:80px">&nbsp;28.10.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;Joshua Tenenbaum (CBMM 2.1, 2015) <a href="https://www.youtube.com/watch?v=Pwm6DqdC4pU">Computational Cognitive Science Part 1</a>.</td>
+        <td>&nbsp;Joshua Tenenbaum (CBMM 2.1, 2015) <a href="https://www.youtube.com/watch?v=Pwm6DqdC4pU">Computational Cognitive Science Part 1</a></td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -136,6 +154,12 @@ table, th, td {
         <td>The plot is very good, and some moments, like the final scene, are particularly visually exciting, although I think there are editing moments which are imperfect. </td>
       </tr>
       <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;25.10.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★+</td>
+        <td>&nbsp;Arctic Monkeys (2022) The Car</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">23.10.2022</td>
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
@@ -160,6 +184,12 @@ table, th, td {
         <td>Captivating characters and rich environments, and beautifully long, chaotic brawls of course. And the second-person, wobbling shot of Harvey Keitel walking through that veteran's coming-home party is fantastic.</td>
       </tr>
       <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;19.10.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★+</td>
+        <td>&nbsp;Radiohead (2001) I Might Be Wrong</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">19.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
@@ -172,10 +202,64 @@ table, th, td {
         <td>Disappointingly, surprisingly (and abruptly) implausible, almost silly, plot. Nothing else in the film compensates, unfortunately, even if McKellen's performance is especially good in many places.</td>
       </tr>
       <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;18.10.2022</td>
+        <td style="min-width:80px;color:orange">&nbsp;★★★★★</td>
+        <td>&nbsp;Gary Moore (1990) Still Got the Blues</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;18.10.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
+        <td>&nbsp;Suede (1993) Suede (25th Anniversary Edition)</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;15.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;The Hollywood Reporter (2016) Oscars Actresses Roundtable: J Lawrence, B Larson, K Winslet, C Blanchett, C Rampling, J Fonda, H Mirren, C Mulligan</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">15.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
         <td>&nbsp;Olivia Wilde (2022) Don't Worry, Darling</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;14.10.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
+        <td>&nbsp;Darude (2000) Before the Storm</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;13.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Westminster Hour (BBC Radio 4, 2022) 9 October 2022</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;13.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Westminster Hour (BBC Radio 4, 2022) 2 October 2022</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;13.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Westminster Hour (BBC Radio 4, 2022) 25 September 2022</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;13.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
+        <td>&nbsp;Westminster Hour (BBC Radio 4, 2022) 18 September 2022</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;13.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;The Hollywood Reporter (2022) Directors Roundtable: K Branagh, J Campion, G del Toro, A Farhadi, R M Green, P Almodovar</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -190,6 +274,30 @@ table, th, td {
         <td>I feel like I see bits of David Lynch all over the place. Wonderfully mad film.</td>
       </tr>
       <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;12.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Today, Explained (Vox, 2022) Ugraine</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;12.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;Very Bad Wizards (2021) Making Your Nervous System Your Ally (William James on "Habit")</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;12.10.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Sam Harris (Making Sense 278, 2022) The Man Who Will Be King (w/ Graeme Wood)</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;12.10.2022</td>
+        <td style="min-width:80px;color:orange">&nbsp;★★★★★</td>
+        <td>&nbsp;Van Morrison (2015) The Essential Van Morrison</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">11.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★</td>
@@ -200,6 +308,12 @@ table, th, td {
         <td style="min-width:80px">10.10.2022</td>
       <td style="min-width:80px;">&nbsp;<span style="color:orange">★★★★★</span><span style="color:red">+</span></td>
         <td>&nbsp;Francis Ford Coppola (1974) The Godfather Part II</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;10.10.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
+        <td>&nbsp;Sonny Stitt (1983) Kaleidoscope</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -236,6 +350,24 @@ table, th, td {
         <td style="min-width:80px">03.10.2022</td>
       <td style="min-width:80px;color:red;">&nbsp;★★★★★★&nbsp;</td>
         <td>&nbsp;Terry Gilliam (1985) Brazil</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;01.10.2022</td>
+        <td style="min-width:80px;color:red">&nbsp;★★★★★★</td>
+        <td>&nbsp;Meatloaf (1977) Bat Out of Hell</td>
+      </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px">00.00.0000</td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>Underrated: the mouth sounds of You Took the Words Right Out of My Mouth. And of course Bat Out of Hell is just perfect. I really remember when I first heard this album, when I was very small, and I was utterly shocked that the protagonist of Bat Out of Hell died. I couldn't believe it, and I couldn't believe that Meatloaf sung triumphantly about it. Maybe that was my first exposure to that sort of heroic aestheticisation of tragedy. What better introduction could one possibly find?</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;01.10.2022</td>
+        <td style="min-width:80px;">&nbsp;<span style="color:orange">★★★★★</span><span style="color:red">+</span></td>
+        <td>&nbsp;Björk (1997) Homogenic</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -280,10 +412,28 @@ table, th, td {
         <td>When the film started out, my chief fascination was just with Popeye. But it eventually won me over. The story is gripping, with a real sense of mystery and pursuit about it. Popeye is equally exciting to watch give chase and frightening in his casual, brutish nature. The setting is unmistakeably New York, and the whole film is layered with the intensity and grim of the Big Apple. It probably is one of the best hard-boiled cop movies I've seen, very gritty without being particularly violent or sexual, which is how many more modern cop films acquire their putative grittiness. And there are some memorable set pieces: Popeye's chase of Charnier in the subway, Popeye's chase of the rooftop sniper (the car-train chase!), the up-close and in-the-guts disassembly of the drug-laden car (which first finds nothing, but later finds the cocaine behind the rocker panels) ... Somehow the innards of the car feel like the innards of a city, with all its crevices and crannies and dirty mechanisms. Still, it is less squalid than Taxi Driver or The King of Comedy. Unlike other New York films, and unlike even many hard-boiled films, The French Connection also induces attention in the viewer more than most films. The mystery is not over-mystery; it is just right. In this respect, it rather reminds me of Tinker, Tailor, Soldier, Spy.</td>
       </tr>
       <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;26.09.2022</td>
+        <td style="min-width:80px;color:red;">&nbsp;★★★★★</td>
+        <td>&nbsp;Christopher Lydon (Radio Open Source, 2011) Harold Bloom's Moby Dick</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">25.09.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
         <td>&nbsp;Joel Coen (1987) Raising Arizona</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;25.09.2022</td>
+        <td style="min-width:80px;color:red;">&nbsp;★★★★★</td>
+        <td>&nbsp;C-SPAN (2003) <a href="https://www.youtube.com/watch?v=nWOyZqzJCHI">Harold Bloom on His Life and Work (Interview and Call-Ins)</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎙️&nbsp;</td>
+        <td style="min-width:80px">&nbsp;24.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;Charlie Rose (1994) Harold Bloom on "The Western Canon"</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>
@@ -349,7 +499,7 @@ table, th, td {
       	<td>&nbsp;🎙️&nbsp;</td>
         <td style="min-width:80px">&nbsp;21.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★</td>
-        <td>&nbsp;Naked Neuroscience (20202) Honing in on Headaches</td>
+        <td>&nbsp;Naked Neuroscience (2020) Honing in on Headaches</td>
       </tr>
       <tr>
       	<td>&nbsp;💽&nbsp;</td>
@@ -364,6 +514,12 @@ table, th, td {
         <td>&nbsp;Cameron Crowe (2001) Vanilla Sky</td>
       </tr>
       <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;20.09.2022</td>
+        <td style="min-width:80px;color:gold;">&nbsp;★★★+</td>
+        <td>&nbsp;Lewis Capaldi (2019) Divinely Uninspired to a Hellish Extent (Deluxe Edition)</td>
+      </tr>
+      <tr>
       	<td>&nbsp;💽&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
@@ -373,7 +529,7 @@ table, th, td {
       	<td>&nbsp;📄&nbsp;</td>
         <td style="min-width:80px">&nbsp;20.09.2022</td>
         <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp;<a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">Watson & Crick (Nature, 1953)</a> A Structure for Deoxyribose Nucleic Acid</td>
+        <td>&nbsp;Watson & Crick (Nature, 1953) <a href="https://dosequis.colorado.edu/Courses/MethodsLogic/papers/WatsonCrick1953.pdf">A Structure for Deoxyribose Nucleic Acid</a></td>
       </tr>
       <tr>
       	<td>&nbsp;📺&nbsp;</td>

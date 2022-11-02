@@ -49,7 +49,7 @@ table, th, td {
         <td>&nbsp;🎓&nbsp;</td>
         <td style="min-width:80px">--.10.2022</td>
       <td style="min-width:80px;color:red;">&nbsp;★★★★★</td>
-        <td>&nbsp;<b>Timothy Taylor (Macalester, 1996) A History of the US Economy in the 20th Century (The Great Courses).</b><br>Started: 10.2022. Finished: 10.2022.</td>
+        <td>&nbsp;<b>Timothy Taylor (Macalester, 1996) A History of the US Economy in the 20th Century.</b><br>(The Great Courses) Started: 10.2022. Finished: 10.2022.</td>
       </tr>
       <tr>
         <td>&nbsp;🎓&nbsp;</td>
@@ -61,7 +61,7 @@ table, th, td {
         <td>&nbsp;🎓&nbsp;</td>
         <td style="min-width:80px">--.10.2022</td>
       <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
-        <td>&nbsp;<b>Peter Vishton (William & Mary, 2011) Understanding the Secrets of Human Perception (The Great Courses).</b><br>Started: 05.2022. Finished: 10.2022.</td>
+        <td>&nbsp;<b>Peter Vishton (William & Mary, 2011) Understanding the Secrets of Human Perception.</b><br>(The Great Courses) Started: 05.2022. Finished: 10.2022.</td>
       </tr>
       <tr>
         <td>&nbsp;🎥&nbsp;</td>

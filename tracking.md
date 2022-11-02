@@ -34,6 +34,18 @@ table, th, td {
 
 <table class="mt-3" style="font-family:tahoma,sans-serif; font-size:14px;">
       <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;02.11.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
+        <td>&nbsp;Brian Eno (2022) FOREVERANDEVERNOMORE</td>
+      </tr>
+      <tr>
+        <td>&nbsp;💽&nbsp;</td>
+        <td style="min-width:80px">&nbsp;02.11.2022</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
+        <td>&nbsp;Israel Kamakawiwoʻole (1993) Facing Future</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎙️&nbsp;</td>
         <td style="min-width:80px">&nbsp;01.11.2022</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
@@ -78,7 +90,7 @@ table, th, td {
       <tr>
         <td>&nbsp;💽&nbsp;</td>
         <td style="min-width:80px">&nbsp;31.10.2022</td>
-        <td style="min-width:80px;color:gold">&nbsp;★★★★</td>
+        <td style="min-width:80px;color:gold">&nbsp;★★★+</td>
         <td>&nbsp;Nat King Cole (1957) This Is Nat King Cole</td>
       </tr>
       <tr>

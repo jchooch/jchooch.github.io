@@ -201,6 +201,12 @@ table, th, td {
 	    <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
       	<td>&nbsp;Alfred Hitchcock (1935) The 39 Steps</td>
       </tr>
+      <tr> 
+        <td></td>
+        <td style="min-width:80px"></td>
+      <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>
+        <td>A little disappointing for such a well-regarded film. Nothing particularly exciting in the craft or the editing, from my perspective. Perhaps I should watch again. The story is quite tight and satisfying, but I'm not sure I actually like it that much. Mr Memory is a bit of a contrived device. I also don't find that much inspiration in the acting, though Robert Donat's performance is very solid. Why is this film so well regarded? Why did Orson Welles call it a "masterpiece"? I should think because of the story, and perhaps a few spy film tropes were introduced by the film. In any case, I don't think the film is a paragon in its genre anymore. What films are in its genre but better? I will have to think about that... I would say the genre is "civilian protagonist finds themselves in the midst of a spy plot and must find their way out".</td>
+      </tr>
       <tr>
       	<td>&nbsp;🎙️&nbsp;</td>
         <td style="min-width:80px">&nbsp;22.09.2022</td>
@@ -273,7 +279,7 @@ table, th, td {
         <td style="min-width:80px;color:gold;">&nbsp;</td>
         <td> &nbsp;... </td>
       </tr>
-          <tr> 
+      <tr> 
       	<td></td>
       	<td style="min-width:80px">00.00.0000</td>
 	    <td style="min-width:80px;color:black;">&nbsp;&nbsp; Notes</td>

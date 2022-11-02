@@ -46,6 +46,18 @@ table, th, td {
         <td>Strongest performance was from Hugo Weaving, I think. Apparently the film was "critically acclaimed". I am pretty surprised, to be honest. The narrative didn’t really have the right emotional beats for me, and the cinematography was mostly unremarkable except for a few shots and showing much violence, which seemed gratuitous.</td>
       </tr>
       <tr>
+        <td>&nbsp;🎓&nbsp;</td>
+        <td style="min-width:80px">&nbsp;00.00.0000</td>
+        <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
+        <td>&nbsp;<b>Professor (Insitution, Year) Example Course. </b>Started: Mon 0000. Finished: Mon 0000.</td>
+      </tr>
+      <tr>
+        <td>&nbsp;🎓&nbsp;</td>
+        <td style="min-width:80px">--.10.2022</td>
+      <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
+        <td>&nbsp;<b>Peter Vishton (William & Mary, 2011) Understanding the Secrets of Human Perception (<span style="color:orange">The Great Courses</span>).</b> Started: 05.2022. Finished: 10.2022.</td>
+      </tr>
+      <tr>
         <td>&nbsp;🎥&nbsp;</td>
         <td style="min-width:80px">31.10.2022</td>
       <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
@@ -344,12 +356,6 @@ table, th, td {
         <td style="min-width:80px">&nbsp;00.00.0000</td>
         <td style="min-width:80px;color:gold;">&nbsp;★★★★</td>
         <td>&nbsp;Example lecture. </td>
-      </tr>
-      <tr>
-      	<td>&nbsp;🎓&nbsp;</td>
-        <td style="min-width:80px">&nbsp;00.00.0000</td>
-        <td style="min-width:80px;color:orange;">&nbsp;★★★★★</td>
-        <td>&nbsp;<b>Professor (Insitution, Year) Example Course. </b>Started: Mon 0000. Finished: Mon 0000.</td>
       </tr>
       <tr>
       	<td>&nbsp;❔&nbsp;</td>

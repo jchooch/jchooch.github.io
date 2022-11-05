@@ -137,6 +137,12 @@ permalink: /reel/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bocDpFVhyDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- [60] TRY A LITTLE TENDERNESS, OTIS REDDING -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IQ9n2_5mbig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- [61] ART IS DEAD, BO BURNHAM -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Eo9pU1q8sy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- [62] DEPRESSION, THE SECRET WE SHARE, ANDREW SOLOMON, TED -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-eBUcBfkVCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- [63] FOLK ALEX JONES -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGAAhzreGWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- -->
 <!-- -->
 <!-- -->
@@ -146,14 +152,7 @@ permalink: /reel/
 <!-- -->
 <!-- -->
 <!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- DEPRESSION, THE SECRET WE SHARE, ANDREW SOLOMON, TED -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x8-HThz3pQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bocDpFVhyDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jdYJf_ybyVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+<!-- JACKIE CHAN: HOW TO DO ACTION COMEDY > https://www.youtube.com/watch?v=Z1PCtIaM_GQ&list=LL&index=121 -->
 <br>
 <br>
 <br>

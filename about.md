@@ -16,14 +16,14 @@ permalink: /about/
   </div>
   <div class="col">
     <p style="font-size:14px">
-    I just finished my undergraduate degree in Systems Biology at Duke University, which ended up being a mix of computational biology and neuroscience. I am currently working at the Naumann Lab in the Neurobiology department at Duke. I hope to pursue graduate study in computational neuroscience or cognitive science soon. 
-    
-    I am preoccupied by the cognitive and brain sciences because I think they are very consilient, in so far as they seem connected to everything. The sciences of mind are a key junction in the web of unified knowledge, where one simultaneously finds: the arts and the sciences; computational dryware and biological wetware; nature and nurture; reality and representation; software and hardware; technology and the human soul. Nowhere have I felt closer to human nature. Moreover, in neuroscience and cognitive science one finds some of the most profound, permeating concepts in all of formal science: information, computation, control, communication, learning, evolution, logic, probability, prediction, inference, and reward. Grasping these concepts better seems to help with understanding everything else.
-
-    I used to be interested, primarily, in philosophy and psychology, and those interests have carried over. I am still often preoccupied by the philosophy of language, philosophy of science, formal epistemology, and effective altruism and related ethical issues. 
-
-    My neuroscientific and psychological interests have become more and more cognitive over time, as I have come to see cognition or intelligence as the chief miracle of mind. I don't think it is vulgar to say that much of emotion and personality are cognitive, and that the problems of affective neuroscience seem to me either entangled with the problems of cognitive neuroscience or relatively easy once the problems of cognitive neuroscience have been solved. In so far as human nature remains a mystery, I think the mystery of successful cognition is the greatest portion.
-
+    I just finished my undergraduate degree in Systems Biology at Duke University, which ended up being a mix of computational biology and neuroscience. I am currently working at the Naumann Lab in the Neurobiology department at Duke. I hope to pursue graduate study in computational neuroscience or cognitive science soon.<br>
+    <br>
+    I am preoccupied by the cognitive and brain sciences because I think they are very consilient, in so far as they seem connected to everything. The sciences of mind are a key junction in the web of unified knowledge, where one simultaneously finds: the arts and the sciences; computational dryware and biological wetware; nature and nurture; reality and representation; software and hardware; technology and the human soul. Nowhere have I felt closer to human nature. Moreover, in neuroscience and cognitive science one finds some of the most profound, permeating concepts in all of formal science: information, computation, control, communication, learning, evolution, logic, probability, prediction, inference, and reward. Grasping these concepts better seems to help with understanding everything else.<br>
+    <br>
+    I used to be interested, primarily, in philosophy and psychology, and those interests have carried over. I am still often preoccupied by the philosophy of language, philosophy of science, formal epistemology, and effective altruism and related ethical issues.<br>
+    <br>
+    My neuroscientific and psychological interests have become more and more cognitive over time, as I have come to see cognition or intelligence as the chief miracle of mind. I don't think it is vulgar to say that much of emotion and personality are cognitive, and that the problems of affective neuroscience seem to me either entangled with the problems of cognitive neuroscience or relatively easy once the problems of cognitive neuroscience have been solved. In so far as human nature remains a mystery, I think the mystery of successful cognition is the greatest portion.<br>
+    <br>
     Besides my academic interests, I also love rock climbing and alpinism, literature of all sorts, comedy, film, and all the other good things in life.
   </p>
   </div>

@@ -3,13 +3,13 @@ layout: default
 title: "Joe Choo-Choy"
 ---
 
-<span style="font-family:'Times New Roman', Times, serif">
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
 <p class="lead mb-4"><b>Duke University</b></p>
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 
+<span style="font-family:'Times New Roman', Times, serif; font-size: 10px;">
 <div class="row">
   <div class="col-3">
     <!-- <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/> -->
@@ -37,6 +37,7 @@ title: "Joe Choo-Choy"
     </p>
   </div>
 </div>
+</span>
 
 <ul class="nav mt-3">
   <li class="nav-item">
@@ -82,4 +83,3 @@ title: "Joe Choo-Choy"
 -->
 
 <p size="4" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>
-</span>

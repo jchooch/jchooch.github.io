@@ -3,9 +3,9 @@ layout: default
 title: "Joe Choo-Choy"
 ---
 
-<h1 style="font-size:18px" class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
+<h1 style="font-size:20px" class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<p style="font-size:14px" class="lead mb-4"><b>Duke University</b></p>
+<p style="font-size:16px" class="lead mb-4"><b>Duke University</b></p>
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 
@@ -15,10 +15,10 @@ title: "Joe Choo-Choy"
     <script src="/javascript/random.js" type="text/javascript"></script>
   </div>
   <div class="col">
-    <p style="font-size:12px;">
+    <p style="font-size:14px;">
       Hi, there. You must be lost! Me too...
     </p>
-    <p style="font-size:12px;">
+    <p style="font-size:14px;">
     <a href="{{ site.about_permalink }}">About</a><br>
     <a href="{{ site.lists_permalink }}">Lists</a><br>
     <a href="{{ site.tracking_permalink }}">Tracking</a><br>
@@ -31,7 +31,7 @@ title: "Joe Choo-Choy"
     Notes on Formal Sciences<br>
     Notes on Cognitive Sciences
     </p>
-    <p style="font-size:12px;">
+    <p style="font-size:14px;">
       This site is a work-in-progress.
     </p>
   </div>
@@ -39,22 +39,22 @@ title: "Joe Choo-Choy"
 
 <ul class="nav mt-3">
   <li class="nav-item">
-    <a style="font-size:10px;" class="btn btn-link" href="mailto:{{ site.email }}?subject=Hello" class="btn btn-link"><i class="fas fa-envelope" title="Email"></i> {{site.email}}</a>
+    <a style="font-size:12px;" class="btn btn-link" href="mailto:{{ site.email }}?subject=Hello" class="btn btn-link"><i class="fas fa-envelope" title="Email"></i> {{site.email}}</a>
   </li>
   <li class="nav-item">
-    <a style="font-size:10px;" class="btn btn-link" href="https://twitter.com/{{ site.twitter_username }}" class="btn btn-link"><i class="fab fa-fw fa-twitter-square" ></i> {{ site.twitter_username }} </a>
+    <a style="font-size:12px;" class="btn btn-link" href="https://twitter.com/{{ site.twitter_username }}" class="btn btn-link"><i class="fab fa-fw fa-twitter-square" ></i> {{ site.twitter_username }} </a>
   </li>
   <li class="nav-item">
-    <a style="font-size:10px;" class="btn btn-link" href="https://github.com/{{ site.github_username }}" class="btn btn-link"><i class="fab fa-fw fa-github" ></i>{{ site.github_username}}</a>
+    <a style="font-size:12px;" class="btn btn-link" href="https://github.com/{{ site.github_username }}" class="btn btn-link"><i class="fab fa-fw fa-github" ></i>{{ site.github_username}}</a>
   </li>
   <li class="nav-item">
-    <a style="font-size:10px;" class="btn btn-link" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-link"><i class="fab fa-linkedin" ></i> {{ site.linkedin_username }}</a>
+    <a style="font-size:12px;" class="btn btn-link" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-link"><i class="fab fa-linkedin" ></i> {{ site.linkedin_username }}</a>
   </li>
   <li class="nav-item">
-    <a style="font-size:10px;" class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Durham,_North_Carolina"><i class="fa fa-home"  title="Home"></i> London, UK</a>
+    <a style="font-size:12px;" class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Durham,_North_Carolina"><i class="fa fa-home"  title="Home"></i> London, UK</a>
   </li>
   <li class="nav-item">
-    <a style="font-size:10px;" class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
+    <a style="font-size:12px;" class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
   </li>
 </ul>
 

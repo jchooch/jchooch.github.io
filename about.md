@@ -4,9 +4,9 @@ title: "About"
 permalink: /about/
 ---
 
-<h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
+<h1 style="font-size:20px" class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i>
+<i><a style="font-size:16px" href="https://jchooch.github.io/">Joe Choo-Choy </a></i>
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 
@@ -28,19 +28,19 @@ permalink: /about/
     <a class="btn btn-link" href="mailto:{{ site.email }}?subject=Hello" class="btn btn-link"><i class="fas fa-envelope" title="Email"></i> {{site.email}}</a>
   </li>
   <li class="nav-item">
-    <a class="btn btn-link" href="https://twitter.com/{{ site.twitter_username }}" class="btn btn-link"><i class="fab fa-fw fa-twitter-square" ></i> {{ site.twitter_username }} </a>
+    <a style="font-size:12px" class="btn btn-link" href="https://twitter.com/{{ site.twitter_username }}" class="btn btn-link"><i class="fab fa-fw fa-twitter-square" ></i> {{ site.twitter_username }} </a>
   </li>
   <li class="nav-item">
-    <a class="btn btn-link" href="https://github.com/{{ site.github_username }}" class="btn btn-link"><i class="fab fa-fw fa-github" ></i>{{ site.github_username}}</a>
+    <a style="font-size:12px" class="btn btn-link" href="https://github.com/{{ site.github_username }}" class="btn btn-link"><i class="fab fa-fw fa-github" ></i>{{ site.github_username}}</a>
   </li>
   <li class="nav-item">
-    <a class="btn btn-link" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-link"><i class="fab fa-linkedin" ></i> {{ site.linkedin_username }}</a>
+    <a style="font-size:12px" class="btn btn-link" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="btn btn-link"><i class="fab fa-linkedin" ></i> {{ site.linkedin_username }}</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Durham,_North_Carolina"><i class="fa fa-home"  title="Home"></i> Durham, NC, USA</a>
+    <a style="font-size:12px" class="nav-link btn btn-link" href="https://en.wikipedia.org/wiki/Durham,_North_Carolina"><i class="fa fa-home"  title="Home"></i> Durham, NC, USA</a>
   </li>
   <li class="nav-item">
-    <a class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
+    <a style="font-size:12px" class="btn btn-link" href="{{ site.resume }}"><i class="far fa-user-circle"  title="resume"></i> CV</a>
   </li>
 </ul>
 

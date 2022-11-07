@@ -80,4 +80,4 @@ title: "Joe Choo-Choy"
 </p>
 -->
 
-<p size="3" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>
+<p size="2" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>

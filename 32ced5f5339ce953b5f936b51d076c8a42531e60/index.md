@@ -3,6 +3,7 @@ layout: default
 title: "Joe Choo-Choy"
 ---
 
+<span style="font-family:'Times New Roman', Times, serif">
 <h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
 <p class="lead mb-4"><b>Duke University</b></p>
@@ -81,3 +82,4 @@ title: "Joe Choo-Choy"
 -->
 
 <p size="4" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>
+</span>

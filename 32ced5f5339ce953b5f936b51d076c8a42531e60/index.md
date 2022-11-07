@@ -15,10 +15,10 @@ title: "Joe Choo-Choy"
     <script src="/javascript/random.js" type="text/javascript"></script>
   </div>
   <div class="col">
-    <p size="3">
+    <p style="font-size:8px;">
       Hi, there. You must be lost! Me too...
     </p>
-    <p size="3">
+    <p style="font-size:8px;">
     <a href="{{ site.about_permalink }}">About</a><br>
     <a href="{{ site.lists_permalink }}">Lists</a><br>
     <a href="{{ site.tracking_permalink }}">Tracking</a><br>
@@ -31,7 +31,7 @@ title: "Joe Choo-Choy"
     Notes on Formal Sciences<br>
     Notes on Cognitive Sciences
     </p>
-    <p size="3">
+    <p style="font-size:8px;">
       This site is a work-in-progress.
     </p>
   </div>
@@ -80,4 +80,4 @@ title: "Joe Choo-Choy"
 </p>
 -->
 
-<p size="2" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>
+<p style="color:grey;font-size:8px;">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>

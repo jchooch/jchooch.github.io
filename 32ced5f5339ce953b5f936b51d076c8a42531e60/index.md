@@ -9,7 +9,7 @@ title: "Joe Choo-Choy"
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 
-<span style="font-family:'Times New Roman', Times, serif; font-size: 10px;">
+<span size="3" style="font-family:'Times New Roman', Times, serif;">
 <div class="row">
   <div class="col-3">
     <!-- <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/> -->
@@ -82,4 +82,4 @@ title: "Joe Choo-Choy"
 </p>
 -->
 
-<p size="4" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>
+<p size="3" style="color:grey">This blog's design was inspired by that of <a href="https://brunomaga.github.io/">Bruno Magalhaes</a>.</p>

@@ -3,9 +3,9 @@ layout: default
 title: "Joe Choo-Choy"
 ---
 
-<h1 class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
+<h1 style="font-size:18px" class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
 
-<p class="lead mb-4"><b>Duke University</b></p>
+<p style="font-size:14px" class="lead mb-4"><b>Duke University</b></p>
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 

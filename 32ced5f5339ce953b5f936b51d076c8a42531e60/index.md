@@ -9,17 +9,16 @@ title: "Joe Choo-Choy"
 
 <!--<script language="javascript" src="change_image.js"></script>-->
 
-<span size="3" style="font-family:'Times New Roman', Times, serif;">
 <div class="row">
   <div class="col-3">
     <!-- <img src="{{site.photo_1}}" class="img-fluid rounded float-left" alt="countenance" id="imgClickAndChange" onclick="changeImage()"/> -->
     <script src="/javascript/random.js" type="text/javascript"></script>
   </div>
   <div class="col">
-    <p>
+    <p size="3">
       Hi, there. You must be lost! Me too...
     </p>
-    <p>
+    <p size="3">
     <a href="{{ site.about_permalink }}">About</a><br>
     <a href="{{ site.lists_permalink }}">Lists</a><br>
     <a href="{{ site.tracking_permalink }}">Tracking</a><br>
@@ -32,12 +31,11 @@ title: "Joe Choo-Choy"
     Notes on Formal Sciences<br>
     Notes on Cognitive Sciences
     </p>
-    <p>
+    <p size="3">
       This site is a work-in-progress.
     </p>
   </div>
 </div>
-</span>
 
 <ul class="nav mt-3">
   <li class="nav-item">

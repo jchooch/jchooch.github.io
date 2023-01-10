@@ -16,15 +16,15 @@ permalink: /lists/
 <ul>
     <li style="font-size:14px">It's common for lists of favourites to basically just be lists of things people have consumed which <i>weren't shit</i>. I have tried to be selective here, but it's nonetheless clear to me that my selections are in some sense obvious given what I've seen. Hopefully, my more unusual inclusions will point people to good work they would not find otherwise and my more commonplace inclusions will remind people to keep exploring.</li>
     <li style="font-size:14px">I think I've consumed relatively many films, books, and television shows. Nonetheless, I have obviously consumed a vanishing proportion of what's out there, so the following lists are severely biased by what I've been exposed to. There are many artworks out there which I think I would love, but I just haven't consumed.</li>
-    <ul>
+    <ul style="font-size:14px">
         <li>E.g. I strongly suspect I should watch <a href="https://en.wikipedia.org/wiki/Rear_Window">Rear Window</a> or <a href="https://en.wikipedia.org/wiki/Casablanca_(film)">Casablanca</a>.</li>
         <li>E.g. I strongly suspect I should read <a href="https://en.wikipedia.org/wiki/Anna_Karenina">Anna Karenina</a> or <a href="https://en.wikipedia.org/wiki/Mrs_Dalloway">Mrs Dalloway</a>.</li>
         <li>E.g. I strongly suspect I should listen to <a href="https://en.wikipedia.org/wiki/Nick_Cave_and_the_Bad_Seeds">Nick Cave and the Bad Seeds</a> or <a href="https://en.wikipedia.org/wiki/Ella_Fitzgerald">Ella Fitzgerald</a>.</li>
         <li>And the list goes on...</li>
     </ul>
     <li style="font-size:14px">I think that putative "great art", e.g. the films of <a href="https://en.wikipedia.org/wiki/Orson_Welles">Orson Welles</a> or the music of <a href="https://en.wikipedia.org/wiki/The_Beatles">The Beatles</a>, is almost always <i>actually amazing</i>, even if personal taste still provides independent degrees of freedom. Much of the value of art is in its ability to illustrate new ways of thinking, feeling, perceiving, and understanding, some of which are objective in some respects. In any case, there are too many famously great artworks to list, so one has to follow one's own nose in constructing a short list of favourites in any space.</li>
-    <li>So I think that, in the appreciation of great art, the problem is very rarely <i>finding</i> great art, as opposed to actually consuming and analysing and <i>savouring</i> it. Of course, it is a difficult feat of willpower to watch a <a href="https://en.wikipedia.org/wiki/Federico_Fellini">Fellini</a> instead of the newest <a href="https://en.wikipedia.org/wiki/Avengers_(Marvel_Cinematic_Universe)">Avengers</a> film when the former may require more energy to consume than the other. (I think this is significantly a matter of habit, like so many things.) But thinking about the art here and how much joy it has brought me crysallises (in my mind) the importance of always seeking out great art, and never pretending that I don't know where to find it. Maybe <a href="https://www.youtube.com/watch?v=YWyC3Ik2L_o">Martin Scorsese</a> has seen all the famously great films so has to go looking for obscure inspiration, but <a href="https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time">Sight & Sound's 100 Greatest Films</a> or <a href="https://www.imdb.com/chart/top/">IMDb's Top 250 Films</a> are instructive enough for me.</li>
-    <li>These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and what I personally love. This list is bound to be often out-of-date, but I hope it's interesting! Especially noisy lists are labelled with &#9888;, and should be taken with a bucket of salt.</li>
+    <li style="font-size:14px">So I think that, in the appreciation of great art, the problem is very rarely <i>finding</i> great art, as opposed to actually consuming and analysing and <i>savouring</i> it. Of course, it is a difficult feat of willpower to watch a <a href="https://en.wikipedia.org/wiki/Federico_Fellini">Fellini</a> instead of the newest <a href="https://en.wikipedia.org/wiki/Avengers_(Marvel_Cinematic_Universe)">Avengers</a> film when the former may require more energy to consume than the other. (I think this is significantly a matter of habit, like so many things.) But thinking about the art here and how much joy it has brought me crysallises (in my mind) the importance of always seeking out great art, and never pretending that I don't know where to find it. Maybe <a href="https://www.youtube.com/watch?v=YWyC3Ik2L_o">Martin Scorsese</a> has seen all the famously great films so has to go looking for obscure inspiration, but <a href="https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time">Sight & Sound's 100 Greatest Films</a> or <a href="https://www.imdb.com/chart/top/">IMDb's Top 250 Films</a> are instructive enough for me.</li>
+    <li style="font-size:14px">These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and what I personally love. This list is bound to be often out-of-date, but I hope it's interesting! Especially noisy lists are labelled with &#9888;, and should be taken with a bucket of salt.</li>
 </ul>
 <br>
 
@@ -37,7 +37,7 @@ permalink: /lists/
 -->
 
 <details>
-<summary><b><span style="font-size:14px;color:orange">Literature</span> : Fiction</b></summary>
+<summary><b><span style="color:orange">Literature</span> : Fiction</b></summary>
 <ul style="font-size:14px">
     <li>{Ulysses, A Portrait of the Artist as a Young Man} &#124; James Joyce</li>
     <li>{Lolita, Pale Fire} &#124; Vladimir Nabokov</li>
@@ -62,7 +62,7 @@ permalink: /lists/
 
 <details>   
 <summary><b><span style="color:orange">Literature</span> : Non-Fiction</b></summary>
-<ul>
+<ul style="font-size:14px">
     <li>A Treatise of Human Nature &#124; David Hume</li>
     <li>Godel, Escher, Bach &#124; Douglas Hofstadter</li>
     <li>On Having No Head &#124; Douglas Harding</li>
@@ -93,7 +93,7 @@ permalink: /lists/
 
 <details>
 <summary><b><span style="color:orange">Literature</span> : Textbooks/Technical</b></summary>
-<ul>
+<ul style="font-size:14px">
     <li>Explorations in Parallel Distributed Processing &#124; McClelland et al.</li>
     <li>Deep Learning &#124; Goodfellow et al.</li>
     <li>Theoretical Neuroscience &#124; Dayan & Abbott</li>
@@ -105,7 +105,7 @@ permalink: /lists/
 
 <details>
 <summary><b><span style="color:orange">Literature</span> : Plays</b></summary>
-<ul>
+<ul style="font-size:14px">
     <li>{The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} &#124; Martin McDonagh</li>
     <li>{Arcadia, Rosencrantz and Guildenstern Are Dead} &#124; Tom Stoppard</li>
     <li>{...} &#124; William Shakespeare</li>
@@ -117,7 +117,7 @@ permalink: /lists/
 
 <details>
 <summary><b><span style="color:forestgreen;">Music</span> : Albums</b></summary>
-<ul>
+<ul style="font-size:14px">
     <li>Grace &#124; Jeff Buckley</li>
     <li>{Hopes & Fears, Under the Iron Sea} &#124; Keane</li>
     <li>{The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} &#124; Radiohead</li>
@@ -134,7 +134,7 @@ permalink: /lists/
 
 <details>
 <summary><b><span style="color:forestgreen;">Music</span> : Bands/Artists</b></summary>
-<ul>
+<ul style="font-size:14px">
     <li>Too difficult to group, too numerous to name...</li>
     <ul>
         <li>Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, Talking Heads, ...</li>
@@ -152,7 +152,7 @@ permalink: /lists/
 
 <details>
 <summary><b><span style="color:forestgreen;">Music</span> : Songs &#9888;</b></summary>
-<ul>
+<ul style="font-size:14px">
     <li>Armchairs &#124; Andrew Bird</li>
     <li>Mookid &#124; Aphex Twin</li>
     <li>I Wish I Knew How It Would Feel To Be Free &#124; Nina Simone</li>
@@ -182,7 +182,7 @@ permalink: /lists/
 
 <details>
 <summary><b><span style="color:dodgerblue;">Screen</span> : Serials</b></summary>
-<ul>
+<ul style="font-size:14px">
     <li>Ray Donovan &#124; Ann Biderman</li>
     <li>Hannibal &#124; Bryan Fuller</li>
     <li>The Wire &#124; David Simon</li>
@@ -201,7 +201,7 @@ permalink: /lists/
 
 <details>
 <summary><b><span style="color:dodgerblue;">Screen</span> : Films</b></summary>
-<ul>
+<ul style="font-size:14px">
     <li>The Departed &#124; Martin Scorsese</li>
     <li>{In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh</li>
     <li>Calvary &#124; John Michael McDonagh</li>
@@ -225,7 +225,7 @@ permalink: /lists/
 
 <details>
 <summary><b><span style="color:blueviolet;">Podcasts/Radio</span></b></summary>
-<ul>
+<ul style="font-size:14px">
     <li><a href="https://www.samharris.org/podcasts">Making Sense</a> (Sam Harris) [general]</li>
     <li><a href="https://www.nytimes.com/column/ezra-klein-podcast">The Ezra Klein Show</a> (... Ezra Klein?) [general]</li>
     <li><a href="https://conversationswithtyler.com/">Conversations with Tyler</a> (Tyler Cowen) [general]</li>

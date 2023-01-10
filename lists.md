@@ -12,8 +12,12 @@ permalink: /lists/
 <span style="font-size:14px"><i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i></span>
 <br>
 <br>
-<span>
-<b>A few notes:</b>
+<span style="font-size:14px;font-weight:bold">A few notes:</span>
+<ul>
+    <li style="font-size:14px">Test 1.</li>
+    <li style="font-size:14px">Test 2.</li>
+    <li style="font-size:14px">Test 3.</li>
+</ul>
 * It's common for lists of favourites to basically just be lists of things people have consumed which <i>weren't shit</i>. I have tried to be selective here, but it's nonetheless clear to me that my selections are in some sense obvious given what I've seen. Hopefully, my more unusual inclusions will point people to good work they would not find otherwise and my more commonplace inclusions will remind people to keep exploring.
 * I think I've consumed relatively many films, books, and television shows. Nonetheless, I have obviously consumed a vanishing proportion of what's out there, so the following lists are severely biased by what I've been exposed to. There are many artworks out there which I think I would love, but I just haven't consumed.
     - E.g. I strongly suspect I should watch <a href="https://en.wikipedia.org/wiki/Rear_Window">Rear Window</a> or <a href="https://en.wikipedia.org/wiki/Casablanca_(film)">Casablanca</a>.
@@ -521,7 +525,6 @@ What is Mathematics?
 <br>
 In general, I try to track some of my consumption/favourites using <a href="https://boxd.it/eOVNm">Letterboxd</a>, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>.
 -->
-</span>
 <br>
 <br>
 <p style="font-size:12px" style="color:red"><i>An Idle Brain Is Satan’s Shoppe!</i></p>

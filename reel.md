@@ -143,15 +143,24 @@ permalink: /reel/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-eBUcBfkVCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- [63] FOLK ALEX JONES -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KGAAhzreGWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
+
+<!-- MAYBE
+https://www.youtube.com/watch?v=Txp8B4ek_kk
+https://www.youtube.com/watch?v=7Ifw8JhDBvs
+https://www.youtube.com/watch?v=mlYkIJVguCU&list=FL81hVmI5eEBIt3s3HQpJd_w&index=17&t=3s
+https://www.youtube.com/watch?v=WzJTmvQyYXk&list=LL&index=222
+https://www.youtube.com/playlist?list=PL8e0FwHP8vb1pv4qAonVsZ_cVLFxkoiGn
+https://www.youtube.com/watch?v=8irW-b4iKP0&list=LL&index=232
+https://www.youtube.com/watch?v=Vg1jyL3cr60&list=LL&index=151
+https://www.youtube.com/watch?v=Zv-XNlE1s8E&list=LL&index=139
+https://www.youtube.com/watch?v=OI-To1eUtuU&list=LL&index=141
+https://www.youtube.com/watch?v=DuRWonWsVCE
+https://www.youtube.com/watch?v=XjO4IenAyUw
+https://www.youtube.com/watch?v=fregObNcHC8
+https://www.youtube.com/watch?v=UuqeGtN6IEs
+https://www.youtube.com/watch?v=skD7r0yWOG4
+-->
+
 <!-- JACKIE CHAN: HOW TO DO ACTION COMEDY > https://www.youtube.com/watch?v=Z1PCtIaM_GQ&list=LL&index=121 -->
 <br>
 <br>

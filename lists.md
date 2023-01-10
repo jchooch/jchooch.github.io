@@ -7,8 +7,8 @@ permalink: /lists/
 <!-- <a href="#test_linked_text">Test link.</a> -->
 
 ### —————————————————————————————————————————————
-<span style="font-size:20px" class="lead mb-4"><b>Things which have influenced me</b></span><br>
-<span style="font-size:16px" class="lead mb-4"><b>or which I'm pretty sure are great</b></span><br>
+<span style="font-size:20px;font-weight:bold" class="lead mb-4">Things which have influenced me</span><br>
+<span style="font-size:16px;font-weight:bold" class="lead mb-4">or which I'm pretty sure are great</span><br>
 <span style="font-size:14px"><i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i></span>
 <br>
 <br>

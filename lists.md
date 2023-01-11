@@ -201,7 +201,7 @@ permalink: /lists/
 <details>
 <summary><b><span style="color:dodgerblue;">Screen</span> : Films</b></summary>
 <ul style="font-size:14px">
-    SLOW FAVOURITES
+    <span style="font-weight:bold;">SLOW FAVOURITES</span>
     <li>{There Will Be Blood, Phantom Thread} &#124; Paul Thomas Anderson</li>
     <li>{The Grand Budapest Hotel, The French Dispatch} &#124; Wes Anderson</li>
     <li>Parasite &#124; Bong Joon-ho</li>
@@ -223,7 +223,7 @@ permalink: /lists/
     <li>{Inglorious Basterds, Once Upon A Time In Hollywood} &#124; Quentin Tarantino</li>
     <li>The Matrix &#124; The Wachowskis</li>
     <li>Citizen Kane &#124; Orson Welles</li>
-    FAST FAVOURITES
+    <span style="font-weight:bold;">FAST FAVOURITES</span>
     <li>Boiling Point &#124; Philip Barantini</li>
     <li>Inside &#124; Bo Burnham</li>
     <li>Gone Girl &#124; David Fincher</li>

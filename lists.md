@@ -24,7 +24,7 @@ permalink: /lists/
     </ul>
     <li style="font-size:14px">I think that putative "great art", e.g. the films of <a href="https://en.wikipedia.org/wiki/Orson_Welles">Orson Welles</a> or the music of <a href="https://en.wikipedia.org/wiki/The_Beatles">The Beatles</a>, is almost always <i>actually amazing</i>, even if personal taste still provides independent degrees of freedom. Much of the value of art is in its ability to illustrate new ways of thinking, feeling, perceiving, and understanding, some of which are objective in some respects. In any case, there are too many famously great artworks to list, so one has to follow one's own nose in constructing a short list of favourites in any space.</li>
     <li style="font-size:14px">So I think that, in the appreciation of great art, the problem is very rarely <i>finding</i> great art, as opposed to actually consuming and analysing and <i>savouring</i> it. Of course, it is a difficult feat of willpower to watch a <a href="https://en.wikipedia.org/wiki/Federico_Fellini">Fellini</a> instead of the newest <a href="https://en.wikipedia.org/wiki/Avengers_(Marvel_Cinematic_Universe)">Avengers</a> film when the former may require more energy to consume than the other. (I think this is significantly a matter of habit, like so many things.) But thinking about the art here and how much joy it has brought me crysallises (in my mind) the importance of always seeking out great art, and never pretending that I don't know where to find it. Maybe <a href="https://www.youtube.com/watch?v=YWyC3Ik2L_o">Martin Scorsese</a> has seen all the famously great films so has to go looking for obscure inspiration, but <a href="https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time">Sight & Sound's 100 Greatest Films</a> or <a href="https://www.imdb.com/chart/top/">IMDb's Top 250 Films</a> are instructive enough for me.</li>
-    <li style="font-size:14px">These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and what I personally love. This list is bound to be often out-of-date, but I hope it's interesting! Especially noisy lists are labelled with &#9888;, and should be taken with a bucket of salt.</li>
+    <li style="font-size:14px">These are things that I've consumed and loved or found affecting. These tend to be at the intersection of what I consider to be great art and what I personally love. This list is bound to be often out-of-date, but I hope it's interesting! <i>Slow favourites</i> are things I have loved for some time or expect to will love for some time. They change slowly. <i>Fast favourites</i> are things I love at the moment, and are more liable to change in the short-term. Especially noisy lists are labelled with &#9888;, and should be taken with a bucket of salt.</li>
 </ul>
 
 <!--
@@ -201,26 +201,56 @@ permalink: /lists/
 <details>
 <summary><b><span style="color:dodgerblue;">Screen</span> : Films</b></summary>
 <ul style="font-size:14px">
-    <li>The Departed &#124; Martin Scorsese</li>
-    <li>{In Bruges, Seven Psychopaths, Three Billboards Outside Ebbing, Missouri, ...} &#124; Martin McDonagh</li>
-    <li>Calvary &#124; John Michael McDonagh</li>
-    <li>Synecdoche, New York &#124; Charlie Kaufman</li>
-    <li>Pride & Glory &#124; Gavin O'Connor</li>
+    SLOW FAVOURITES
+    <li>{There Will Be Blood, Phantom Thread} &#124; Paul Thomas Anderson</li>
+    <li>{The Grand Budapest Hotel, The French Dispatch} &#124; Wes Anderson</li>
+    <li>Parasite &#124; Bong Joon-ho</li>
+    <li>{Fargo, No Country for Old Men} &#124; Coen Brothers</li>
+    <li>{The Godfather, Apocalypse Now (Final Cut)} &#124; Francis Ford Coppola</li>
+    <li>8 1/2 &#124; Federico Fellini</li>
+    <li>Brazil &#124; Terry Gilliam</li>
     <li>Eternal Sunshine of the Spotless Mind &#124; Michel Gondry</li>
-    <li>Training Day &#124; Antoine Fuqua</li>
-    <li>There Will Be Blood &#124; Paul Thomas Anderson</li>
-    <li>{Dune, Arrival} &#124; Denis Villeneuve</li>
-    <li>{Tenet, Inception, Dunkirk, Interstellar, The Prestige} &#124; Christopher Nolan</li>
-    <li>2001: A Space Odyssey &#124; Stanley Kubrick</li>
-    <li>The Matrix &#124; The Wachowskis</li>
+    <li>{Rear Window, North by Northwest} &#124; Alfred Hitchcock</li>
     <li>The Revenant &#124; Alejandro Iñárritu</li>
-    <li>Drive &#124; Nicolas Winding Refn</li>
-    <li>Once Upon A Time In Hollywood &#124; Quentin Tarantino</li>
-    <li>{...} &#124; The Coen Brothers</li>
-    <li>Heat &#124; Michael Mann</li>
     <li>Her &#124; Spike Jonze</li>
+    <li>Synecdoche, New York &#124; Charlie Kaufman</li>
+    <li>Singin' in the Rain &#124; Kelly & Donen</li>
+    <li>2001: A Space Odyssey &#124; Stanley Kubrick</li>
+    <li>{The Thin Red Line, The Tree of Life, A Hidden Life} &#124; Terrence Malick</li>
+    <li>{In Bruges, Three Billboards Outside Ebbing, Missouri} &#124; Martin McDonagh</li>
+    <li>{Memento, Inception, Interstellar, Dunkirk, Tenet} &#124; Christopher Nolan</li>
+    <li>{The Departed, The Irishman} &#124; Martin Scorsese</li>
+    <li>{Inglorious Basterds, Once Upon A Time In Hollywood} &#124; Quentin Tarantino</li>
+    <li>The Matrix &#124; The Wachowskis</li>
+    <li>Citizen Kane &#124; Orson Welles</li>
+    FAST FAVOURITES
+    <li>Boiling Point &#124; Philip Barantini</li>
+    <li>Inside &#124; Bo Burnham</li>
+    <li>Gone Girl &#124; David Fincher</li>
+    <li>Nightcrawler &#124; Dan Gilroy</li>
+    <li>Crash &#124; Paul Haggis</li>
+    <li>Aguirre, the Wrath of God &#124; Werner Herzog</li>
+    <li>Detachment &#124; Tony Kaye</li>
+    <li>The General &#124; Keaton & Bruckman</li>
+    <li>Throne of Blood &#124; Akira Kurosawa</li>
+    <li>Doctor Zhivago &#124; David Lean</li>
+    <li>She's Gotta Have It &#124; Spike Lee</li>
+    <li>Manchester by the Sea &#124; Kenneth Lonergan</li>
+    <li>Touching the Void &#124; Kevin Macdonald</li>
+    <li>{Calvary, The Forgiven} &#124; John Michael McDonagh</li>
+    <li>{12 Years A Slave, Widows} &#124; Steve McQueen</li>
+    <li>Drive &#124; Nicolas Winding Refn</li>
+    <li>Captain Fantastic &#124; Matt Ross</li>
+    <li>Papillon &#124; Franklin Schaffner</li>
+    <li>The Color Purple &#124; Steven Spielberg</li>
+    <li>{Prisoners, Arrival, Dune} &#124; Denis Villeneuve</li>
+    <li>Nomadland &#124; Chloé Zhao</li>
 </ul>
 </details>
+<!-- Good Time -->
+<!-- Tinker Tailor Soldier Spy -->
+<!-- Michael Clayton -->
+<!-- Training Day -->
 
 <details>
 <summary><b><span style="color:blueviolet;">Podcasts/Radio</span></b></summary>
@@ -523,7 +553,6 @@ What is Mathematics?
 <br>
 In general, I try to track some of my consumption/favourites using <a href="https://boxd.it/eOVNm">Letterboxd</a>, <a href="https://www.goodreads.com/user/show/23882279-joe">Goodreads</a>, <a href="https://rateyourmusic.com/list/jchooch/">Rate Your Music</a>.
 -->
-<br>
 <br>
 <p style="font-size:12px" style="color:red"><i>An Idle Brain Is Satan’s Shoppe!</i></p>
  

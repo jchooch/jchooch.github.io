@@ -1,7 +1,9 @@
 title: "Joe Choo-Choy"
-email: joechoochoy@gmail.com
+
 assets: /assets/
 resume: /assets/cv.pdf
+
+# photos
 photo_1: /assets/photo_1.jpeg
 photo_2: /assets/photo_2.jpeg
 photo_3: /assets/photo_3.jpeg
@@ -9,18 +11,24 @@ photo_4: /assets/photo_4.jpeg
 photo_5: /assets/photo_5.jpeg
 photo_6: /assets/photo_6.jpeg
 photo_7: /assets/photo_7.jpeg
-resources_permalink: /resources/
-tidbytes_permalink: /tidbytes/
-lists_permalink: /lists/
-tracking_permalink: /tracking/
-cog_permalink: /cog/
-reel_permalink: /reel/
-quotations_permalink: /quotations/
-resources_permalink: /resources/
+
+# permalinks, alphabetical
 about_permalink: /about/
 blog_permalink: /blog/
+book_notes_permalink: /book_notes/
+cog_permalink: /cog/
+cognitive_science_notes_permalink: /cognitive_science_notes/
+formal_science_notes_permalink: /formal_science_notes/
+lists_permalink: /lists/
+quotations_permalink: /quotations/
 recent_reading_permalink: /recent_reading/
-google_scholar: https://www.google.com
+reel_permalink: /reel/
+resources_permalink: /resources/
+tidbytes_permalink: /tidbytes/
+tracking_permalink: /tracking/
+
+email: joechoochoy@gmail.com
+google_scholar: https://scholar.google.co.uk/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jchooch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:  joechoochoy

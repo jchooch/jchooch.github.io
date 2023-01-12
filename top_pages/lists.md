@@ -12,6 +12,9 @@ permalink: /lists/
 <span style="font-size:14px"><i><a href="https://jchooch.github.io/"> Joe Choo-Choy </a></i></span>
 <br>
 <br>
+
+Wilde famously called criticism "the record of one's own soul" and "the only civilised form of autobiography", and I have (less famously) thought of <i>lists of favourites</i> as the lowest and least civilised form of criticism. All told, I expect it's a wash, and only hope that what I have left below judged of no value whatsoever, but nothing less! Otherwise, I'm sure that the high-mindedness of Wilde is correct.
+
 <span style="font-size:14px;font-weight:bold">A few notes:</span>
 <ul>
     <li style="font-size:14px">It's common for lists of favourites to basically just be lists of things people have consumed which <i>weren't shit</i>. I have tried to be selective here, but it's nonetheless clear to me that my selections are in some sense obvious given what I've seen. Hopefully, my more unusual inclusions will point people to good work they would not find otherwise and my more commonplace inclusions will remind people to keep exploring.</li>
@@ -91,7 +94,7 @@ permalink: /lists/
 </details>
 
 <details>
-<summary><b><span style="color:orange">Literature</span> : Textbooks/Technical</b></summary>
+<summary><b><span style="color:orange">Literature</span> : Textbooks</b></summary>
 <ul style="font-size:14px">
     <li>Explorations in Parallel Distributed Processing &#124; McClelland et al.</li>
     <li>Deep Learning &#124; Goodfellow et al.</li>
@@ -103,7 +106,7 @@ permalink: /lists/
 </details>
 
 <details>
-<summary><b><span style="color:orange">Literature</span> : Plays</b></summary>
+<summary><b><span style="color:orange">Literature</span> : TODO Drama</b></summary>
 <ul style="font-size:14px">
     <li>{The Leenane Trilogy, The Aran Trilogy, The Pillowman, Hangmen} &#124; Martin McDonagh</li>
     <li>{Arcadia, Rosencrantz and Guildenstern Are Dead} &#124; Tom Stoppard</li>
@@ -111,71 +114,6 @@ permalink: /lists/
     <li>{Jerusalem, Mojo} &#124; Jez Butterworth</li>
     <li>Who's Afraid of Virginia Woolf? &#124; Edward Albee</li>
     <li>Death of a Salesman &#124; Arthur Miller</li>
-</ul>
-</details>
-
-<details>
-<summary><b><span style="color:forestgreen;">Music</span> : Albums</b></summary>
-<ul style="font-size:14px">
-    <li>Grace &#124; Jeff Buckley</li>
-    <li>{Hopes & Fears, Under the Iron Sea} &#124; Keane</li>
-    <li>{The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} &#124; Radiohead</li>
-    <li>Heligoland &#124; Massive Attack</li>
-    <li>{The Dark Side of the Moon, Wish You Were Here, The Wall, Meddle} &#124; Pink Floyd</li>
-    <li>Back to Black &#124; Amy Winehouse</li>
-    <li>{Holy Fire, What Went Down} &#124; Foals</li>
-    <li>Kintsugi &#124; Death Cab for Cutie</li>
-    <li>Random Access Memories &#124; Daft Punk</li>
-    <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
-    <li>Rumours &#124; Fleetwood Mac</li>
-</ul>
-</details>
-
-<details>
-<summary><b><span style="color:forestgreen;">Music</span> : Bands/Artists</b></summary>
-<ul style="font-size:14px">
-    <li>Too difficult to group, too numerous to name...</li>
-    <ul>
-        <li>Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, Talking Heads, ...</li>
-        <li>Nina Simone, Amy Winehouse, Otis Redding, Paolo Nutini, Hozier, Joni Mitchell, Bob Dylan, Benjamin Clementine, Van Morrison, ...</li>
-        <li>Radiohead, Jeff Buckley, Thom Yorke, Portishead, Tricky, ...</li>
-        <li>Bee Gees, Elton John, Stevie Wonder, David Bowie, Michael Jackson, ...</li>
-        <li>Massive Attack, Boards of Canada, Aphex Twin, Flying Lotus, Four Tet, ...</li>
-        <li>Wu Tang Clan, Eminem, Nas, MF Doom, Notorious BIG, Kanye West, Kendrick Lamar, Aesop Rock, ...</li>
-        <li>Linkin Park, Muse, Audioslave, IDLES, Foals, Gang of Youths, ...</li>
-        <li>Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...</li>
-        <li>...</li>
-    </ul>
-</ul>
-</details>
-
-<details>
-<summary><b><span style="color:forestgreen;">Music</span> : Songs &#9888;</b></summary>
-<ul style="font-size:14px">
-    <li>Armchairs &#124; Andrew Bird</li>
-    <li>Mookid &#124; Aphex Twin</li>
-    <li>I Wish I Knew How It Would Feel To Be Free &#124; Nina Simone</li>
-    <li>Instant Crush &#124; Daft Punk, Julian Casablancas</li>
-    <li>I Like It &#124; DeBarge</li>
-    <li>Don't Let the Sun Go Down On Me &#124; Elton John, George Michael</li>
-    <li>Late Night &#124; Foals</li>
-    <li>Grace &#124; Jeff Buckley</li>
-    <li>Lover, You Should've Come Over &#124; Jeff Buckley</li>
-    <li>She Has No Time &#124; Keane</li>
-    <li>How Much A Dollar Cost &#124; Kendrick Lamar</li>
-    <li>Try A Little Tenderness &#124; Otis Redding</li>
-    <li>Comfortably Numb &#124; Pink Floyd</li>
-    <li>Shine On You Crazy Diamond &#124; Pink Floyd</li>
-    <li>Everything In Its Right Place &#124; Radiohead</li>
-    <li>Pyramid Song &#124; Radiohead</li>
-    <li>Lately &#124; Stevie Wonder</li>
-    <li>Ocean &#124; John Butler</li>
-    <li>Paradise Circus &#124; Massive Attack</li>
-    <li>Glory Box &#124; Portishead</li>
-    <li>Where Is My Mind? &#124; Pixies</li>
-    <li>I Will Survive &#124; Gloria Gaynor</li>
-    <li>The Chain &#124; Fleetwood Mac</li>
-    <li>...</li>
 </ul>
 </details>
 
@@ -251,6 +189,71 @@ permalink: /lists/
 <!-- Tinker Tailor Soldier Spy -->
 <!-- Michael Clayton -->
 <!-- Training Day -->
+
+<details>
+<summary><b><span style="color:forestgreen;">Music</span> : Albums</b></summary>
+<ul style="font-size:14px">
+    <li>Grace &#124; Jeff Buckley</li>
+    <li>{Hopes & Fears, Under the Iron Sea} &#124; Keane</li>
+    <li>{The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} &#124; Radiohead</li>
+    <li>Heligoland &#124; Massive Attack</li>
+    <li>{The Dark Side of the Moon, Wish You Were Here, The Wall, Meddle} &#124; Pink Floyd</li>
+    <li>Back to Black &#124; Amy Winehouse</li>
+    <li>{Holy Fire, What Went Down} &#124; Foals</li>
+    <li>Kintsugi &#124; Death Cab for Cutie</li>
+    <li>Random Access Memories &#124; Daft Punk</li>
+    <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
+    <li>Rumours &#124; Fleetwood Mac</li>
+</ul>
+</details>
+
+<details>
+<summary><b><span style="color:forestgreen;">Music</span> : Bands/Artists</b></summary>
+<ul style="font-size:14px">
+    <li>Too difficult to group, too numerous to name...</li>
+    <ul>
+        <li>Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, Talking Heads, ...</li>
+        <li>Nina Simone, Amy Winehouse, Otis Redding, Paolo Nutini, Hozier, Joni Mitchell, Bob Dylan, Benjamin Clementine, Van Morrison, ...</li>
+        <li>Radiohead, Jeff Buckley, Thom Yorke, Portishead, Tricky, ...</li>
+        <li>Bee Gees, Elton John, Stevie Wonder, Supertramp, David Bowie, Michael Jackson, ...</li>
+        <li>Massive Attack, Brian Eno, Boards of Canada, Aphex Twin, Flying Lotus, Four Tet, ...</li>
+        <li>Wu Tang Clan, Eminem, Nas, MF Doom, Notorious BIG, Kanye West, Kendrick Lamar, Aesop Rock, ...</li>
+        <li>Linkin Park, Muse, Audioslave, IDLES, Foals, Gang of Youths, ...</li>
+        <li>Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...</li>
+        <li>...</li>
+    </ul>
+</ul>
+</details>
+
+<details>
+<summary><b><span style="color:forestgreen;">Music</span> : Songs &#9888;</b></summary>
+<ul style="font-size:14px">
+    <li>Armchairs &#124; Andrew Bird</li>
+    <li>Mookid &#124; Aphex Twin</li>
+    <li>I Wish I Knew How It Would Feel To Be Free &#124; Nina Simone</li>
+    <li>Instant Crush &#124; Daft Punk, Julian Casablancas</li>
+    <li>I Like It &#124; DeBarge</li>
+    <li>Don't Let the Sun Go Down On Me &#124; Elton John, George Michael</li>
+    <li>Late Night &#124; Foals</li>
+    <li>Grace &#124; Jeff Buckley</li>
+    <li>Lover, You Should've Come Over &#124; Jeff Buckley</li>
+    <li>She Has No Time &#124; Keane</li>
+    <li>How Much A Dollar Cost &#124; Kendrick Lamar</li>
+    <li>Try A Little Tenderness &#124; Otis Redding</li>
+    <li>Comfortably Numb &#124; Pink Floyd</li>
+    <li>Shine On You Crazy Diamond &#124; Pink Floyd</li>
+    <li>Everything In Its Right Place &#124; Radiohead</li>
+    <li>Pyramid Song &#124; Radiohead</li>
+    <li>Lately &#124; Stevie Wonder</li>
+    <li>Ocean &#124; John Butler</li>
+    <li>Paradise Circus &#124; Massive Attack</li>
+    <li>Glory Box &#124; Portishead</li>
+    <li>Where Is My Mind? &#124; Pixies</li>
+    <li>I Will Survive &#124; Gloria Gaynor</li>
+    <li>The Chain &#124; Fleetwood Mac</li>
+    <li>...</li>
+</ul>
+</details>
 
 <details>
 <summary><b><span style="color:blueviolet;">Podcasts/Radio</span></b></summary>

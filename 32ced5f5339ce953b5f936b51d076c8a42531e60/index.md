@@ -28,8 +28,9 @@ title: "Joe Choo-Choy"
     <a href="{{ site.resources_permalink }}">Resources</a><br>
     <a href="https://www.effectivealtruism.org/">Effective Altruism</a><br>
     <a href="{{ site.reel_permalink }}">Reel</a><br>
-    Notes on Formal Sciences<br>
-    Notes on Cognitive Sciences
+    <a href="{{ site.book_notes_permalink }}">Notes on Books</a><br>
+    <a href="{{ site.formal_science_notes_permalink }}">Notes on Formal Sciences</a><br>
+    <a href="{{ site.cognitive_science_notes_permalink }}">Notes on Cognitive Sciences</a>
     </p>
     <p style="font-size:14px;">
       This site is a work-in-progress.

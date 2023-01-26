@@ -13,7 +13,7 @@ permalink: /lists/
 <br>
 <br>
 
-Wilde famously called criticism "the record of one's own soul" and "the only civilised form of autobiography", and I have (less famously) thought of <i>lists of favourites</i> as the lowest and least civilised form of criticism. All told, I expect it's a wash, and only hope that what I have left below judged of no value whatsoever, but nothing less! Otherwise, I'm sure that the high-mindedness of Wilde is correct.
+<span style="font-size:14px">Wilde famously called criticism "the record of one's own soul" and "the only civilised form of autobiography", and I have (less famously) thought of <i>lists of favourites</i> as the lowest and least civilised form of criticism. All told, I expect it's a wash, and only hope that what I have left below judged of no value whatsoever, but nothing less! Otherwise, I'm sure that the high-mindedness of Wilde is correct.</span>
 
 <span style="font-size:14px;font-weight:bold">A few notes:</span>
 <ul>
@@ -194,16 +194,18 @@ Wilde famously called criticism "the record of one's own soul" and "the only civ
 <summary><b><span style="color:forestgreen;">Music</span> : Albums</b></summary>
 <ul style="font-size:14px">
     <li>Grace &#124; Jeff Buckley</li>
-    <li>{Hopes & Fears, Under the Iron Sea} &#124; Keane</li>
-    <li>{The Bends, OK Computer, Kid A, Amnesiac, I Might Be Wrong, Hail to the Thief, In Rainbows, A Moon Shaped Pool} &#124; Radiohead</li>
+    <li>Hopes & Fears &#124; Keane</li>
     <li>Heligoland &#124; Massive Attack</li>
-    <li>{The Dark Side of the Moon, Wish You Were Here, The Wall, Meddle} &#124; Pink Floyd</li>
+    <li>{OK Computer, Kid A, Amnesiac, Hail to the Thief, In Rainbows} &#124; Radiohead</li>
+    <li>Crawler &#124; IDLES</li>
+    <li>Rumours &#124; Fleetwood Mac</li>
+    <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
+    <li>Holy Fire &#124; Foals</li>
+    <li>{Wish You Were Here, The Wall} &#124; Pink Floyd</li>
     <li>Back to Black &#124; Amy Winehouse</li>
-    <li>{Holy Fire, What Went Down} &#124; Foals</li>
     <li>Kintsugi &#124; Death Cab for Cutie</li>
     <li>Random Access Memories &#124; Daft Punk</li>
-    <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
-    <li>Rumours &#124; Fleetwood Mac</li>
+    <li>...</li>
 </ul>
 </details>
 

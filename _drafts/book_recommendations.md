@@ -11,8 +11,6 @@ permalink: /book_recommendations/
 <br>
 <br>
 
-Wilde famously called criticism "the record of one's own soul" and "the only civilised form of autobiography", and I have (less famously) thought of <i>lists of favourites</i> as the lowest and least civilised form of criticism. All told, I expect it's a wash, and only hope that what I have left below judged of no value whatsoever, but nothing less! Otherwise, I'm sure that the high-mindedness of Wilde is correct.
-
 <span style="font-size:14px;font-weight:bold">A few notes:</span>
 <ul>
     <li style="font-size:14px">It's common for lists of favourites to basically just be lists of things people have consumed which <i>weren't shit</i>. I have tried to be selective here, but it's nonetheless clear to me that my selections are in some sense obvious given what I've seen. Hopefully, my more unusual inclusions will point people to good work they would not find otherwise and my more commonplace inclusions will remind people to keep exploring.</li>

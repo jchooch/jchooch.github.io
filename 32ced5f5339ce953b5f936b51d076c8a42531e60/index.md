@@ -20,20 +20,22 @@ title: "Joe Choo-Choy"
     </p>
     <p style="font-size:14px;">
     <a href="{{ site.about_permalink }}">About</a><br>
+    <a href="{{ site.blog_permalink }}">Blog</a><br>
+    <a href="https://www.effectivealtruism.org/">Effective Altruism</a><br>
     <a href="{{ site.lists_permalink }}">Lists</a><br>
+    <a href="{{ site.book_notes_permalink }}">Notes on Books</a><br>
+    <a href="{{ site.cognitive_science_notes_permalink }}">Notes on Cognitive Sciences</a>
+    <a href="{{ site.formal_science_notes_permalink }}">Notes on Formal Sciences</a><br>
+    <a href="{{ site.quotations_permalink }}">Quotations</a><br>
+    <a href="{{ site.reel_permalink }}">Reel</a><br>
+    <a href="{{ site.resources_permalink }}">Resources</a><br>
     <a href="{{ site.tracking_permalink }}">Tracking</a><br>
     <a href="{{ site.tidbytes_permalink }}">Tidbytes</a><br>
-    <a href="{{ site.blog_permalink }}">Blog</a><br>
-    <a href="{{ site.quotations_permalink }}">Quotations</a><br>
-    <a href="{{ site.resources_permalink }}">Resources</a><br>
-    <a href="https://www.effectivealtruism.org/">Effective Altruism</a><br>
-    <a href="{{ site.reel_permalink }}">Reel</a><br>
-    <a href="{{ site.book_notes_permalink }}">Notes on Books</a><br>
-    <a href="{{ site.formal_science_notes_permalink }}">Notes on Formal Sciences</a><br>
-    <a href="{{ site.cognitive_science_notes_permalink }}">Notes on Cognitive Sciences</a>
+    <a href="{{ site.wok_permalink }}">Wok</a>
     </p>
     <p style="font-size:14px;">
-      This site is a work-in-progress.
+      This site is a work-in-progress.<br>
+      Testing: <a href="{{ site.short_lived_permalink }}">Great Minds, Short Lived</a>.
     </p>
   </div>
 </div>

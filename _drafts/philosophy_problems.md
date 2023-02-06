@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Profound Problems in Formal Philosophy
-permalink: /philosophy-problems/
+permalink: /philosophy_problems/
 ---
 
 IN PROGRESS: Profound Problems in Formal Philosophy
@@ -13,7 +13,11 @@ For much the same reason that I find various topics in computer science, cogniti
 In the hope of igniting greater appreciation for – and attention to – philosophical investigation of such problems, I thought I'd share some of my favourites here. Many of these problems have analogues and consequences across multiple philosophical subfields. I hope they stimulate you as much as they do me, and that you are struck like me by their generality and broad import (in our connected [LINK TO POST ON CONSILIENCE] world).
 
 - Newcomblike problems and the difficulty of "causation".
+- Related: the meaning of counterfactuals (all of which are true on the classical conditional formulation) (may feed into other philosophical problems like the above).
 - Transformative experience and goal integrity.
 - Group belief aggregation (e.g. aggregate-then-update conflicts with update-then-aggregate).
 - Belief revision...?
 - Goal integrity...?
+- The frame problem...?
+- Gavagai...?
+- The problem of induction... statistical learning and AI alignment are related! 

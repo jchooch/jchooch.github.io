@@ -35,7 +35,7 @@ title: "Joe Choo-Choy"
     </p>
     <p style="font-size:14px;">
       This site is a work-in-progress.<br>
-      Testing: <a href="{{ site./drafts/short_lived/ }}">Great Minds, Short Lived</a>.
+      Testing: <a href="{{ site./_drafts/short_lived/ }}">Great Minds, Short Lived</a>.
     </p>
   </div>
 </div>

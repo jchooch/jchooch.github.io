@@ -9,7 +9,7 @@ permalink: /blog/short_lived/
 
 <figure>
 	<img src="/assets/shelley_funeral.jpg" alt="The Funeral of Shelley" height="400">
-	<figcaption style="font-size:12px;color-names:grey;">The Funeral of Shelley (1889), Louis Edouard Fournier</figcaption>
+	<figcaption style="font-size:12px;color:grey;"><i>The Funeral of Shelley (1889), Louis Edouard Fournier</i></figcaption>
 </figure>
 <br>
 

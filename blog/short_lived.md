@@ -9,8 +9,8 @@ permalink: /short_lived/
 <p style="font-size:16px" class="lead mb-4"><b>Joe Choo-Choy</b></p>
 
 <figure>
-	<img src="/assets/shelley_funeral.jpg" alt="The Funeral of Shelley" height="600">
-	<figcaption>The Funeral of Shelley (1889), Louis Edouard Fournier</figcaption>
+	<img src="/assets/shelley_funeral.jpg" alt="The Funeral of Shelley" height="400">
+	<figcaption style="font-size:12px;color-names:grey;">The Funeral of Shelley (1889), Louis Edouard Fournier</figcaption>
 </figure>
 
 <ul style="font-size:12px;">
@@ -61,7 +61,7 @@ permalink: /short_lived/
 	<li>John Cazale, 1935-1978 (42yo, cancer)</li>
 	<li>F. W. Murnau, 1888-1931 (42yo, road accident)</li>
 	<li>Frank Rosenblatt, 1928-1971 (43yo, boating accident)</li>
-	<li>Marvin Gaye, 1939-1984 (44yo, homicide \[voluntary manslaughter\])</li>
+	<li>Marvin Gaye, 1939-1984 (44yo, homicide [voluntary manslaughter])</li>
 	<li>James Agee, 1909-1955 (45yo, heart attack)</li>
 	<li>Freddie Mercury, 1946-1991 (45yo, AIDS complications)</li>
 	<li>Albert Camus, 1913-1960 (46yo, road accident)</li>

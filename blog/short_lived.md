@@ -1,17 +1,17 @@
 ---
 layout: default
 title: Great Minds, Short Lived
-permalink: /short_lived/
+permalink: /blog/short_lived/
 ---
 
 <h1 style="font-size:20px" class="mt-5" itemprop="name headline">{{ page.title | escape }}</h1>
-
-<p style="font-size:16px" class="lead mb-4"><b>Joe Choo-Choy</b></p>
+<span style="font-size:14px"><i><a href="https://jchooch.github.io/">Joe Choo-Choy</a></i></span>
 
 <figure>
 	<img src="/assets/shelley_funeral.jpg" alt="The Funeral of Shelley" height="400">
 	<figcaption style="font-size:12px;color-names:grey;">The Funeral of Shelley (1889), Louis Edouard Fournier</figcaption>
 </figure>
+<br>
 
 <ul style="font-size:12px;">
 	<li>Biggie Smalls, 1972-1997 (24yo, homicide)</li>
@@ -81,4 +81,6 @@ permalink: /short_lived/
 	<li>Virginia Woolf, 1882-1941 (59yo, suicide)</li>
 </ul>
 
+<!--
 Addendum: Oeuvrevory
+-->

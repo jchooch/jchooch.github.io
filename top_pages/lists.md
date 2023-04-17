@@ -218,7 +218,7 @@ permalink: /lists/
         <li>Nina Simone, Amy Winehouse, Otis Redding, Paolo Nutini, Hozier, Joni Mitchell, Bob Dylan, Benjamin Clementine, Van Morrison, ...</li>
         <li>Radiohead, Jeff Buckley, Thom Yorke, Portishead, Tricky, ...</li>
         <li>Bee Gees, Elton John, Stevie Wonder, Supertramp, David Bowie, Michael Jackson, ...</li>
-        <li>Massive Attack, Brian Eno, Boards of Canada, Aphex Twin, Flying Lotus, Four Tet, ...</li>
+        <li>Massive Attack, Brian Eno, Boards of Canada, Aphex Twin, Flying Lotus, Four Tet, Alt-J, ...</li>
         <li>Wu Tang Clan, Eminem, Nas, MF Doom, Notorious BIG, Kanye West, Kendrick Lamar, Aesop Rock, ...</li>
         <li>Linkin Park, Muse, Audioslave, IDLES, Foals, Gang of Youths, ...</li>
         <li>Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...</li>

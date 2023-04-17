@@ -71,6 +71,7 @@ permalink: /blog/short_lived/
 	<li>Oscar Wilde, 1854-1900 (46yo, meningitis)</li>
 	<li>David MacKay, 1967-2016 (48yo, cancer)</li>
 	<li>James Clerk Maxwell, 1831-1879 (48yo, cancer)</li>
+	<li>Douglas Adams, 1952-2001 (49yo, heart attack)</li>
 	<li>MF Doom, 1971-2020 (49yo, unannounced)</li>
 	<li>Sergei Eisenstein, 1898-1948 (50yo, heart attack)</li>
 	<li>Chris Cornell, 1964-2017 (52yo, suicide)</li>

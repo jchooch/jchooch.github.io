@@ -1,36 +1,31 @@
 {
-    "title": "The Big Picture",
-    "name": "startbootstrap-the-big-picture",
-    "version": "4.1.1",
-    "description": "A full page image background with fixed bottom navigation HTML template built with Bootstrap",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://startbootstrap.com/template-overviews/the-big-picture",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-the-big-picture/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-the-big-picture.git"
-    },
-    "dependencies": {
-        "bootstrap": "4.1.1",
-        "jquery": "3.3.1"
-    },
-    "devDependencies": {
-        "browser-sync": "2.24.5",
-        "gulp": "^3.9.1"
-    }
+  "name": "mvp-site",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "dev-host": "vite --host",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "better-react-mathjax": "^2.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2",
+    "sass": "^1.64.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "vite": "^4.4.5"
+  }
 }

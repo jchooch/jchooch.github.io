@@ -1,0 +1,30 @@
+@use "../../styles/mixins.scss" as *;
+
+.aside-box {
+    @include flexbox(row, space-between, normal);
+    background-color: aliceblue;
+    border: 1px solid lightskyblue;
+    border-radius: 1rem;
+    margin: 2rem 0;
+    padding: 1rem;
+
+    &__title {
+        margin-bottom: 0.5rem;
+    }
+}
+
+.toggle-collapse {
+    height: 2rem;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.toggle-expand {
+    height: 2rem;
+
+    &:hover {
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,16 @@
+@use "../../../styles/mixins.scss" as *;
+
+.home-main {
+    @include flexbox(row, left, normal);
+    flex-wrap: wrap;
+
+    &__photo {
+        width: 20rem;
+        border-radius: 3rem;
+        margin-right: 5rem;
+    }
+
+    &__welcome {
+        padding: 2rem 0;
+    }
+}

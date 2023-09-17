@@ -1,0 +1,78 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Palatino, serif;
+    font-size: 1.4rem;
+    font-weight: 400;
+    // margin: 3rem 5rem;
+    margin: 3rem auto;
+    width: 60vw;
+    // padding: 0 10vw;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+h3 {
+    font-size: 1.6rem;
+    font-weight: normal;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+ul {
+    padding-left: 1rem;
+}
+
+a:link,
+a:visited,
+a:active {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.inline-eq {
+    background-color: whitesmoke;
+    border: 0.1px solid lightgrey;
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+}
+
+.block-eq {
+    background-color: whitesmoke;
+    border: 0.1px solid lightgrey;
+    border-radius: 1rem;
+    line-height: 3rem;
+    margin: 0.5rem auto;
+    padding: 0 1rem;
+    text-align: center;
+    width: min-content;
+
+    & > mjx-container {
+        margin: 1rem 0.5rem !important;
+    }
+}

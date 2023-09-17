@@ -1,0 +1,16 @@
+.notes-list {
+
+    &__item {
+        list-style: square;
+
+        &--pinned {
+            list-style: none;
+            // padding-left: 1rem;
+            text-indent: -1.7rem;
+
+            &::before {
+                content: "📌  ";
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+@use "../../../styles/mixins.scss" as *;
+
+.about-main {
+    @include flexbox(row, left, normal);
+
+    &__photo {
+        height: 100%;
+        width: 20rem;
+        border-radius: 3rem;
+        margin-right: 5rem;
+    }
+
+    &__bio {
+        padding: 1rem 0 2rem 0;
+    }
+}

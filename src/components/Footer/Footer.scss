@@ -1,0 +1,31 @@
+@use "../../styles/mixins.scss" as *;
+
+.footer-list {
+    @include flexbox(row, left, normal);
+    margin: 3rem 1rem;
+	padding: 0;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+
+.footer-list a:link,
+.footer-list a:visited,
+.footer-list a:active {
+    color: gray;
+}
+
+.footer-card {
+	padding: 0;
+	margin: 0.5rem 1rem;
+
+    &__logo {
+        margin: 0;
+        padding: 0;
+        height: 1.8rem;
+        width: 1.8rem;
+    }
+
+    &--home {
+        color: gray
+    }
+}

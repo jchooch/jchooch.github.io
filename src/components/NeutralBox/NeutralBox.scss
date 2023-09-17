@@ -1,0 +1,60 @@
+@use "../../styles/mixins.scss" as *;
+
+.neutral-box {
+    @include flexbox(row, space-between, normal);
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 1rem;
+    margin: 2rem 0;
+    padding: 1rem;
+
+    &__title {
+        margin: 0;
+        margin-bottom: 0.5rem;
+        padding: 0;
+    }
+
+    > div > h2:first-of-type {
+        margin-top: 0;
+    }
+
+    &--web {
+        border: 1px solid #0074D9;
+    }
+
+    &--lit {
+        border: 1px solid #FF851B;
+    }
+
+    &--scr {
+        border: 1px solid #2ECC40;
+    }
+
+    &--mus {
+        border: 1px solid #FF4136;
+    }
+
+    &--pod {
+        border: 1px solid #B10DC9;
+    }
+
+    &--edu {
+        border: 1px solid #FFD700;
+    }
+}
+
+.toggle-collapse {
+    height: 2rem;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.toggle-expand {
+    height: 2rem;
+
+    &:hover {
+        cursor: pointer;
+    }
+}

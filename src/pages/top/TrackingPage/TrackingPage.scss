@@ -1,0 +1,50 @@
+@use "../../../styles/mixins.scss" as *;
+
+.tracking {
+    &-filtersbox {
+        @include flexbox(row, space-between, center);
+        background-color: #0074D9;
+        border-radius: 1rem;
+        padding: 0.5rem;
+    }
+
+    &-filters {
+        &-title {
+            @include no-space();
+            transform:rotate(-90deg);
+            -moz-transform:rotate(-90deg);
+            -webkit-transform:rotate(-90deg);
+        }
+    }
+
+    &-filter {
+        border: none;
+        border-radius: 1rem;
+        line-height: 3rem;
+        margin: 0.5rem 1rem;
+        width: 9rem;
+
+        &:hover {
+            cursor: pointer;
+        }
+
+        &--all {
+            color: #FF4136;
+            font-weight: bold;
+        }
+    }
+
+    &-results {
+        background-color: #7FDBFF;
+        border-radius: 1rem;
+        margin: 2rem 0;
+        padding: 1rem;
+    }
+
+    &-result {
+        background-color: #FFFFFF;
+        border-radius: 1rem;
+        margin: 1rem 0.5rem;
+        padding: 1rem;
+    }
+}

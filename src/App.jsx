@@ -15,7 +15,7 @@ import NoteProbabilityPage from "./pages/notes/NoteProbabilityPage";
 
 function App() {
   return (
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           {/* HOMEPAGE */}
           <Route path="/" element={<HomePage />} />
@@ -37,7 +37,7 @@ function App() {
           {/* NOT FOUND */}
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
   );
 }
 

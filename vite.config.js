@@ -6,3 +6,11 @@ export default defineConfig({
   base: "/", // this is correct. it allows for both local testing and hashrouting on gh pages
   plugins: [react()],
 });
+
+// module.exports = {
+//   root: './',
+//   build: {
+//       outDir: 'dist',
+//   },
+//   publicDir: 'assets'
+// }

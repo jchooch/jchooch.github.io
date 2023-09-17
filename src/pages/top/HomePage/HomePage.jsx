@@ -23,8 +23,6 @@ function HomePage() {
           <p>
             <Link to="/notes">Notes</Link>
           </p>
-          <p></p>
-          <a href="/Fleming.pdf">Fleming PDF</a>
           
           {/*   <p>
                   <Link to="/tracking">Tracking</Link>

@@ -23,7 +23,6 @@ function HomePage() {
           <p>
             <Link to="/notes">Notes</Link>
           </p>
-          
           {/*   <p>
                   <Link to="/tracking">Tracking</Link>
                 </p>

@@ -11,19 +11,13 @@ function NotesPage() {
             <main>
                 <ul className="notes-list">
                     <li className="notes-list__item notes-list__item--pinned">
-                        <Link to="">Example pinned note</Link>
-                    </li>
-                    <li className="notes-list__item notes-list__item--pinned">
                         <Link to="/notes/recommendations">Recommendations</Link>
                     </li>
-                    <li className="notes-list__item notes-list__item--pinned">
-                        <Link to="/notes/template">Note template</Link>
-                    </li>
-                    <li className="notes-list__item">
+                    {/* <li className="notes-list__item">
                         <Link to="/notes/probability">Probability Distributions</Link>
-                    </li>
+                    </li> */}
                     <li className="notes-list__item">
-                        <Link to="">Example unpinned note</Link>
+                        <Link to="/notes/template">Note template</Link>
                     </li>
                 </ul>
             </main>

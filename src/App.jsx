@@ -11,12 +11,15 @@ import NoteTemplatePage from "./pages/notes/NoteTemplatePage";
 import NoteRecommendationsPage from "./pages/notes/NoteRecommendationsPage";
 import NotFoundPage from "./pages/top/NotFoundPage/NotFoundPage";
 
+import BlogWritingToDoPage from "./pages/blogs/BlogWritingToDoPage";
+import BlogInventionPerfectionPage from "./pages/blogs/BlogInventionPerfectionPage";
+
 import NoteProbabilityPage from "./pages/notes/NoteProbabilityPage";
 
 function App() {
 
-  const pwNumbers = [99, 104, 48, 48, 99, 104, 107, 33, 105, 116, 104, 38, 107, 33, 110];
-  const pwString = pwNumbers.map(code => String.fromCharCode(code)).join("");
+  // const pwNumbers = [99, 104, 48, 48, 99, 104, 107, 33, 105, 116, 104, 38, 107, 33, 110];
+  // const pwString = pwNumbers.map(code => String.fromCharCode(code)).join("");
 
   return (
       <HashRouter>
@@ -32,6 +35,8 @@ function App() {
 
           {/* BLOGS */}
           <Route path="/blogs/template" element={<BlogTemplatePage />} />
+          <Route path="/blogs/writing-to-do" element={<BlogWritingToDoPage />} />
+          <Route path="/blogs/invention-and-perfection" element={<BlogInventionPerfectionPage />} />
 
           {/* NOTES */}
           <Route path="/notes/template" element={<NoteTemplatePage />} />

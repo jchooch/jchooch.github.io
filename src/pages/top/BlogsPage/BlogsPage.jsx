@@ -12,12 +12,12 @@ function BlogsPage() {
                 <ul className="blogs-list">
                     <li className="blogs-list__month">Drafts</li>
                     <ul>
-                        <li>0000-00-00: <Link to="">Invention and Perfection</Link></li>
+                        <li>0000-00-00: <Link to="">TODO</Link></li>
+                        <li>0000-00-00: <Link to="/blogs/invention-and-perfection">Art I: Invention and Perfection</Link></li>
                     </ul>
-                    <li className="blogs-list__month">July 2023</li>
+                    <li className="blogs-list__month">September 2023</li>
                     <ul>
-                        <li>Test</li>
-                        <li>Test</li>
+                        <li>0000-00-00: <Link to="/blogs/writing-to-do">Writing To Do</Link></li>
                     </ul>
                     <li className="blogs-list__month">April 2023</li>
                     <ul>

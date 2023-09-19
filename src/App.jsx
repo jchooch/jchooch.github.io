@@ -14,6 +14,10 @@ import NotFoundPage from "./pages/top/NotFoundPage/NotFoundPage";
 import NoteProbabilityPage from "./pages/notes/NoteProbabilityPage";
 
 function App() {
+
+  const pwNumbers = [99, 104, 48, 48, 99, 104, 107, 33, 105, 116, 104, 38, 107, 33, 110];
+  const pwString = pwNumbers.map(code => String.fromCharCode(code)).join("");
+
   return (
       <HashRouter>
         <Routes>

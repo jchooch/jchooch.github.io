@@ -417,44 +417,55 @@ function NoteRecommendationsPage() {
                     </ul>
                 </NeutralBox> */}
 
-                {/* <NeutralBox recCat={"mus"}>
+                <NeutralBox recCat={"mus"}>
                     <h2><span style={{color:"#FF4136"}}>Music</span>: Albums</h2>
                     <ul>
-                        <li>BEATLES</li>
-                        <li>LED ZEPPELIN</li>
-                        <li>GO THROUGH FAVOURITE ARTISTS!</li>
-                        <li>JAZZ? MINGUS? BLUES? KIND OF BLUE?</li>
-                        <li>&#123; OK Computer, Kid Amnesiae, Hail to the Thief, In Rainbows, A Moon Shaped Pool &#125; &#124; Radiohead</li>
+                        <li>&#123; OK Computer OKNOTOK, Kid Amnesiae, Hail to the Thief, In Rainbows, A Moon Shaped Pool &#125; &#124; Radiohead</li>
+                        <ul>
+                            <li>OKNOTOK and Kid Amnesiae are cheating, I know... but I can't resist.</li>
+                        </ul>
                         <li>Grace &#124; Jeff Buckley</li>
-                        <li>Kintsugi &#124; Death Cab for Cutie</li>
-                        <li>Crawler &#124; IDLES</li>
-                        <li>To Pimp A Butterfly &#124; Kendrick Lamar</li>
-                        <li>Remain in Light &#124; Talking Heads</li>
-                        <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
                         <li>Hopes & Fears &#124; Keane</li>
-                        <li>Random Access Memories &#124; Daft Punk</li>
-                        <li>Holy Fire &#124; Foals</li>
-                        <li>&#123; The Wall, Wish You Were Here, The Dark Side of the Moon &#125; &#124; Pink Floyd</li>
+                        <li>&#123; Remain in Light, Speaking in Tongues &#125; &#124; Talking Heads</li>
+                        <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
                         <li>Back to Black &#124; Amy Winehouse</li>
-                        <li>Rumours &#124; Fleetwood Mac</li>
+                        <li>IV &#124; Led Zeppelin</li>
                         <li>&#123; Heligoland, Ritual Spirit &#125; &#124; Massive Attack</li>
+                        <li>&#123; The Wall, Wish You Were Here, The Dark Side of the Moon &#125; &#124; Pink Floyd</li>
+                        <li>&#123; Crawler, Joy as an Act of Resistance. &#125; &#124; IDLES</li>
+                        <li>Holy Fire &#124; Foals</li>
+                        <li>An Awesome Wave &#124; Alt-J</li>
+                        <li>Caustic Love &#124; Paolo Nutini</li>
+                        <li>I Put A Spell On You &#124; Nina Simone</li>
+                        <li>&#123; The Eminem Show, Recovery &#125; &#124; Eminem</li>
+                        <li>&#123; Hunky Dory, Blackstar &#125; &#124; David Bowie</li>
+                        <li>&#123; Breakfast in America, Crime of the Century &#125; &#124; Supertramp</li>
+                        <li>...</li>
+                        {/* <li><i>Tame Impala? Floating Points? Beatles? Mingus? Davis?</i></li>
+                        <li>Doolittle &#124; Pixies</li>
+                        <li>&#123; Complete and Unbelievable, The Dock of the Bay &#125; &#124; Otis Redding</li>
+                        <li>To Pimp A Butterfly &#124; Kendrick Lamar</li>
+                        <li>Random Access Memories &#124; Daft Punk</li>
+                        <li>Kintsugi &#124; Death Cab for Cutie</li>
+                        <li>Rumours &#124; Fleetwood Mac</li>
+                        <li>Mingus Mingus Mingus Mingus Mingus &#124; Charles Mingus</li>
+                        <li>&#123; ...I Care Because You Do, Drukqs &#125; &#124; Aphex Twin</li> */}
                     </ul>
-                </NeutralBox> */}
+                </NeutralBox>
 
                 <NeutralBox recCat={"mus"}>
                     <h2><span style={{color:"#FF4136"}}>Music</span>: Artists</h2>
                     <ul>
-                        <li>Very, very difficult.</li>
+                        <li>Very, very, very difficult.</li>
                         <ul>
-                            <li>Pink Floyd, The Beatles, The Rolling Stones, Led Zeppelin, Queen, Talking Heads, ...</li>
+                            <li>Pink Floyd, The Beatles, Led Zeppelin, Queen, Talking Heads, ...</li>
                             <li>Nina Simone, Amy Winehouse, Otis Redding, Paolo Nutini, Hozier, Joni Mitchell, Van Morrison, ...</li>
-                            <li>Radiohead, Jeff Buckley, Thom Yorke, Portishead, Alt-J, Tricky, ...</li>
+                            <li>Radiohead, Jeff Buckley, Thom Yorke, Portishead, Tricky, Alt-J, ...</li>
                             <li>Bee Gees, Elton John, Stevie Wonder, Supertramp, David Bowie, Michael Jackson, ...</li>
-                            <li>Massive Attack, Brian Eno, Aphex Twin, Flying Lotus, Four Tet, ...</li>
+                            <li>Massive Attack, Brian Eno, Aphex Twin, Flying Lotus, Tame Impala, Floating Points, Four Tet, ...</li>
                             <li>Wu Tang Clan, Eminem, Nas, MF Doom, Notorious BIG, Kanye West, Kendrick Lamar, Aesop Rock, ...</li>
-                            <li>Linkin Park, Audioslave, IDLES, Foals, Gang of Youth, ...</li>
+                            <li>Linkin Park, Audioslave, IDLES, Foals, Gang of Youths, ...</li>
                             <li>Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...</li>
-                            <li>...</li>
                         </ul>
                     </ul>
                 </NeutralBox>

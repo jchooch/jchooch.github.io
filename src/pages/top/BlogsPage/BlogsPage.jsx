@@ -13,15 +13,17 @@ function BlogsPage() {
                     <li className="blogs-list__month">Drafts</li>
                     <ul>
                         <li>0000-00-00: <Link to="">TODO</Link></li>
-                        <li>0000-00-00: <Link to="/blogs/invention-and-perfection">Art I: Invention and Perfection</Link></li>
+                        <li>0000-00-00: <Link to="">Art III: Power and Popularity</Link></li>
+                        <li>0000-00-00: <Link to="">Art II: Beauty and Axiology</Link></li>
                     </ul>
                     <li className="blogs-list__month">September 2023</li>
                     <ul>
-                        <li>0000-00-00: <Link to="/blogs/writing-to-do">Writing To Do</Link></li>
+                        <li>2023-09-20: <Link to="/blogs/great-minds-short-lived">Great Minds, Short Lived</Link></li>
+                        <li>2023-09-19: <Link to="/blogs/invention-and-perfection">Art I: Invention and Perfection</Link></li>
+                        <li>2023-09-10: <Link to="/blogs/writing-to-do">Writing To Do</Link></li>
                     </ul>
                     <li className="blogs-list__month">April 2023</li>
                     <ul>
-                        <li>2023-04-18: <Link to="">Great Minds, Short Lived</Link></li>
                         <li>2023-04-17: <Link to="/blogs/template">Template</Link></li>
                     </ul>
                 </ul>

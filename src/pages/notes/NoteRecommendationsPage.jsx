@@ -318,37 +318,68 @@ function NoteRecommendationsPage() {
                     </ul>
                 </NeutralBox>
 
-                {/* <NeutralBox recCat={"scr"}>
+                <NeutralBox recCat={"scr"}>
                     <h2><span style={{color:"#2ECC40"}}>Screen</span>: Films</h2>
                     <ul>
-                        <li>SAFDIE BROTHERS?</li>
-                        <li>HORROR? ARI ASTER? THE WITCH? THE LIGHTHOUSE? MIDSOMMAR?</li>
                         <li>&#123; 2001: A Space Odyssey, Dr. Strangelove, Barry Lyndon &#125; &#124; Stanley Kubrick</li>
                         <li>&#123; There Will Be Blood, Phantom Thread, Punch-Drunk Love &#125; &#124; Paul Thomas Anderson</li>
                         <li>&#123; The Thin Red Line, The Tree of Life, A Hidden Life &#125; &#124; Terrence Malick</li>
                         <li>&#123; Rear Window, North by Northwest &#125; &#124; Alfred Hitchcock</li>
-                        <li>Her &#124; Spike Jonze</li>
-                        <li>&#123; In Bruges, Three Billboards Outside Ebbing, Missouri &#125; &#124; Martin McDonagh</li>
-                        <li>&#123; Calvary, The Forgiven &#125; &#124; John Michael McDonagh</li>
+                        <li>&#123; In Bruges; Three Billboards Outside Ebbing, Missouri &#125; &#124; Martin McDonagh</li>
+                        <ul>
+                            <li>Related, and fantastic: &#123; Calvary, The Forgiven &#125; &#124; John Michael McDonagh</li>
+                        </ul>
                         <li>Eternal Sunshine of the Spotless Mind &#124; Michel Gondry</li>
                         <li>Parasite &#124; Bong Joon-ho</li>
-                        <li>&#123; Reservoir Dogs, Pulp Fiction, Inglourious Basterds, Once Upon A Time In Hollywood &125; &#124; Quentin Tarantino</li>
                         <li>Synecdoche, New York &#124; Charlie Kaufman</li>
-                        <li>Brazil &#124; Terry Gilliam</li>
+                        <li>&#123; Reservoir Dogs, Pulp Fiction, Inglourious Basterds, Once Upon A Time In Hollywood &#125; &#124; Quentin Tarantino</li>
                         <li>Singin' in the Rain &#124; Gene Kelly, Stanley Donen</li>
                         <li>The Matrix &#124; The Wachowskis</li>
                         <li>Citizen Kane &#124; Orson Welles</li>
                         <li>&#123; The Godfather (I, II), Apocalypse Now (Final Cut) &#125; &#124; Francis Ford Coppola</li>
-                        <li>8 1/2 &#124; Federico Fellini</li>
                         <li>&#123; Memento, Inception, Dunkirk &#125; &#124; Christopher Nolan</li>
                         <li>The Grand Budapest Hotel, The French Dispatch &#124; Wes Anderson</li>
-                        <li>The Revenant &#124; Alejandro Iñárritu</li>
-                        <li>Prisoners &#124; Denis Villeneuve</li>
-                        <li>&#123; Fargo, No Country for Old Men &#125; &#124; Coen Brothers</li>
-                        <li>&#123; Mean Streets, Taxi Driver, Raging Bull, Gangs of New York, The Departed, Goodfellas &#125; &#124; Martin Scorsese</li>
+                        <li>Brazil &#124; Terry Gilliam</li>
+                        <li>Her &#124; Spike Jonze</li>
+                        <li>&#123; Ikiru, Seven Samurai, Throne of Blood &#125; &#124; Akira Kurosawa</li>
+                        <li>8 1/2 &#124; Federico Fellini</li>
+                        <li>&#123; Aguirre, Wrath of God; Fitzcarraldo &#125; &#124; Werner Herzog</li>
                         <li>The Apartment &#124; Billy Wilder</li>
+                        <li>The Revenant &#124; Alejandro Iñárritu</li>
+                        <li>&#123; Prisoners &#125; &#124; Denis Villeneuve</li>
+                        <li>&#123; Fargo, No Country for Old Men &#125; &#124; Coen Brothers</li>
+                        <li>Once Upon A Time in the West &#124; Sergio Leone</li>
+                        {/* The Big Lebowski? ^ */}
+                        <li>&#123; Mean Streets, Taxi Driver, Raging Bull, Gangs of New York, The Departed, Goodfellas &#125; &#124; Martin Scorsese</li>
+                        {/* <li>Drive &#124; Nicolas Winding Refn</li> */}
+                        <li>...</li>
+                        {/* David Lynch? Blue Velvet, Mulholland Drive, Eraserhead */}
+                        {/* Bergman's Persona? */}
+                        {/* Moonlight? */}
+                        {/* The Third Man? */}
+                        {/* The General? */}
+                        {/* Documentaries? Touching the Void */}
+                        {/* Mad Max: Fury Road? */}
+                        {/* Paisan? */}
+                        {/* Get Out? */}
+                        {/* Duck Soup? */}
+                        {/* The Deer Hunter? */}
+                        {/* Double Indemnity? */}
+                        {/* Ran? */}
+                        {/* Metropolis? */}
+                        {/* Heat? Collateral? */}
+                        {/* Sunset Blvd.? */}
+                        {/* The Good, the Bad and the Ugly? The Dollars Trilogy? */}
+                        {/* La Grande Illusion? */}
+                        {/* Lawrence of Arabia? */}
+                        {/* La dolce vita? */}
+                        {/* Some Like It Hot? */}
+                        {/* Ridley Scott? Blade Runner? */}
+                        {/* The 400 Blows? Bicycle Thieves? */}
+                        {/* <li>SAFDIE BROTHERS?</li> */}
+                        {/* <li>HORROR? ARI ASTER? THE WITCH? THE LIGHTHOUSE? MIDSOMMAR?</li>              */}
                     </ul>
-                </NeutralBox> */}
+                </NeutralBox>
 
                 {/* <NeutralBox recCat={"scr"}>
                     <h2><span style={{color:"#2ECC40"}}>Screen</span>: Serials</h2>
@@ -465,7 +496,7 @@ function NoteRecommendationsPage() {
                             <li>Massive Attack, Brian Eno, Aphex Twin, Flying Lotus, Tame Impala, Floating Points, Four Tet, ...</li>
                             <li>Wu Tang Clan, Eminem, Nas, MF Doom, Notorious BIG, Kanye West, Kendrick Lamar, Aesop Rock, ...</li>
                             <li>Linkin Park, Audioslave, IDLES, Foals, Gang of Youths, ...</li>
-                            <li>Arctic Monkeys, Red Hot Chili Peppers, Keane, Young Fathers, ...</li>
+                            <li>Arctic Monkeys, Elbow, Red Hot Chili Peppers, Keane, Young Fathers, ...</li>
                         </ul>
                     </ul>
                 </NeutralBox>

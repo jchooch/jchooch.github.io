@@ -1,0 +1,157 @@
+@use "../../../styles/mixins.scss" as *;
+
+$dark-blue: #38598b;
+$off-white: #faf9f6;
+
+$end-padding: 1rem;
+$side-padding: 2rem;
+
+main {
+  color: #233142;
+}
+
+h1 {
+  margin-bottom: 2rem;
+}
+
+h2,
+h3 {
+  margin: 0;
+}
+
+.download-btn {
+  margin: 1rem 0 2rem 0;
+  padding: 1rem;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.cv {
+  background-color: $off-white;
+  border: 1px solid $dark-blue;
+  //   border-radius: 1rem;
+  font-size: 1.3rem;
+  min-width: 55rem;
+  padding: 2rem 0;
+}
+
+.top {
+  padding: $end-padding $side-padding;
+
+  &__header {
+    @include flexbox(row, space-between, center);
+
+    & > .pod {
+      margin-top: -2rem;
+    }
+  }
+}
+
+.pod {
+  background-color: $dark-blue;
+  border-radius: 1rem;
+  color: $off-white;
+  display: inline-block;
+  font-size: 1.2rem;
+  margin: 0.2rem 0;
+  padding: 0.4rem 0.8rem;
+}
+
+.loci {
+  @include flexbox(row, space-evenly, center);
+  background-color: $dark-blue;
+  color: $off-white;
+  margin: 1rem 0;
+  padding: 0.5rem $side-padding 0 $side-padding;
+}
+
+.locus {
+  @include flexbox(row, center, center);
+  padding: 0 0.2rem 0.5rem 0.2rem;
+
+  &__icon {
+    height: 2rem;
+    margin-left: 0.5rem;
+  }
+}
+
+.skills {
+  padding: $end-padding $side-padding;
+
+  &__level {
+    border: 0.5px solid lightgray;
+    border-radius: 1rem;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    // width: max-content;
+
+    &-top {
+      @include flexbox(row, space-between, center);
+    }
+  }
+}
+
+.level-text {
+  display: inline-block;
+}
+
+.bar {
+  background-color: #e8e8e8;
+  border-radius: 1rem;
+  display: inline-block;
+  height: 1rem;
+  margin: 0 1rem;
+  width: 10rem;
+
+  &__progress {
+    border-radius: 1rem;
+    height: 1rem;
+
+    &--low {
+      background-color: #db7b2b;
+      width: 2.5rem;
+    }
+
+    &--med {
+      background-color: #e7b416;
+      width: 5rem;
+    }
+
+    &--high {
+      background-color: #99c140;
+      width: 7.5rem;
+    }
+  }
+}
+
+.experience {
+  padding: $end-padding $side-padding;
+}
+
+.education {
+  padding: $end-padding $side-padding;
+}
+
+.publications {
+  padding: $end-padding $side-padding;
+}
+
+.volunteering {
+  padding: $end-padding $side-padding;
+}
+
+.scrap {
+  padding: $end-padding $side-padding;
+}
+
+// .endnote {
+//     color: silver;
+//     display: block;
+//     font-size: 1.1rem;
+//     margin-bottom: -1.5rem;
+//     margin-right: 0.5rem;
+//     padding: 0;
+//     text-align: right;
+// }

@@ -4,17 +4,17 @@ import linkedinIcon from "../../assets/footer/linkedin.png";
 import githubIcon from "../../assets/footer/github.png";
 import twitterIcon from "../../assets/footer/twitter.png";
 import cvIcon from "../../assets/footer/cv.png";
+import { Link } from "react-router-dom";
 import "./Footer.scss";
 
-function Footer({ thisPage }) {
-
+function Footer({ home }) {
   return (
     <>
       <ul className="footer-list">
-        {thisPage === "home" && (
+        {home && (
           <li className="footer-card footer-card--home">
             <img src={homeIcon} alt="home" className="footer-card__logo" />{" "}
-            UK
+            London, UK
           </li>
         )}
         <li className="footer-card">
@@ -49,11 +49,13 @@ function Footer({ thisPage }) {
             joechoochoy
           </a>
         </li>
-        <li className="footer-card">
-          <a href="../../assets/cv.pdf">
-            <img src={cvIcon} alt="cv" className="footer-card__logo" /> CV
-          </a>
-        </li>
+        {home && (
+          <li className="footer-card">
+            <Link to="/cv">
+              <img src={cvIcon} alt="cv" className="footer-card__logo" /> CV
+            </Link>
+          </li>
+        )}
       </ul>
     </>
   );

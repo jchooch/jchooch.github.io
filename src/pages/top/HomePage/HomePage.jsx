@@ -37,7 +37,7 @@ function HomePage() {
         </div>
       </main>
 
-      <Footer thisPage={"home"} />
+      <Footer home={true} />
     </>
   );
 }

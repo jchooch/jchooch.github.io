@@ -5,6 +5,7 @@ import HomePage from "./pages/top/HomePage/HomePage";
 import AboutPage from "./pages/top/AboutPage/AboutPage";
 import BlogsPage from "./pages/top/BlogsPage/BlogsPage";
 import NotesPage from "./pages/top/NotesPage/NotesPage";
+import CVPage from "./pages/top/CVPage/CVPage";
 import TrackingPage from "./pages/top/TrackingPage/TrackingPage";
 import BlogTemplatePage from "./pages/blogs/BlogTemplatePage";
 import NoteTemplatePage from "./pages/notes/NoteTemplatePage";
@@ -31,6 +32,7 @@ function App() {
           <Route path="/about" element={<AboutPage />} />
           <Route path="/blogs" element={<BlogsPage />} />
           <Route path="/notes" element={<NotesPage />} />
+          <Route path="/cv" element={<CVPage />} />
           {/* <Route path="/tracking" element={<TrackingPage />} /> */}
 
           {/* BLOGS */}

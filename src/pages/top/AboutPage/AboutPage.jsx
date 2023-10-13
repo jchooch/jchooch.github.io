@@ -12,7 +12,8 @@ function AboutPage() {
       <main className="about-main">
         <img src={aboutPhoto} class="about-main__photo" alt="joe" />
         <div className="about-main__bio">
-          <p>Hi, you've found my place on the web.</p>
+          <p>TBD...</p>
+          {/* <p>Hi, you've found my place on the web.</p>
           <br />
           <p>
             This is primarily supposed to be a place for me to develop my
@@ -62,11 +63,11 @@ function AboutPage() {
             Besides my academic interests, I also love rock/alpine climbing and
             jiu jitsu, literature of all sorts, comedy, film, and all the usual
             good things in life.
-          </p>
+          </p> */}
         </div>
       </main>
 
-      <Footer />
+      <Footer home={true}/>
     </>
   );
 }

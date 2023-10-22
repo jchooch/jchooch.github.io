@@ -13,14 +13,11 @@ function CVPage() {
       <Header thisTitle={"CV"} />
 
       <main>
+        <a href="/cv.pdf">
         <button
           className="download-btn"
-          onClick={() => {
-            console.log("Tried to download PDF.");
-          }}
-        >
-          Download PDF
-        </button>
+        >Download PDF</button>
+        </a>
 
         <section className="cv">
           <div className="top">

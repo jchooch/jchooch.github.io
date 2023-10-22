@@ -16,6 +16,7 @@ import BlogWritingToDoPage from "./pages/blogs/BlogWritingToDoPage";
 import BlogInventionPerfectionPage from "./pages/blogs/BlogInventionPerfectionPage";
 
 import NoteProbabilityPage from "./pages/notes/NoteProbabilityPage";
+import NoteCognitiveScienceMemorandaPage from "./pages/notes/NoteCognitiveScienceMemorandaPage/NoteCognitiveScienceMemorandaPage";
 
 function App() {
 
@@ -44,6 +45,7 @@ function App() {
           <Route path="/notes/template" element={<NoteTemplatePage />} />
           <Route path="/notes/probability" element={<NoteProbabilityPage />} />
           <Route path="/notes/recommendations" element={<NoteRecommendationsPage />} />
+          <Route path="/notes/cognitive-science-memoranda" element={<NoteCognitiveScienceMemorandaPage />} />
 
           {/* NOT FOUND */}
           <Route path="*" element={<NotFoundPage />} />

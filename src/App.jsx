@@ -14,9 +14,16 @@ import NotFoundPage from "./pages/top/NotFoundPage/NotFoundPage";
 
 import BlogWritingToDoPage from "./pages/blogs/BlogWritingToDoPage";
 import BlogInventionPerfectionPage from "./pages/blogs/BlogInventionPerfectionPage";
+import BlogHumanismPage from "./pages/blogs/BlogHumanismPage";
+import BlogLovePoetryPage from "./pages/blogs/BlogLovePoetryPage";
 
+import NoteFavouriteLyricsPage from "./pages/notes/NoteFavouriteLyricsPage";
 import NoteProbabilityPage from "./pages/notes/NoteProbabilityPage";
 import NoteCognitiveScienceMemorandaPage from "./pages/notes/NoteCognitiveScienceMemorandaPage/NoteCognitiveScienceMemorandaPage";
+import NoteRecentPaperReadingPage from "./pages/notes/NoteRecentPaperReadingPage";
+import NotePaperNotesPage from "./pages/notes/NotePaperNotesPage";
+import NoteBJJResourcesPage from "./pages/notes/NoteBJJResourcesPage";
+import NoteFavouriteImagesPage from "./pages/notes/NoteFavouriteImagesPage";
 
 function App() {
 
@@ -40,13 +47,20 @@ function App() {
           <Route path="/blogs/template" element={<BlogTemplatePage />} />
           <Route path="/blogs/writing-to-do" element={<BlogWritingToDoPage />} />
           <Route path="/blogs/invention-and-perfection" element={<BlogInventionPerfectionPage />} />
+          <Route path="/blogs/humanism" element={<BlogHumanismPage />} />
+          <Route path="/blogs/love-poetry" element={<BlogLovePoetryPage />} />
 
           {/* NOTES */}
           <Route path="/notes/template" element={<NoteTemplatePage />} />
           <Route path="/notes/probability" element={<NoteProbabilityPage />} />
           <Route path="/notes/recommendations" element={<NoteRecommendationsPage />} />
           <Route path="/notes/cognitive-science-memoranda" element={<NoteCognitiveScienceMemorandaPage />} />
-
+          <Route path="/notes/recent-paper-reading" element={<NoteRecentPaperReadingPage />} />
+          <Route path="/notes/paper-notes" element={<NotePaperNotesPage />} />
+          <Route path="/notes/favourite-images" element={<NoteFavouriteImagesPage />} />
+          <Route path="/notes/bjj-resources" element={<NoteBJJResourcesPage />} />
+          <Route path="/notes/favourite-lyrics" element={<NoteFavouriteLyricsPage />} />
+          
           {/* NOT FOUND */}
           <Route path="*" element={<NotFoundPage />} />
         </Routes>

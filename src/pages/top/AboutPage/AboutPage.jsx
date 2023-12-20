@@ -3,8 +3,19 @@ import aboutPhoto from "../../../assets/joe.jpeg";
 import Header from "../../../components/Header/Header";
 import Footer from "../../../components/Footer/Footer";
 import "./AboutPage.scss";
+import blueBelt from "../../../assets/icons/blue-belt.svg";
+import carabiner from "../../../assets/icons/carabiner.png";
 
 function AboutPage() {
+  const blueBeltStyle = {
+    height: "2.5rem",
+    margin: "25rem 0 0 0"
+  }
+  const carabinerStyle = {
+    height: "2.5rem",
+    margin: "25rem 0 0 1rem"
+  }
+
   return (
     <>
       <Header thisTitle={"About"} />
@@ -64,6 +75,8 @@ function AboutPage() {
             jiu jitsu, literature of all sorts, comedy, film, and all the usual
             good things in life.
           </p> */}
+          <img style={blueBeltStyle} src={blueBelt} />
+          <img style={carabinerStyle} src={carabiner} />
         </div>
       </main>
 

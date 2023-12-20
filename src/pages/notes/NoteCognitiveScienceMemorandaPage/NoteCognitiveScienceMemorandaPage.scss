@@ -3,6 +3,14 @@ ol > ol {
 }
 
 h1:nth-child(n+2) {
-    margin-top: 4rem;
+    margin-top: 0.5rem;
     margin-bottom: 1rem;
+}
+
+.horizontal-line {
+    background-color: #000000;
+    height: 1px;
+    margin: 3rem 0 0 0;
+    padding: 0;
+    width: 100%;
 }

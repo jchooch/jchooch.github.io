@@ -1,6 +1,7 @@
 {
   "name": "mvp-site",
   "private": true,
+  "proxy": "https://accounts.spotify.com",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -15,10 +16,15 @@
   },
   "dependencies": {
     "@react-pdf/renderer": "^3.1.13",
+    "axios": "^1.6.2",
     "better-react-mathjax": "^2.0.2",
+    "buffer": "^6.0.3",
     "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.1",
+    "qs": "^6.11.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.2",

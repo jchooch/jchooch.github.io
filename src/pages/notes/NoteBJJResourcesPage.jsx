@@ -1,6 +1,5 @@
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
-import { MathJaxContext, MathJax } from "better-react-mathjax";
 import youtubeIcon from "../../assets/icons/youtube.png";
 import bjjFanaticsIcon from "../../assets/icons/bjj-fanatics.png";
 
@@ -18,8 +17,11 @@ function NoteBJJResourcesPage() {
   };
 
   return (
-    <MathJaxContext>
-      <Header thisTitle={"Brazilian Jiu-Jitsu Resources"} returnDestination={"Notes"} />
+    <>
+      <Header
+        thisTitle={"Brazilian Jiu-Jitsu Resources"}
+        returnDestination={"Notes"}
+      />
 
       <main>
         <p style={{ color: "grey" }}>–– Last Updated: 2023-12-05 ––</p>
@@ -279,7 +281,7 @@ function NoteBJJResourcesPage() {
       </main>
 
       <Footer />
-    </MathJaxContext>
+    </>
   );
 }
 

@@ -11,10 +11,4 @@ This is the README for the MVP personal website I will create with Vite, React, 
 
 # TODO
 
-- [ ] Clean up Blogs page
-- [ ] Clean up Notes page
-- [ ] Add Short Lived blog
-- [ ] Add 
-- [ ] Update About page
-- [ ] Clean up Recommendations note
 - ...

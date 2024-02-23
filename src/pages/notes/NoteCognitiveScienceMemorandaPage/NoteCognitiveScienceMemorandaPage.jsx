@@ -1,6 +1,8 @@
 import Header from "../../../components/Header/Header";
 import Footer from "../../../components/Footer/Footer";
-import { MathJaxContext, MathJax } from "better-react-mathjax";
+import { MathJax, MathJaxContext } from "better-react-mathjax";
+import InMath from "../../../components/InMath/InMath";
+import OutMath from "../../../components/OutMath/OutMath";
 import MetaBox from "../../../components/MetaBox/MetaBox";
 import { HashLink } from "react-router-hash-link";
 import "./NoteCognitiveScienceMemorandaPage.scss";
@@ -42,12 +44,12 @@ function NoteCognitiveScienceMemorandaPage() {
             (So-Called) <HashLink to="#ai">Artificial Intelligence</HashLink>{" "}
             (Mostly)
           </li>
-          <li>
+          {/* <li>
             Appendix: <HashLink to="#researchers">Researchers</HashLink>
           </li>
           <li>
             Appendix: <HashLink to="#references">References</HashLink>
-          </li>
+          </li> */}
         </ol>
 
         <div className="horizontal-line"></div>
@@ -136,6 +138,7 @@ function NoteCognitiveScienceMemorandaPage() {
             </li>
             <li>
               Poisson:{" "}
+              
               <MathJax className="inline-eq" inline={true}>
                 {"\\( y \\sim Pois(f(\\vec{\\theta} \\cdot \\vec{x})) \\)"}
               </MathJax>
@@ -143,9 +146,7 @@ function NoteCognitiveScienceMemorandaPage() {
             <ul>
               <li>
                 To be fed into{" "}
-                <MathJax className="inline-eq" inline={true}>
-                  {"\\( Pois(\\cdot) \\)"}
-                </MathJax>
+                <InMath eq={"Pois(\\cdot)"}/>
                 ,{" "}
                 <MathJax className="inline-eq" inline={true}>
                   {"\\( f \\)"}
@@ -169,19 +170,16 @@ function NoteCognitiveScienceMemorandaPage() {
             </li>
           </ul>
           <li>
-            <MathJax className="inline-eq" inline={true}>
-              {"\\( \\Delta F / F \\)"}
-            </MathJax>
+          <InMath eq={"\\Delta F / F"}/>
           </li>
           <li>
             Maximum likelihood estimate for linear-Gaussain GLM:{" "}
-            <MathJax className="inline-eq" inline={true}>
-              {"\\( \\hat{k} = (X^T X)^{-1} X^T Y \\)"}
-            </MathJax>
+            <InMath eq={"\\hat{k} = (X^T X)^{-1} X^T Y"}/>
           </li>
           <ul>
             <li>
               Where{" "}
+              <InMath eq={""}/>
               <MathJax className="inline-eq" inline={true}>
                 {"\\( Y = X \\vec{k} + \\text{noise} \\)"}
               </MathJax>
@@ -189,6 +187,7 @@ function NoteCognitiveScienceMemorandaPage() {
           </ul>
           <li>
             Encoding model: probability of neural activity given stimulus:{" "}
+            <InMath eq={""}/>
             <MathJax className="inline-eq" inline={true}>
               {"\\( P(y|x) \\)"}
             </MathJax>
@@ -197,9 +196,7 @@ function NoteCognitiveScienceMemorandaPage() {
           <li>
             Latent encoding model: encoding model in terms of a latent variable
             rather than a stimulus variable:{" "}
-            <MathJax className="inline-eq" inline={true}>
-              {"\\( P(y|x)P(x) \\)"}
-            </MathJax>
+            <InMath eq={"P(y|x)P(x)"}/>
             .
           </li>
           <li>
@@ -273,14 +270,14 @@ function NoteCognitiveScienceMemorandaPage() {
         <div className="horizontal-line"></div>
         <h1 id="ai">Artificial Intelligence</h1>
         <p>...</p>
-        <div className="horizontal-line"></div>
+        {/* <div className="horizontal-line"></div>
         <h1 id="researchers">Appendix: Researchers</h1>
         <p>...</p>
         <div className="horizontal-line"></div>
         <h1 id="references">Appendix: References</h1>
         <ul>
           <li>...</li>
-        </ul>
+        </ul> */}
 
         <br />
         <p>
@@ -288,26 +285,10 @@ function NoteCognitiveScienceMemorandaPage() {
         </p>
         <ul>
           <li>
-            <MathJax inline={true}>{"\\( y = mx + c \\)"}</MathJax>
+            <InMath eq={"y = x + 2"} />
           </li>
           <li>
-            <MathJax>
-              {
-                "\\[ V(x) = \\max_{a \\in \\Gamma (x)} \\{ F(x, a) + \\beta V(T(x, a)) \\} \\]"
-              }
-            </MathJax>
-          </li>
-          <li>
-            <MathJax className="inline-eq" inline={true}>
-              {"\\( y = x + 2 \\)"}
-            </MathJax>
-          </li>
-          <li>
-            <MathJax className="block-eq" inline={false}>
-              {
-                "$$ V(x) = \\max_{a \\in \\Gamma (x)} \\{ F(x, a) + \\beta V(T(x, a)) \\} $$"
-              }
-            </MathJax>
+            <OutMath eq={"V(x) = \\max_{a \\in \\Gamma (x)} \\{ F(x, a) + \\beta V(T(x, a))"} />
           </li>
         </ul>
       </main>

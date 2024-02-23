@@ -55,25 +55,3 @@ a:hover {
     text-decoration: underline;
     color: blue;
 }
-
-.inline-eq {
-    background-color: whitesmoke;
-    border: 0.1px solid lightgrey;
-    border-radius: 0.5rem;
-    padding: 0.2rem;
-}
-
-.block-eq {
-    background-color: whitesmoke;
-    border: 0.1px solid lightgrey;
-    border-radius: 1rem;
-    line-height: 3rem;
-    margin: 0.5rem auto;
-    padding: 0 1rem;
-    text-align: center;
-    width: min-content;
-
-    & > mjx-container {
-        margin: 1rem 0.5rem !important;
-    }
-}

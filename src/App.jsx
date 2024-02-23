@@ -25,6 +25,9 @@ import NotePaperNotesPage from "./pages/notes/NotePaperNotesPage";
 import NoteBJJResourcesPage from "./pages/notes/NoteBJJResourcesPage";
 import NoteFavouriteImagesPage from "./pages/notes/NoteFavouriteImagesPage";
 
+import PaperTemplate from "./pages/notes/papers/_PaperTemplate";
+import PaperSanborn2016 from "./pages/notes/papers/PaperSanborn2016";
+
 function App() {
 
   // const pwNumbers = [99, 104, 48, 48, 99, 104, 107, 33, 105, 116, 104, 38, 107, 33, 110];
@@ -56,11 +59,15 @@ function App() {
           <Route path="/notes/recommendations" element={<NoteRecommendationsPage />} />
           <Route path="/notes/cognitive-science-memoranda" element={<NoteCognitiveScienceMemorandaPage />} />
           <Route path="/notes/recent-paper-reading" element={<NoteRecentPaperReadingPage />} />
-          <Route path="/notes/paper-notes" element={<NotePaperNotesPage />} />
           <Route path="/notes/favourite-images" element={<NoteFavouriteImagesPage />} />
           <Route path="/notes/bjj-resources" element={<NoteBJJResourcesPage />} />
           <Route path="/notes/favourite-lyrics" element={<NoteFavouriteLyricsPage />} />
+          {/* PAPER NOTES */}
+          <Route path="/notes/paper-notes" element={<NotePaperNotesPage />} />
+          <Route path="/notes/paper/template" element={<PaperTemplate />}/>
+          <Route path="/notes/paper/sanborn-2016" element={<PaperSanborn2016 />} />
           
+
           {/* NOT FOUND */}
           <Route path="*" element={<NotFoundPage />} />
         </Routes>

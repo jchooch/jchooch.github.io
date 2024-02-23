@@ -36,6 +36,22 @@ function Header({ thisTitle, returnDestination }) {
             </header>
         );
     }
+    else if (returnDestination === "Paper Notes") {
+        return (
+            <header className="header header--with-back">
+                <div>
+                    <h1 className="header__title">{thisTitle}</h1>
+                    <Link to="/">
+                        <h3 className="header__subtitle">Joe Choo-Choy</h3>
+                    </Link>
+                </div>
+                <Link to="/notes/recent-paper-reading">
+                    <img src={returnIcon} alt="back" className="return" />
+                    <span>All Paper Notes</span>
+                </Link>
+            </header>
+        );
+    }
     else {
         if (thisTitle === "") {
             return (

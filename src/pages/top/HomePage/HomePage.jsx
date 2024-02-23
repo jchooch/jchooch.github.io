@@ -184,7 +184,7 @@ function HomePage() {
               </p>
             </div>
           </div>
-          <p style={{fontSize:"1rem"}}>Doesn't actually work (Spotify API = &#128169;), so is just random likes.</p>
+          {/* <p style={{fontSize:"1rem"}}>Doesn't actually work (Spotify API = &#128169;), so is just random likes.</p> */}
 
           {shuffleArray(likedSongs)
             .slice(0, numberSongs)

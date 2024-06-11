@@ -11,9 +11,10 @@ import BlogTemplatePage from "./pages/blogs/BlogTemplatePage";
 import NoteTemplatePage from "./pages/notes/NoteTemplatePage";
 import NoteRecommendationsPage from "./pages/notes/NoteRecommendationsPage";
 import NotFoundPage from "./pages/top/NotFoundPage/NotFoundPage";
+import TodoPage from "./pages/top/TodoPage";
 
 import BlogWritingToDoPage from "./pages/blogs/BlogWritingToDoPage";
-import BlogInventionPerfectionPage from "./pages/blogs/BlogInventionPerfectionPage";
+import BlogInventionPerfection from "./pages/blogs/BlogInventionPerfection";
 import BlogHumanismPage from "./pages/blogs/BlogHumanismPage";
 import BlogLovePoetryPage from "./pages/blogs/BlogLovePoetryPage";
 
@@ -27,6 +28,8 @@ import NoteFavouriteImagesPage from "./pages/notes/NoteFavouriteImagesPage";
 
 import PaperTemplate from "./pages/notes/papers/_PaperTemplate";
 import PaperSanborn2016 from "./pages/notes/papers/PaperSanborn2016";
+import PaperPouget2013 from "./pages/notes/papers/PaperPouget2013";
+import PaperLillicrap2019 from "./pages/notes/papers/PaperLillicrap2019";
 
 function App() {
 
@@ -45,11 +48,12 @@ function App() {
           <Route path="/notes" element={<NotesPage />} />
           <Route path="/cv" element={<CVPage />} />
           {/* <Route path="/tracking" element={<TrackingPage />} /> */}
-
+          <Route path="/todo" element={<TodoPage />} />
+          
           {/* BLOGS */}
           <Route path="/blogs/template" element={<BlogTemplatePage />} />
           <Route path="/blogs/writing-to-do" element={<BlogWritingToDoPage />} />
-          <Route path="/blogs/invention-and-perfection" element={<BlogInventionPerfectionPage />} />
+          <Route path="/blogs/invention-and-perfection" element={<BlogInventionPerfection />} />
           <Route path="/blogs/humanism" element={<BlogHumanismPage />} />
           <Route path="/blogs/love-poetry" element={<BlogLovePoetryPage />} />
 
@@ -66,7 +70,8 @@ function App() {
           <Route path="/notes/paper-notes" element={<NotePaperNotesPage />} />
           <Route path="/notes/paper/template" element={<PaperTemplate />}/>
           <Route path="/notes/paper/sanborn-2016" element={<PaperSanborn2016 />} />
-          
+          <Route path="/notes/paper/pouget-2013" element={<PaperPouget2013 />} />
+          <Route path="/notes/paper/lillicrap-2019" element={<PaperLillicrap2019 />}/>
 
           {/* NOT FOUND */}
           <Route path="*" element={<NotFoundPage />} />

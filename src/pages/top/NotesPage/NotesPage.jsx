@@ -10,9 +10,9 @@ function NotesPage() {
 
       <main>
         <p>
-          Mostly a place for less didactic/polemical, continuously-updated posts. <br />
-          For more didactic/polemical, one-and-done essays see{"  "}
-          <Link to="/blogs">Blogs</Link>.
+          Mostly a place for continuously-updated posts – often memoranda, less
+          didactic, less polemical. <br />
+          For other posts, see <Link to="/blogs">Blogs</Link>.
         </p>
         <br />
         <ul className="notes-list">
@@ -47,16 +47,14 @@ function NotesPage() {
           {/* <li className="notes-list__item">
             <Link to="/notes/favourite-images">Some of My Favourite Images</Link>
           </li> */}
-          
+
           <li className="notes-list__item">
             <Link to="/notes/bjj-resources">Brazilian Jiu-Jitsu Resources</Link>
           </li>
-          <li className="notes-list__item">
+
+          {/* <li className="notes-list__item">
             <Link to="/notes/favourite-lyrics">My Favourite Lyrics</Link>
-          </li>
-          <li className="notes-list__item">
-            <Link to="/notes/template">Note template</Link>
-          </li>
+          </li> */}
         </ul>
       </main>
 

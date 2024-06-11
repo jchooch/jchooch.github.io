@@ -32,7 +32,7 @@ function PaperSanborn2016() {
         </h3>
         <h1>Bayesian Brains Without Probabilities</h1>
         <p style={{ fontSize: "1.2rem" }}>
-          [<a href="/papers/sanborn_chater_2016.pdf">PDF</a>,{" "}
+          [<a href="/papers/sanborn2016.pdf">PDF</a>,{" "}
           <a href="https://www.sciencedirect.com/science/article/pii/S1364661316301565">
             Journal
           </a>

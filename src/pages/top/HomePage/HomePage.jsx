@@ -55,7 +55,8 @@ function HomePage() {
   const getData = async (accessToken) => {
     try {
       console.log("Trying to get data.");
-      const likePlaylistID = "5eRDUqx4cFvLwWNCc7Z8zG";
+      // const likePlaylistID = "5eRDUqx4cFvLwWNCc7Z8zG"; // Liked
+      const likePlaylistID = "5HZx9XzrzYFyV7f1yf8B9R"; // Recently Liked (switched to new playlist 23.02.24)
       const response = await axios.get(
         `https://api.spotify.com/v1/playlists/${likePlaylistID}`,
         {

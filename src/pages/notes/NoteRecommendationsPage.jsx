@@ -69,8 +69,7 @@ function NoteRecommendationsPage() {
             <li>
               Hopefully, my more unusual inclusions will point people to good
               work they would not find otherwise and my more commonplace
-              inclusions will frustrate people enough to spur them on in
-              exploration!
+              inclusions will provide valuable reminders!
             </li>
             <li>
               I think I've consumed relatively many films, books, etc.
@@ -123,6 +122,7 @@ function NoteRecommendationsPage() {
                 </a>
                 .
               </li>
+              <li>... But I have not.</li>
             </ul>
             <li>
               If you think you know of something I might love enough to
@@ -349,6 +349,7 @@ function NoteRecommendationsPage() {
               <li>I've only read the first two volumes so far.</li>
             </ul>
             <li>On the Move &#124; Oliver Sacks</li>
+            <li>Virginia Woolf &#124; Hermione Lee</li>
             <li>The Benn Diaries &#124; Tony Benn</li>
             <li>In Search of Memory &#124; Eric Kandel</li>
           </ul>

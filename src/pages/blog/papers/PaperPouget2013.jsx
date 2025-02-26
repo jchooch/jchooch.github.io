@@ -131,7 +131,7 @@ function PaperPouget2013() {
             ></OutMath>
           </li>
         </ul>
-        <br />
+        {/* <br />
         <br />
         <br />
         <br />
@@ -165,7 +165,7 @@ function PaperPouget2013() {
               <li>2 bio: Turkheimer, </li>
             </ul>
           </ul>
-        </ul>
+        </ul> */}
         <br />
         <br />
         <br />
@@ -369,130 +369,6 @@ function PaperPouget2013() {
             possibly-brittle heuristics necessary, e.g. "having children is one
             of life's most meaningful experiences".
           </li>
-          <li></li>
-        </ul>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <p>From simple innate biases to complex visual concepts</p>
-        <ul>
-          <li>"Mover" events: "the event of a moving image region causing a stationary region tomove or change after contact".</li>
-          <li></li>
-        </ul>
-        <br />
-        <br />
-        <br />
-        <br />
-        <b>An Active Inference View of Cognitive Control</b>
-        <p>
-          (Commentary on Clark's Whatever next? Predictive brains, situated
-          agents, and the future of cognitive science)
-        </p>
-        <ul>
-          <li>...</li>
-        </ul>
-        <br />
-        <p>
-          <b>
-            Zador (2019) A critique of pure learning and what artificial neural
-            networks can learn from animal brains
-          </b>
-        </p>
-        <ul>
-          <li>...</li>
-        </ul>
-        <br />
-        <p>
-          <b>
-            Mitchell et al. (2022) Self-Destructing Models: Increasing the Costs
-            of Harmful Dual Uses in Foundation Models
-          </b>
-        </p>
-        <ul>
-          <li>...</li>
-        </ul>
-        <br />
-        <p>
-          <b>
-            Liu et al. (2023) Cognitive Dissonance: Why Do Language Model
-            Outputs Disagree with Internal Representations of Truthfulness?
-          </b>
-        </p>
-        <ul>
-          <li>...</li>
-        </ul>
-        <br />
-        <p>
-          <b>Hooker (2020) The Hardware Lottery</b>
-        </p>
-        <ul>
-          <li>...</li>
-        </ul>
-        <br />
-        <p>
-          <b>Ullman et al. (2012) From simple innate biases to complex visual concepts</b>
-        </p>
-        <ul>
-          <li>...</li>
-        </ul>
-        <br />
-        <br />
-        <br />
-        <br />
-        <h2>Practical Reasons for Pragmatism</h2>
-        <ul>
-          <li style={meStyle}>
-            Background (borrowed from Two Arguments for Evidentialism by
-            Jonathan Way): "Evidentialism is the thesis that all reasons to
-            believe p are evidence for p. Pragmatists hold that pragmatic
-            considerations—incentives for believing—can also be reasons to
-            believe."
-          </li>
-          <li style={quoteStyle}>
-            "Evidentialism is the thesis that all reasons to believe p are
-            evidence for p. Pragmatists hold that pragmatic
-            considerations—incentives for believing—can also be reasons to
-            believe."
-          </li>
-          <li style={meStyle}>Let P=Pragmatism, E=Evidentialism.</li>
-          <li>Outline:</li>
-          <ol style={{ marginLeft: "2rem" }}>
-            <li>How debate is biased in favour of E</li>
-            <li>Practical reasons bearing on E and P</li>
-            <li>Whether E or P are self-defeating</li>
-            <li>How to rationally decide between E and P</li>
-          </ol>
-          <li>
-            "Pragmatism is the thesis that all reasons for belief are practical
-            – you have reason to believe P insofar as your believing P brings
-            about good consequences (or good expected consequences)."
-          </li>
-          <li>
-            "Evidentialism is the view that there are no practical reasons for
-            belief; rather, all reasons to believe P are factors that render the
-            truth of P more likely. Call these 'epistemic reasons' or
-            'evidence'."
-          </li>
-          <li>P and E are not exhaustive.</li>
-          <li>
-            <li>
-              The debate between E and P has been conducted in an evidentialist
-              manner, presenting philosophical rather than practical arguments.
-            </li>
-          </li>
-        </ul>
-        <h4>Questions</h4>
-        <ul style={questionStyle}>
-          <li>What next?</li>
         </ul>
       </main>
 

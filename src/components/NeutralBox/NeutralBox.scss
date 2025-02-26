@@ -3,7 +3,8 @@
 .neutral-box {
     @include flexbox(row, space-between, normal);
     background-color: white;
-    border: 1px solid grey;
+    // border: 1px solid grey;
+    box-shadow: 0 0 0.2rem 0.2rem lightgrey;
     border-radius: 1rem;
     margin: 2rem 0;
     padding: 1rem;
@@ -19,27 +20,39 @@
     }
 
     &--web {
-        border: 1px solid #0074D9;
+        // border: 1px solid #0074D9;
+        box-shadow: 0 0 0.2rem 0.2rem #0074D9;
+        box-shadow: 0 0 0.2rem 0.2rem rgba(0, 116, 217, 0.6);
     }
 
     &--lit {
-        border: 1px solid #FF851B;
+        // border: 1px solid #FF851B;
+        box-shadow: 0 0 0.2rem 0.2rem #FF851B;
+        box-shadow: 0 0 0.2rem 0.2rem rgba(255, 133, 27, 0.6);
     }
 
     &--scr {
-        border: 1px solid #2ECC40;
+        // border: 1px solid #2ECC40;
+        box-shadow: 0 0 0.2rem 0.2rem #2ECC40;
+        box-shadow: 0 0 0.2rem 0.2rem rgba(46, 204, 64, 0.6);
     }
 
     &--mus {
-        border: 1px solid #FF4136;
+        // border: 1px solid #FF4136;
+        box-shadow: 0 0 0.2rem 0.2rem #FF4136;
+        box-shadow: 0 0 0.2rem 0.2rem rgba(255, 65, 54, 0.6);
     }
 
     &--pod {
-        border: 1px solid #B10DC9;
+        // border: 1px solid #B10DC9;
+        box-shadow: 0 0 0.2rem 0.2rem #B10DC9;
+        box-shadow: 0 0 0.2rem 0.2rem rgba(177, 13, 201, 0.6);
     }
 
     &--edu {
-        border: 1px solid #FFD700;
+        // border: 1px solid #FFD700;
+        box-shadow: 0 0 0.2rem 0.2rem #FFD700;
+        box-shadow: 0 0 0.2rem 0.2rem rgba(255, 215, 0, 0.6);
     }
 }
 

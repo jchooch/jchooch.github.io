@@ -9,10 +9,10 @@ import qs from "qs";
 import homePhoto from "../../../assets/joe.jpeg";
 import Header from "../../../components/Header/Header";
 import Footer from "../../../components/Footer/Footer";
-import "./HomePage.scss";
+import "./Home.scss";
 import spotifyIcon from "../../../assets/icons/spotify.png";
 
-function HomePage() {
+function Home() {
   const [likedSongs, setLikedSongs] = useState([]);
   const [accessToken, setAccessToken] = useState(undefined);
   const [numberSongs, setNumberSongs] = useState(5);
@@ -94,10 +94,7 @@ function HomePage() {
             <Link to="/about">About</Link>
           </p>
           <p>
-            <Link to="/blogs">Blogs</Link>
-          </p>
-          <p>
-            <Link to="/notes">Notes</Link>
+            <Link to="/blog">Blog</Link>
           </p>
           {/*   <p>
                   <Link to="/tracking">Tracking</Link>
@@ -269,4 +266,4 @@ function HomePage() {
   );
 }
 
-export default HomePage;
+export default Home;

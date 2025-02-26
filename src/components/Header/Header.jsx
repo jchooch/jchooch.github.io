@@ -4,7 +4,7 @@ import "./Header.scss";
 
 function Header({ thisTitle, returnDestination }) {
 
-    if (returnDestination === "Blogs") {
+    if (returnDestination === "Blog") {
         return (
             <header className="header header--with-back">
                 <div>
@@ -13,9 +13,9 @@ function Header({ thisTitle, returnDestination }) {
                         <h3 className="header__subtitle">Joe Choo-Choy</h3>
                     </Link>
                 </div>
-                <Link to="/blogs">
+                <Link to="/blog">
                     <img src={returnIcon} alt="back" className="return" />
-                    <span>All Blogs</span>
+                    <span>Blog Archive</span>
                 </Link>
             </header>
         );
@@ -45,7 +45,7 @@ function Header({ thisTitle, returnDestination }) {
                         <h3 className="header__subtitle">Joe Choo-Choy</h3>
                     </Link>
                 </div>
-                <Link to="/notes/recent-paper-reading">
+                <Link to="/blog/papers">
                     <img src={returnIcon} alt="back" className="return" />
                     <span>All Paper Notes</span>
                 </Link>

@@ -4,10 +4,10 @@ import StatsBox from "../../components/StatsBox/StatsBox";
 import AsideBox from "../../components/AsideBox/AsideBox";
 import { MathJaxContext, MathJax } from "better-react-mathjax";
 
-function BlogBareTemplatePage() {
+function BareTemplate() {
   return (
     <MathJaxContext>
-      <Header thisTitle={"Bare Blog Template"} returnDestination={"Blogs"} />
+      <Header thisTitle={"Example Blog Title"} returnDestination={"Blog"} />
 
       <StatsBox
         words={"?"}
@@ -40,4 +40,4 @@ function BlogBareTemplatePage() {
   );
 }
 
-export default BlogBareTemplatePage;
+export default BareTemplate;

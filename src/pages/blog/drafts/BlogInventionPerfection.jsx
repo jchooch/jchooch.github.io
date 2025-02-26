@@ -1,13 +1,13 @@
-import Header from "../../components/Header/Header";
-import Footer from "../../components/Footer/Footer";
-import StatsBox from "../../components/StatsBox/StatsBox";
+import Header from "../../../components/Header/Header";
+import Footer from "../../../components/Footer/Footer";
+import StatsBox from "../../../components/StatsBox/StatsBox";
 
 function BlogInventionPerfection() {
   return (
     <>
       <Header
         thisTitle={"Art I: Invention and Perfection"}
-        returnDestination={"Blogs"}
+        returnDestination={"Blog"}
       />
 
       <StatsBox words={"?"} time={"?"} status={""} tags={[]} />

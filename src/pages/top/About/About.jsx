@@ -2,11 +2,11 @@ import { Link } from "react-router-dom";
 import aboutPhoto from "../../../assets/joe.jpeg";
 import Header from "../../../components/Header/Header";
 import Footer from "../../../components/Footer/Footer";
-import "./AboutPage.scss";
+import "./About.scss";
 import blueBelt from "../../../assets/icons/blue-belt.svg";
 import carabiner from "../../../assets/icons/carabiner.png";
 
-function AboutPage() {
+function About() {
   const blueBeltStyle = {
     height: "2.5rem",
     margin: "25rem 0 0 0"
@@ -85,7 +85,7 @@ function AboutPage() {
   );
 }
 
-export default AboutPage;
+export default About;
 
 {
   /* <main class="about-main">

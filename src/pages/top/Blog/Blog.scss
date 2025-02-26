@@ -1,7 +1,9 @@
-.notes-list {
+.blog-list {
+    list-style: square;
 
-    &__item {
-        list-style: square;
+        &__drafts {
+            font-weight: bold;
+        }
 
         &--pinned {
             list-style: none;
@@ -12,5 +14,4 @@
                 content: "📌  ";
             }
         }
-    }
 }

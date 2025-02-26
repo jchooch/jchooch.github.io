@@ -1,80 +1,76 @@
 import "./styles/global.scss";
 import { HashRouter, Routes, Route } from "react-router-dom";
 
-import HomePage from "./pages/top/HomePage/HomePage";
-import AboutPage from "./pages/top/AboutPage/AboutPage";
-import BlogsPage from "./pages/top/BlogsPage/BlogsPage";
-import NotesPage from "./pages/top/NotesPage/NotesPage";
-import CVPage from "./pages/top/CVPage/CVPage";
-import TrackingPage from "./pages/top/TrackingPage/TrackingPage";
-import BlogTemplatePage from "./pages/blogs/BlogTemplatePage";
-import NoteTemplatePage from "./pages/notes/NoteTemplatePage";
-import NoteRecommendationsPage from "./pages/notes/NoteRecommendationsPage";
-import NotFoundPage from "./pages/top/NotFoundPage/NotFoundPage";
-import TodoPage from "./pages/top/TodoPage";
+import Home from "./pages/top/Home/Home";
+import About from "./pages/top/About/About";
+import Blog from "./pages/top/Blog/Blog";
+import CVPage from "./pages/top/CV_INACTIVE/CVPage";
+import TrackingPage from "./pages/top/Tracking_INACTIVE/TrackingPage";
+import Template from "./pages/blog/Template";
+import Recommendations from "./pages/blog/Recommendations";
+import NotFound from "./pages/top/NotFound/NotFound";
+import Dev from "./pages/top/Dev/Dev";
 
-import BlogWritingToDoPage from "./pages/blogs/BlogWritingToDoPage";
-import BlogInventionPerfection from "./pages/blogs/BlogInventionPerfection";
-import BlogHumanismPage from "./pages/blogs/BlogHumanismPage";
-import BlogLovePoetryPage from "./pages/blogs/BlogLovePoetryPage";
+import BlogWritingToDoPage from "./pages/blog/drafts/BlogWritingToDoPage";
+import BlogInventionPerfection from "./pages/blog/drafts/BlogInventionPerfection";
+import Humanism from "./pages/blog/Humanism";
+import BlogLovePoetryPage from "./pages/blog/drafts/BlogLovePoetryPage";
+import PaperNotes from "./pages/blog/PaperNotes";
 
 import NoteFavouriteLyricsPage from "./pages/notes/NoteFavouriteLyricsPage";
 import NoteProbabilityPage from "./pages/notes/NoteProbabilityPage";
 import NoteCognitiveScienceMemorandaPage from "./pages/notes/NoteCognitiveScienceMemorandaPage/NoteCognitiveScienceMemorandaPage";
-import NoteRecentPaperReadingPage from "./pages/notes/NoteRecentPaperReadingPage";
 import NotePaperNotesPage from "./pages/notes/NotePaperNotesPage";
-import NoteBJJResourcesPage from "./pages/notes/NoteBJJResourcesPage";
+import BJJResources from "./pages/blog/BJJResources";
 import NoteFavouriteImagesPage from "./pages/notes/NoteFavouriteImagesPage";
 
-import PaperTemplate from "./pages/notes/papers/_PaperTemplate";
-import PaperSanborn2016 from "./pages/notes/papers/PaperSanborn2016";
-import PaperPouget2013 from "./pages/notes/papers/PaperPouget2013";
-import PaperLillicrap2019 from "./pages/notes/papers/PaperLillicrap2019";
+import PaperTemplate from "./pages/blog/papers/PaperTemplate";
+import PaperSanborn2016 from "./pages/blog/papers/PaperSanborn2016";
+import PaperPouget2013 from "./pages/blog/papers/PaperPouget2013";
+import PaperLillicrap2019 from "./pages/blog/papers/PaperLillicrap2019";
+import BareTemplate from "./pages/blog/BareTemplate";
 
 function App() {
-
-  // const pwNumbers = [99, 104, 48, 48, 99, 104, 107, 33, 105, 116, 104, 38, 107, 33, 110];
-  // const pwString = pwNumbers.map(code => String.fromCharCode(code)).join("");
 
   return (
       <HashRouter>
         <Routes>
-          {/* HOMEPAGE */}
-          <Route path="/" element={<HomePage />} />
+          {/* HOME */}
+          <Route path="/" element={<Home />} />
 
           {/* TOP PAGES */}
-          <Route path="/about" element={<AboutPage />} />
-          <Route path="/blogs" element={<BlogsPage />} />
-          <Route path="/notes" element={<NotesPage />} />
-          <Route path="/cv" element={<CVPage />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/blog" element={<Blog />} />
+          {/* <Route path="/cv" element={<CVPage />} /> */}
           {/* <Route path="/tracking" element={<TrackingPage />} /> */}
-          <Route path="/todo" element={<TodoPage />} />
+          <Route path="/dev" element={<Dev />} />
           
-          {/* BLOGS */}
-          <Route path="/blogs/template" element={<BlogTemplatePage />} />
-          <Route path="/blogs/writing-to-do" element={<BlogWritingToDoPage />} />
-          <Route path="/blogs/invention-and-perfection" element={<BlogInventionPerfection />} />
-          <Route path="/blogs/humanism" element={<BlogHumanismPage />} />
-          <Route path="/blogs/love-poetry" element={<BlogLovePoetryPage />} />
+          {/* BLOG */}
+          <Route path="/blog/template" element={<Template />} />
+          <Route path="/blog/bare-template" element={<BareTemplate />} />
+          <Route path="/blog/writing-to-do" element={<BlogWritingToDoPage />} />
+          <Route path="/blog/invention-and-perfection" element={<BlogInventionPerfection />} />
+          {/* ESSAYS */}
+          <Route path="/blog/humanism" element={<Humanism />} />
+          <Route path="/blog/love-poetry" element={<BlogLovePoetryPage />} />
+          {/* EVERGREENS */}
+          <Route path="/blog/papers" element={<PaperNotes />} />
+          <Route path="/blog/recommendations" element={<Recommendations />} />
+          {/* PAPER NOTES */}
+          <Route path="/blog/paper/template" element={<PaperTemplate />}/>
+          <Route path="/blog/paper/sanborn-2016" element={<PaperSanborn2016 />} />
+          <Route path="/blog/paper/pouget-2013" element={<PaperPouget2013 />} />
+          <Route path="/blog/paper/lillicrap-2019" element={<PaperLillicrap2019 />}/>
 
           {/* NOTES */}
-          <Route path="/notes/template" element={<NoteTemplatePage />} />
           <Route path="/notes/probability" element={<NoteProbabilityPage />} />
-          <Route path="/notes/recommendations" element={<NoteRecommendationsPage />} />
           <Route path="/notes/cognitive-science-memoranda" element={<NoteCognitiveScienceMemorandaPage />} />
-          <Route path="/notes/recent-paper-reading" element={<NoteRecentPaperReadingPage />} />
           <Route path="/notes/favourite-images" element={<NoteFavouriteImagesPage />} />
-          <Route path="/notes/bjj-resources" element={<NoteBJJResourcesPage />} />
-          <Route path="/notes/favourite-lyrics" element={<NoteFavouriteLyricsPage />} />
-          {/* PAPER NOTES */}
-          <Route path="/notes/paper-notes" element={<NotePaperNotesPage />} />
-          <Route path="/notes/paper/template" element={<PaperTemplate />}/>
-          <Route path="/notes/paper/sanborn-2016" element={<PaperSanborn2016 />} />
-          <Route path="/notes/paper/pouget-2013" element={<PaperPouget2013 />} />
-          <Route path="/notes/paper/lillicrap-2019" element={<PaperLillicrap2019 />}/>
+          <Route path="/blog/bjj-resources" element={<BJJResources />} />
+          <Route path="/notes/favourite-lyrics" element={<NoteFavouriteLyricsPage />} />          
 
           {/* NOT FOUND */}
-          <Route path="*" element={<NotFoundPage />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </HashRouter>
   );

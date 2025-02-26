@@ -3,7 +3,8 @@
 .aside-box {
     @include flexbox(row, space-between, normal);
     background-color: aliceblue;
-    border: 1px solid lightskyblue;
+    // border: 1px solid lightskyblue;
+    box-shadow: 0 0 0.2rem 0.2rem lightskyblue;
     border-radius: 1rem;
     margin: 2rem 0;
     padding: 1rem;

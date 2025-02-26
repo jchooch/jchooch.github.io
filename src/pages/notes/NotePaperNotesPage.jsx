@@ -14,7 +14,7 @@ function NotePaperNotesPage() {
 
   return (
     <MathJaxContext>
-      <Header thisTitle={"Paper Notes"} returnDestination={"Notes"} />
+      <Header thisTitle={"Paper Notes"} returnDestination={"Blog"} />
 
       <main>
         <MetaBox>

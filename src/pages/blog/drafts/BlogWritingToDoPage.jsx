@@ -1,13 +1,13 @@
-import Header from "../../components/Header/Header";
-import Footer from "../../components/Footer/Footer";
-import StatsBox from "../../components/StatsBox/StatsBox";
-import AsideBox from "../../components/AsideBox/AsideBox";
+import Header from "../../../components/Header/Header";
+import Footer from "../../../components/Footer/Footer";
+import StatsBox from "../../../components/StatsBox/StatsBox";
+import AsideBox from "../../../components/AsideBox/AsideBox";
 import { MathJaxContext, MathJax } from "better-react-mathjax";
 
 function BlogWritingToDoPage() {
   return (
     <MathJaxContext>
-      <Header thisTitle={"Writing To Do"} returnDestination={"Blogs"} />
+      <Header thisTitle={"Writing To Do"} returnDestination={"Blog"} />
 
       <StatsBox
         words={"~331"}

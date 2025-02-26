@@ -4,10 +4,10 @@ import StatsBox from "../../components/StatsBox/StatsBox";
 import AsideBox from "../../components/AsideBox/AsideBox";
 import { MathJaxContext, MathJax } from "better-react-mathjax";
 
-function BlogHumanismPage() {
+function Humanism() {
   return (
     <MathJaxContext>
-      <Header thisTitle={"Humanism"} returnDestination={"Blogs"} />
+      <Header thisTitle={"Humanism"} returnDestination={"Blog"} />
 
       <StatsBox
         words={"~1085"}
@@ -67,4 +67,4 @@ function BlogHumanismPage() {
   );
 }
 
-export default BlogHumanismPage;
+export default Humanism;

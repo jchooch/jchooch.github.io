@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-function NotFoundPage() {
+function NotFound() {
     return (
         <>
             <p>Now... you really are lost.</p>
@@ -10,4 +10,4 @@ function NotFoundPage() {
     );
 }
 
-export default NotFoundPage;
+export default NotFound;

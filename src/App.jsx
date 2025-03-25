@@ -16,6 +16,7 @@ import BlogInventionPerfection from "./pages/blog/drafts/BlogInventionPerfection
 import Humanism from "./pages/blog/Humanism";
 import BlogLovePoetryPage from "./pages/blog/drafts/BlogLovePoetryPage";
 import PaperNotes from "./pages/blog/PaperNotes";
+import AnIAEAForAI from "./pages/blog/drafts/AnIAEAForAI";
 
 import NoteFavouriteLyricsPage from "./pages/notes/NoteFavouriteLyricsPage";
 import NoteProbabilityPage from "./pages/notes/NoteProbabilityPage";
@@ -29,6 +30,7 @@ import PaperSanborn2016 from "./pages/blog/papers/PaperSanborn2016";
 import PaperPouget2013 from "./pages/blog/papers/PaperPouget2013";
 import PaperLillicrap2019 from "./pages/blog/papers/PaperLillicrap2019";
 import BareTemplate from "./pages/blog/BareTemplate";
+import BlogScratchpad from "./pages/blog/drafts/Scratchpad";
 
 function App() {
 
@@ -47,12 +49,14 @@ function App() {
           
           {/* BLOG */}
           <Route path="/blog/template" element={<Template />} />
+          <Route path="/blog/scratchpad" element={<BlogScratchpad />} />
           <Route path="/blog/bare-template" element={<BareTemplate />} />
           <Route path="/blog/writing-to-do" element={<BlogWritingToDoPage />} />
           <Route path="/blog/invention-and-perfection" element={<BlogInventionPerfection />} />
           {/* ESSAYS */}
           <Route path="/blog/humanism" element={<Humanism />} />
           <Route path="/blog/love-poetry" element={<BlogLovePoetryPage />} />
+          <Route path="/blog/an-iaea-for-ai" element={<AnIAEAForAI />} />
           {/* EVERGREENS */}
           <Route path="/blog/papers" element={<PaperNotes />} />
           <Route path="/blog/recommendations" element={<Recommendations />} />

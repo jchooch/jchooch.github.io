@@ -44,22 +44,8 @@ function Blog() {
         <ul className="blog-list">
           <li className="blog-list__drafts">Drafts</li>
           <ul>
-            {/* <li style={draftStyle}>Art III: Power and Popularity</li> */}
-            {/* <ul>
-              <li>
-                Must popular art be great art? What obligation does art have to
-                be loved?
-              </li>
-            </ul> */}
-            {/* <li style={draftStyle}>Art II: Beauty and Axiology</li> */}
-            {/* <ul>
-              <li>
-                What is beauty, and what is the place of aesthetics in axiology?
-                Some of my opinions.
-              </li>
-            </ul> */}
-            {/* <li style={draftStyle}>Art I: Invention and Perfection</li> */}
             <li style={draftStyle}>Invention and Perfection</li>
+            {/* <li style={draftStyle}>An IAEA for AI</li> */}
           </ul>
           <li>
             2023-11-11: <Link to="humanism">Humanism</Link>
@@ -72,9 +58,9 @@ function Blog() {
           <li className="blog-list--pinned">
             <Link to="/blog/recommendations">Recommendations</Link>
           </li>
-          <li>
+          {/* <li>
             <Link to="/blog/papers">Paper Notes</Link>
-          </li>
+          </li> */}
           <li>
             <Link to="/blog/bjj-resources">Brazilian Jiu-Jitsu Resources</Link>
           </li>

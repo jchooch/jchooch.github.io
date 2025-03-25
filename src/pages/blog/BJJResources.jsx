@@ -45,105 +45,115 @@ function BJJResources() {
         <br />
         <h2>Free Instructors I Recommend</h2>
         <ul>
-          <li>Mostly Jiu-Jitsu</li>
+          <li>
+            <b>Mostly Jiu-Jitsu</b>
+          </li>
           <ul>
             <li>
-              <b>Lachlan Giles</b> | Absolute MMA
+              Lachlan Giles | <i>Absolute MMA</i>
               <a href="https://www.youtube.com/channel/UCVX5F9uZyzzSI9juQRp_2Hw">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>{" "}
               &nbsp;&nbsp;(and <a href="https://submeta.io/">Submeta</a>)
             </li>
             <li>
-              <b>Andre Galvao</b> | ATOS Jiu-Jitsu
+              Andre Galvao | <i>ATOS Jiu-Jitsu</i>
               <a href="https://www.youtube.com/channel/UC2uvUWTuQXq1k5DOZhzJ8VQ">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Giancarlo Bodoni</b> |
+              Giancarlo Bodoni |
               <a href="https://www.youtube.com/channel/UCMviEKWzEJPQ5RQUcDys7_A">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Brian Peterson</b> | Teach Me Grappling
+              Brian Peterson | <i>Teach Me Grappling</i>
               <a href="https://www.youtube.com/channel/UC8X1oaFtxTGGAueI-sWE4Mg">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Rob Biernacki</b> | BJJ Concepts
+              Rob Biernacki | <i>BJJ Concepts</i>
               <a href="https://www.youtube.com/@bjjconcepts-robbiernacki2342">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>{" "}
-              / RVV BJJ{" "}
+              / <i>RVV BJJ</i>
               <a href="https://www.youtube.com/@RVVBJJ">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>{" "}
-              / Stephan Kesting
+              / <i>Stephan Kesting</i>
               <a href="https://www.youtube.com/@StephanKesting">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Keenan Cornelius</b> |{" "}
+              Keenan Cornelius |
               <a href="https://www.youtube.com/@fritzdagger">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>{" "}
-              / Legion AJJ
+              / <i>Legion AJJ</i>
               <a href="https://www.youtube.com/@legionajj">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Jordan Preisinger</b> | Jordan Teaches Jiujitsu
+              Jordan Preisinger | <i>Jordan Teaches Jiujitsu</i>
               <a href="https://www.youtube.com/c/jordanteachesjiujitsu">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Firas Zahabi</b> | Tristar Gym
+              Firas Zahabi | <i>Tristar Gym</i>
               <a href="https://www.youtube.com/@CoachZahabi/featured">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Jake Luigi</b> | Less Impressed More Involved BJJ{" "}
+              Jake Luigi | <i>Less Impressed More Involved BJJ</i>
               <a href="https://www.youtube.com/@LIMIBJJ">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             {/* <li>Robert Degle?</li> */}
             <li>
-              <b>Tum Voorn</b> | Energia Martial Arts{" "}
+              Tum Voorn | <i>Energia Martial Arts</i>
               <a href="https://www.youtube.com/c/EnergiaMartialArts">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
+            <li>
+              Rixty Garami |
+              <a href="https://www.youtube.com/@RixtyGarami/videos">
+                <img style={ytIconStyle} src={youtubeIcon} />
+              </a>
+            </li>
           </ul>
-          <li style={{ marginTop: "0.5rem" }}>Mostly Judo and Wrestling</li>
+          <li style={{ marginTop: "0.5rem" }}>
+            <b>Mostly Judo and Wrestling</b>
+          </li>
           <ul>
-          <li>
-              <b>Justin Flores</b> | JFLO Academy{" "}
+            <li>
+              Justin Flores | <i>JFLO Academy</i>{" "}
               <a href="https://www.youtube.com/@JFLOJUDO/featured">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Max Schneider</b> | onejudoka{" "}
+              Max Schneider | <i>onejudoka</i>{" "}
               <a href="https://www.youtube.com/@onejudoka/featured">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Shintaro Higashi</b> |{" "}
+              Shintaro Higashi |
               <a href="https://www.youtube.com/@Shigashi84">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>
             </li>
             <li>
-              <b>Cary Kolat</b> |{" "}
+              Cary Kolat |
               <a href="https://www.youtube.com/@KOLATCOM/featured">
                 <img style={ytIconStyle} src={youtubeIcon} />
               </a>

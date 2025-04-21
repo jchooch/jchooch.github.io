@@ -39,22 +39,14 @@ function Blog() {
         */}
 
         {/* <p>🧠, 🪜, 💡, 🎭, 🛶, 📚, 🪣, 🧱, #️⃣, 📄, 🚧, 🪣, 🗃️, 🔩, 🔧, 🔨</p> */}
+        {/* Previous sections: 📣Essays📣, 🌲Notebooks🌲,  💭Journal💭, 🖍️Marginalia🖍️, 🗒️Tidbytes🗒️ */}
 
-        {/* <h2>📣 Essays</h2> */}
         <ul className="blog-list">
-          <li className="blog-list__drafts">Drafts</li>
-          <ul>
-            <li style={draftStyle}>Invention and Perfection</li>
-            {/* <li style={draftStyle}>An IAEA for AI</li> */}
-          </ul>
-          <li>
+          {/* <li style={draftStyle}>Draft: Invention and Perfection</li> */}
+          {/* <li style={draftStyle}>Draft: An IAEA for AI</li> */}
+          {/* <li>
             2023-11-11: <Link to="humanism">Humanism</Link>
-          </li>
-        {/* </ul> */}
-        {/* <br /> */}
-
-        {/* <h2>🌲 Notebook</h2> */}
-        {/* <ul className="blog-list"> */}
+          </li> */}
           <li className="blog-list--pinned">
             <Link to="/blog/recommendations">Recommendations</Link>
           </li>
@@ -65,25 +57,6 @@ function Blog() {
             <Link to="/blog/bjj-resources">Brazilian Jiu-Jitsu Resources</Link>
           </li>
         </ul>
-        <br />
-
-        {/* <h2>💭 Journal</h2>
-        <ul className="blog-list">
-          <li className="blog-list">Example</li>
-        </ul>
-        <br /> */}
-
-        {/* <h2>🖍️ Marginalia</h2>
-        <ul className="blog-list">
-          <li className="blog-list">Example</li>
-        </ul>
-        <br /> */}
-
-        {/* <h2>🗒️ Tidbytes</h2>
-        <ul className="blog-list">
-          <li className="blog-list">Example</li>
-        </ul>
-        <br /> */}
       </main>
 
       <Footer />

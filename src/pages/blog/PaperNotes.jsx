@@ -156,7 +156,7 @@ function PaperNotes() {
       title: "✅ Evolution and Tinkering",
       link: "https://web.mit.edu/~tkonkle/www/BrainEvolution/Meeting9/Jacob%201977%20Science.pdf",
       categories: ["bio/med"],
-      brief_notes: "...",
+      brief_notes: "TODO",
     },
     {
       authors: "Guo et al.",
@@ -173,6 +173,16 @@ function PaperNotes() {
       title: "✅ Practical Reasons for Pragmatism",
       link: "",
       categories: ["phil"],
+      brief_notes: "TODO",
+    },
+    {
+      authors: "Corbi",
+      venue: "Bollettino Filosofico",
+      year: "2016",
+      title: "The Original Position and the Rationality of Levi's Shame",
+      link: "https://philarchive.org/rec/ECOTOP",
+      categories: ["phil"],
+      brief_notes: "TODO",
     },
     {
       authors: "Wolf",
@@ -182,7 +192,7 @@ function PaperNotes() {
       link: "https://www.jstor.org/stable/2026228",
       categories: ["phil"],
       brief_notes:
-        "I didn't find it enormously persuasive, but I did find it stimulating. Something I hadn't thought of before: we know that it is very difficult to be a moral saint practically speaking, but if we are glad to be constructed such that we cannot easily become single-minded moral saints, then it should be possible to argue, via a sort of inverse enkratic principle, that we are not actually in favour of moral sainthood. Indeed, Wolf does almost make this argument when she says that the existence of psychological dependencies on quotidian pleasures may be a 'happy accident', but for me this would be a more interesting subject for analysis, and I would have liked to read about the second-order problem more than the first-order problem. The question will still remain whether our uncertain (or inconsistent) approval of moral sainthood is tantamount to moral uncertainty, uncertainty about the world, akrasia, lack of moral knowledge, substantive moral-philosophical issues, or a mixture of multiple factors. I think a mixture is likely, but that there is plenty of akrasia and uncertainty about the world, perhpaps well enough to explain our discomfort with moral sainthood (i.e. it may be shameful squeamishness). When I think of 'moral saints', I think of Larissa MacFarquhar's book 'Strangers Drowning'.",
+        "I didn't find it enormously persuasive, but I did find it stimulating. Something I hadn't thought of before: we know that it is very difficult to be a moral saint practically speaking, but if we are glad to be constructed such that we cannot easily become single-minded moral saints, then it should be possible to argue, via a sort of inverse enkratic principle, that we are not actually in favour of moral sainthood. Indeed, Wolf does almost make this argument when she says that the existence of psychological dependencies on quotidian pleasures may be a 'happy accident', but for me this would be a more interesting subject for analysis, and I would have liked to read about the second-order problem more than the first-order problem. The question will still remain whether our uncertain (or inconsistent) approval of moral sainthood is tantamount to moral uncertainty, uncertainty about the world, akrasia, lack of moral knowledge, substantive moral-philosophical issues, or a mixture of multiple factors. I think a mixture is likely, but that there is plenty of akrasia and uncertainty about the world, perhpaps well enough to explain our discomfort with moral sainthood (i.e. it may be shameful squeamishness). When I think of 'moral saints', I think of Larissa MacFarquhar's beautiful book 'Strangers Drowning'.",
     },
     // {
     //   authors: "Golan et al.",
@@ -568,82 +578,26 @@ function PaperNotes() {
           whatever takes my fancy.
         </p>
         <br />
-        <br />
-        <br />
-        <p>Publish when I have:</p>
-        <br />
+        <p>
+          <b>PUBLISH WHEN I DONE:</b>
+        </p>
         <ul>
-          <li>
-            <b>Philosophy</b>
-          </li>
-          <ol>
-            <li>
-              <s>Susan Wolf Moral Saints</s>
-            </li>
-            <li>
-              <s>Forrester Pragmatism</s>
-            </li>
-            <li>
-              <s>Forrester Desire Machine</s>
-            </li>
-          </ol>
-          <br />
-          <li>
-            <b>Psychology</b>
-          </li>
-          <ol>
-            <li>
-              <s>Sanborn Bayes Wthout Probabilities</s>
-            </li>
-          </ol>
-          <br />
-          <li>
-            <b>Neuroscience</b>
-          </li>
-          <ol>
-            <li>Pouget Probabilistic Brains</li>
-            <li>Gershman Successor Representation</li>
-            <li>Niv RL in the Brain</li>
-          </ol>
-          <br />
-          <li>
-            <b>Machine learning</b>
-          </li>
-          <ol>
-            <li>Lipton Mythos</li>
-            <li>Doersch VAEs</li>
-            <li>He Residual Nets</li>
-            <li>Guo Calibration in NNs</li>
-            <li>Hubinger 11 Proposals</li>
-            <li>Zhang Rethinking Generalization</li>
-            <li>Belkin Reconciling Modern ML</li>
-            <li>Nakkiran Deep Double Descent</li>
-          </ol>
-          <br />
-          <li>
-            <b>Biology</b>
-          </li>
-          <ol>
-            <li>
-              <s>Jacob Evolution Tinkering</s>
-            </li>
-          </ol>
-          <br />
-          <li>
-            <b>Art, literature</b>
-          </li>
-          <ol>
-            <li>Greenberg American-Type Painting</li>
-            <li>Schrader Notes on Film Noir</li>
-            <li>Danto The End of Art</li>
-          </ol>
-          <br />
-          <li>
-            <b>Other</b>
-          </li>
-          <ol>
-            <li>Loewenstein Mountaineering</li>
-          </ol>
+          <li>Sanborn Bayes Wthout Probabilities</li>
+          <li>Pouget Probabilistic Brains</li>
+          <li>Gershman Successor Representation</li>
+          <li>Niv RL in the Brain</li>
+          <li>Lipton Mythos</li>
+          <li>Doersch VAEs</li>
+          <li>He Residual Nets</li>
+          <li>Guo Calibration in NNs</li>
+          <li>Hubinger 11 Proposals</li>
+          <li>Zhang Rethinking Generalization</li>
+          <li>Belkin Reconciling Modern ML</li>
+          <li>Nakkiran Deep Double Descent</li>
+          <li>Greenberg American-Type Painting</li>
+          <li>Schrader Notes on Film Noir</li>
+          <li>Danto The End of Art</li>
+          <li>Loewenstein Mountaineering</li>
         </ul>
         <br />
         <br />
@@ -664,10 +618,24 @@ function PaperNotes() {
             network architecture), or it may be implicit, using regularization
             (e.g. early stopping)."
           </li>
-          <li>But modern ML routinely uses large neural nets with huge function class capacity and near-perfect fit to training data, and these networks often generalise well. This violates the classical wisdom.</li>
+          <li>
+            But modern ML routinely uses large neural nets with huge function
+            class capacity and near-perfect fit to training data, and these
+            networks often generalise well. This violates the classical wisdom.
+          </li>
           <li>Classical wisdom is Fig 1A. New practical wisdom is Fig 1B.</li>
-          <img style={{marginLeft: "-5%", width: "110%"}} src={doubleDescentFigure} alt="doubleDescent" />
-          <li>"Although the learned predictors obtained at the interpolation threshold typically have high risk, we show that increasing the function class capacity beyond this point leads to decreasing risk, typically going below the risk achieved at the sweet spot in the "classical" regime."</li>
+          <img
+            style={{ marginLeft: "-5%", width: "110%" }}
+            src={doubleDescentFigure}
+            alt="doubleDescent"
+          />
+          <li>
+            "Although the learned predictors obtained at the interpolation
+            threshold typically have high risk, we show that increasing the
+            function class capacity beyond this point leads to decreasing risk,
+            typically going below the risk achieved at the sweet spot in the
+            "classical" regime."
+          </li>
           <li>"</li>
         </ul>
         <br />
@@ -715,7 +683,7 @@ function PaperNotes() {
             <p>Author(s) (Venue, Year)</p>
             <b>
               <p style={{ color: "royalblue" }}>
-                Example with Longform Notes Page{" "}
+                Example with Notes Page{" "}
                 <span style={{ color: "black" }}>/</span>
               </p>
             </b>

@@ -4,30 +4,36 @@ import AsideBox from "../../components/AsideBox/AsideBox";
 import NeutralBox from "../../components/NeutralBox/NeutralBox";
 import Footer from "../../components/Footer/Footer";
 import { MathJaxContext, MathJax } from "better-react-mathjax";
+import LastUpdated from "../../components/LastUpdated/LastUpdated";
 
 function Recommendations() {
+  const olStyle = {
+    marginLeft: "2rem",
+  };
+
   return (
     <MathJaxContext>
       <Header thisTitle={"Recommendations"} returnDestination={"Blog"} />
+      <LastUpdated lastUpdated="~March 2025" />
 
       <main>
         <p>
           I've been helplessly influenced by media of all sorts. I'm recording
           things which I've found particularly affecting – and which I recommend
           to others – below, in the hopes that others will find them useful or
-          interesting or enriching or beautiful and so as to partially exculpate
-          me in so far as my views are accidental plagiarisms, as they so often
-          are. These lists are quite incomplete, but I will try to only expand
-          them slowly and carefully.
+          interesting or enriching or beautiful (and so as to partially
+          exculpate me in so far as my views are accidental plagiarisms, as I'm
+          sure they are). These lists are quite incomplete, but I will try to
+          only expand them slowly and carefully.
         </p>
         <br />
         <p>
-          Wilde famously called criticism "the record of one's own soul" and
-          "the only civilised form of autobiography". I like to think of{" "}
-          <i>lists of recommendations</i> as the lowest form of criticism. So
-          whether this list therefore provides a proper intimation of my own
-          soul is anyone's guess, but I'm hopeful.
+          Wilde called criticism "the record of one's own soul" and "the only
+          civilised form of autobiography". If lists of recommendations are the
+          lowest form of criticism, maybe these lists will intimate something of
+          my own soul.
         </p>
+        {/* 
         <br />
         <p>
           The lists are arranged into a few categories:{" "}
@@ -37,7 +43,7 @@ function Recommendations() {
           <span style={{ color: "#FF4136" }}>Music</span>,{" "}
           <span style={{ color: "#B10DC9" }}>Podcasts/Radio</span>, and{" "}
           <span style={{ color: "#FFD700" }}>Education</span>.
-        </p>
+        </p> */}
 
         <AsideBox title={"Notes, especially on recommended artworks."}>
           <ul>
@@ -63,8 +69,8 @@ function Recommendations() {
               taste still provides degrees of freedom. Much of the value of art
               is in its ability to illustrate new ways of thinking, feeling,
               perceiving, and understanding, which can have objective aspects. I
-              think we should all spend more time consuming classic works and
-              less time on recent works.
+              think most people should spend more time consuming classic works
+              and less time on recent works.
             </li>
             <li>
               Hopefully, my more unusual inclusions will point people to good
@@ -95,8 +101,8 @@ function Recommendations() {
                   An Autumn Afternoon
                 </a>{" "}
                 or{" "}
-                <a href="https://en.wikipedia.org/wiki/Beau_Travail">
-                  Beau Travail
+                <a href="https://en.wikipedia.org/wiki/In_the_Mood_for_Love">
+                  In the Mood for Love
                 </a>
                 .
               </li>
@@ -132,7 +138,7 @@ function Recommendations() {
           </ul>
         </AsideBox>
 
-        <NeutralBox recCat={"web"}>
+        {/* <NeutralBox recCat={"web"}>
           <h2>
             <span style={{ color: "#0074D9" }}>Web</span>: Fora
           </h2>
@@ -160,12 +166,15 @@ function Recommendations() {
               [technology]
             </li>
           </ul>
-        </NeutralBox>
+        </NeutralBox> */}
 
-        <NeutralBox recCat={"web"}>
+        {/* <li><a href="https://meaningness.com/">Meaningness</a> &#124; David Chapman</li> */}
+        {/* <li><a href="http://blog.sigfpe.com/">A Neighbourhood of Infinity</a></li> */}
+        {/* <NeutralBox recCat={"web"}>
           <h2>
             <span style={{ color: "#0074D9" }}>Web</span>: Blogs and Newsletters
           </h2>
+
           <ul>
             <li>
               <a href="https://waitbutwhy.com/archive">Wait But Why</a> &#124;
@@ -175,7 +184,6 @@ function Recommendations() {
               <a href="https://rootsofprogress.org/">The Roots of Progress</a>{" "}
               &#124; Jason Crawford
             </li>
-            {/* <li><a href="http://blog.sigfpe.com/">A Neighbourhood of Infinity</a></li> */}
             <li>
               <a href="https://www.themarginalian.org/">The Marginalian</a>{" "}
               &#124; Maria Popova
@@ -185,9 +193,8 @@ function Recommendations() {
               &#124; Robin Hanson
             </li>
             <li>
-              <a href="https://gwern.net/">Gwern &#124; Gwern Branwen</a>
+              <a href="https://gwern.net/">Gwern</a> &#124; Gwern Branwen
             </li>
-            {/* <li><a href="https://meaningness.com/">Meaningness</a> &#124; David Chapman</li> */}
             <li>
               <a href="https://lilianweng.github.io/">Lil'Log</a> &#124; Lilian
               Weng
@@ -225,7 +232,7 @@ function Recommendations() {
             </li>
             <li>...</li>
           </ul>
-        </NeutralBox>
+        </NeutralBox> */}
 
         {/* <NeutralBox recCat={"web"}>
                     <h2><span style={{color:"#0074D9"}}>Web</span>: Publications</h2>
@@ -239,7 +246,7 @@ function Recommendations() {
                     </ul>
                 </NeutralBox> */}
 
-        <NeutralBox recCat={"web"}>
+        {/* <NeutralBox recCat={"web"}>
           <h2>
             <span style={{ color: "#0074D9" }}>Web</span>: References
           </h2>
@@ -255,10 +262,10 @@ function Recommendations() {
             <li>
               <a href="https://ourworldindata.org/">Our World in Data</a>
             </li>
-            {/* <li>KHAN ACADEMY</li>
-                        <li>SCIENCE DAILY</li> */}
-            {/* <li><a href="https://brilliant.org/wiki/best/">Brilliant Wiki</a></li> */}
-            {/* <li>INVESTOPEDIA</li>
+            <li>KHAN ACADEMY</li>
+                        <li>SCIENCE DAILY</li>
+            <li><a href="https://brilliant.org/wiki/best/">Brilliant Wiki</a></li>
+            <li>INVESTOPEDIA</li>
                         <li>QUILLETTE</li>
                         <li>https://medium.com/curious/5-amazing-websites-you-need-to-save-to-satiate-your-curious-mind-f6f1a857d9da</li>
                         <li>https://www.maketecheasier.com/best-intellectual-websites/</li>
@@ -269,9 +276,9 @@ function Recommendations() {
                         <li>https://www.similarweb.com/top-websites/reference-materials/</li>
                         <li>https://www.searchenginewatch.com/2005/01/04/the-best-online-reference-sites/</li>
                         <li>https://www.libraryjournal.com/story/best-free-reference-sources</li>
-                        <li>https://libguides.salemstate.edu/referencesources</li> */}
+                        <li>https://libguides.salemstate.edu/referencesources</li>
           </ul>
-        </NeutralBox>
+        </NeutralBox> */}
 
         {/* <NeutralBox recCat={"web"}>
                     <h2><span style={{color:"#0074D9"}}>Web</span>: Catalogues</h2>
@@ -292,46 +299,271 @@ function Recommendations() {
           <h2>
             <span style={{ color: "#FF851B" }}>Literature</span>: Fiction
           </h2>
-          <ul>
+          <p>
+            I began writing the list below based on what popped into my head and
+            what I could see on my shelf... and then I realised this task is
+            absolutely hopeless. So I gave up. Still, I highly recommend
+            everything below. You can also check out my{" "}
+            <a href="https://www.goodreads.com/user/show/23882279-joe">
+              Goodreads
+            </a>
+            .
+          </p>
+          <br />
+          <ol style={olStyle}>
             <li>
-              &#123; A Portrait of the Artist as a Young Man, Ulysses &#125;
-              &#124; James Joyce
+              (2015){" "}
+              <b>
+                <i>A Little Life</i>
+              </b>
+              , Hanya Yanagihara
             </li>
             <li>
-              &#123; Wise Blood, The Violent Bear It Away &#125; &#124; Flannery
-              O'Connor
-            </li>
-            {/* <li>The Call of the Wild &#124; Jack London</li> */}
-            <li>Moby Dick &#124; Herman Melville</li>
-            <li>My Man Jeeves &#124; P. G. Wodehouse</li>
-            <li>
-              &#123; Infinite Jest, The Pale King &#125; &#124; David Foster
-              Wallace
-            </li>
-            <li>The Hitchhiker's Trilogy &#124; Douglas Adams</li>
-            <li>Mason & Dixon &#124; Thomas Pynchon</li>
-            <li>
-              &#123; Orlando, Mrs. Dalloway, To the Lighthouse &#125; &#124;
-              Virginia Woolf
+              (2014-2018){" "}
+              <b>
+                <i>The Outline Trilogy</i>
+              </b>
+              , Rachel Cusk
             </li>
             <li>
-              &#123; Persuasion, Pride and Prejudice &#125; &#124; Jane Austen
+              (2011){" "}
+              <b>
+                <i>The Pale King</i>
+              </b>
+              , David Foster Wallace
             </li>
-            {/* <li>The Outline Trilogy &#124; Rachel Cusk</li> */}
-            <li>Middlemarch &#124; George Eliot</li>
-            <li>Jane Eyre &#124; Charlotte Brontë</li>
-            <li>Wuthering Heights &#124; Emily Brontë</li>
-            <li>Alice's Adventures in Wonderland &#124; Lewis Carroll</li>
             <li>
-              &#123; Crime and Punishment, The Brothers Karamazov, Notes from
-              the Underground &#125; &#124; Fyodor Dostoyevsky
+              (2010){" "}
+              <b>
+                <i>Freedom</i>
+              </b>
+              , Jonathan Franzen
             </li>
-            <li>Permutation City &#124; Greg Egan</li>
-            <li>...</li>
-          </ul>
+            <li>
+              (2009){" "}
+              <b>
+                <i>Wolf Hall</i>
+              </b>
+              , Hilary Mantel
+            </li>
+            <li>
+              (2000){" "}
+              <b>
+                <i>White Teeth</i>
+              </b>
+              , Zadie Smith
+            </li>
+            <li>
+              (1997){" "}
+              <b>
+                <i>Underworld</i>
+              </b>
+              , Don DeLillo
+            </li>
+            <li>
+              (1996){" "}
+              <b>
+                <i>Infinite Jest</i>
+              </b>
+              , David Foster Wallace
+            </li>
+            {/* <li>(1994) <b><i>Permutation City</i></b>, Greg Egan</li> */}
+            <li>
+              (1993){" "}
+              <b>
+                <i>A Suitable Boy</i>
+              </b>
+              , Vikram Seth
+            </li>
+            <li>
+              (1979-1992){" "}
+              <b>
+                <i>The Hitchhiker's "Trilogy"</i>
+              </b>
+              , Douglas Adams
+            </li>
+            <li>
+              (1966){" "}
+              <b>
+                <i>The Crying of Lot 49</i>
+              </b>
+              , Thomas Pynchon
+            </li>
+            <li>
+              (1962){" "}
+              <b>
+                <i>A Clockwork Orange</i>
+              </b>
+              , Anthony Burgess
+            </li>
+            <li>
+              (1960){" "}
+              <b>
+                <i>The Violent Bear It Away</i>
+              </b>
+              , Flannery O'Connor
+            </li>
+            <li>
+              (1954-1955){" "}
+              <b>
+                <i>The Lord of the Rings</i>
+              </b>
+              , J. R. R. Tolkien
+            </li>
+            <li>
+              (1952){" "}
+              <b>
+                <i>Wise Blood</i>
+              </b>
+              , Flannery O'Connor
+            </li>
+            <li>
+              (1949){" "}
+              <b>
+                <i>Nineteen Eighty-Four</i>
+              </b>
+              , George Orwell
+            </li>
+            <li>
+              (1928){" "}
+              <b>
+                <i>Orlando</i>
+              </b>
+              , Virginia Woolf
+            </li>
+            <li>
+              (1927){" "}
+              <b>
+                <i>To the Lighthouse</i>
+              </b>
+              , Virginia Woolf
+            </li>
+            <li>
+              (1925){" "}
+              <b>
+                <i>Mrs. Dalloway</i>
+              </b>
+              , Virginia Woolf
+            </li>
+            <li>
+              (1922){" "}
+              <b>
+                <i>Ulysses</i>
+              </b>
+              , James Joyce
+            </li>
+            <li>
+              (1919){" "}
+              <b>
+                <i>My Man Jeeves</i>
+              </b>
+              , P. G. Wodehouse
+            </li>
+            <li>
+              (1916){" "}
+              <b>
+                <i>A Portrait of the Artist as a Young Man</i>
+              </b>
+              , James Joyce
+            </li>
+            <li>
+              (1903){" "}
+              <b>
+                <i>The Call of the Wild</i>
+              </b>
+              , Jack London
+            </li>
+            <li>
+              (1899){" "}
+              <b>
+                <i>Heart of Darkness</i>
+              </b>
+              , Joseph Conrad
+            </li>
+            <li>
+              (1880){" "}
+              <b>
+                <i>The Brothers Karamazov</i>
+              </b>
+              , Fyodor Dostoyevsky
+            </li>
+            <li>
+              (1872){" "}
+              <b>
+                <i>Middlemarch</i>
+              </b>
+              , George Eliot
+            </li>
+            <li>
+              (1869){" "}
+              <b>
+                <i>War and Peace</i>
+              </b>
+              , Leo Tolstoy
+            </li>
+            <li>
+              (1866){" "}
+              <b>
+                <i>Crime and Punishment</i>
+              </b>
+              , Fyodor Dostoyevsky
+            </li>
+            <li>
+              (1865){" "}
+              <b>
+                <i>Alice's Adventures in Wonderland</i>
+              </b>
+              , Lewis Carroll
+            </li>
+            <li>
+              (1864){" "}
+              <b>
+                <i>Notes from the Underground</i>
+              </b>
+              , Fyodor Dostoyevsky
+            </li>
+            <li>
+              (1862){" "}
+              <b>
+                <i>Fathers and Sons</i>
+              </b>
+              , Ivan Turgenev
+            </li>
+            <li>
+              (1851){" "}
+              <b>
+                <i>Moby-Dick</i>
+              </b>
+              , Herman Melville
+            </li>
+            <li>
+              (1847){" "}
+              <b>
+                <i>Wuthering Heights</i>
+              </b>
+              , Emily Brontë
+            </li>
+            <li>
+              (1817){" "}
+              <b>
+                <i>Persuasion</i>
+              </b>
+              , Jane Austen
+            </li>
+            <li>
+              (1813){" "}
+              <b>
+                <i>Pride and Prejudice</i>
+              </b>
+              , Jane Austen
+            </li>
+          </ol>
         </NeutralBox>
+        {/* <li>The Outline Trilogy &#124; Rachel Cusk</li> */}
+        {/* <li>Mason & Dixon &#124; Thomas Pynchon</li> */}
+        {/* <li>Jane Eyre &#124; Charlotte Brontë</li> */}
 
-        <NeutralBox recCat={"lit"}>
+        {/* <NeutralBox recCat={"lit"}>
           <h2>
             <span style={{ color: "#FF851B" }}>Literature</span>: Short Fiction
           </h2>
@@ -341,37 +573,122 @@ function Recommendations() {
             <li>&#123; * &#125; &#124; Anton Chekhov</li>
             <li>&#123; * &#125; &#124; Herman Melville</li>
           </ul>
-        </NeutralBox>
+        </NeutralBox> */}
 
+        {/* <li>WALTER ISAACSON</li> */}
+        {/* <li>BOSWELL ON DR JOHNSON</li> */}
         <NeutralBox recCat={"lit"}>
           <h2>
             <span style={{ color: "#FF851B" }}>Literature</span>: Biography
           </h2>
-          <ul>
-            {/* <li>WALTER ISAACSON</li> */}
-            {/* <li>BOSWELL ON DR JOHNSON</li> */}
-            <li>Parfit &#124; David Edmonds</li>
-            <li>Frank Ramsey &#124; Cheryl Misak</li>
-            <li>The Undoing Project &#124; Michael Lewis</li>
-            <li>My Struggle &#124; Karl Ove Knausgård</li>
+          <ol style={olStyle}>
+            <li>
+              (2023){" "}
+              <b>
+                <i>Parfit</i>
+              </b>
+              , David Edmonds
+            </li>
+            <li>
+              (2023){" "}
+              <b>
+                <i>Politics on the Edge</i>
+              </b>
+              , Rory Stewart
+            </li>
+            <li>
+              (2020){" "}
+              <b>
+                <i>Frank Ramsey</i>
+              </b>
+              , Cheryl Misak
+            </li>
+            <li>
+              (2018){" "}
+              <b>
+                <i>Churchill</i>
+              </b>
+              , Andrew Roberts
+            </li>
+            <li>
+              (2017){" "}
+              <b>
+                <i>Leonardo da Vinci</i>
+              </b>
+              , Walter Isaacson
+            </li>
+            <li>
+              (2016){" "}
+              <b>
+                <i>The Undoing Project</i>
+              </b>
+              , Michael Lewis
+            </li>
+            <li>
+              (2015){" "}
+              <b>
+                <i>On the Move</i>
+              </b>
+              , Oliver Sacks
+            </li>
+            <li>
+              (2009-2011){" "}
+              <b>
+                <i>My Struggle</i>
+              </b>
+              , Karl Ove Knausgård
+            </li>
             <ul>
-              <li>I've only read the first two volumes so far.</li>
+              <li>Read first two so far.</li>
             </ul>
-            <li>On the Move &#124; Oliver Sacks</li>
-            <li>Virginia Woolf &#124; Hermione Lee</li>
-            <li>The Benn Diaries &#124; Tony Benn</li>
-            <li>In Search of Memory &#124; Eric Kandel</li>
-          </ul>
+            <li>
+              (2006){" "}
+              <b>
+                <i>In Search of Memory</i>
+              </b>
+              , Eric Kandel
+            </li>
+            <li>
+              (2003){" "}
+              <b>
+                <i>Benjamin Franklin</i>
+              </b>
+              , Walter Isaacson
+            </li>
+            <li>
+              (1996){" "}
+              <b>
+                <i>Virginia Woolf</i>
+              </b>
+              , Hermione Lee
+            </li>
+            <li>
+              (1974){" "}
+              <b>
+                <i>The Power Broker</i>
+              </b>
+              , Robert Caro
+            </li>
+            <li>
+              (1933){" "}
+              <b>
+                <i>Down and Out in Paris and London</i>
+              </b>
+              , George Orwell
+            </li>
+            {/* <li>The Benn Diaries &#124; Tony Benn</li> */}
+          </ol>
         </NeutralBox>
 
         {/* <NeutralBox recCat={"lit"}>
                     <h2><span><span style={{color:"#FF851B"}}>Literature</span></span>: Compilations</h2>
                     <ul>
                         <li>ESSAYS</li>
-                        <li>The Portable Atheist &#124; Christopher Hitchens</li>
+                        (2007) Cultural Amnesia, Clive James
                         <ul>
                             <li>I promise the content is better than the title.</li>
                         </ul>
+                        <li>(2007) <b><i>The Portable Atheist</i></b>, ed. Christopher Hitchens</li>
                         <li>Essais &#124; Michel de Montaigne</li>
                         <li>Mortal Questions &#124; Thomas Nagel</li>
                         <li>Against Interpretation and Other Essays &#124; Susan Sontag</li>
@@ -383,123 +700,645 @@ function Recommendations() {
           <h2>
             <span style={{ color: "#FF851B" }}>Literature</span>: Non-Fiction
           </h2>
-          <ul>
-            <li>Quantum Computing Since Democritus &#124; Scott Aaronson</li>
+
+          <p>
+            I began writing the list below based on what popped into my head and
+            what I could see on my shelf... and then I realised this task is
+            absolutely hopeless. So I gave up. Still, I highly recommend
+            everything below. You can also check out my{" "}
+            <a href="https://www.goodreads.com/user/show/23882279-joe">
+              Goodreads
+            </a>
+            .
+          </p>
+          <br />
+          <ol style={olStyle}>
             <li>
-              &#123; The Beginning of Infinity, The Fabric of Reality &#125;
-              &#124; David Deutsch
+              (2023){" "}
+              <b>
+                <i>Humanly Possible</i>
+              </b>
+              , Sarah Bakewell
             </li>
             <li>
-              &#123; The Stuff of Thought, The Language Instinct &#125; &#124;
-              Steven Pinker
+              (2022){" "}
+              <b>
+                <i>What We Owe the Future</i>
+              </b>
+              , William MacAskill
             </li>
             <li>
-              Foundations of Language: Brain, Meaning, Grammar, Evolution &#124;
-              Ray Jackendoff{" "}
-            </li>
-            <li>What Is Thought? &#124; Eric Baum</li>
-            <li>Superintelligence &#124; Nick Bostrom</li>
-            <li>The Alignment Problem &#124; Brian Christian</li>
-            <li>Gödel, Escher, Bach &#124; Douglas Hofstadter</li>
-            <li>
-              &#123; Code, The Annotated Turing &#125; &#124; Charles Petzold
-            </li>
-            <li>How to Measure Anything &#124; Douglas Hubbard</li>
-            <li>
-              How to Win Friends and Influence People &#124; Dale Carnegie
-            </li>
-            <li>The Flight of the Garuda &#124; Keith Dowman</li>
-            <li>On Having No Head &#124; Douglas Harding</li>
-            <li>Waking Up &#124; Sam Harris</li>
-            <li>Consciousness and the Brain &#124; Stanislas Dehaene</li>
-            <li>The Symbolic Species &#124; Terrence Deacon</li>
-            <li>The Organization of Learning &#124; C. Randy Gallistel</li>
-            <li>What Makes Us Smart &#124; Sam Gershman</li>
-            <li>The Principles of Psychology &#124; William James</li>
-            <li>How the Mind Works &#124; Steven Pinker</li>
-            <li>
-              &#123; The Man Who Mistook His Wife For A Hat, Awakenings, An
-              Anthropologist on Mars, Hallucinations, Seeing Voices &#125;
-              &#124; Oliver Sacks
+              (2021){" "}
+              <b>
+                <i>What Makes Us Smart</i>
+              </b>
+              , Sam Gershman
             </li>
             <li>
-              &#123; The Noonday Demon, Far From the Tree &#125; &#124; Andrew
-              Solomon
-            </li>
-            <li>The Evolution of Cooperation &#124; Robert Axelrod</li>
-            <li>The Selfish Gene &#124; Richard Dawkins</li>
-            <li>
-              Evolution: A View from the 21st Century &#124; James Shapiro
+              (2020){" "}
+              <b>
+                <i>How Innovation Works</i>
+              </b>
+              , Matt Ridley
             </li>
             <li>
-              &#123; Confessions, The City of God &#125; &#124; Augustine of
-              Hippo
-            </li>
-            <li>The Conscious Mind &#124; David Chalmers</li>
-            <li>Against Method &#124; Paul Feyerabend</li>
-            <li>Fact, Fiction, and Forecast &#124; Nelson Goodman</li>
-            <li>Studies in the Way of Words &#124; Paul Grice</li>
-            <li>A Treatise of Human Nature &#124; David Hume</li>
-            <li>
-              &#123; Doing Good Better, What We Owe the Future &#125; &#124;
-              William MacAskill
-            </li>
-            <li>After Virtue &#124; Alasdair MacIntyre</li>
-            <li>
-              &#123; Beyond Good and Evil, Daybreak &#125; &#124; Friedrich
-              Nietzsche
-            </li>
-            <li>The Precipice &#124; Toby Ord</li>
-            <li>Reasons and Persons &#124; Derek Parfit</li>
-            <li>
-              &#123; Word and Object, From a Logical Point of View &#125; &#124;
-              Willard Van Orman Quine
-            </li>
-            <li>The Methods of Ethics &#124; Henry Sidgwick</li>
-            <li>
-              &#123; Tractatus Logico-Philosophicus, Philosophical
-              Investigations &#125; &#124; Ludwig Wittgenstein
-            </li>
-            <li>Guns, Germs, and Steel &#124; Jared Diamond</li>
-            <li>
-              &#123; The Origins of Political Order, Political Order and
-              Political Decay &#125; &#124; Francis Fukuyama
+              (2020){" "}
+              <b>
+                <i>The Precipice</i>
+              </b>
+              , Toby Ord
             </li>
             <li>
-              &#123; The Secret of Our Success, The WEIRDest People in the World
-              &#125; &#124; Joseph Henrich
-            </li>
-            <li>The Dead Hand &#124; David Hoffman</li>
-            <li>Why We're Polarized &#124; Ezra Klein</li>
-            <li>
-              &#123; The History of Modern Britain, The Making of Modern
-              Britain, A History of the World &#125; &#124; Andrew Marr
-            </li>
-            <li>Coming Apart &#124; Charles Murray</li>
-            <li>
-              &#123; The Better Angels of Our Nature, Englightenment Now &#125;
-              &#124; Steven Pinker
-            </li>
-            <li>&#123; Bowling Alone, Our Kids &#125; &#124; Robert Putnam</li>
-            <li>The Strategy of Conflict &#124; Thomas Schelling</li>
-            <li>
-              Capitalism, Socialism, and Democracy &#124; Joseph Schumpeter
+              (2020){" "}
+              <b>
+                <i>The WEIRDest People in the World</i>
+              </b>
+              , Joseph Henrich
             </li>
             <li>
-              &#123; The Sinner and the Saint, The Most Dangerous Book &#125;
-              &#124; Kevin Birmingham
+              (2020){" "}
+              <b>
+                <i>Why We're Polarized</i>
+              </b>
+              , Ezra Klein
             </li>
             <li>
-              &#123; Shakespeare: The Invention of the Human, How to Read and
-              Why &#125; &#124; Harold Bloom
+              (2018){" "}
+              <b>
+                <i>Enlightenment Now</i>
+              </b>
+              , Steven Pinker
             </li>
-            <li>Cultural Amnesia &#124; Clive James</li>
-            <li>Strangers Drowning &#124; Larissa MacFarquhar</li>
-            <li>The Peregrine &#124; J. A. Baker</li>
-          </ul>
+            <li>
+              (2018){" "}
+              <b>
+                <i>Whiteshift</i>
+              </b>
+              , Eric Kaufmann
+            </li>
+            <li>
+              (2017){" "}
+              <b>
+                <i>The Color of Law</i>
+              </b>
+              , Richard Rothstein
+            </li>
+            <li>
+              (2016){" "}
+              <b>
+                <i>Evicted</i>
+              </b>
+              , Matthew Desmond
+            </li>
+            <li>
+              (2015){" "}
+              <b>
+                <i>Doing Good Better</i>
+              </b>
+              , William MacAskill
+            </li>
+            <li>
+              (2015){" "}
+              <b>
+                <i>The Secret of Our Success</i>
+              </b>
+              , Joseph Henrich
+            </li>
+            <li>
+              (2015){" "}
+              <b>
+                <i>Strangers Drowning</i>
+              </b>
+              , Larissa MacFarquhar
+            </li>
+            <li>
+              (2015){" "}
+              <b>
+                <i>Our Kids</i>
+              </b>
+              , Robert Putnam
+            </li>
+            <li>
+              (2014){" "}
+              <b>
+                <i>Consciousness and the Brain</i>
+              </b>
+              , Stanislas Dehaene
+            </li>
+            <li>
+              (2014){" "}
+              <b>
+                <i>How to Measure Anything</i>
+              </b>
+              , Douglas Hubbard
+            </li>
+            <li>
+              (2014){" "}
+              <b>
+                <i>Political Order and Political Decay</i>
+              </b>
+              , Francis Fukuyama
+            </li>
+            <li>
+              (2014){" "}
+              <b>
+                <i>Superintelligence</i>
+              </b>
+              , Nick Bostrom
+            </li>
+            <li>
+              (2014){" "}
+              <b>
+                <i>Waking Up</i>
+              </b>
+              , Sam Harris
+            </li>
+            <li>
+              (2013){" "}
+              <b>
+                <i>Quantum Computing Since Democritus</i>
+              </b>
+              , Scott Aaronson
+            </li>
+            <li>
+              (2012){" "}
+              <b>
+                <i>Coming Apart</i>
+              </b>
+              , Charles Murray
+            </li>
+            <li>
+              (2012){" "}
+              <b>
+                <i>Far From the Tree</i>
+              </b>
+              , Andrew Solomon
+            </li>
+            <li>
+              (2012){" "}
+              <b>
+                <i>Why Nations Fail</i>
+              </b>
+              , Daron Acemoglu and James Robinson
+            </li>
+            <li>
+              (2011){" "}
+              <b>
+                <i>The Beginning of Infinity</i>
+              </b>
+              , David Deutsch
+            </li>
+            <li>
+              (2011){" "}
+              <b>
+                <i>The Better Angels of Our Nature</i>
+              </b>
+              , Steven Pinker
+            </li>
+            {/* <li>(2011) <b><i>Evolution: A View from the 21st Century</i></b>, James Shapiro</li> */}
+            <li>
+              (2011){" "}
+              <b>
+                <i>The Origins of Political Order</i>
+              </b>
+              , Francis Fukuyama
+            </li>
+            <li>
+              (2011){" "}
+              <b>
+                <i>Thinking, Fast and Slow</i>
+              </b>
+              , Daniel Kahneman
+            </li>
+            <li>
+              (2010){" "}
+              <b>
+                <i>At Home</i>
+              </b>
+              , Bill Bryson
+            </li>
+            <li>
+              (2010){" "}
+              <b>
+                <i>The Emperor of All Maladies</i>
+              </b>
+              , Siddhartha Mukherjee
+            </li>
+            <li>
+              (2009){" "}
+              <b>
+                <i>The Dead Hand</i>
+              </b>
+              , David Hoffman
+            </li>
+            <li>
+              (2009){" "}
+              <b>
+                <i>Life Ascending</i>
+              </b>
+              , Nick Lane
+            </li>
+            <li>
+              (2008){" "}
+              <b>
+                <i>The Annotated Turing</i>
+              </b>
+              , Charles Petzold
+            </li>
+            <li>
+              (2007){" "}
+              <b>
+                <i>A History of Modern Britain</i>
+              </b>
+              , Andrew Marr
+            </li>
+            <li>
+              (2007){" "}
+              <b>
+                <i>The Stuff of Thought</i>
+              </b>
+              , Steven Pinker
+            </li>
+            <li>
+              (2005){" "}
+              <b>
+                <i>Team of Rivals</i>
+              </b>
+              , Doris Kearns Goodwin
+            </li>
+            <li>
+              (2004){" "}
+              <b>
+                <i>What Is Thought?</i>
+              </b>
+              , Eric Baum
+            </li>
+            <li>
+              (2002){" "}
+              <b>
+                <i>Foundations of Language</i>
+              </b>
+              , Ray Jackendoff
+            </li>
+            <li>
+              (2001){" "}
+              <b>
+                <i>The Metaphysical Club</i>
+              </b>
+              , Louis Menand
+            </li>
+            <li>
+              (2001){" "}
+              <b>
+                <i>The Noonday Demon</i>
+              </b>
+              , Andrew Solomon
+            </li>
+            <li>
+              (2000){" "}
+              <b>
+                <i>Bowling Alone</i>
+              </b>
+              , Robert Putnam
+            </li>
+            {/* <li>(2000) <b><i>How to Read and Why</i></b>, Harold Bloom</li> */}
+            <li>
+              (1999){" "}
+              <b>
+                <i>Code</i>
+              </b>
+              , Charles Petzold
+            </li>
+            <li>
+              (1998){" "}
+              <b>
+                <i>Shakespeare: The Invention of the Human</i>
+              </b>
+              , Harold Bloom
+            </li>
+            <li>
+              (1997){" "}
+              <b>
+                <i>The Fabric of Reality</i>
+              </b>
+              , David Deutsch
+            </li>
+            <li>
+              (1997){" "}
+              <b>
+                <i>Guns, Germs, and Steel</i>
+              </b>
+              , Jared Diamond
+            </li>
+            <li>
+              (1997){" "}
+              <b>
+                <i>How the Mind Works</i>
+              </b>
+              , Steven Pinker
+            </li>
+            <li>
+              (1997){" "}
+              <b>
+                <i>The Symbolic Species</i>
+              </b>
+              , Terrence Deacon
+            </li>
+            <li>
+              (1996){" "}
+              <b>
+                <i>The Conscious Mind</i>
+              </b>
+              , David Chalmers
+            </li>
+            <li>
+              (1994){" "}
+              <b>
+                <i>The Language Instinct</i>
+              </b>
+              , Steven Pinker
+            </li>
+            <li>
+              (1993){" "}
+              <b>
+                <i>The Flight of the Garuda</i>
+              </b>
+              , Keith Dowman
+            </li>
+            <li>
+              (1992){" "}
+              <b>
+                <i>The Lever of Riches</i>
+              </b>
+              , Joel Mokyr
+            </li>
+            {/* <li>(1990) <b><i>The Organization of Learning</i></b>, Randy Gallistel</li> */}
+            <li>
+              (1989){" "}
+              <b>
+                <i>Seeing Voices</i>
+              </b>
+              , Oliver Sacks
+            </li>
+            <li>
+              (1989){" "}
+              <b>
+                <i>Studies in the Way of Words</i>
+              </b>
+              , Paul Grice
+            </li>
+            <li>
+              (1985){" "}
+              <b>
+                <i>The Man Who Mistook His Wife For A Hat</i>
+              </b>
+              , Oliver Sacks
+            </li>
+            <li>
+              (1984){" "}
+              <b>
+                <i>The Evolution of Cooperation</i>
+              </b>
+              , Robert Axelrod
+            </li>
+            <li>
+              (1984){" "}
+              <b>
+                <i>Reasons and Persons</i>
+              </b>
+              , Derek Parfit
+            </li>
+            <li>
+              (1981){" "}
+              <b>
+                <i>After Virtue</i>
+              </b>
+              , Alasdair MacIntyre
+            </li>
+            <li>
+              (1980){" "}
+              <b>
+                <i>Naming and Necessity</i>
+              </b>
+              , Saul Kripke
+            </li>
+            <li>
+              (1979){" "}
+              <b>
+                <i>Gödel, Escher, Bach</i>
+              </b>
+              , Douglas Hofstadter
+            </li>
+            <li>
+              (1976){" "}
+              <b>
+                <i>The Selfish Gene</i>
+              </b>
+              , Richard Dawkins
+            </li>
+            <li>
+              (1975){" "}
+              <b>
+                <i>Against Method</i>
+              </b>
+              , Paul Feyerabend
+            </li>
+            <li>
+              (1973){" "}
+              <b>
+                <i>Awakenings</i>
+              </b>
+              , Oliver Sacks
+            </li>
+            <li>
+              (1973){" "}
+              <b>
+                <i>The Gulag Archipelago</i>
+              </b>
+              , Alexander Solzhenitseyn
+            </li>
+            <li>
+              (1967){" "}
+              <b>
+                <i>The Peregrine</i>
+              </b>
+              , J. A. Baker
+            </li>
+            <li>
+              (1964){" "}
+              <b>
+                <i>Why We Can't Wait</i>
+              </b>
+              , Martin Luther King Jr.
+            </li>
+            <li>
+              (1962){" "}
+              <b>
+                <i>The Structure of Scientific Revolutions</i>
+              </b>
+              , Thomas Kuhn
+            </li>
+            <li>
+              (1961){" "}
+              <b>
+                <i>On Having No Head</i>
+              </b>
+              , Douglas Harding
+            </li>
+            <li>
+              (1960){" "}
+              <b>
+                <i>The Strategy of Conflict</i>
+              </b>
+              , Thomas Schelling
+            </li>
+            <li>
+              (1960){" "}
+              <b>
+                <i>Word and Object</i>
+              </b>
+              , Willard Van Orman Quine
+            </li>
+            <li>
+              (1955){" "}
+              <b>
+                <i>Fact, Fiction, and Forecast</i>
+              </b>
+              , Nelson Goodman
+            </li>
+            {/* <li>(1953) <b><i>From a Logical Point of View</i></b>, Willard Van Orman Quine</li> */}
+            <li>
+              (1953){" "}
+              <b>
+                <i>Philosophical Investigations</i>
+              </b>
+              , Ludwig Wittgenstein
+            </li>
+            <li>
+              (1950){" "}
+              <b>
+                <i>The Story of Art</i>
+              </b>
+              , E. H. Gombrich
+            </li>
+            <li>
+              (1942){" "}
+              <b>
+                <i>Capitalism, Socialism, and Democracy</i>
+              </b>
+              , Joseph Schumpeter
+            </li>
+            <li>
+              (1936){" "}
+              <b>
+                <i>How to Win Friends and Influence People</i>
+              </b>
+              , Dale Carnegie
+            </li>
+            <li>
+              (1890){" "}
+              <b>
+                <i>The Principles of Psychology</i>
+              </b>
+              , William James
+            </li>
+            <li>
+              (1886){" "}
+              <b>
+                <i>Beyond Good and Evil</i>
+              </b>
+              , Friedrich Nietzsche
+            </li>
+            <li>
+              (1881){" "}
+              <b>
+                <i>Daybreak</i>
+              </b>
+              , Friedrich Nietzsche
+            </li>
+            <li>
+              (1874){" "}
+              <b>
+                <i>The Methods of Ethics</i>
+              </b>
+              , Henry Sidgwick
+            </li>
+            <li>
+              (1859){" "}
+              <b>
+                <i>On Liberty</i>
+              </b>
+              , John Stuart Mill
+            </li>
+            <li>
+              (1859){" "}
+              <b>
+                <i>On the Origin of Species</i>
+              </b>
+              , Charles Darwin
+            </li>
+            <li>
+              (1840){" "}
+              <b>
+                <i>Democracy in America</i>
+              </b>
+              , Alexis de Tocqueville
+            </li>
+            <li>
+              (1776){" "}
+              <b>
+                <i>The Wealth of Nations</i>
+              </b>
+              , Adam Smith
+            </li>
+            <li>
+              (1759){" "}
+              <b>
+                <i>The Theory of Moral Sentiments</i>
+              </b>
+              , Adam Smith
+            </li>
+            <li>
+              (1739){" "}
+              <b>
+                <i>A Treatise of Human Nature</i>
+              </b>
+              , David Hume
+            </li>
+            <li>
+              (426){" "}
+              <b>
+                <i>The City of God</i>
+              </b>
+              , Augustine of Hippo
+            </li>
+            <li>
+              (400){" "}
+              <b>
+                <i>Confessions</i>
+              </b>
+              , Augustine of Hippo
+            </li>
+            {/* <li>Siddhartha Mukherjee</li>
+            <li>Ed Yong</li>
+            <li>Elizabeth Kolbert</li>
+            <li>Rachel Carson</li>
+            <li>Primo Levi</li>
+            <li>AR Luria</li>
+            <li>Sean Carroll</li>
+            <li>Carl Sagan</li>
+            <li>Bill Bryson</li>
+            <li>Yuval Noah Harari</li>
+            <li>Matt Ridley</li>
+            <li>David Reich</li>
+            <li>Carl Zimmer</li>
+            <li>Richard Dawkins</li>
+            <li>Simone Weil</li>
+            <li>Stephen Jay Gould</li> */}
+          </ol>
         </NeutralBox>
 
-        <NeutralBox recCat={"lit"}>
+        {/* <NeutralBox recCat={"lit"}>
           <h2>
             <span style={{ color: "#FF851B" }}>Literature</span>: Drama
           </h2>
@@ -510,7 +1349,6 @@ function Recommendations() {
               &#123;The Leenane Trilogy, The Aran Trilogy, The Pillowman &#125;
               &#124; Martin McDonagh
             </li>
-            {/* <li>Hedda Gabler &#124; Henrik Ibsen</li> */}
             <li>Who's Afraid of Virginia Woolf? &#124; Edward Albee</li>
             <li>
               &#123; The Crucible, Death of a Salesman &#125; &#124; Arthur
@@ -522,7 +1360,8 @@ function Recommendations() {
             </li>
             <li>...</li>
           </ul>
-          {/* <p>
+        </NeutralBox> */}
+        {/* <p>
             <i>
               Comparing drama on the stage and on the page is a difficult
               business. Great plays can be staged poorly, just as extraordinary
@@ -538,9 +1377,9 @@ function Recommendations() {
             <li>The Burnt City, Punchdrunk</li>
             <li>...?</li>
           </ul> */}
-        </NeutralBox>
+        {/* <li>Hedda Gabler &#124; Henrik Ibsen</li> */}
 
-        <NeutralBox recCat={"lit"}>
+        {/* <NeutralBox recCat={"lit"}>
           <h2>
             <span style={{ color: "#FF851B" }}>Literature</span>: Verse
           </h2>
@@ -565,13 +1404,12 @@ function Recommendations() {
             <li>John Betjeman</li>
             <li>...</li>
           </ul>
-        </NeutralBox>
+        </NeutralBox> */}
 
-        <NeutralBox recCat={"lit"}>
+        {/* <NeutralBox recCat={"lit"}>
           <h2>
             <span style={{ color: "#FF851B" }}>Literature</span>: Technical
           </h2>
-          {/* LOGIC? MATHS? STATS? CS? PHIL? ARTS? BIO? */}
           <ul>
             <li>
               <b>Biology</b>
@@ -633,302 +1471,388 @@ function Recommendations() {
               </li>
               <li>Reinforcement Learning &#124; Sutton & Barto</li>
             </ul>
-            {/* <li>Information Theory, Inference, and Learning Algorithms &#124; David MacKay</li> */}
-            {/* <li>Probability Theory: The Logic of Science &#124; E. T. Jaynes</li> */}
-
-            {/* <li>Principles of Cognitive Neuroscience &#124; Dale Purves et al. </li> */}
           </ul>
-        </NeutralBox>
+        </NeutralBox> */}
+        {/* <li>Information Theory, Inference, and Learning Algorithms &#124; David MacKay</li> */}
+        {/* <li>Principles of Cognitive Neuroscience &#124; Dale Purves et al. </li> */}
+        {/* <li>Probability Theory: The Logic of Science &#124; E. T. Jaynes</li> */}
+        {/* LOGIC? MATHS? STATS? CS? PHIL? ARTS? BIO? */}
 
         <NeutralBox recCat={"scr"}>
           <h2>
             <span style={{ color: "#2ECC40" }}>Screen</span>: Narrative Films
           </h2>
-
-          <ul>
+          <p style={{ fontSize: "1.1rem" }}>
+            <i>101 of my favourite films, as of March 2024.</i>
+          </p>
+          <br />
+          <ol style={olStyle}>
             <li>
-              <b>Paul Thomas Anderson</b>
+              (2023) <b>Past Lives</b>, Celine Song
             </li>
-            <ul>
-              <li>There Will Be Blood</li>
-              <li>Phantom Thread</li>
-              {/* <li>Punch-Drunk Love</li> */}
-            </ul>
             <li>
-              <b>Wes Anderson</b>
+              (2021) <b>Boiling Point</b>, Philip Barantini
             </li>
-            <ul>
-              <li>The Grand Budapest Hotel</li>
-            </ul>
             <li>
-              <b>Ingmar Bergman</b>
+              (2020) <b>Nomadland</b>, Chloé Zhao
             </li>
-            <ul>
-              <li>Persona</li>
-            </ul>
             <li>
-              <b>Bong Joon-ho</b>
+              (2019) <b>A Hidden Life</b>, Terrence Malick
             </li>
-            <ul>
-              <li>Parasite</li>
-            </ul>
             <li>
-              <b>The Coen Brothers</b>
+              (2019) <b>Parasite</b>, Bong Joon Ho
             </li>
-            <ul>
-              <li>Fargo</li>
-              <li>No Country for Old Men</li>
-            </ul>
             <li>
-              <b>Francis Ford Coppola</b>
+              (2018) <b>The Favourite</b>, Yorgos Lanthimos
             </li>
-            <ul>
-              <li>The Godfather Part I</li>
-              <li>The Godfather Part II</li>
-              <li>Apocalypse Now (Final Cut)</li>
-            </ul>
             <li>
-              <b>Sofia Coppola</b>
+              (2017) <b>Dunkirk</b>, Christopher Nolan
             </li>
-            <ul>
-              <li>Lost in Translation</li>
-            </ul>
             <li>
-              <b>Federico Fellini</b>
+              (2017) <b>Get Out</b>, Jordan Peele
             </li>
-            <ul>
-              <li>8&frac12;</li>
-            </ul>
             <li>
-              <b>Terry Gilliam</b>
+              (2017) <b>Phantom Thread</b>, Paul Thomas Anderson
             </li>
-            <ul>
-              <li>Brazil</li>
-            </ul>
             <li>
-              <b>Michel Gondry</b>
+              (2017) <b>Three Billboards Outside Ebbing, Missouri</b>, Martin
+              McDonagh
             </li>
-            <ul>
-              <li>Eternal Sunshine of the Spotless Mind</li>
-            </ul>
+            {/* <li>(2015) <b>45 Years</b>, Andrew Haigh</li> */}
+            {/* <li>(2015) <b>Mad Max: Fury Road</b>, George Miller</li> */}
             <li>
-              <b>Werner Herzog</b>
+              (2015) <b>The Revenant</b>, Alejandro Iñárritu
             </li>
-            <ul>
-              <li>Aguirre, Wrath of God</li>
-              <li>Fitzcarraldo</li>
-            </ul>
+            {/* <li>(2014) <b>Calvary</b>, John Michael McDonagh</li> */}
             <li>
-              <b>Alfred Hitchcock</b>
+              (2014) <b>Force Majeure</b>, Ruben Östlund
             </li>
-            <ul>
-              <li>Rear Window</li>
-              <li>North by Northwest</li>
-            </ul>
             <li>
-              <b>Alejandro Iñárritu</b>
-            </li>
-            <ul>
-              <li>The Revenant</li>
-            </ul>
+              (2014) <b>Gone Girl</b>, David Fincher
+            </li>{" "}
+            {/* next */}
             <li>
-              <b>Spike Jonze</b>
+              (2014) <b>The Grand Budapest Hotel</b>, Wes Anderson
             </li>
-            <ul>
-              <li>Her</li>
-            </ul>
             <li>
-              <b>Charlie Kaufman</b>
+              (2013) <b>12 Years a Slave</b>, Steve McQueen
             </li>
-            <ul>
-              <li>Synecdoche, New York</li>
-            </ul>
             <li>
-              <b>Buster Keaton</b>
+              (2013) <b>Her</b>, Spike Jonze
             </li>
-            <ul>
-              <li>The General</li>
-            </ul>
             <li>
-              <b>Gene Kelly, Stanley Donen</b>
+              (2013) <b>Under the Skin</b>, Jonathan Glazer
             </li>
-            <ul>
-              <li>Singin' in the Rain</li>
-            </ul>
             <li>
-              <b>Stanley Kubrick</b>
+              (2011) <b>Crazy, Stupid, Love</b>, Glenn Ficarra and John Requa
             </li>
-            <ul>
-              <li>2001: A Space Odyssey</li>
-              <li>Barry Lyndon</li>
-              <li>Dr. Strangelove</li>
-            </ul>
             <li>
-              <b>Akira Kurosawa</b>
+              (2011) <b>Drive</b>, Nicolas Winding Refn
             </li>
-            <ul>
-              <li>Ikiru</li>
-              <li>Seven Samurai</li>
-              <li>Throne of Blood</li>
-            </ul>
             <li>
-              <b>Yorgos Lanthimos</b>
+              (2011) <b>Melancholia</b>, Lars von Trier
             </li>
-            <ul>
-              <li>The Favourite</li>
-            </ul>
             <li>
-              <b>David Lean</b>
+              (2011) <b>The Tree of Life</b>, Terrence Malick
             </li>
-            <ul>
-              <li>Lawrence of Arabia</li>
-            </ul>
             <li>
-              <b>Sergio Leone</b>
+              (2010) <b>Inception</b>, Christopher Nolan
             </li>
-            <ul>
-              <li>Once Upon A Time in the West</li>
-            </ul>
             <li>
-              <b>Terrence Malick</b>
+              (2008) <b>In Bruges</b>, Martin McDonagh
             </li>
-            <ul>
-              <li>The Thin Red Line</li>
-              <li>The Tree of Life</li>
-              <li>A Hidden Life</li>
-              <li>The New World</li>
-            </ul>
-            {/* <li><b>John Michael McDonagh</b></li>
-              <ul>
-                <li>Calvary</li>
-                <li>The Forgiven</li>
-              </ul> */}
             <li>
-              <b>Michael Mann</b>
+              (2008) <b>Synecdoche, New York</b>, Charlie Kaufman
             </li>
-            <ul>
-              <li>Heat</li>
-            </ul>
             <li>
-              <b>Martin McDonagh</b>
+              (2007) <b>No Country for Old Men</b>, Joel and Ethan Coen
             </li>
-            <ul>
-              <li>In Bruges</li>
-              <li>Three Billboards Outside Ebbing, Missouri</li>
-            </ul>
             <li>
-              <b>Christopher Nolan</b>
+              (2007) <b>There Will Be Blood</b>, Paul Thomas Anderson
             </li>
-            <ul>
-              <li>Memento</li>
-              <li>Inception</li>
-              <li>Dunkirk</li>
-            </ul>
             <li>
-              <b>Yasujirō Ozu</b>
+              (2007) <b>Zodiac</b>, David Fincher
             </li>
-            <ul>
-              <li>Tokyo Story</li>
-            </ul>
             <li>
-              <b>Martin Scorsese</b>
+              (2006) <b>The Departed</b>, Martin Scorsese
             </li>
-            <ul>
-              <li>Taxi Driver</li>
-              <li>Raging Bull</li>
-              <li>The Departed</li>
-              <li>Goodfellas</li>
-            </ul>
             <li>
-              <b>Quentin Tarantino</b>
+              (2005) <b>The New World</b>, Terrence Malick
             </li>
-            <ul>
-              <li>Reservoir Dogs</li>
-              <li>Pulp Fiction</li>
-              <li>Inglourious Basterds</li>
-              <li>Once Upon A Time in Hollywood</li>
-            </ul>
             <li>
-              <b>Francois Truffaut</b>
+              (2004) <b>Eternal Sunshine of the Spotless Mind</b>, Michel Gondry
             </li>
-            <ul>
-              <li>The 400 Blows</li>
-            </ul>
             <li>
-              <b>Denis Villeneuve</b>
+              (2004) <b>Shaun of the Dead</b>, Edgar Wright
             </li>
-            <ul>
-              <li>Prisoners</li>
-            </ul>
             <li>
-              <b>The Wachowskis</b>
+              (2003) <b>Lost in Translation</b>, Sofia Coppola
             </li>
-            <ul>
-              <li>The Matrix</li>
-            </ul>
             <li>
-              <b>Orson Welles</b>
+              (2001) <b>Mulholland Dr.</b>, David Lynch
             </li>
-            <ul>
-              <li>Citizen Kane</li>
-            </ul>
             <li>
-              <b>Billy Wilder</b>
+              (2001) <b>Training Day</b>, Antoine Fuqua
             </li>
-            <ul>
-              <li>Some Like It Hot</li>
-              <li>The Apartment</li>
-            </ul>
-          </ul>
-          {/* <li>Drive &#124; Nicolas Winding Refn</li> */}
-          <li>...</li>
-          {/* David Lynch? Blue Velvet, Mulholland Drive, Eraserhead */}
-          {/* Moonlight? */}
-          {/* The Third Man? */}
-          {/* The General? */}
-          {/* Mad Max: Fury Road? */}
+            <li>
+              (2000) <b>Crouching Tiger, Hidden Dragon</b>, Ang Lee
+            </li>{" "}
+            {/* next */}
+            <li>
+              (2000) <b>Memento</b>, Christopher Nolan
+            </li>
+            <li>
+              (1999) <b>Beau Travail</b>, Claire Denis
+            </li>
+            <li>
+              (1999) <b>The Matrix</b>, The Wachowskis
+            </li>
+            <li>
+              (1999) <b>Notting Hill</b>, Roger Michell
+            </li>
+            <li>
+              (1998) <b>Saving Private Ryan</b>, Steven Spielberg
+            </li>
+            <li>
+              (1998) <b>The Thin Red Line</b>, Terrence Malick
+            </li>
+            <li>
+              (1996) <b>Fargo</b>, Joel and Ethan Coen
+            </li>
+            <li>
+              (1995) <b>Casino</b>, Martin Scorsese {/* next */}
+            </li>
+            <li>
+              (1995) <b>Heat</b>, Michael Mann
+            </li>
+            <li>
+              (1993) <b>Groundhog Day</b>, Harold Ramis
+            </li>
+            <li>
+              (1994) <b>Pulp Fiction</b>, Quentin Tarantino
+            </li>
+            <li>
+              (1992) <b>Reservoir Dogs</b>, Quentin Tarantino
+            </li>
+            <li>
+              (1990) <b>Goodfellas</b>, Martin Scorsese
+            </li>
+            <li>
+              (1986) <b>Blue Velvet</b>, David Lynch
+            </li>
+            <li>
+              (1986) <b>She's Gotta Have It</b>, Spike Lee
+            </li>
+            <li>
+              (1985) <b>Brazil</b>, Terry Gilliam
+            </li>
+            <li>
+              (1985) <b>The Color Purple</b>, Steven Spielberg
+            </li>
+            <li>
+              (1982) <b>Fitzcarraldo</b>, Werner Herzog
+            </li>
+            <li>
+              (1980) <b>Raging Bull</b>, Martin Scorsese
+            </li>
+            <li>
+              (1979) <b>Apocalypse Now</b>, Francis Ford Coppola
+            </li>
+            <li>
+              (1979) <b>Monty Python's Life of Brian</b>, Terry Jones
+            </li>
+            <li>
+              (1977) <b>Annie Hall</b>, Woody Allen
+            </li>
+            <li>
+              (1976) <b>Network</b>, Sidney Lumet
+            </li>
+            <li>
+              (1976) <b>Taxi Driver</b>, Martin Scorsese
+            </li>
+            <li>
+              (1975) <b>Barry Lyndon</b>, Stanley Kubrick
+            </li>
+            <li>
+              (1974) <b>The Godfather Part II</b>, Francis Ford Coppola{" "}
+              {/* next */}
+            </li>
+            <li>
+              (1973) <b>The Long Goodbye</b>, Robert Altman
+            </li>
+            <li>
+              (1972) <b>Aguirre, the Wrath of God</b>, Werner Herzog
+            </li>
+            <li>
+              (1974) <b>The Godfather</b>, Francis Ford Coppola
+            </li>
+            <li>
+              (1972) <b>Last Tango in Paris</b>, Bernardo Bertolucci
+            </li>
+            <li>
+              (1968) <b>2001: A Space Odyssey</b>, Stanley Kubrick
+            </li>
+            <li>
+              (1968) <b>Once Upon a Time in the West</b>, Sergio Leone
+            </li>
+            <li>
+              (1967) <b>Playtime</b>, Jacques Tati
+            </li>
+            <li>
+              (1966) <b>Blow-Up</b>, Michelangelo Antonioni
+            </li>
+            <li>
+              (1966) <b>Persona</b>, Ingmar Bergman
+            </li>
+            <li>
+              (1964) <b>Dr. Strangelove</b>, Stanley Kubrick
+            </li>
+            <li>
+              (1963) <b>8&frac12;</b>, Federico Fellini
+            </li>
+            <li>
+              (1962) <b>Lawrence of Arabia</b>, David Lean
+            </li>
+            <li>
+              (1960) <b>The Apartment</b>, Billy Wilder
+            </li>
+            <li>
+              (1960) <b>L'Avventura</b>, Michelangelo Antonioni
+            </li>
+            <li>
+              (1960) <b>La Dolce Vita</b>, Federico Fellini
+            </li>
+            <li>
+              (1959) <b>North by Northwest</b>, Alfred Hitchcock
+            </li>
+            <li>
+              (1959) <b>The 400 Blows</b>, François Truffaut
+            </li>
+            <li>
+              (1959) <b>Some Like It Hot</b>, Billy Wilder
+            </li>
+            <li>
+              (1957) <b>12 Angry Men</b>, Sidney Lumet
+            </li>
+            <li>
+              (1957) <b>Throne of Blood</b>, Akira Kurosawa
+            </li>
+            <li>
+              (1954) <b>Rear Window</b>, Alfred Hitchcock
+            </li>
+            <li>
+              (1954) <b>Seven Samurai</b>, Akira Kurosawa
+            </li>
+            <li>
+              (1954) <b>Voyage to Italy</b>, Roberto Rossellini
+            </li>
+            <li>
+              (1953) <b>Tokyo Story</b>, Yasujirō Ozu
+            </li>
+            <li>
+              (1952) <b>Ikiru</b>, Akira Kurosawa
+            </li>
+            <li>
+              (1952) <b>Singin' in the Rain</b>, Gene Kelly and Stanley Donen
+            </li>
+            {/* <li>
+              (1949) <b>Late Spring</b>, Yasujirō Ozu
+            </li> */}
+            <li>
+              (1949) <b>The Third Man</b>, Carol Reed
+            </li>
+            <li>
+              (1948) <b>Bicycle Thieves</b>, Vittorio De Sica
+            </li>
+            <li>
+              (1948) <b>The Red Shoes</b>, Michael Powell and Emeric Pressburger
+            </li>
+            <li>
+              (1945) <b>Rome, Open City</b>, Roberto Rossellini
+            </li>
+            <li>
+              (1941) <b>Citizen Kane</b>, Orson Welles
+            </li>
+            <li>
+              (1940) <b>The Great Dictator</b>, Charlie Chaplin
+            </li>
+            <li>
+              (1939) <b>Wuthering Heights</b>, William Wyler
+            </li>
+            <li>
+              (1931) <b>M</b>, Fritz Lang
+            </li>
+            <li>
+              (1931) <b>City Lights</b>, Charlie Chaplin
+            </li>
+            <li>
+              (1928) <b>October: Ten Days That Shook the World</b>, Sergei
+              Eisenstein and Grigori Aleksandrov
+            </li>
+            <li>
+              (1927) <b>Metropolis</b>, Fritz Lang
+            </li>
+            <li>
+              (1926) <b>The General</b>, Buster Keaton
+            </li>
+            <li>
+              (1922) <b>Cops</b>, Buster Keaton
+            </li>{" "}
+            {/* next */}
+            <li>
+              (1920) <b>Neighbors</b>, Buster Keaton
+            </li>{" "}
+            {/* next */}
+          </ol>
+          {/* David Lynch: Mulholland Drive, Eraserhead? */}
           {/* Paisan? */}
-          {/* Get Out? */}
           {/* Duck Soup? */}
           {/* The Deer Hunter? */}
-          {/* Double Indemnity? */}
+          {/* Billy Wilder: Sunset Blvd., Double Indemnity? */}
           {/* Ran? */}
-          {/* Metropolis? */}
           {/* Collateral? */}
-          {/* Sunset Blvd.? */}
-          {/* The Good, the Bad and the Ugly? The Dollars Trilogy? */}
           {/* La Grande Illusion? */}
-          {/* La dolce vita? */}
-          {/* Ridley Scott? Blade Runner? */}
-          {/* The 400 Blows? Bicycle Thieves? */}
-          {/* <li>SAFDIE BROTHERS?</li> */}
-          {/* <li>HORROR? ARI ASTER? THE WITCH? THE LIGHTHOUSE? MIDSOMMAR?</li>              */}
+          {/* Safdie Brothers? */}
+          {/* Ari Aster: Midsommar, Hereditary, Beau Is Afraid? */}
+          {/* Robert Eggers: The Witch, The Lighthouse? */}
         </NeutralBox>
 
         <NeutralBox recCat={"scr"}>
           <h2>
             <span style={{ color: "#2ECC40" }}>Screen</span>: Documentary Films
           </h2>
-          <ul>
-            <li>Shoah | Claude Lanzmann</li>
-            <li>Touching the Void | Kevin Macdonald</li>
+          <ol style={olStyle}>
             <li>
-              The Fire Within: A Requiem for Katia and Maurice Krafft | Werner
-              Herzog
+              (2022){" "}
+              <b>The Fire Within: A Requiem for Katia and Maurice Krafft</b>,
+              Werner Herzog
             </li>
-            <li>Bowling for Columbine | Michael Moore</li>
-            <li>...</li>
+            <li>
+              (2012) <b>The Act of Killing</b>, Joshua Oppenheimer
+            </li>
+            <li>
+              (2003) <b>Touching the Void</b>, Kevin Macdonald
+            </li>
+            <li>
+              (2002) <b>Bowling for Columbine</b>, Michael Moore
+            </li>
+            <li>
+              (2000) <b>The Gleaners and I</b>, Agnès Varda
+            </li>
+            <li>
+              (1998) <b>The Last Days</b>, James Moll
+            </li>
+            <li>
+              (1985) <b>Shoah</b>, Claude Lanzmann
+            </li>
+            <li>
+              (1977) <b>Pumping Iron</b>, George Butler and Robert Fiore
+            </li>
             {/* <li>
                 <a href="https://en.wikipedia.org/wiki/Hearts_of_Darkness:_A_Filmmaker%27s_Apocalypse">
                   Hearts of Darkness: A Filmmaker's Apocalypse
                 </a>{" "}
                 | George Hickenlooper, Fax Bahr, Eleanor Coppola
-              </li> */}
-            {/* <li>
-                <a href="https://en.wikipedia.org/wiki/Pumping_Iron">
-                  Pumping Iron
-                </a>{" "}
-                | George butler, Robert Fiore
               </li> */}
             {/* <li>
                 <a href="https://en.wikipedia.org/wiki/The_Fog_of_War">
@@ -942,7 +1866,7 @@ function Recommendations() {
                 </a>{" "}
                 | Steve James
               </li> */}
-          </ul>
+          </ol>
         </NeutralBox>
 
         {/* <NeutralBox recCat={"scr"}>
@@ -964,7 +1888,7 @@ function Recommendations() {
                     </ul>
                 </NeutralBox> */}
 
-        <NeutralBox recCat={"scr"}>
+        {/* <NeutralBox recCat={"scr"}>
           <h2>
             <span style={{ color: "#2ECC40" }}>Screen</span>: Game Shows
           </h2>
@@ -991,7 +1915,7 @@ function Recommendations() {
               &#124; Peter Holmes
             </li>
           </ul>
-        </NeutralBox>
+        </NeutralBox> */}
 
         {/* <NeutralBox recCat={"scr"}>
                     <h2><span style={{color:"#2ECC40"}}>Screen</span>: Comedy Sketches</h2>
@@ -1035,44 +1959,229 @@ function Recommendations() {
           <h2>
             <span style={{ color: "#FF4136" }}>Music</span>: Albums
           </h2>
-          <ul>
+          <ol style={olStyle}>
             <li>
-              &#123; OK Computer OKNOTOK, Kid A, Amnesiac, Hail to the Thief, In
-              Rainbows, A Moon Shaped Pool &#125; &#124; Radiohead
-            </li>
-            <li>Grace &#124; Jeff Buckley</li>
-            <li>Hopes & Fears &#124; Keane</li>
-            <li>
-              &#123; Remain in Light, Speaking in Tongues &#125; &#124; Talking
-              Heads
-            </li>
-            <li>FutureSex/LoveSounds &#124; Justin Timberlake</li>
-            <li>Back to Black &#124; Amy Winehouse</li>
-            <li>IV &#124; Led Zeppelin</li>
-            <li>
-              &#123; Heligoland, Ritual Spirit &#125; &#124; Massive Attack
+              (2021) <b>Crawler</b>, Idles
             </li>
             <li>
-              &#123; The Wall, Wish You Were Here, The Dark Side of the Moon
-              &#125; &#124; Pink Floyd
+              (2019) <b>ANIMA</b>, Thom Yorke
+            </li>
+            {/* <li>(2019) <b>Wasteland, Baby!</b>, Hozier</li> */}
+            <li>
+              (2018) <b>Joy as an Act of Resistance</b>, Idles
             </li>
             <li>
-              &#123; Crawler, Joy as an Act of Resistance. &#125; &#124; IDLES
+              (2016) <b>Blackstar</b>, David Bowie
             </li>
-            <li>Rumours &#124; Fleetwood Mac</li>
-            <li>Holy Fire &#124; Foals</li>
-            <li>An Awesome Wave &#124; Alt-J</li>
-            <li>Caustic Love &#124; Paolo Nutini</li>
-            <li>I Put A Spell On You &#124; Nina Simone</li>
-            <li>&#123; The Eminem Show, Recovery &#125; &#124; Eminem</li>
-            <li>&#123; Hunky Dory, Blackstar &#125; &#124; David Bowie</li>
-            <li>por
-              &#123; Breakfast in America, Crime of the Century &#125; &#124;
-              Supertramp
+            <li>
+              (2015) <b>At Least for Now</b>, Benjamin Clementine
             </li>
-            <li>...</li>
+            <li>
+              (2015) <b>To Pimp a Butterfly</b>, Kendrick Lamar
+            </li>
+            <li>
+              (2014) <b>Caustic Love</b>, Paolo Nutini
+            </li>
+            {/* <li>(2014) <b>Hozier</b>, Hozier</li> */}
+            <li>
+              (2013) <b>AM</b>, Arctic Monkeys
+            </li>
+            <li>
+              (2013) <b>Holy Fire</b>, Foals
+            </li>
+            <li>
+              (2012) <b>An Awesome Wave</b>, Alt-J
+            </li>
+            <li>
+              (2010) <b>Heligoland</b>, Massive Attack
+            </li>
+            <li>
+              (2010) <b>My Beautiful Dark Twisted Fantasy</b>, Kanye West
+            </li>
+            {/* <li>(2010) <b>Recovery</b>, Eminem</li> */}
+            <li>
+              (2008) <b>The Seldom Seen Kid</b>, Elbow
+            </li>
+            <li>
+              (2007) <b>In Rainbows</b>, Radiohead
+            </li>
+            <li>
+              (2006) <b>Back to Black</b>, Amy Winehouse
+            </li>
+            <li>
+              (2006) <b>The Eraser</b>, Thom Yorke
+            </li>
+            <li>
+              (2006) <b>FutureSex/LoveSounds</b>, Justin Timberlake
+            </li>
+            <li>
+              (2006) <b>Whatever People Say I Am, That's What I'm Not</b>,
+              Arctic Monkeys
+            </li>
+            <li>
+              (2004) <b>Hopes and Fears</b>, Keane
+            </li>
+            <li>
+              (2004) <b>Madvillainy</b>, MF Doom and Madlib
+            </li>
+            {/* <li>(2003) <b>Hail to the Thief</b>, Radiohead</li> */}
+            <li>
+              (2002) <b>The Eminem Show</b>, Eminem
+            </li>
+            <li>
+              (2001) <b>Amnesiac</b>, Radiohead
+            </li>
+            <li>
+              (2001) <b>Drukqs</b>, Aphex Twin
+            </li>
+            <li>
+              (2000) <b>Hybrid Theory</b>, Linkin Park
+            </li>
+            <li>
+              (2000) <b>Kid A</b>, Radiohead
+            </li>
+            <li>
+              (1997) <b>OK Computer</b>, Radiohead
+            </li>
+            <li>
+              (1995) <b>The Bends</b>, Radiohead
+            </li>
+            <li>
+              (1995) <b>...I Care Because You Do</b>, Aphex Twin
+            </li>
+            <li>
+              (1995) <b>(What's the Story) Morning Glory?</b>, Oasis
+            </li>
+            <li>
+              (1994) <b>The Downward Spiral</b>, Nine Inch Nails
+            </li>
+            <li>
+              (1994) <b>Dummy</b>, Portishead
+            </li>
+            <li>
+              (1994) <b>Grace</b>, Jeff Buckley
+            </li>
+            <li>
+              (1994) <b>Illmatic</b>, Nas
+            </li>
+            <li>
+              (1994) <b>Ready to Die</b>, The Notorious B.I.G.
+            </li>
+            <li>
+              (1992) <b>Rage Against the Machine</b>, Rage Against the Machine
+            </li>
+            <li>
+              (1991) <b>Metallica</b>, Metallica
+            </li>
+            <li>
+              (1991) <b>Nevermind</b>, Nirvana
+            </li>
+            <li>
+              (1984) <b>Hatful of Hollow</b>, The Smiths
+            </li>
+            <li>
+              (1983) <b>Apollo: Atmospheres and Soundtracks</b>, Brian Eno
+            </li>
+            <li>
+              (1983) <b>Speaking in Tongues</b>, Talking Heads
+            </li>
+            <li>
+              (1980) <b>Back in Black</b>, AC/DC
+            </li>
+            <li>
+              (1980) <b>Remain in Light</b>, Talking Heads
+            </li>
+            <li>
+              (1979) <b>Breakfast in America</b>, Supertramp
+            </li>
+            <li>
+              (1979) <b>The Wall</b>, Pink Floyd
+            </li>
+            <li>
+              (1977) <b>Bat Out of Hell</b>, Meatloaf
+            </li>
+            <li>
+              (1977) <b>Rumours</b>, Fleetwood Mac
+            </li>
+            <li>
+              (1975) <b>Wish You Were Here</b>, Pink Floyd
+            </li>
+            <li>
+              (1974) <b>Crime of the Century</b>, Supertramp
+            </li>
+            <li>
+              (1973) <b>The Dark Side of the Moon</b>, Pink Floyd
+            </li>
+            <li>
+              (1971) <b>IV</b>, Led Zeppelin
+            </li>
+            <li>
+              (1971) <b>Blue</b>, Joni Mitchell
+            </li>
+            <li>
+              (1971) <b>Hunky Dory</b>, David Bowie
+            </li>
+            <li>
+              (1971) <b>What's Going On</b>, Marvin Gaye
+            </li>
+            <li>
+              (1968) <b>Astral Weeks</b>, Van Morrison
+            </li>
+            <li>
+              (1967) <b>Sgt. Pepper's Lonely Hearts Club Band</b>, The Beatles
+            </li>
+            <li>
+              (1966) <b>Pet Sounds</b>, The Beach Boys
+            </li>
+            <li>
+              (1965) <b>I Put A Spell On You</b>, Nina Simone
+            </li>
+            {/* Tom Waits */}
+            {/* Red Hot Chili Peppers? */}
+            {/* Highway 61 Revisited */}
+            {/* Shock Value, Timbaland? */}
+            {/* Untrue, Burial */}
+            {/* Injury Reserve? Death Grips? */}
+            {/* Unknown Pleasures, Joy Division? */}
+            {/* The Dock of the Bay, Otis Redding? */}
+            {/* Max Richter? Floating Points? Instrumental? Four Tet? */}
+            {/* White Pony, Deftones */}
+            {/* Sonny Stitt? MIA? The Smile? */}
+            {/* Beastie Boys? Beth Gibbons? */}
+            {/* I'm New Here, Gil Scott-Heron? */}
+            {/* Led Zeppelin? Eric Clapton? Young Fathers? */}
+            {/* Go Further in Lightness, Gang of Youths? */}
+            {/* Random Access Memories? */}
+            {/* Operation: Doomsday, MF Doom */}
+            {/* The Low End Theory, A Tribe Called Quest */}
+            {/* Tapestry, Carole King */}
+            {/* Overgrown, James Blake? */}
+            {/* Mm..Food, MF Doom */}
+            {/* After the Gold Rush, Neil Young */}
+            {/* Horses, Patti Smith */}
+            {/* Hotel California, The Eagles */}
+            {/* REM? UNKLE? */}
+            {/* Lauryn Hill, ‘The Miseducation of Lauryn Hill’ */}
+            {/* Disintegration, The Cure */}
+            {/* The Queen Is Dead, The Smiths */}
+            {/* Innervisions, Stevie Wonder */}
+            {/* The Blueprint, Jay Z */}
+            {/* Graceland, Paul Simon */}
+            {/* Michael Jackson */}
+            {/* Are You Experienced, The Jimi Hendrix Experience */}
+            {/* A Love Supreme, John Coltrane */}
+            {/* Bitches Brew, Miles Davis */}
+            {/* Kind of Blue, Miles Davis */}
+            {/* Paul's Boutique, Beastie Boys */}
+            {/* Aquemini, OutKast */}
+            {/* I Never Loved a Man the Way I Love You, Aretha Franklin */}
+            {/* Born Like This, MF Doom */}
+            {/* Homogenic, Björk */}
+            {/* The Joshua Tree, U2 */}
+            {/* Enter the Wu-Tang (36 Chambers), Wu-Tang Clan */}
+            {/* <li>Ritual Spirit, Massive Attack</li> */}
+            {/* <li>Goodbye Yellow Brick Road, Elton John</li> */}
             {/* <li><i>Tame Impala? Floating Points? Beatles? Mingus? Davis?</i></li>
-                        <li>Nas<li>
                         <li>Portishead<li>
                         <li>Doolittle &#124; Pixies</li>
                         <li>&#123; Complete and Unbelievable, The Dock of the Bay &#125; &#124; Otis Redding</li>
@@ -1081,14 +2190,14 @@ function Recommendations() {
                         <li>Kintsugi &#124; Death Cab for Cutie</li>
                         <li>Mingus Mingus Mingus Mingus Mingus &#124; Charles Mingus</li>
                         <li>&#123; ...I Care Because You Do, Drukqs &#125; &#124; Aphex Twin</li> */}
-          </ul>
+          </ol>
         </NeutralBox>
 
         <NeutralBox recCat={"mus"}>
           <h2>
             <span style={{ color: "#FF4136" }}>Music</span>: Artists
           </h2>
-          <ul>
+          <ul style={{marginLeft:"0.5rem"}}>
             <li>
               Pink Floyd, The Beatles, Led Zeppelin, Queen, Talking Heads, ...
             </li>
@@ -1110,7 +2219,7 @@ function Recommendations() {
             </li>
             <li>
               Wu Tang Clan, Eminem, Nas, MF Doom, Notorious BIG, Kanye West,
-              Kendrick Lamar, Aesop Rock, ...
+              Kendrick Lamar, Aesop Rock, Beastie Boys, ...
             </li>
             <li>Linkin Park, Audioslave, IDLES, Foals, Gang of Youths, ...</li>
             <li>
@@ -1119,93 +2228,105 @@ function Recommendations() {
             </li>
           </ul>
         </NeutralBox>
+        {/* Björk? */}
 
         {/* <h2><span style={{color:"#FF4136"}}>Music</span>: Songs</h2>
                 <ul>
-                    <li>TBD...</li>
+                    <li>All I Want, Joni Mitchell</li>
+                    <li>Both Sides Now, Joni Mithcell</li>
+                    <li>Lately, Stevie Wonder</li>
+                    <li>Armchairs, Andrew Bird</li>
                 </ul> */}
 
         <NeutralBox recCat={"pod"}>
           <h2>
             <span style={{ color: "#B10DC9" }}>Podcasts/Radio</span>
           </h2>
-          <ul>
+          <ul style={{ marginLeft: "0.5rem" }}>
             <li>
-              <b>Making Sense</b> &#124; Sam Harris &#124; <i>general</i>
+              <b>Making Sense</b> &#124; Sam Harris {/* general */}
             </li>
             <li>
-              <b>The Ezra Klein Show</b> &#124; Ezra Klein &#124; <i>general</i>
+              <b>Mindscape</b> &#124; Sean Carroll {/* science, philosophy */}
             </li>
             <li>
-              <b>In Our Time (BBC Radio 4)</b> &#124; Melvyn Bragg &#124;{" "}
-              <i>general</i>
+              <b>Conversations with Tyler</b> &#124; Tyler Cowen {/* general */}
             </li>
             <li>
-              <b>Conversations with Tyler</b> &#124; Tyler Cowen &#124;{" "}
-              <i>general</i>
+              <b>The 80,000 Hours Podcast</b> &#124; Rob Wiblin{" "}
+              {/* philosophy, technology, philanthropy */}
             </li>
             <li>
-              <b>After On</b> &#124; Rob Reid &#124; <i>technology</i>
+              <b>Dwarkesh Podcast</b> &#124; Dwarkesh Patel
             </li>
             <li>
-              <b>Mindscape</b> &#124; Sean Carroll &#124;{" "}
-              <i>science, philosophy</i>
+              <b>In Our Time</b> (BBC Radio 4) &#124; Melvyn Bragg{" "}
+              {/* general */}
             </li>
             <li>
-              <b>Intelligence Squared</b> &#124; <i>debates</i>
+              <b>The Inquiry</b> (BBC World Service) {/* current affairs */}
             </li>
             <li>
-              <b>The Inquiry (BBC World Service)</b> &#124;{" "}
-              <i>current affairs</i>
+              <b>The Daily</b> (New York Times) &#124; Barbaro & Tavernise
             </li>
             <li>
-              <b>80,000 Hours</b> &#124; Rob Wiblin &#124;{" "}
-              <i>philosophy, philanthropy, careers</i>
+              <b>The Ezra Klein Show</b> (New York Times) &#124; Ezra Klein{" "}
+              {/* general */}
             </li>
             <li>
-              <b>Philosophy Bites</b> &#124; Edmonds & Warburton &#124;{" "}
-              <i>philosophy</i>
+              <b>Brain Inspired</b> &#124; Paul Middlebrooks{" "}
+              {/* neuroscience, artificial intelligence */}
             </li>
             <li>
-              <b>The Partially Examined Life</b> &#124; Linsenmayer et al.
-              &#124; <i>philosophy, literature</i>
+              <b>After On</b> &#124; Rob Reid {/* technology */}
             </li>
             <li>
-              <b>Very Bad Wizards</b> &#124; Sommers & Pizarro &#124;{" "}
-              <i>philosophy, psychology, literature, film</i>
+              <b>The Partially Examined Life</b> &#124; Linsenmayer et al.{" "}
+              {/* philosophy, literature */}
             </li>
             <li>
-              <b>Cognitive Revolution</b> &#124; Cody Kommers &#124;{" "}
-              <i>neuroscience, psychology, academia</i>
+              <b>Very Bad Wizards</b> &#124; Sommers & Pizarro{" "}
+              {/* philosophy, psychology, literature, film */}
             </li>
             <li>
-              <b>Brain Inspired</b> &#124; Paul Middlebrooks &#124;{" "}
-              <i>neuroscience, artificial intelligence</i>
+              <b>Cinema of Meaning</b> &#124; Flight & van der Linden{" "}
+              {/* film */}
             </li>
             <li>
-              <b>Uncommon Knowledge</b> &#124; Peter Robinson &#124;{" "}
-              <i>politics, history, economics</i>
+              <b>Desert Island Discs</b> (BBC Radio 4) &#124; Lauren Laverne{" "}
+              {/* music */}
+            </li>
+            {/* <li>
+              <b>Intelligence Squared</b> debates
+            </li> */}
+            {/* <li>
+              <b>Philosophy Bites</b> &#124; Edmonds & Warburton philosophy
+            </li> */}
+            <li>
+              <b>Cognitive Revolution</b> &#124; Cody Kommers{" "}
+              {/* neuroscience, psychology, academia */}
             </li>
             <li>
-              <b>Desert Island Discs</b> &#124; Lauren Laverne &#124;{" "}
-              <i>music</i>
+              <b>Uncommon Knowledge</b> (Hoover Institution) &#124; Peter
+              Robinson {/* politics, history, economics */}
+            </li>
+            {/* <li>
+              <b>Training Beta</b> &#124; Neely Quinn rock climbing
+            </li> */}
+            <li>
+              <b>The Dissenter</b> &#124; Ricardo Lopes{" "}
+              {/* science, philosophy, society */}
             </li>
             <li>
-              <b>Training Beta</b> &#124; Neely Quinn &#124;{" "}
-              <i>rock climbing</i>
+              <b>The Rest Is Politics</b> &#124; Stewart & Campbell
             </li>
             <li>
-              <b>Cinema of Meaning</b> &#124; Flight & van der Linden &#124;{" "}
-              <i>film</i>
-            </li>
-            <li>
-              <b>The Dissenter</b> &#124; Ricardo Lopes &#124;{" "}
-              <i>science, philosophy, society</i>
+              <b>The Future of Life Podcast</b> &#124; Gus Docker
             </li>
           </ul>
         </NeutralBox>
 
-        <NeutralBox recCat={"edu"}>
+        {/* <NeutralBox recCat={"edu"}>
           <h2>
             <span style={{ color: "#FFD700" }}>Education</span>
           </h2>
@@ -1324,7 +2445,7 @@ function Recommendations() {
               <li>Practical Deep Learning for Coders &#124; fast.ai</li>
             </ul>
           </ul>
-        </NeutralBox>
+        </NeutralBox> */}
       </main>
 
       <Footer />

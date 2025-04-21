@@ -2,14 +2,72 @@ import Header from "../../../components/Header/Header";
 import Footer from "../../../components/Footer/Footer";
 import NeutralBox from "../../../components/NeutralBox/NeutralBox";
 
+import Chart from "chart.js/auto";
+import React from "react";
+
 function BlogScratchpad() {
+  class ChartJSPlot extends React.Component {
+    chart = null;
+
+    componentDidMount() {
+      const ctx = document.getElementById("chartjs-canvas");
+
+      if (this.chart) {
+        this.chart.destroy();
+      }
+
+      this.chart = new Chart(ctx, {
+        type: "line",
+        data: {
+          labels: Array.from({ length: 100 }, (_, i) => i / 10),
+          datasets: [
+            {
+              label: "Sine",
+              data: Array.from({ length: 100 }, (_, i) => Math.sin(i / 10)),
+              borderColor: "red",
+              fill: false,
+              pointRadius: 0,
+            },
+          ],
+        },
+        options: {
+          responsive: false,
+          maintainAspectRatio: false,
+          scales: {
+            x: { title: { display: true, text: "x" } },
+            y: { title: { display: true, text: "y" } },
+          },
+        },
+      });
+    }
+
+    componentWillUnmount() {
+      if (this.chart) {
+        this.chart.destroy();
+      }
+    }
+
+    render() {
+      return <canvas id="chartjs-canvas" width={300} height={200} />;
+    }
+  }
+
   return (
     <>
       <Header thisTitle={"Scratchpad"} returnDestination={"Blog"} />
 
       <main>
         <NeutralBox>
+          <h2>Testing Small Graphs</h2>
+          <ChartJSPlot></ChartJSPlot>
+        </NeutralBox>
+        <NeutralBox>
           <h2>Poems</h2>
+          <p>
+            The image of the idea of you, i cant see her hair, i cant see her
+            hands, i cant see her legs, i cant see her at all, the image of the
+            idea laugs, and sprints when i run
+          </p>
           <NeutralBox>
             <p>
               <b>Marrow</b>
@@ -21,17 +79,18 @@ function BlogScratchpad() {
             <p>Shall I —</p>
             <p>Redeem this acid marrow?</p>
           </NeutralBox>
-          <NeutralBox>
+          {/* <NeutralBox>
             <p>
               <b>Less Is More</b>
             </p>
             <p>Less is more. Don't you know?</p>
-            <p>Or are you the infovore?</p>
-            <p>Slobbering for more,</p>
-          </NeutralBox>
+            <p>Or are you the infovore,</p>
+            <p>Slobbering to grow?</p>
+            <p>INCOMPLETE</p>
+          </NeutralBox> */}
           <NeutralBox>
             <p>
-              <b>Marrow</b>
+              <b>S/Madness</b>
             </p>
             <p>My hollow slow–drips with sorrow.</p>
             {/* <p>Can I swallow this horror?</p> */}
@@ -42,11 +101,18 @@ function BlogScratchpad() {
             <p>Fill another rufous barrow?</p>
             <p>Shall I —</p>
             <p>Redeem this acid marrow?</p>
-            <p>Steep-down gulfs on all sides round,</p>
-            <p>Darkness visible through ether of cloud,</p>
-            <p>All told by an idiot, told by an idiot,</p>
-            <p>How now brown cow, how now brown cow?</p>
-            <p>No, no, remember: breathe. We're OK – we can survive another day.</p>
+            <br />
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;Steep-down gulfs on all sides round,</p>
+            <p>
+              &nbsp;&nbsp;&nbsp;&nbsp;Darkness visible through ether of cloud,
+            </p>
+            <p>
+              &nbsp;&nbsp;&nbsp;&nbsp;All told by an idiot, told by an idiot,
+            </p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;How now brown cow, how now brown cow?</p>
+            <br />
+            <p>No, no, remember: breathe. We're OK —</p>
+            <p>Why don't we just... survive another day?</p>
           </NeutralBox>
           <NeutralBox>
             <p>
@@ -58,10 +124,128 @@ function BlogScratchpad() {
             <p>Will it sing at all?</p>
           </NeutralBox>
           <NeutralBox>
+            <p>
+              <b>(1)</b>
+            </p>
+            <p>Yep, I like her —</p>
+            <p>Nobody else.</p>
+            <p>Well, I like others too,</p>
+            <p>But just 'cause it's "good for my health".</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(2)</b>
+            </p>
+            <p>Delicate hallucinations,</p>
+            <p>Of the back of her head,</p>
+            <p>All across Fulham.</p>
+            <p>She laughs, and she sprints when I run.</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(3)</b>
+            </p>
+            <p>They —there— don't charm like She does.</p>
+            <p>They —there— won't float like She does.</p>
+            <p>I —here— can't feel like He did.</p>
+            <p>But I'm here — more than He was.</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(4)</b>
+            </p>
+            <p>I will see a diamond ring.</p>
+            <p>They will share a kiss on the platform.</p>
+            <p>I will see young parents and younger children.</p>
+            <p>She will begin to move on.</p>
+            <br />
+            <p>Friends will talk of their loves.</p>
+            <p>I will walk the same streets.</p>
+            <p>Pigeons will recall me to doves.</p>
+            <p>I will cry myself to sleep.</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(5)</b>
+            </p>
+            <p>Akrasia,</p>
+            <p>Lazier and lazier,</p>
+            <p>Hazier and hazier,</p>
+            <p>A failure.</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(6)</b>
+            </p>
             <p>My mind is dappled</p>
             <p>With holes.</p>
             <p>A spirit used to be,</p>
             <p>In place of those holes in me.</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(7)</b>
+            </p>
+            <p>Hours, fugitive, like vapour.</p>
+            <p>Powers dreamt of, on paper.</p>
+            <p>A great mass imposing on a taper.</p>
+            {/* <p>How often "I'll do it later"?</p> */}
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(8)</b>
+            </p>
+            <p>Much wisdom</p>
+            <p>I’ve relearnt</p>
+            <p>For myself.</p>
+            <p>Am I wiser?</p>
+            <br />
+            <p>How many days</p>
+            <p>Must I wait</p>
+            <p>For what I've learnt</p>
+            <p>To finally take?</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(9)</b>
+            </p>
+            <p>Glass etched with each our names,</p>
+            <p>Glass shone through with candle flames,</p>
+            <p>Glass reflecting unselved smiles,</p>
+            <p>Glass vitrified of years and miles.</p>
+            <br />
+            <p>A beautiful image, a shattered frame —</p>
+            <p>Glass therefrom cuts again, again, again.</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(10)</b>
+            </p>
+            <p>I suck —</p>
+            <p>A glowing hedge,</p>
+            <p>To give an edge,</p>
+            <p>Or play one,</p>
+            <p>Or take one off.</p>
+            <br />
+            <p>Hedging is a partial death,</p>
+            <p>Playing, a sooner none.</p>
+            <p>My aim is neither —</p>
+            <p>A slow, rippling one.</p>
+            <br />
+            <p>Light, heat, suck.</p>
+          </NeutralBox>
+          <NeutralBox>
+            <p>
+              <b>(11)</b>
+            </p>
+            <p>I stare into her eyes</p>
+            <p>In empty space.</p>
+            <p>Out of empty space,</p>
+            <p>Those soft eyes stare back.</p>
+            <p>Should I mistake the sun on my face</p>
+            <p>For the love in her gaze?</p>
+            <p>Should I mistake the small joy in my days</p>
+            <p>For the possibility of grace?</p>
           </NeutralBox>
         </NeutralBox>
         <NeutralBox>
@@ -167,7 +351,16 @@ function BlogScratchpad() {
             <p>Petals on a wet, black bough.</p>
           </NeutralBox>
 
-          <NeutralBox></NeutralBox>
+          <NeutralBox>
+          <p>
+              <b>
+                <a href="https://www.poetryfoundation.org/poetrymagazine/browse?volume=64&issue=5&page=30">
+                  The Sick Nought
+                </a>
+              </b>
+              , <i>Randall Jarrell</i>
+            </p>
+          </NeutralBox>
         </NeutralBox>
 
         <NeutralBox>

@@ -5,15 +5,20 @@ import Footer from "../../../components/Footer/Footer";
 import "./About.scss";
 import blueBelt from "../../../assets/icons/blue-belt.svg";
 import carabiner from "../../../assets/icons/carabiner.png";
+import singingBowl from "../../../assets/icons/singing-bowl.png";
 
 function About() {
   const blueBeltStyle = {
     height: "2.5rem",
-    margin: "25rem 0 0 0"
+    margin: "17rem 0 0 0"
   }
   const carabinerStyle = {
     height: "2.5rem",
-    margin: "25rem 0 0 1rem"
+    margin: "17rem 0 0 1rem"
+  }
+  const singingBowlStyle = {
+    height: "4.5rem",
+    margin: "17rem 0 -1rem 1rem"
   }
 
   return (
@@ -23,7 +28,10 @@ function About() {
       <main className="about-main">
         <img src={aboutPhoto} class="about-main__photo" alt="joe" />
         <div className="about-main__bio">
-          <p>TBD...</p>
+          <br />
+          <p>"Today, suddenly, I reached an absurd but unerring conclusion. In a moment of enlightenment, I realized that I'm nobody, absolutely nobody."</p>
+          <br />
+          <p>— Fernando Pessoa, <i>The Book of Disquiet</i> (1982)</p>
           {/* <p>Hi, you've found my place on the web.</p>
           <br />
           <p>
@@ -75,8 +83,10 @@ function About() {
             jiu jitsu, literature of all sorts, comedy, film, and all the usual
             good things in life.
           </p> */}
-          <img style={blueBeltStyle} src={blueBelt} />
-          <img style={carabinerStyle} src={carabiner} />
+          <img style={blueBeltStyle} src={blueBelt} alt="blue belt"/>
+          <img style={carabinerStyle} src={carabiner} alt="carabiner"/>
+          <img style={singingBowlStyle} src={singingBowl} alt="singing bowl"/>
+          
         </div>
       </main>
 
